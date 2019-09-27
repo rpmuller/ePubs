@@ -7560,47 +7560,37 @@ holds that, at least so far as politics are concerned, the most
 important goods are power and property; he cannot, therefore, 
 acquiesce in a social system which is unjust in these respects. 
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n201)
+The Stoic-Christian view requires a conception of virtue very
+different from Aristotle's, since it must hold that virtue is as
+possible for the slave as for his master. Christian ethics disapproves
+of pride, which Aristotle thinks a virtue, and praises humility, which
+he thinks a vice. The intellectual virtues, which Plato and Aristotle
+value above all others, have to be thrust out of the list altogether,
+in order that the poor and humble may be able to be as virtuous as any
+one else. Pope Gregory the Great solemnly reproved a bishop for
+teaching grammar.
 
-The Stoic-Christian view requires a conception of virtue very 
-different from Aristotle's, since it must hold that virtue is as 
-possible for the slave as for his master. Christian ethics dis- 
-approves of pride, which Aristotle thinks a virtue, and praises 
-humility, which he thinks a vice. The intellectual virtues, which 
-Plato and Aristotle value above all others, have to be thrust out 
-of the list altogether, in order that the poor and humble may be 
-able to be as virtuous as any one else. Pope Gregory the Great 
-solemnly reproved a bishop for teaching grammar. 
-
-The Aristotelian view, that the highest virtue is for the few, is 
-logically connected with the subordination of ethics to politics, 
-if the aim is the good community rather than the good individual, 
-it i possible that the good community may be one in which there 
-is subordination. In an orchestra, the first violin is more important 
-than the oboe, though both arc necessary for the excellence of the 
-whole. It is impossible to organize an orchestra on the principle 
-
-199 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-of giving to each man what would be best lor him as an isolated 
-individual. The same sort of thing applies to the government of a 
-large modern State, however democratic. A modern democracy 
-unlike those of antiquity confers great power upon certain 
-chosen individuals, Presidents or Prime Ministers, and must expect 
-of them kinds of merit which are not expected of the ordinary 
-citizen. When people are not thinking in terms of religion or 
-political controversy, they are likely to hold that a good President 
-is more to be honoured than a good bricklayer. In a democracy 
-a President is not expected to be quite like Aristotle's magnani- 
-mous man, but still he is expected to be rather different from the 
-average citizen, and to have certain merits connected with his 
-station. These peculiar merits would perhaps not be considered 
-"ethical,* 1 but that is because we use this adjective in a narrower 
-sense than that in which it is used by Aristotle. 
+The Aristotelian view, that the highest virtue is for the few, is
+logically connected with the subordination of ethics to politics, if
+the aim is the good community rather than the good individual, it is
+possible that the good community may be one in which there is
+subordination. In an orchestra, the first violin is more important
+than the oboe, though both arc necessary for the excellence of the
+whole. It is impossible to organize an orchestra on the principle of
+giving to each man what would be best lor him as an isolated
+individual. The same sort of thing applies to the government of a
+large modern State, however democratic. A modern democracy unlike
+those of antiquity confers great power upon certain chosen
+individuals, Presidents or Prime Ministers, and must expect of them
+kinds of merit which are not expected of the ordinary citizen. When
+people are not thinking in terms of religion or political controversy,
+they are likely to hold that a good President is more to be honoured
+than a good bricklayer. In a democracy a President is not expected to
+be quite like Aristotle's magnanimous man, but still he is expected to
+be rather different from the average citizen, and to have certain
+merits connected with his station. These peculiar merits would perhaps
+not be considered "ethical," but that is because we use this adjective
+in a narrower sense than that in which it is used by Aristotle.
 
 As a result of Christian dogma, the distinction between moral 
 and other merits has become much sharper than it was in Greek 
@@ -7608,7 +7598,7 @@ times. It is a merit in a man to be a great poet or composer or
 painter, but not a moral merit; we do not consider him the more 
 virtuous for possessing such aptitudes, or the more likely to go 
 to heaven. Moral merit is concerned solely with acts of will, i.e. 
-with choosing rightly among possible courses of action. 1 I am not 
+with choosing rightly among possible courses of action.[^71] I am not 
 to blame for not composing an opera, because I don't know how 
 to do it. The orthodox view is that, wherever two courses of action 
 are possible, conscience tells me which is right, and to choose the 
@@ -7618,133 +7608,107 @@ man to be morally better than an uneducated man, or a clever
 man than a stupid man. In this way, a number of merits of great 
 social importance are shut out from the realm of ethics. The 
 adjective "unethical," in modern usage, has a much narrower 
-range than the adjective "undesirable. 11 It is undesirable to be 
+range than the adjective "undesirable." It is undesirable to be 
 feeble-minded, but not unethical. 
+
+[^71]: It is true that Aristotle also says this (1105), but as he means it the consequences are not so far-reaching as in the Christian interpretation. 
 
 Many modern philosophers, however, have not accepted this 
 view of ethics. They have thought that one should first define the 
 good, and then say that our actions ought to be such as tend to 
 realize the good. This point of view is more like that of Aristotle, 
 who holds that happiness is the good. The highest happiness, it 
-
-1 It i* true that Aristotle also say* this (i 105'), but as he means it the 
-consequences are not so far-reaching as in the Christian interpretation. 
-
-200 
-
-
-
-ARISTOTLE'S ETHICS 
-
 is true, is only open to the philosopher, but to Aristotle that is no 
 objection to the theory. 
 
-Ethical theories may be divided into two classes, according as 
-they regard virtue as an end or a means. Aristotle, on the whole, 
-takes the view that virtues are means to an end, namely happiness. 
-"The end, then, being what we wish for, the means what we 
-deliberate about and choose, actions concerning means must be 
-according to choice and voluntary. Now the exercise of the virtues 
-is concerned with means" (iii3 6 ). But there is another sense of 
-virtue in which it is included in the ends of action: "Human good 
-is activity of soul in accordance with virtue in a complete life" 
-(1098*). I think he would say that the intellectual virtues are ends, 
-but the practical virtues are only means. Christian moralists hold 
-that, while the consequences of virtuous actions are in general 
-good, they are not as good as the virtuous actions themselves, 
-which are to be valued on their own account, and not on account 
-of their effects. On the other hand, those who consider pleasure 
-the good regard virtues solely as means. Any other definition of 
-the good, except the definition as virtue, will have the same conse- 
-quence, that virtues are means to goods other than themselves. 
-On this question, Aristotle, as already said, agrees mainly, though 
-not wholly, with those who think the first business of ethics is to 
-define the good, and that virtue is to be defined as action tending 
-to produce the good. 
+Ethical theories may be divided into two classes, according as they
+regard virtue as an end or a means. Aristotle, on the whole, takes the
+view that virtues are means to an end, namely happiness. "The end,
+then, being what we wish for, the means what we deliberate about and
+choose, actions concerning means must be according to choice and
+voluntary. Now the exercise of the virtues is concerned with means"
+(1113). But there is another sense of virtue in which it is included in
+the ends of action: "Human good is activity of soul in accordance with
+virtue in a complete life" (1098). I think he would say that the
+intellectual virtues are ends, but the practical virtues are only
+means. Christian moralists hold that, while the consequences of
+virtuous actions are in general good, they are not as good as the
+virtuous actions themselves, which are to be valued on their own
+account, and not on account of their effects. On the other hand, those
+who consider pleasure the good regard virtues solely as means. Any
+other definition of the good, except the definition as virtue, will
+have the same consequence, that virtues are means to goods other than
+themselves. On this question, Aristotle, as already said, agrees
+mainly, though not wholly, with those who think the first business of
+ethics is to define the good, and that virtue is to be defined as
+action tending to produce the good.
 
-The relation of ethics to politics raises another ethical question 
-of considerable importance. Granted that the good at which right 
-action should aim is the good of the whole community, or, ulti- 
-mately, of the whole human race, is this social good a sum of 
-goods enjoyed by individuals, or is it something belonging 
-essentially to the whole, not to the parts? We may illustrate the 
-problem by the analogy of the human body. Pleasures are largely 
-associated with different parts of the body, but we consider them 
-as belonging to a person as a whole; we may enjoy a pleasant 
-smell, but we know that the nose alone could not enjoy it. Some 
-contend that, in a closely organized community, there are, analo- 
-gously, excellences belonging to the whole, but not to any part. 
-If they are metaphysicians, they may hold, like Hegel, that what- 
-ever quality is good is an attribute of the universe as a whole; 
-but they will generally add that it is less mistaken to attribute good 
-to a State thap to an individual. logically, the view may be put 
+The relation of ethics to politics raises another ethical question of
+considerable importance. Granted that the good at which right action
+should aim is the good of the whole community, or, ultimately, of the
+whole human race, is this social good a sum of goods enjoyed by
+individuals, or is it something belonging essentially to the whole,
+not to the parts? We may illustrate the problem by the analogy of the
+human body. Pleasures are largely associated with different parts of
+the body, but we consider them as belonging to a person as a whole; we
+may enjoy a pleasant smell, but we know that the nose alone could not
+enjoy it. Some contend that, in a closely organized community, there
+are, analogously, excellences belonging to the whole, but not to any
+part. If they are metaphysicians, they may hold, like Hegel, that
+whatever quality is good is an attribute of the universe as a whole;
+but they will generally add that it is less mistaken to attribute good
+to a State thap to an individual. Logically, the view may be put as
+follows. We can attribute to a State various predicates that cannot be
+attributed to its separate members that it is populous, extensive,
+powerful, etc. The view we are considering puts ethical predicates in
+this class, and says that they only derivatively belong to
+individuals. A man may belong to a populous State, or to a good State;
+but he, they say, is no more good than he is populous. This view,
+which has been widely held by German philosophers, is not Aristotle's,
+except possibly, in some degree, in his conception of justice.
 
-201 
+A considerable part of the _Ethics_ is occupied with the discussion of
+friendship, including all relations that involve affection. Perfect
+friendship is only possible between the good, and it is impossible to
+be friends with many people. One should not be friends with a person
+of higher station than one's own, unless he is also of higher virtue,
+which will justify the respect shown to him. We have seen that, in
+unequal relations, such as those of man and wife or father and son,
+the superior should be the more loved. It is impossible to be friends
+with God, because He cannot love us. Aristotle discusses whether a man
+can be a friend to himself, and decides that this is only possible if
+he is a good man; wicked men, he asserts, often hate themselves. The
+good man should love himself, but nobly (1169). Friends are a comfort
+in misfortune, but one should not make them unhappy by seeking their
+sympathy, as is done by women and womanish men (1171). It is not only
+in misfortune that friends are desirable, for the happy man needs
+friends with whom to share his happiness. "No one would choose the
+whole world on condition of being alone, since man is a political
+creature and one whose nature is to live with others" (1169). All that
+is said about friendship is sensible, but there is not a word that
+rises above common sense.
 
+Aristotle again shows his good sense in the discussion of pleasure,
+which Plato had regarded somewhat ascetically. Pleasure, as Aristotle
+uses the word, is distinct from happiness, though there can be no
+happiness without pleasure. There are, he says, three views of
+pleasure: (1) that it is never good; (2) that some pleasure is good,
+but most is bad; (3) that pleasure is good, but not the best. He
+rejects the first of these on the ground that pain is certainly bad,
+and therefore pleasure must be good. He says, very justly, that it is
+nonsense to say a man can be happy on the rack: some degree of
+external good fortune is necessary for happiness. He also disposes of
+the view that all pleasures are bodily; all things have something
+divine, and therefore some capacity for higher pleasures. Good men
+have pleasure unless they are unfortunate, and God always enjoys a
+single and simple pleasure (1152-1154).
 
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-as follows. We can attribute to a State various predicates that 
-cannot be attributed to its separate members that it is populous, 
-extensive, powerful, etc. The view we are considering puts ethical 
-predicates in this class, and says that they only derivatively belong 
-to individuals. A man may belong to a populous State, or to a 
-good State; but he, they say, is no more good than he is populous. 
-This view, which has been widely held by German philosophers, 
-is not Aristotle's, except possibly, in some degree, in his conception 
-of justice. 
-
-A considerable part of the Ethics is occupied with the discussion 
-of friendship, including all relations that involve affection. Perfect 
-friendship is only possible between the good, and it is impossible 
-to be friends with many people. One should not be friends with a 
-person of higher station than one's own, unless he is also of higher 
-virtue, which will justify the respect shown to him. \Ve have seen 
-that, in unequal relations, such as those of man and wife or father 
-and son, the superior should be the more loved. It is impossible 
-to be friends with God, because He cannot love us. Aristotle 
-discusses whether a man can be a friend to himself, and decides 
-that this is only possible if he is a good man; wicked men, he 
-asserts, often hate themselves. The good man should love himself, 
-but nobly (1169*). Friends are a comfort in misfortune, but one 
-should not make them unhappy by seeking their sympathy, as is 
-done by women and womanish men (1171*). It is not only in 
-misfortune that friends are desirable, for the happy man needs 
-friends with whom to share his happiness. "No one would choose 
-the whole world on condition of being alone, since man is a 
-political creature and one whose nature is to live with others" 
-(1169*). All that is said about friendship is sensible, but there is 
-not a word that rises above common sense. 
-
-Aristotle again shows his good sense in the discussion of pleasure, 
-which Plato had regarded somewhat ascetically. Pleasure, as 
-Aristotle uses the word, is distinct from happiness, though there 
-can be no happiness without pleasure. There are, he says, three 
-views of pleasure: (i) that it is never good; (2) that some pleasure- 
-is good, but most is bad; (3) that pleasure is good, but not the 
-best. He rejects the first of these on the ground that pain is cer- 
-tainly bad, and therefore pleasure must be good. He says, very 
-justly, that it is nonsense to say a man can be happy on the rack: 
-some degree of external good fortune is necessary for happiness. 
-
-202 
-
-
-
-ARISTOTLE'S ETHICS 
-
-tie also disposes of the view that all pleasures are bodily; all things 
-have something divine, and therefore some capacity for higher 
-pleasures. Good men have pleasure unless they are unfortunate, 
-and God always enjoys a single and simple pleasure (1152-1154). 
-
-There is another discussion of pleasure, in a later pan of the 
+There is another discussion of pleasure, in a later part of the 
 book, which is not wholly consistent with the above. Here it is 
 argued that there are bad pleasures, which, however, are not 
-pleasures to pood people (1173*); that perhaps pleasures differ in 
+pleasures to poor people (1173); that perhaps pleasures differ in 
 kind (ibid.); and that pleasures are good or bad according as they 
-are connected with good or bad activities (1175*). There are things 
+are connected with good or bad activities (1175). There are things 
 that are valued more than pleasure; no one would be content to 
 go through life with a child's intellect, even if it were pleasant to 
 do so. Each animal has its proper pleasure, and the proper pleasure 
@@ -7752,42 +7716,31 @@ of man is connected with reason.
 
 This leads on to the only doctrine in the book which is not mere 
 common sense. Happiness lies in virtuous activity, and perfect 
-happiness lies in the best activity, which is contemplative. Con- 
-templation is preferable to war or politics or any other practical 
-career, because it allows leisure, and leisure is essential to happi- 
-ness. Practical virtue brings only a secondary kind of happiness; 
+happiness lies in the best activity, which is contemplative. Contemplation is preferable to war or politics or any other practical 
+career, because it allows leisure, and leisure is essential to happiness. Practical virtue brings only a secondary kind of happiness; 
 the supreme happiness is in the exercise of reason, for reason, 
-more than anything else, is man. Man cannot be wholly contem- 
-plative, but in so far as he is so he shares in the divine life. "The 
+more than anything else, is man. Man cannot be wholly contemplative, but in so far as he is so he shares in the divine life. "The 
 activity of God, which surpasses all others in blessedness, must 
 be contemplative." Of all human beings, the philosopher is the 
 most godlike in his activity, and therefore the happiest and best: 
 
-I Ic who exercises his reason and cultivates it seems to be both 
-in the be*t state of mind and most dear to the gods. For if the gods 
-have any care for human affairs, as they are thought to have, it 
-would be reasonable both that they should delight in that which 
-was best and most akin to them (i.e. reason) and that they should 
-reward those who love and honour this most, as caring for the 
-things that are dear to them and acting both rightly and nobly. 
-And that all these attributes belong most of all to the philosopher 
-is manifest. He, therefore, is the dearest to the gods. And he who 
-is that will presumably be also the happiest; so that in this way 
-too the philosopher will more than any other be happy (1179*). 
+> He who exercises his reason and cultivates it seems to be both in
+> the best state of mind and most dear to the gods. For if the gods
+> have any care for human affairs, as they are thought to have, it
+> would be reasonable both that they should delight in that which was
+> best and most akin to them (i.e. reason) and that they should reward
+> those who love and honour this most, as caring for the things that
+> are dear to them and acting both rightly and nobly. And that all
+> these attributes belong most of all to the philosopher is manifest.
+> He, therefore, is the dearest to the gods. And he who is that will
+> presumably be also the happiest; so that in this way too the
+> philosopher will more than any other be happy (1179).
 
-This passage is virtually the peroration of the Ethics-, the few 
-
+This passage is virtually the peroration of the _Ethics_, the few 
 paragraphs that follow are concerned with the transition to politics. 
 
 Let us now try to decide what we are to think of the merits and 
-
-203 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-demerits of the Ethics. Unlike many other subjects treated by 
+demerits of the _Ethics_. Unlike many other subjects treated by 
 Greek philosophers, ethics has not made any definite advances, 
 in the sense of ascertained discoveries; nothing in ethics is known 
 in a scientific sense. There is therefore no reason why an ancient 
@@ -7796,10 +7749,10 @@ When Aristotle talks about astronomy, we can say definitely that
 he is wrong; but when he talks about ethics we cannot say, in 
 the same sense, either that he is wrong or that he is right. Broadly 
 speaking, there are three questions that we can ask about the 
-ethics of Aristotle, or of any other philosopher: (i) Is it internally 
+ethics of Aristotle, or of any other philosopher: (1) Is it internally 
 self-consistent? (2) Is it consistent with the remainder of the 
 author's views? (3) Does it give answers to ethical problems that 
-are consonant to our own ethical feelings? If the answer to cither 
+are consonant to our own ethical feelings? If the answer to either 
 the first or second question is in the negative, the philosopher in 
 question has been guilty of some intellectual error. But if the 
 answer to the third question is in the negative, we have no right 
@@ -7807,200 +7760,168 @@ to say that he is mistaken; we have only the right to say that we
 do not like him. 
 
 Let us examine these three questions in turn, as regards the 
-ethical theory set forth in the Nicomachean Ethics. 
+ethical theory set forth in the _Nicomachean Ethics_. 
 
-(1) On the whole, the book is self-consistent, except in a few 
-not very important respects. The doctrine that the good is happi- 
-ness, and that happiness consists in successful activity, is well 
-worked out. The doctrine that every virtue is a mean between 
-two extremes, though very ingeniously developed, is less successful, 
-since it does not apply to intellectual contemplation, which, we 
-are told, is the best of all activities. It can, however, be maintained 
-that the doctrine of the mean is only intended to apply to the 
-practical virtues, not to, those of the intellect. Perhaps, to take 
-another point, the position of the legislator is somewhat ambiguous. 
-He is to cause children and young people to acquire the habit of 
-performing good actions, which mil, in the end, lead them to find 
-pleasure in virtue, and to act virtuously without the need of legal 
-compulsion. It is obvious that the legislator might equally well 
-cause the young to acquire bad habits; if this is to be avoided, he 
-must have all the wisdom of a Platonic guardian; and if it is not 
-avoided, the argument that a virtuous life is pleasant will fail. 
-This problem, however, belongs perhaps more to politics than 
-to ethics. 
+(1) On the whole, the book is self-consistent, except in a few not
+very important respects. The doctrine that the good is happiness, and
+that happiness consists in successful activity, is well worked out.
+The doctrine that every virtue is a mean between two extremes, though
+very ingeniously developed, is less successful, since it does not
+apply to intellectual contemplation, which, we are told, is the best
+of all activities. It can, however, be maintained that the doctrine of
+the mean is only intended to apply to the practical virtues, not to,
+those of the intellect. Perhaps, to take another point, the position
+of the legislator is somewhat ambiguous. He is to cause children and
+young people to acquire the habit of performing good actions, which
+will, in the end, lead them to find pleasure in virtue, and to act
+virtuously without the need of legal compulsion. It is obvious that
+the legislator might equally well cause the young to acquire bad
+habits; if this is to be avoided, he must have all the wisdom of a
+Platonic guardian; and if it is not avoided, the argument that a
+virtuous life is pleasant will fail. This problem, however, belongs
+perhaps more to politics than to ethics.
 
-(2) Aristotle's ethics is, at all points, consistent with his meta- 
+(2) Aristotle's ethics is, at all points, consistent with his
+metaphysics. Indeed, his metaphysical theories are themselves the
+expression of an ethical optimism. He believes in the scientific
+importance of final causes, and this implies the belief that purpose
+governs the course of development in the universe. He thinks that
+changes are, in the main, such as embody an increase of organization
+or "form," and at bottom virtuous actions are those that favour this
+tendency. It is true that a great deal of his practical ethics is not
+particularly philosophical, but merely the result of observation of
+human affairs; but this part of his doctrine, though it may be
+independent of his metaphysics, is not inconsistent with it.
 
-204 
+(3) When we come to compare Aristotle's ethical tastes with our own,
+we find, in the first place, as already noted, an acceptance of
+inequality which is repugnant to much modern sentiment. Not only is
+there no objection to slavery, or to the superiority of husbands and
+fathers over wives and children, but it is held that what is best is
+essentially only for the few magnanimous men and philosophers. Most
+men, it would seem to follow, are mainly means for the production of a
+few rulers and sages. Kant maintained that every human being is an end
+in himself, and this may be taken as an expression of the view
+introduced by Christi- anity. There is, however, a logical difficulty
+in Kant's view, since it gives no means of reaching a decision when
+two men's interests clash. If each is an end in himself, how are we to
+arrive at a principle for determining which shall give way? Such a
+principle must have to do with the community rather than with the
+individual. In the broadest sense of the word, it will have to be a
+principle of "justice." Bentham and the utilitarians interpret
+"justice" as "equality": when two men's interests clash, the right
+course is that which produces the greatest total of happiness,
+regardless of which of the two enjoys it, or how it is shared among
+them. If more is given to the better man than to the worse, that is
+because, in the long run, the general happiness is increased by
+rewarding virtue and punishing vice, not because of an ultimate
+ethical doctrine that the good deserve more than the bad. "Justice,"
+in this view, consists in considering only the amount of happiness
+involved, without favour to one individual or class as against
+another. Greek philosophers, including Plato and Aristotle, had a
+different conception of justice, and it is one which is still widely
+prevalent. They thought originally on grounds derived from religion
+that each thing or person had its or his proper sphere, to overstep
+which is "unjust." Some men, in virtue of their character and
+aptitudes, have a wider sphere than others, and there is no injustice
+if they enjoy a greater share of happiness. This view is taken for
+granted in Aristotle, but its basis in primitive religion, which is
+evident in the earliest philosophers, is no longer apparent in his
+writings.
 
+There is in Aristotle an almost complete absence of what may be called
+benevolence or philanthropy. The sufferings of mankind, in so far as
+he is aware of them do not move him emotionally; he holds them,
+intellectually, to be an evil, but there is no evidence that they
+cause him unhappiness except when the sufferers happen to be his
+friends.
 
-
-ARISTOTLE'S ETHICS 
-
-physics. Indeed, his metaphysical theories are themselves the 
-expression of an ethical optimism. He believes in the scientific 
-importance of final causes, and this implies the belief that purpose 
-governs the course of development in the universe. He thinks 
-that changes are, in the main, such as embody an increase of 
-organization or "form," and at bottom virtuous actions are those 
-that favour this tendency. It is true that a great deal of his practical 
-ethics is not particularly philosophical, but merely the result of 
-observation of human affairs; but this part of his doctrine, though 
-it may be independent of his metaphysics, is not inconsistent 
-with it. 
-
-(3) When we come to compare Aristotle's ethical tastes with 
-our own, we find, in the first place, as already noted, an acceptance 
-of inequality which is repugnant to much modern sentiment. 
-Not only is there no objection to slavery, or to the superiority 
-of husbands and fathers over wives and children, but it is held 
-that what is best is essentially only for the few magnanimous 
-men and philosophers. Most men, it would seem to follow, are 
-mainly means for the production of a few rulers and sages. Kant 
-maintained that every human being is an end in himself, and this 
-may be taken as an expression of the view introduced by Christi- 
-anity. There is, however, a logical difficulty in Kant's view, since 
-it gives no means of reaching a decision when two men's interests 
-clash. If each is an end in himself, how are we to arrive at a prin- 
-ciple for determining which shall give way? Such a principle 
-must have to do with the community rather than with the indi- 
-vidual. In the broadest sense of the word, it will have to be a 
-principle of "justice." Benthum and the utilitarians interpret 
-"justice" as "equality": when two men's interests clash, the right 
-course is that which produces the greatest total of happiness, 
-regardless of which of the two enjoys it, or how it is shared among 
-them. If more is given to the better man than to the worse, that 
-is because, in the long run, the general happiness is increased by 
-rewarding virtue and punishing vice, not because of an ultimate 
-ethical doctrine that the good deserve more than the bad. "Justice," 
-in this view, consists in considering only the amount of happiness 
-involved, without favour to one individual or class as against 
-another. Greek philosophers, including Plato and Aristotle, had 
-a different conception of justice, and it is one which is still widely 
-prevalent. They thought originally on grounds derived from 
-
-205 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-religion that each thing or person had its or his proper sphere, 
-to overstep which is "unjust." Some men, in virtue of their 
-character and aptitudes, have a wider sphere than others, and 
-there is no injustice if they enjoy a greater share of happiness. 
-This view is taken for granted in Aristotle, but its basis in primitive 
-religion, which is evident in the earliest philosophers, is no longer 
-apparent in his writings. 
-
-There is in Aristotle an almost complete absence of what may 
-be called benevolence or philanthropy. The sufferings of mankind, 
-in so far as he is aware of them do not move him emotionally; 
-he holds them, intellectually, to be an evil, but there is no evidence 
-that they cause him unhappiness except when the sufferers happen 
-to be his friends. 
-
-More generally, there is an emotional poverty in the Ethics, 
-which is not found in the earlier philosophers. There is something 
-unduly smug and comfortable about Aristotle's speculations on 
-human affairs; everything that makes men feel a passionate interest 
-in each other seems to be forgotten. Even his account of friend- 
-ship is tepid. He shows no sign of having had any of those experi- 
-ences which make it difficult to preserve sanity; all the more 
-profound aspects of the moral life are apparently unknown to him. 
-He leaves out, one may say, the whole sphere of human experi- 
-ence with which religion is concerned. What he ha,s to say is 
-what will be useful to comfortable men of weak passions; but he 
-has nothing to say to those who are possessed by a god or a devil, 
-or whom outward misfortune drives to despair. For these reasons, 
-in my judgment, his Ethics, in spite of its fame, is lacking in 
-intrinsic importance. 
-
-
-
-206 
+More generally, there is an emotional poverty in the _Ethics_, which is
+not found in the earlier philosophers. There is something unduly smug
+and comfortable about Aristotle's speculations on human affairs;
+everything that makes men feel a passionate interest in each other
+seems to be forgotten. Even his account of friend- ship is tepid. He
+shows no sign of having had any of those experiences which make it
+difficult to preserve sanity; all the more profound aspects of the
+moral life are apparently unknown to him. He leaves out, one may say,
+the whole sphere of human experience with which religion is concerned.
+What he has to say is what will be useful to comfortable men of weak
+passions; but he has nothing to say to those who are possessed by a
+god or a devil, or whom outward misfortune drives to despair. For
+these reasons, in my judgment, his _Ethics_, in spite of its fame, is
+lacking in intrinsic importance.
 
 
 
 ## Chapter XXI ARISTOTLE'S POLITICS 
 
-ARISTOTLE'S Politics is both interesting and important 
-interesting, as showing the common prejudices of educated 
-Greeks in his time, and important as a source of many prin- 
-ciples which remained influential until the end of the Middle 
-Ages. I do not think there is much in it that could be of any practical 
-use to a statesman of the present day, but there is a great deal 
-that throws light on the conflicts of parties in different parts of 
-the Hellenic world. There is not very much awareness of methods 
-of government in non-Hellenic States. There are, it is true, 
-allusions to Egypt, Babylon, Persia, and Carthage, but except in 
-the case of Carthage they are somewhat perfunctory. There is 
-no mention of Alexander, and not even the faintest awareness of 
-the complete transformation that he was effecting in the world. 
-The whole discussion is concerned with City States, and there is 
-no prevision of their obsolescence. Greece, owing to its division 
-into independent cities, was a laboratory of political experiment; 
-but nothing to which these experiments were relevant existed 
-from Aristotle's time until the rise of the Italian cities in the Middle 
-Ages. In many ways, the experience to which Aristotle appeals is 
-more relevant to the comparatively modern world than to any 
-that existed for fifteen hundred years after the book was written. 
-There are many pleasant incidental remarks, some of which 
-may be noted before we embark upon political theory. We are 
-told that Euripides, when he was staying at the court of Archelaus, 
-King of Macedon, was accused of halitosis by a certain Decam- 
-nichus. To soothe his fury, the king gave him permission to 
-scourge Decarnnichus, which he did. Decamnichus, after waiting 
-many years, joined in a successful plot to kill the king; but by 
-this time Euripides was dead. We are told that children should 
-be conceived in winter, when the wind is in the north; that there 
-must be a careful avoidance of indecency, because "shameful 
-words lead to shameful acts," and that obscenity is never to be 
-tolerated except in temples, where the law permits even ribaldry. 
-People should not marry too young, because, if they do, the 
-children will be weak and female, the wives will become wanton, 
+Aristotle's _Politics_ is both interesting and
+important---interesting, as showing the common prejudices of educated
+Greeks in his time, and important as a source of many principles which
+remained influential until the end of the Middle Ages. I do not think
+there is much in it that could be of any practical use to a statesman
+of the present day, but there is a great deal that throws light on the
+conflicts of parties in different parts of the Hellenic world. There
+is not very much awareness of methods of government in non-Hellenic
+States. There are, it is true, allusions to Egypt, Babylon, Persia,
+and Carthage, but except in the case of Carthage they are somewhat
+perfunctory. There is no mention of Alexander, and not even the
+faintest awareness of the complete transformation that he was
+effecting in the world. The whole discussion is concerned with City
+States, and there is no prevision of their obsolescence. Greece, owing
+to its division into independent cities, was a laboratory of political
+experiment; but nothing to which these experiments were relevant
+existed from Aristotle's time until the rise of the Italian cities in
+the Middle Ages. In many ways, the experience to which Aristotle
+appeals is more relevant to the comparatively modern world than to any
+that existed for fifteen hundred years after the book was written.
 
-307 
+There are many pleasant incidental remarks, some of which may be noted
+before we embark upon political theory. We are told that Euripides,
+when he was staying at the court of Archelaus, King of Macedon, was
+accused of halitosis by a certain Decamnichus. To soothe his fury, the
+king gave him permission to scourge Decamnichus, which he did.
+Decamnichus, after waiting many years, joined in a successful plot to
+kill the king; but by this time Euripides was dead. We are told that
+children should be conceived in winter, when the wind is in the north;
+that there must be a careful avoidance of indecency, because "shameful
+words lead to shameful acts," and that obscenity is never to be
+tolerated except in temples, where the law permits even ribaldry.
+People should not marry too young, because, if they do, the children
+will be weak and female, the wives will become wanton, and the
+husbands stunted in their growth. The right age for marriage is
+thirty-seven in men, eighteen in women.
 
+We learn how Thales, being taunted with his poverty, bought up all the
+olive-presses on the installment plan, and was then able to charge
+monopoly rates for their use. This he did to show that philosophers
+can make money, and, if they remain poor, it is because they have
+something more important than wealth to think about. All this,
+however, is by the way; it is time to come to more serious matters.
 
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-and the husbands stunted in their growth. The right age for 
-marriage is thirty-seven in men, eighteen in women. 
-
-We learn how Thales, being taunted with his poverty, bought up 
-all the olive-presses on the instalment plan, and was then able to 
-charge monopoly rates for their use. This he did to show that 
-philosophers can make money, and, if they remain poor, it is 
-because they have something more important than wealth to 
-think about. All this, however, is by the way; it is time to come to 
-more serious matters. 
-
-The book begins by pointing out the importance of the State; 
-it is the highest kind of community, and aims at the highest good. 
-In order of time, the family comes first; it is built on the two 
-fundamental relations of man and woman, master and slave, both 
-of which are natural. Several families combined make a village; 
-several villages, a State, provided the combination is nearly large 
-enough to be self-sufficing. The State, though later in time than 
-the family, is prior to it, and even to the individual, by nature; 
-for "what each thing is when fully developed we call its nature/' 
-and human society, fully developed, is a State, and the whole 
-is prior to the part. The conception involved here is that of 
-organism: a hand, when the body is destroyed, is, we are told, no 
-longer a hand. The implication is that a hand is to be defined by 
-its purpose that of grasping which it can only perform when 
-joined to a living body. In like manner an individual cannot fulfil 
-his purpose unless he is part of a State. He who founded the 
-State, Aristotle says, was the greatest of benefactors; for without 
-law man is the worst of animals, and law depends for its existence 
-on the State. The State is not a mere society for exchange and the 
-prevention of crime: "The end of the State is the good life. 
-. . . And the State is the union of families and villages in a 
-perfect and self-sufficing life, by which we mean a happy and 
-honourable life" (1280*). "A political society exists for the sake 
-of noble actions, not of mere companionship" (1281). 
+The book begins by pointing out the importance of the State; it is the
+highest kind of community, and aims at the highest good. In order of
+time, the family comes first; it is built on the two fundamental
+relations of man and woman, master and slave, both of which are
+natural. Several families combined make a village; several villages, a
+State, provided the combination is nearly large enough to be
+self-sufficing. The State, though later in time than the family, is
+prior to it, and even to the individual, by nature; for "what each
+thing is when fully developed we call its nature" and human society,
+fully developed, is a State, and the whole is prior to the part. The
+conception involved here is that of organism: a hand, when the body is
+destroyed, is, we are told, no longer a hand. The implication is that
+a hand is to be defined by its purpose that of grasping which it can
+only perform when joined to a living body. In like manner an
+individual cannot fulfil his purpose unless he is part of a State. He
+who founded the State, Aristotle says, was the greatest of
+benefactors; for without law man is the worst of animals, and law
+depends for its existence on the State. The State is not a mere
+society for exchange and the prevention of crime: "The end of the
+State is the good life.... And the State is the union of families and
+villages in a perfect and self-sufficing life, by which we mean a
+happy and honourable life" (1280). "A political society exists for the
+sake of noble actions, not of mere companionship" (1281).
 
 A State being composed of households, each of which consists 
 of one family, the discussion of politics should begin with the 
@@ -8009,29 +7930,22 @@ for in antiquity the slaves were always reckoned as pan of the
 family. Slavery is expedient and right, but the slave should be 
 naturally inferior to the master. From birth, some are marked out 
 for subjection, others for rule; the man who is by nature not his 
-
-208 
-
-
-
-ARISTOTLE'S POLITICS 
-
 own but another man's is by nature a slave. Slaves should not be 
-Greeks, but of an inferior race with less spirit (1255* and 1330*). 
+Greeks, but of an inferior race with less spirit (1255 and 1330). 
 Tame animals are better off when ruled by man, and so are those 
 who are naturally inferior when ruled by their superiors. It may 
 be questioned whether the practice of making slaves out of 
 prisoners of war is justified; power, such as leads to victory in 
 war, seems to imply superior virtue, but this is not always the 
 case. War, however, is just when waged against men who, though 
-intended by nature to be governed, will not submit (1256*); and 
+intended by nature to be governed, will not submit (1256); and 
 in this case, it is implied, it would be right to make slaves of the 
 conquered. This would seem enough to justify any conqueror who 
 ever lived; for no nation will admit that it is intended by nature to 
 be governed, and the only evidence as to nature's intentions 
 must be derived from the outcome of war. In every war, therefore, 
 the victors are in the right and the vanquished in the wrong. 
-Very satisfactory ! 
+Very satisfactory! 
 
 Next comes a discussion of trade, which profoundly influenced 
 scholastic casuistry. There are two uses of a thing, one proper, 
@@ -8039,7 +7953,7 @@ the other improper; a shoe, for instance, may be worn, which is
 its proper use, or exchanged, which is its improper use. It follows 
 that there is something degraded about a shoemaker, who must 
 exchange his shoes in order to live. Retail trade, we are told, is 
-not a natural part of the art of getting wealth (1257*). The natural 
+not a natural part of the art of getting wealth (1257). The natural 
 way to get wealth is by skilful management of house and land. 
 To the wealth that can be made in this way there is a limit, but 
 to what can be made by trade there is none. Trade has to do with 
@@ -8048,38 +7962,30 @@ from trade is justly hated, because it is unnatural. "The most
 hated sort, and with the greatest reason, is usury, which makes 
 a gain out of money itself, and not from the natural object of it. 
 For money was intended to be used in exchange, but not to increase 
-at interest. ... Of all modes of getting wealth this is the most 
+at interest.... Of all modes of getting wealth this is the most 
 unnatural" (1258). 
 
-What came of this dictum you may read in Tawney's Religion 
-and the Rise oj Capitalism. But while his history is reliable, his 
+What came of this dictum you may read in Tawney's _Religion 
+and the Rise of Capitalism_. But while his history is reliable, his 
 comment has a bias in favour of what is pre-capitalistic. 
 
-44 Usury" means all lending money at interest, not only, as now, 
-lending at an exorbitant rate. From Greek times to the present 
-day, mankind, or at least the economically more developed 
-portion of them, have been divided into debtors and creditors; 
-
-209 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-debtors have disapproved of interest, and creditors have approved 
-of it. At most times, landowners have been debtors, while men 
-engaged in commerce have been creditors. The views of philo- 
-sophers, with few exceptions, have coincided with the pecuniary 
-interests of their class. Greek philosophers belonged to, or were 
-employed by, the landowning class; they therefore disapproved 
-of interest. Medieval philosophers were churchmen, and the 
-property of the Church was mainly in land; they therefore saw 
-no reason to revise Aristotle's opinion. Their objection to usury 
-was reinforced by anti-Semitism, for most fluid capital was 
-Jewish. Ecclesiastics and barons had their quarrels, sometimes 
-very bitter; but they could combine against the wicked Jew who 
-had tided them over a bad harvest by means of a loan, and con- 
-sidered that he deserved some reward for his thrift. 
+"Usury" means all lending money at interest, not only, as now, lending
+at an exorbitant rate. From Greek times to the present day, mankind,
+or at least the economically more developed portion of them, have been
+divided into debtors and creditors; debtors have disapproved of
+interest, and creditors have approved of it. At most times, landowners
+have been debtors, while men engaged in commerce have been creditors.
+The views of philosophers, with few exceptions, have coincided with
+the pecuniary interests of their class. Greek philosophers belonged
+to, or were employed by, the landowning class; they therefore
+disapproved of interest. Medieval philosophers were churchmen, and the
+property of the Church was mainly in land; they therefore saw no
+reason to revise Aristotle's opinion. Their objection to usury was
+reinforced by anti-Semitism, for most fluid capital was Jewish.
+Ecclesiastics and barons had their quarrels, sometimes very bitter;
+but they could combine against the wicked Jew who had tided them over
+a bad harvest by means of a loan, and con- sidered that he deserved
+some reward for his thrift.
 
 With the Reformation, the situation changed. Many of the 
 most earnest Protestants were business men, to whom lending 
@@ -8101,22 +8007,15 @@ family that naturally occurs to every reader. Plato thinks that, by
 merely giving the title of "son'* to all who are of an age that makes 
 their sonship possible, a man will acquire towards the whole 
 multitude the sentiments that men have at present towards their 
-actual sons, and correlatively as regards the title "father/* Aristotle, 
+actual sons, and correlatively as regards the title "father." Aristotle, 
 on the contrary, says that what is common to the greatest number 
-receives the least care, and that if "sons' 1 are common to many 
+receives the least care, and that if "sons" are common to many 
 "fathers" they will be neglected in common; it is better to be 
 a cousin in reality than a "son" in Plato's sense; Plato's plan would 
 make love watery. Then there is a curious argument that, since 
 abstinence from adultery is a virtue, it would be a pity to have 
-
-210 
-
-
-
-ARISTOTLE'S POLITICS 
-
 a social system which abolishes this virtue and the correlative 
-vice (1263*). Then we are asked: if women are common, who 
+vice (1263). Then we are asked: if women are common, who 
 will manage the house? I wrote an essay once, called "Architecture 
 and the Social System," in which I pointed out that all who 
 combine communism with abolition of the family also advocate 
@@ -8134,8 +8033,10 @@ so trained in benevolence as to allow the use of it to be largely
 common. Benevolence and generosity are virtues, and without 
 pr vate property they are impossible. Finally we are told that, if 
 Plato's plans were good, someone would have thought of them 
-sooner. 1 I do not agree with Plato, but if anything could make 
+sooner.[^72] I do not agree with Plato, but if anything could make 
 me do so, it would be Aristotle's arguments against him. 
+
+[^72]: Cf. The Noodle's Oration in Sydney Smith: "If the proposal be sound, would the Saxon have passed it by? Would the Dane have ignored it? Would it have escaped the wisdom of the Norman?" (I quote from memory.) 
 
 As we have seen in connection with slavery, Aristotle is no 
 Miever in equality. Granted, however, the subjection of slaves 
@@ -8146,45 +8047,33 @@ lie rejects this argument, maintaining that the greatest crimes
 are due to excess rather than want; no man becomes a tyrant in 
 order to avoid feeling the cold. 
 
-A government is good when it aims at the good of the whole 
-community, bad when it cares only for itself. There are three kinds 
-of government that are good: monarchy, aristocracy, and consti- 
-tutional government (or polity); there are three that are bad: 
-tyranny, oligarchy, and democracy. There are also many mixed 
-intermediate forms. It will be observed that the good and bad 
-governments are defined by the ethical qualities of the holders of 
-power, not by the form of the constitution. This, however, is 
+A government is good when it aims at the good of the whole community,
+bad when it cares only for itself. There are three kinds of government
+that are good: monarchy, aristocracy, and constitutional government
+(or polity); there are three that are bad: tyranny, oligarchy, and
+democracy. There are also many mixed intermediate forms. It will be
+observed that the good and bad governments are defined by the ethical
+qualities of the holders of power, not by the form of the
+constitution. This, however, is only partly true. An aristocracy is a
+rule of men of virtue, an oligarchy is a rule of the rich, and
+Aristotle does not consider virtue and wealth strictly synonymous.
+What he holds, in accordance with the doctrine of the golden mean, is
+that a moderate competence is most likely to be associated with
+virtue: "Mankind do not acquire or preserve virtue by the help of
+external goods, but external goods by the help of virtue, and
+happiness, whether consisting in pleasure or virtue, or both, is more
+often found with those who are most highly cultivated in their mind
+and in their character, and have only a moderate share of external
+poods, than among those who possess external goods to a useless extent
+but are deficient in higher qualities" (1323). There is therefore a
+difference between the rule of the best (aristocracy) and of the
+richest (oligarchy), since the best are likely to have only moderate
+fortunes. There is also a difference between democracy and polity, in
+addition to the ethical difference in the government, for what
+Aristotle calls "polity" retains some oligarchic elements (1293). But
+between monarchy and tyranny the only difference is ethical.
 
-1 Ct. Tlit Noodle's Oration in Sydney Smith; "If the proposal be 
-bound, would the Saxon have passed it by? Would the Dane have ignored 
-it? Would it have escaped the wisdom of the Norman?" (I quote from 
-memory. ) 
-
-211 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-only partly true. An aristocracy is a rule of men of virtue, an 
-oligarchy is a rule of the rich, and Aristotle does not consider 
-virtue and wealth strictly synonymous. What he holds, in accord- 
-ance with the doctrine of the golden mean, is that a moderate 
-competence is most likely to be associated with virtue: "Mankind 
-do not acquire or preserve virtue by the help of external goods, 
-but external goods by the help of virtue, and happiness, whether 
-consisting in pleasure or virtue, or both, is more often found 
-with those who are most highly cultivated in their mind and in 
-their character, and have only a moderate share of external poods, 
-than among those who possess external goods to a useless extent 
-but are deficient in higher qualities*' (1323* and ')- There is 
-therefore a difference between the rule of the best (aristocracy) 
-and of the richest (oligarchy), since the best are likely to have 
-only moderate fortunes. There is also a difference between demo- 
-cracy and polity, in addition to the ethical difference in the govern- 
-ment, for what Aristotle calls "polity" retains some oligarchic 
-elements (1293*). But between monarchy and tyranny the only 
-difference is ethical. 
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n201)
 
 He is emphatic in distinguishing oligarchy and democracy by 
 the economic status of the governing party: there is oligarchy 
