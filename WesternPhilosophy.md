@@ -8073,37 +8073,28 @@ addition to the ethical difference in the government, for what
 Aristotle calls "polity" retains some oligarchic elements (1293). But
 between monarchy and tyranny the only difference is ethical.
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n201)
-
-He is emphatic in distinguishing oligarchy and democracy by 
-the economic status of the governing party: there is oligarchy 
-when the rich govern without consideration for the poor, demo- 
-cracy when power is in the hands of the needy and they disregard 
-the interest of the rich. 
+He is emphatic in distinguishing oligarchy and democracy by the
+economic status of the governing party: there is oligarchy when the
+rich govern without consideration for the poor, democracy when power
+is in the hands of the needy and they disregard the interest of the
+rich.
 
 Monarchy is better than aristocracy, aristocracy is better than 
 polity. But the corruption of the best is worst; therefore tyranny 
 is worse than oligarchy, and oligarchy than democracy. In this 
 way Aristotle arrives at a qualified defence of democracy; for 
-most Actual governments are bad, and therefore, among actual 
+most actual governments are bad, and therefore, among actual 
 governments, democracies tend to be best. 
 
-The Greek conception of democracy was in many ways more 
-extreme than ours; for instance, Aristotle says that to elect magis- 
-trates is oligarchic, while it is democratic to appoint them by lot. 
-In extreme democracies, the assembly of the citizens was above the 
-law, and decided each question independently. The Athenian 
-law-courts were composed of a large number of citizens chosen 
-by lot, unaided by any jurist; they were, of course, liable to be 
-swayed by eloquence or party passion. When democracy is 
-criticized, it must be understood that this sort of thing is 
-meant. 
-
-212 
-
-
-
-ARISTOTLE'S POLITICS 
+The Greek conception of democracy was in many ways more extreme than
+ours; for instance, Aristotle says that to elect magistrates is
+oligarchic, while it is democratic to appoint them by lot. In extreme
+democracies, the assembly of the citizens was above the law, and
+decided each question independently. The Athenian law-courts were
+composed of a large number of citizens chosen by lot, unaided by any
+jurist; they were, of course, liable to be swayed by eloquence or
+party passion. When democracy is criticized, it must be understood
+that this sort of thing is meant.
 
 There is a long discussion of causes of revolution. In Greece, 
 revolutions were as frequent as formerly in Latin America, and 
@@ -8115,7 +8106,7 @@ from the fact that men who are superior in some respect claim
 too much. Both have a kind of justice, but not the best kind. 
 "Therefore both parties, whenever their share in the government 
 does not accord with their preconceived ideas, stir up revolution" 
-(1301*). Democratic governments are less liable to revolutions 
+(1301). Democratic governments are less liable to revolutions 
 than oligarchies, because oligarchs may fall out with each other. 
 The oligarchs seem to have been vigorous fellows. In some cities, 
 we are told, they swore an oath: "I will be an enemy to the people, 
@@ -8125,8 +8116,8 @@ reactionaries are not so frank.
 The three things needed to prevent revolution are government 
 propaganda in education, respect for law, even in small things, 
 and justice in law and administration, i.e., "equality according 
-to proportion, and for every man to enjoy his own" (1307*, 
-I 37 b ^ *3 10 *)' Aristotle never seems to have realized the difficulty 
+to proportion, and for every man to enjoy his own" (1307, 
+1307, 1310). Aristotle never seems to have realized the difficulty 
 of "equality according to proportion." If this is to be true justice, 
 the proportion must be of virtue. Now virtue is difficult to measure, 
 and is a matter of party controversy. In political practice, therefore, 
@@ -8145,43 +8136,34 @@ pretend that income is proportional to virtue; the prophet said
 he had never seen a righteous man begging his bread, and Aristotle 
 thinks that good men acquire just about his own income, neither 
 very large nor very small. But such views are absurd. Eveiy kind 
-of 4 'justice" other than absolute equality will, in practice, reward 
-
-"3 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+of "justice" other than absolute equality will, in practice, reward 
 some quality quite other than virtue, and is therefore to be 
 condemned. 
 
-There is an interesting section on tyranny. A tyrant desires 
-riches, whereas a king desires honour. The tyrant has guards who 
-are mercenaries, whereas the king has guards who are citizens. 
-Tyrants are mostly demagogues, who acquire power by promising 
-to protect the people against the notables. In an ironically Machia- 
-vellian tone, Aristotle explains what a tyrant must do to retain 
-power. He must prevent the rise of any person of exceptional 
-merit, by execution or assassination if necessary. He must prohibit 
-common meals, clubs, and any education likely to produce hostile 
-sentiment. There must be no literary assemblies or discussions. 
-He must prevent people from knowing each other well, and 
-compel them to live in public at his gates. He should employ 
-spies, like the female detectives at Syracuse. He must sow quarrels, 
-and impoverish his subjects. He should keep them occupied in 
-great works, as the king of Egypt did in getting the pyramids 
-built. He should give power to women and slaves, to make them 
-informers. He should make war, in order that his subjects may 
-have something to do and be always in want of a leader (131 3' 
-and *). 
+There is an interesting section on tyranny. A tyrant desires riches,
+whereas a king desires honour. The tyrant has guards who are
+mercenaries, whereas the king has guards who are citizens. Tyrants are
+mostly demagogues, who acquire power by promising to protect the
+people against the notables. In an ironically Machiavellian tone,
+Aristotle explains what a tyrant must do to retain power. He must
+prevent the rise of any person of exceptional merit, by execution or
+assassination if necessary. He must prohibit common meals, clubs, and
+any education likely to produce hostile sentiment. There must be no
+literary assemblies or discussions. He must prevent people from
+knowing each other well, and compel them to live in public at his
+gates. He should employ spies, like the female detectives at Syracuse.
+He must sow quarrels, and impoverish his subjects. He should keep them
+occupied in great works, as the king of Egypt did in getting the
+pyramids built. He should give power to women and slaves, to make them
+informers. He should make war, in order that his subjects may have
+something to do and be always in want of a leader (1313).
 
-It is a melancholy reflection that this passage is, of the whole 
-book, the one most appropriate to the present day. Aristotle 
-concludes that there is no wickedness too great for a tyrant. There- 
-is, however, he says, another method of preserving a tyranny, 
-namely by moderation and by seeming religious. There is no 
-decision as to which method is likely to prove the more successful. 
+It is a melancholy reflection that this passage is, of the whole book,
+the one most appropriate to the present day. Aristotle concludes that
+there is no wickedness too great for a tyrant. There is, however, he
+says, another method of preserving a tyranny, namely by moderation and
+by seeming religious. There is no decision as to which method is
+likely to prove the more successful.
 
 There is a long argument to prove that foreign conquest is not 
 the end of the State, showing that many people took the imperialist 
@@ -8196,34 +8178,28 @@ impossible for them. The happiness that a State should seek,
 therefore, though war may sometimes be a necessary means to it, 
 should not be war, but the activities of peace. 
 
-This leads to the question: how large should a State be? Large 
+This leads to the question: how large should a State be? Large cities,
+we are told, are never well governed, because a great multitude cannot
+be orderly. A State ought to be large enough to be more or less
+self-sufficing, but not too large for constitutional government. It
+ought to be small enough for the citizens to know each other's
+characters, otherwise right will not be done in elections and
+law-suits. The territory should be small enough to be surveyed in its
+entirety from a hill-top. We are told both that it should be
+self-sufficient (1326) and that it should have an export and import
+trade (1327), which seems an inconsistency.
 
-
-
-ARISTOTLE'S POLITICS 
-
-cities, we are told, are never well governed, because a great multi- 
-tude cannot be orderly. A State ought to be large enough to be 
-more or less self-sufficing, but not too large for constitutional 
-government. It ought to be small enough for the citizens to know 
-each other's characters, otherwise right will not be done in elections 
-and law-suits. The territory should be small enough to be surveyed 
-in its entirety from a hill-top. We are told both that it should be 
-self-sufficient (1326*) and that it should have an export and 
-import trade (1327*), which seems an inconsistency. 
-
-Men who work for their living should not be admitted to citizen- 
-ship. " Citizens should not lead the life of mechanics or tradesmen, 
-for such a life is ignoble and inimical to virtue." Nor should they 
-be husbandmen, because they need leisure. The citizens should 
-own the property, but the husbandmen should be slaves of a 
-different race (1330). Northern races, we are told, are spirited; 
-southern races, intelligent; therefore slaves should be of southern 
-races, since it is inconvenient if they are spirited. The Greeks 
-alone are both spirited and intelligent; they are better governed 
-than barbarians, and if united could rule the world (1327*). One 
-might have expected at this point some allusion to Alexander, 
-but there is none. 
+Men who work for their living should not be admitted to citizen- ship.
+"Citizens should not lead the life of mechanics or tradesmen, for such
+a life is ignoble and inimical to virtue." Nor should they be
+husbandmen, because they need leisure. The citizens should own the
+property, but the husbandmen should be slaves of a different race
+(1330). Northern races, we are told, are spirited; southern races,
+intelligent; therefore slaves should be of southern races, since it is
+inconvenient if they are spirited. The Greeks alone are both spirited
+and intelligent; they are better governed than barbarians, and if
+united could rule the world (1327). One might have expected at this
+point some allusion to Alexander, but there is none.
 
 With regard to the size of States, Aristotle makes, on a different 
 scale, the same mistake that is made by many modern liberals. 
@@ -8233,7 +8209,7 @@ difficulty. I low large this requires a State to be, depends upon the
 technique of war and industry. In Aristotle's day, the City State 
 was obsolete because it could not defend itself against Macedonia. 
 In our day, Greece as a whole, including Macedonia, is obsolete 
-in this sense, as has been recently proved. 1 To advocate complete 
+in this sense, as has been recently proved.[^73] To advocate complete 
 independence for Greece, or any other small country, is now as 
 futile as to advocate complete independence for a single city, 
 whose territory can be seen entire from an eminence. There can 
@@ -8243,75 +8219,60 @@ Nothing smaller than America and the British Empire combined
 will satisfy this requirement; and perhaps even this would be 
 too small a unit. 
 
-The book, which, in the form in which we have it, appears to 
-1 Thh was written in May, 194". 
+[^73]: This was written in May, 1941. 
 
 
+The book, which, in the form in which we have it, appears to be
+unfinished, ends with a discussion of education. Education, of course,
+is only for children who are going to be citizens; slaves may be
+taught useful arts, such as cooking, but these are no part of
+education. The citizen should be moulded to the form of government
+under which he lives, and there should therefore be differences
+according as the city in question is oligarchic or democratic. In the
+discussion, however, Aristotle assumes that the citizens will all have
+a share of political power. Children should learn what is useful to
+them, but not vulgarizing; for instance, they should not be taught any
+skill that deforms the body, or that would enable them to earn money.
+They should practise athletics in moderation, but not to the point of
+acquiring professional skill; the boys who train for the Olympic games
+suffer in health, as is shown by the fact that those who have been
+victors as boys are hardly ever victors as men. Children should learn
+drawing, in order to appreciate the beauty of the human form; and they
+should be taught to appreciate such painting and sculpture as
+expresses moral ideas. They may learn to sing and to play musical
+instruments enough to be able to enjoy music critically, but not
+enough to be skilled performers; for no freeman would play or sing
+unless drunk. They must of course, learn to read and write, in spite
+of the usefulness of these arts. But the purpose of education is
+"virtue," not usefulness. What Aristotle means by "virtue" he has told
+us in the Ethics, to which this book frequently refers.
 
-WESTERN PHILOSOPHICAL THOUGHT 
-
-be unfinished, ends with a discussion of education. Education, 
-of course, is only for children who are going to be citizens; slaves 
-may be taught useful arts, such as cooking, but these are no part 
-of education. The citizen should be moulded to the form of 
-government under which he lives, and there should therefore be 
-differences according as the city in question is oligarchic or 
-democratic. In the discussion, however, Aristotle assumes that 
-the citizens will all have a share of political power. Children 
-should learn what is useful to them, but not vulgarizing; for 
-instance, they should not be taught any skill that deforms the 
-body, or that would enable them to earn money. They should 
-practise athletics in moderation, but not to the point of acquiring 
-professional skill; the boys who train for the Olympic games 
-suffer in health, as is shown by the fact that those who have been 
-victors as boys are hardly ever victors as men. Children should 
-learn drawing, in order to appreciate the beauty of the human 
-form; and they should be taught to appreciate such painting and 
-sculpture as expresses moral ideas. They may learn to sing and to 
-play musical instruments enough to be able to enjoy music 
-critically, but not enough to be skilled performers; for no freeman 
-would play or sing unless drunk. They must of course, learn to 
-read and write, in spite of the usefulness of these arts. But the 
-purpose of education is "virtue," not usefulness. What Aristotle 
-means by "virtue" he has told us in the Ethics, to which this book 
-frequently refers. 
-
-Aristotle's fundamental assumptions, in his Politics, are very 
-different from those of any modern writer. The aim of the State, 
-in his view, is to produce cultured gentlemen men who combine 
-the aristocratic mentality with love of learning and the arts 
-This combination existed, in its highest perfection, in the Athens 
-of Pericles, not in the population at large, but among the well- 
-to-do. It began to break down in the last years of Pericles. The 
-populace, who had no culture, turned against the friends of 
-Pericles, who were driven to defend the privileges of the rich, 
-by treachery, assassination, illegal despotism, and other such 
-not very gentlemanly methods. After the death of Socrates, 
-the bigotry of the Athenian democracy diminished, and Athens 
-remained the centre of ancient culture, but political power went 
-elsewhere. Throughout later antiquity, power and culture were 
-usually separate: power was in the hands of rough soldiers, 
-
-216 
-
-
-
-ARISTOTLE'S POLITICS 
-
-culture belonged to powerless Greeks, often slaves. This is only 
-partially true of Rome in its great days, but it is emphatically 
-true before Cicero and after Marcus Aurelius. After the barbarian 
-invasion, the "gentlemen" were northern barbarians, the men 
-of culture subtle southern ecclesiastics. This state of affairs 
-continued, more or less, until the Renaissance, when the laity 
-began to acquire culture. From the Renaissance onwards, the 
-Creek conception of government by cultured gentlemen gradually 
-prevailed more and more, reaching its acme in the eighteenth 
-century. 
+Aristotle's fundamental assumptions, in his _Politics_, are very
+different from those of any modern writer. The aim of the State, in
+his view, is to produce cultured gentlemen men who combine the
+aristocratic mentality with love of learning and the arts This
+combination existed, in its highest perfection, in the Athens of
+Pericles, not in the population at large, but among the well-to-do. It
+began to break down in the last years of Pericles. The populace, who
+had no culture, turned against the friends of Pericles, who were
+driven to defend the privileges of the rich, by treachery,
+assassination, illegal despotism, and other such not very gentlemanly
+methods. After the death of Socrates, the bigotry of the Athenian
+democracy diminished, and Athens remained the centre of ancient
+culture, but political power went elsewhere. Throughout later
+antiquity, power and culture were usually separate: power was in the
+hands of rough soldiers, culture belonged to powerless Greeks, often
+slaves. This is only partially true of Rome in its great days, but it
+is emphatically true before Cicero and after Marcus Aurelius. After
+the barbarian invasion, the "gentlemen" were northern barbarians, the
+men of culture subtle southern ecclesiastics. This state of affairs
+continued, more or less, until the Renaissance, when the laity began
+to acquire culture. From the Renaissance onwards, the Creek conception
+of government by cultured gentlemen gradually prevailed more and more,
+reaching its acme in the eighteenth century.
 
 Various forces have put an end to this state of affairs. First, 
-democracy, as embodied in the French Revolution and its after- 
-math. The cultured gentlemen, as after the age of Pericles, had 
+democracy, as embodied in the French Revolution and its aftermath. The cultured gentlemen, as after the age of Pericles, had 
 to defend their privileges against the populace, and in the process 
 ceased to he either gentlemen or cultured. A second cause was 
 the rise of industrialism, with a scientific technique very different 
@@ -8323,64 +8284,48 @@ type of propaganda, as seen in the dictatorships.
 Both for good and evil, therefore, the day of the cultured 
 gentleman is past. 
 
-
-
--21" 
-
-
-
 ## Chapter XXII ARISTOTLE'S LOGIC 
 
-ARISTOTLE'S influence, which was very great in many 
-different fields, was greatest of all in logic. In late antiquity, 
-when Plato was still supreme in metaphysics, Aristotle was 
-the recognized authority in logic, and he retained this position 
-throughout the Middle Ages. It was not till the thirteenth century 
-that Christian philosophers accorded him supremacy in the field 
-of metaphysics. This supremacy was largely lost after the Renais- 
-sance, but his supremacy in logic survived. Even at the present 
-day, all Catholic teachers of philosophy and many others still 
-obstinately reject the discoveries of modern logic, and adhere 
-with a strange tenacity to a system which is as definitely antiquated 
-as Ptolemaic astronomy. This makes it difficult to do historical 
-justice to Aristotle. His present-day influence is so inimical to 
-clear thinking that it is hard to remember how great an advance 
-he made upon all his predecessors (including Plato), or how 
-admirable his logical work would still seem if it had been a stage 
-in a continual progress, instead of being (as in fact it was) a dead 
-end, followed by over two thousand years of stagnation. In dealing 
-with the predecessors of Aristotle, it is not necessary to remind 
-the reader that they are not verbally inspired; one can therefore 
-praise them for their ability without being supposed to subscrilxr 
-to all their doctrines. Aristotle, on the contrary, is still, especially 
-in logic, a battle-ground, and cannot be treated in a purely his- 
-torical spirit. 
+Aristotle's influence, which was very great in many different fields,
+was greatest of all in logic. In late antiquity, when Plato was still
+supreme in metaphysics, Aristotle was the recognized authority in
+logic, and he retained this position throughout the Middle Ages. It
+was not till the thirteenth century that Christian philosophers
+accorded him supremacy in the field of metaphysics. This supremacy was
+largely lost after the Renaissance, but his supremacy in logic
+survived. Even at the present day, all Catholic teachers of philosophy
+and many others still obstinately reject the discoveries of modern
+logic, and adhere with a strange tenacity to a system which is as
+definitely antiquated as Ptolemaic astronomy. This makes it difficult
+to do historical justice to Aristotle. His present-day influence is so
+inimical to clear thinking that it is hard to remember how great an
+advance he made upon all his predecessors (including Plato), or how
+admirable his logical work would still seem if it had been a stage in
+a continual progress, instead of being (as in fact it was) a dead end,
+followed by over two thousand years of stagnation. In dealing with the
+predecessors of Aristotle, it is not necessary to remind the reader
+that they are not verbally inspired; one can therefore praise them for
+their ability without being supposed to subscribe to all their
+doctrines. Aristotle, on the contrary, is still, especially in logic,
+a battle-ground, and cannot be treated in a purely historical spirit.
 
 Aristotle's most important work in logic is the doctrine of the 
 syllogism. A syllogism is an argument consisting of three parts, a 
 major premiss, a minor premiss, and a conclusion. Syllogisms 
 are of a number of different kinds, each of which has a name, 
-given by the scholastics. The most familiar ts the kind called 
+given by the scholastics. The most familiar is the kind called 
 "Barbara": 
 
-All men are mortal (Major premiss). 
-Socrates is a man (Minor premiss). 
-Therefore: Socrates is mortal (Conclusion) 
+> All men are mortal (Major premiss).  
+> Socrates is a man (Minor premiss).  
+> Therefore: Socrates is mortal (Conclusion)  
 
-21* 
-
-
-
-ARISTOTLE'S LOGIC 
-
-Or: all men are mortal. 
-
-AH Greeks are men. 
-
-Therefore: All Greeks are mortal. 
+> Or: all men are mortal.  
+> All Greeks are men.  
+> Therefore: All Greeks are mortal.  
 
 (Aristotle docs not distinguish between these two forms; this, as 
-we shall sec later, is a mistake.) 
+we shall see later, is a mistake.) 
 
 Other forms are: No fishes are rational, oil sharks are fishes, 
 therefore no sharks are rational. (This is called "Celarent.") 
@@ -8389,10 +8334,10 @@ All men are rational, some animals are men, therefore some
 animals are rational. (This is called "Darii.") 
 
 No Greeks are black, some men are Greeks, therefore some men 
-are not black. (This is called "Ferio.") x 
+are not black. (This is called "Ferio.") 
 
 These four make up the "first figure"; Aristotle adds a second 
-and third figure, and the schoolmen added a fourth. It is *hown 
+and third figure, and the schoolmen added a fourth. It is shown 
 that the three later figures can be reduced to the first by various 
 devices. 
 
@@ -8403,11 +8348,11 @@ from "all men are mortal." From "no gods are mortal" we can
 infer "no mortals are gods," but from "some men are not Greeks" 
 it does not follow that "some Greeks are not men." 
 
-Apart from such inferences as the above, Aristotle and his 
-followers thought that all deductive inference, when strictly 
-stated, is syllogistic. By setting forth all the valid kinds of syllogism, 
-and setting out any suggested argument in syllogistic form, it 
-should therefore be possible to avoid all fallacies. 
+Apart from such inferences as the above, Aristotle and his followers
+thought that all deductive inference, when strictly stated, is
+syllogistic. By setting forth all the valid kinds of syllogism, and
+setting out any suggested argument in syllogistic form, it should
+therefore be possible to avoid all fallacies.
 
 This system was the beginning of formal logic, and, as such, was 
 both important and admirable. But considered as the end, not the 
@@ -8421,24 +8366,17 @@ forms of deductive argument.
 (3) Over-estimation of deduction as a- form of argument. 
 On each of these three, something must be said. 
 
-(i) Formal defect*. Ix?t us begin with the two statements 
+(1) _Formal defects_. Let us begin with the two statements 
 "Socrates is a man" and "all Greeks are men." It is necessary to 
 make a sharp distinction between these two, which is not done 
 in Aristotelian logic. The statement "all Greeks arc men" is 
-commonly interpreted ss implying that there are Greeks: without 
-
-219 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+commonly interpreted as implying that there are Greeks: without 
 this implication, some of Aristotle's syllogisms are not valid. 
 Take for instance: 
 
-"All Greeks are men, All Greeks are white, therefore some 
-men are white." This is valid if there are Greeks, but not otherwise. 
-If I were to say: 
+"All Greeks are men, All Greeks are white, therefore some men are
+white." This is valid if there are Greeks, but not otherwise. If I
+were to say:
 
 "All golden mountains are mountains, all golden mountains 
 are golden, therefore some mountains are golden," my conclusion 
@@ -8449,13 +8387,12 @@ Greeks," and the other saying "if anything is a Greek it is a man."
 The latter statement is purely hypothetical, and does not imply 
 that there are Greeks. 
 
-The statement "all Greeks are men" is thus much more 
-complex in form than the statement "Socrates is a man." 
-"Socrates is a man" has "Socrates" for its subject, but "all 
-Greeks are men" does not have "all Greeks" for its subject, 
-for there is nothing about "all Greeks" either in the statement 
-"there are Greeks," or in the statement "if anything is a Greek it 
-is a man." 
+The statement "all Greeks are men" is thus much more complex in form
+than the statement "Socrates is a man." "Socrates is a man" has
+"Socrates" for its subject, but "all Greeks are men" does not have
+"all Greeks" for its subject, for there is nothing about "all Greeks"
+either in the statement "there are Greeks," or in the statement "if
+anything is a Greek it is a man."
 
 This purely formal error was a source of errors in metaphysics 
 and theory of knowledge. Consider the state of our knowledge in 
@@ -8477,13 +8414,6 @@ is not of this sort; there is nothing logically self-contradictory
 about an immortal man. We believe the proposition on the basis 
 of induction, because there is no well-authenticated case of a 
 man living more than (say) 150 years; but this only makes the 
-
-220 
-
-
-
-ARISTOTLE'S LOGIC 
-
 proposition probable, not certain. It cannot be certain so long as 
 living men exist. 
 
@@ -8495,6 +8425,8 @@ of the same sort as that denoted by "Socrates." This led Aristotle
 to say that in a sense a species is a substance. He is careful to 
 qualify this statement, but his followers, especially Porphyry, 
 showed less caution. 
+
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n225)
 
 Another error into which Aristotle falls through this mistake 
 is to think that a predicate of a predicate can be a predicate of 
