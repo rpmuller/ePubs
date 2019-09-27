@@ -7311,3 +7311,251 @@ characterized by self-nutrition, sensation, feeling, and motivity
 (413); but the mind has the higher function of thinking, which has no
 relation to the body or to the senses. Hence the mind can be immortal,
 though the rest of the soul cannot.
+
+To understand Aristotle's doctrine of the soul, we must remember that
+the soul is the "form" of the body, and that spatial shape is one kind
+of "form." What is there in common between soul and shape? I think
+what is in common is the conferring of unity upon a certain amount of
+matter. The part of a block of marble which afterwards becomes a
+statue is, as yet, not separated from the rest of the marble; it is
+not yet a "thing," and has not yet any unity. After the sculptor has
+made the statue, it has unity, which it derives from its shape. Now
+the essential feature of the soul, in virtue of which it is the "form"
+of the body, is that it makes the body an organic whole, having
+purposes as a unit. A single organ has purposes lying outside itself;
+the eye, in isolation, cannot see. Thus many things can be said in
+which an animal or plant as a whole is the subject, which cannot be
+said about any part of it. It is in this sense that organization, or
+form, confers substantiality. That which confers substantiality upon a
+plant or animal is what Aristotle calls its "soul." But "mind" is
+something different, less intimately bound up with the body; perhaps
+it is a part of the soul, but it is possessed by only a small minority
+of living beings (415). Mind as speculation cannot be the cause of
+movement, for it never thinks about what is practicable, and never
+says what is to be avoided or what pursued (432).
+
+A similar doctrine, though with a slight change of terminology, is set
+forth in the Nicomachean Ethics. There is in the soul one element that
+is rational, and one that is irrational. The irrational part is
+two-fold: the vegetative, which is found in everything living, even in
+plants, and the appetitive, which exists in all animals (1102). The
+life of the rational soul consists in contemplation, which is the
+complete happiness of man though not fully attainable. "Such a life
+would be too high for man; for it is not in so far as he is man that
+he will live so, but in so far as something divine is present in him;
+and by so much as this is superior to our composite nature is its
+activity superior to that which is the exercise of the other kind of
+virtue (the practical kind). If reason is divine, then, in comparison
+with man, the life in accordance with it is divine in comparison with
+human life. But we must not follow those who advise us, being men, to
+think of human things, and being mortal, of mortal things, but must,
+so far as we can, make ourselves immortal, and strain every nerve to
+live in accord- ance with the best thing in us; for even if it be
+small in bulk, much more does it in power and worth surpass
+everything" (1177).  It seems, from these passages, that individuality
+what distinguishes one man from another is connected with the body and
+the irrational soul, while the rational soul or mind is divine and
+impersonal. One man likes oysters, and another likes pineapples; this
+distinguishes between them. But when they think about the
+multiplication table, provided they think correctly, there is no
+difference between them. The irrational separates us, the rational
+unites us. Thus the immortality of mind or reason is not a personal
+immortality of separate men, but a share in God's immortality.  It
+does not appear that Aristotle believed in personal immortality, in
+the sense in which it was taught by Plato and afterwards by
+Christianity. He believed only that, in so far as men are rational,
+they partake of the divine, which is immortal. It is open to man to
+increase the element of the divine in his nature, and to do so is the
+highest virtue. But if he succeeded completely, he would have ceased
+to exist as a separate person. This is perhaps not the only possible
+interpretation of Aristotle's words, but I think it is the most
+natural.
+
+## Chapter XX ARISTOTLE'S ETHICS 
+
+In the corpus of Aristotle's works, three treatises on ethics have a
+place, but two of these are now generally held to be by disciples. The
+third, the _Nicomachean Ethics_, remains for the most part unquestioned
+as to authenticity, but even in this book there is a portion (Books V,
+VI, and VII) which is held by many to have been incorporated from one
+of the works of disciples. I shall, however, ignore this controversial
+question, and treat the book as a whole and as Aristotle's.
+
+The views of Aristotle on ethics represent, in the main, the
+prevailing opinions of educated and experienced men of his day.  They
+are not, like Plato's, impregnated with mystical religion; nor do they
+countenance such unorthodox theories as are to be found in the
+_Republic_ concerning property and the family. Those who neither fall
+below nor rise above the level of decent, well-behaved citizens will
+find in the Ethics a systematic account of the principles by which
+they hold that their conduct should be regulated.  Those who demand
+anything more will be disappointed. The book appeals to the
+respectable middle-aged, and has been used by them, especially since
+the seventeenth century, to repress the ardours and enthusiasms of the
+young. But to a man with any depth of feeling it is likely to be
+repulsive.
+
+The good, we are told, is _happiness_, which is an activity of the
+soul. Aristotle says that Plato was right in dividing the soul into
+two parts, one rational, the other irrational. The irrational part
+itself he divides into the vegetative (which is found even in plants)
+and the appetitive (which is found in all animals). The appetitive
+part may be in some degree rational, when the goods that it seeks arc
+such as reason approves of. This is essential to the account of
+virtue, for reason alone, in Aristotle, is purely contemplative, and
+docs not, without the help of appetite, lead to any practical
+activity.
+
+There are two kinds of virtues, _intellectual_ and _moral_,
+corresponding to the two parts of the soul. Intellectual virtues
+result from teaching, moral virtues from habit. It is the business of
+the legislator to make the citizens good by forming good habits. We
+become just by performing just acts, and similarly as regards other
+virtues. By being compelled to acquire good habits, we shall in time,
+Aristotle thinks, come to find pleasure in performing good
+actions. One is reminded of Hamlet's speech to his mother:
+
+> Assume a virtue if you have it not.  
+> That monster, custom, who all sense doth eat,  
+> Of habits devil, is angel, yet in this  
+> That to the use of actions fair and good  
+> He likewise gives a frock or livery  
+> That aptly is put on.  
+
+We now come to the famous doctrine of the golden mean.  Every virtue
+is a mean between two extremes, each of which is a vice. This is
+proved by an examination of the various virtues.  Courage is a mean
+between cowardice and rashness; liberality, between prodigality and
+meanness; proper pride, between vanity and humility; ready wit,
+between buffoonery and boorishness; modesty, between bashfulness and
+shamelessness. Some virtues do not seem to fit into this scheme; for
+instance, truthfulness.  Aristotle says that this is a mean between
+boastfulness and mock-modesty (1108), but this only applies to
+truthfulness about oneself. I do not see how truthfulness in any wider
+sense can be fitted into the scheme. There was once a mayor who had
+adopted Aristotle's doctrine; at the end of his term of office he made
+a speech saying that he had endeavoured to steer the narrow line
+between partiality on the one hand and impartiality on the other.  The
+view of truthfulness as a mean seems scarcely less absurd.
+
+Aristotle's opinions on moral questions are always such as were 
+conventional in his day. On some points they differ from those of 
+our time, chiefly where some form of aristocracy comes in. We 
+think that human beings, at least in ethical theory, all have equal 
+rights, and that justice involves equality; Aristotle thinks that 
+justice involves, not equality, but right proportion, which is only 
+sometimes equality (1131). 
+
+The justice of a master or a father is a different thing from that 
+of a citizen, for a son or slave is property, and there can be no 
+injustice to one's own property (1134). As regards slaves, however, 
+there is a slight modification of this doctrine in connection with 
+the question whether it is possible for a man to be a friend of his 
+slave: "There is nothing in common between the two parties; the 
+slave is a living tool.... Qua slave, then, one cannot be friends 
+with him. But qua man one can; for there seems to be some justice 
+between any man and any other who can share in a system of 
+law or be a party to an agreement; therefore there can also be 
+friendship with him in so far as he is a man" (1161). 
+
+A father can repudiate his son if he is wicked, but a son cannot
+repudiate his father, because he owes him more than he can possibly
+repay, especially existence (1163). In unequal relations, it is right,
+since everybody should be loved in proportion to his worth, that the
+inferior should love the superior more than the superior loves the
+inferior: wives, children, subjects, should have more love for
+husbands, parents, and monarchs than the latter have for them. In a
+good marriage, "the man rules in accordance with his worth, and in
+those matters in which a man should rule, but the matters that befit a
+woman he hands over to her" (1160).  He should not rule in her
+province; still less should she rule in his, as sometimes happens when
+she is an heiress.
+
+The best individual, as conceived by Aristotle, is a very different 
+person from the Christian saint. He should have proper pride, and 
+not underestimate his own merits. He should despise whoever 
+deserves to be despised (1124). The description of the proud or 
+magnanimous man[^70] is very interesting as showing the difference 
+between pagan and Christian ethics, and the sense in which 
+Nietzsche was justified in regarding Christianity as a slave-morality. 
+
+[^70]: The Greek word means, literally, "great-souled," and is usually translated "magnanimous," but the Oxford translation renders it "proud." Neither word, in its modern usage, quite expresses Aristotle's meaning, but I prefer "magnanimous," and have therefore substituted it for "proud" in the above quotation from the Oxford translation. 
+
+> The magnanimous man, since he deserves most, must be good, in the
+> highest degree; for the better man always deserves more, and the
+> best man most. Therefore the truly magnanimous man must be good. And
+> greatness in every virtue would seem to be characteristic of the
+> magnanimous man. And it would be most unbecoming for the magnanimous
+> man to fly from danger, swinging his arms by his sides, or to wrong
+> another; for to what end should he do disgraceful acts, he to whom
+> nothing is great?  ...magnanimity, then, seems to be a sort of crown
+> of the virtues; for it makes them greater, and it is not found
+> without them. Therefore it is hard to be truly magnanimous; for it
+> is impossible without nobility and goodness of character. It is
+> chiefly with honours and dishonours, then, that the magnanimous man
+> is concerned; and at honours that are great and conferred by good
+> men he will be moderately pleased, thinking that he is coming by his
+> own or even less than his own; for there can be no honour that is
+> worthy of perfect virtue, yet he will at any rate accept it since
+> they have nothing greater to bestow on him; but honour from casual
+> people and on trifling grounds he will utterly despise, since it is
+> not this that he deserves, and dishonour too, since in his case it
+> cannot be just.... Power and wealth arc desirable for the sake of
+> honour; and to him for whom even honour is a little thing the others
+> must be so too. Hence magnanimous men are thought to be
+> disdainful.... The magnanimous man does not run into trifling
+> dangers, ... but he will face great dangers, and when he is in
+> danger he is unsparing of his life, knowing that there are
+> conditions on which life is not worth having. And he is the sort of
+> man to confer benefits, but he is ashamed of receiving them; for the
+> one is the mark of a superior, the other of an inferior. And he is
+> apt to confer greater benefits in return; for thus the original
+> benefactor besides being repaid will incur a debt to him. ... It is
+> the mark of the magnanimous man to ask for nothing or scarcely
+> anything, but to give help readily, and to be dignified towards
+> people who enjoy a hiuh position but unassuming towards those of the
+> middle class; for it is a difficult and lofty thing to be superior
+> to the former, but easy to be so to the latter, and a lofty bearing
+> over the former is no mark of ill-breeding, but among humble people
+> it is as vulgar as a display of strength against the weak.... He
+> must also be open in his hate and in his love, for to conceal one's
+> feelings, i.e. to care less for truth than for what people think, is
+> a coward's part.... He is free of speech because he is contemptuous,
+> and he is given to telling the truth, except when he speaks in irony
+> to the vulgar.... Nor is he given to admiration, for to him nothing
+> is great.... Nor is he a gossip; for he will speak neither about
+> himself nor about another, since he cares not to be praised nor for
+> others to be blamed.... He is one who will possess beautiful and
+> profitless things rather than profitable and useful ones,...
+> Further, a slow step is thought proper to the magnanimous man, a
+> deep voice, and a level utterance.... Such, then, is the magnanimous
+> man; the man who falls short of him is unduly humble and the man who
+> goes beyond him is vain (1123--1125).
+
+One shudders to think what a vain man would be like. 
+Whatever may be thought of the magnanimous man, one thing 
+is clear: there cannot be very many of him in a community. I do 
+not mean merely in the general sense in which there are not likely 
+to be many virtuous men, on the ground that virtue is difficult; 
+what I mean is that the virtues of the magnanimous man largely 
+depend upon his having an exceptional social position. Aristotle 
+considers ethics a branch of politics, and it is not surprising, after 
+his praise of pride, to find that he considers monarchy the best 
+form of government, and aristocracy the next best. Monarchs and 
+aristocrats can be "magnanimous," but ordinary citizens would 
+be laughable if they attempted to live up to such a pattern. 
+
+This brings up a question which is half ethical, half political. 
+Can we regard as morally satisfactory a community which, by its 
+essential constitution, confines the best things to a few, and 
+requires the majority to be content with the second-best? Plato 
+and Aristotle say yes, and Nietzsche agrees with them. Stoics, 
+Christians, and democrats say no. But there are great differences 
+in their ways of saying no. Stoics and early Christians consider 
+that the greatest good is virtue, and that external circumstances 
+cannot prevent a man from being virtuous; there is therefore no 
+need to seek a just social system, since social injustice affects only 
+unimportant matters. The democrat, on the contrary, usually 
+holds that, at least so far as politics are concerned, the most 
+important goods are power and property; he cannot, therefore, 
+acquiesce in a social system which is unjust in these respects. 
