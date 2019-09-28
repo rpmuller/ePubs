@@ -8426,8 +8426,6 @@ to say that in a sense a species is a substance. He is careful to
 qualify this statement, but his followers, especially Porphyry, 
 showed less caution. 
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n225)
-
 Another error into which Aristotle falls through this mistake 
 is to think that a predicate of a predicate can be a predicate of 
 the original subject. If I say "Socrates is Greek, all Greeks are 
@@ -8442,80 +8440,64 @@ one member is identical with that one member. This made it
 impossible to have a correct theory of the number one, and led 
 to endless bad metaphysics about unity. 
 
-(2) Over-estimation of tlie syllogism. The syllogism is only one 
-kind of deductive argument. In mathematics, which is wholly 
-deductive, syllogisms hardly ever occur. Of course, it would be 
-possible to re-write mathematical arguments in syllogistic form, 
-but this would he very artificial and would not make them any 
-more cogent. Take arithmetic, for example. If I buy goods worth 
-1 6s. 3d., and tender a 1 note in payment, how much change 
-is due to me? To put this simple sum in the form of a syllogism 
-would be absurd, and would tend to conceal the real nature of 
-the argument. Again, within logic there are non-syllogistic 
-inferences such as: "A horse is an animal, therefore a horse's 
-head is an animal's head." Valid syllogisms, in fact, are only 
-some among valid deductions, and have no logical priority over 
-others. The attempt to give pre-eminence to the syllogism in 
-deduction misled philosophers as to the nature of mathematical 
-reasoning. Kant, who perceived that mathematics is not syllogistic, 
-inferred that it uses extra-logical principles, which, however, he 
+(2) Over-estimation of the syllogism. The syllogism is only one kind
+of deductive argument. In mathematics, which is wholly deductive,
+syllogisms hardly ever occur. Of course, it would be possible to
+re-write mathematical arguments in syllogistic form, but this would he
+very artificial and would not make them any more cogent. Take
+arithmetic, for example. If I buy goods worth 16s. 3d., and tender a 1
+pound note in payment, how much change is due to me? To put this
+simple sum in the form of a syllogism would be absurd, and would tend
+to conceal the real nature of the argument. Again, within logic there
+are non-syllogistic inferences such as: "A horse is an animal,
+therefore a horse's head is an animal's head." Valid syllogisms, in
+fact, are only some among valid deductions, and have no logical
+priority over others. The attempt to give pre-eminence to the
+syllogism in deduction misled philosophers as to the nature of
+mathematical reasoning. Kant, who perceived that mathematics is not
+syllogistic, inferred that it uses extra-logical principles, which,
+however, he supposed to be as certain as those of logic. He, like his
+predecessors, though in a different way, was misled by respect for
+Aristotle.
 
-221 
+(3) Over-estimation of deduction. The Greeks in general attached more
+importance to deduction as a source of knowledge than modern
+philosophers do. In this respect, Aristotle was less at fault than
+Plato; he repeatedly admitted the importance of induc- tion, and he
+devoted considerable attention to the question: how do we know the
+first premisses from which deduction must start? Nevertheless, he,
+like other Greeks, gave undue prominence to deduction in his theory of
+knowledge. We shall agree that Mr. Smith (say) is mortal, and we may,
+loosely, say that we know this because we know that all men are
+mortal. But what we really know is not "all men are mortal"; we know
+mther something like "all men born more than one hundred and fifty
+years ago are mortal, and so are almost all men born more than one
+hundred years ago." This is our reason for thinking that Mr. Smith
+will die. But this argument is an induction, not a deduction. It has
+less cogency than a deduction, and yields only a probability, not a
+certainty; but on the other hand it gives new knowledge, which
+deduction does not. All the important inferences outside logic and
+pure mathematics are inductive, not deductive; the only exceptions are
+law and theology, each of which derives its first principles from an
+unquestionable text, viz. the statute hooks or the scriptures.
 
+Apart from _The Prior Analytics_, which deals with the syllogism there
+are other logical writings of Aristotle which have considerable
+importance in the history of philosophy. One of these is the short
+work on The Categories. Porphyry the Neoplatonist wrote a commentary
+on this book, which had a very notable influence on medieval
+philosophy; but for the present let us ignore Porphyry and confine
+ourselves to Aristotle.
 
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-supposed to be as certain as those of logic. He, like his predecessors, 
-though in a different way, was misled by respect for Aristotle. 
-
-(3) Over -estimation of deduction. The Greeks in general attached 
-more importance to deduction as a source of knowledge than 
-modern philosophers do. In this respect, Aristotle was less at 
-fault than Plato; he repeatedly admitted the importance of induc- 
-tion, and he devoted considerable attention to the question: how 
-do we know the first premisses from which deduction must start? 
-Nevertheless, he, like other Greeks, gave undue prominence to 
-deduction in his theory of knowledge. We shall agree that Mr. 
-Smith (say) is mortal, and we may, loosely, say that we know this 
-because we know that all men are mortal. But what we really 
-know is not "all men are mortal"; we know mther something 
-like "all men born more than one hundred and fifty years ago are 
-mortal, and so are almost all men born more than one hundred 
-years ago." This is our reason for thinking that Mr. Smith will 
-die. But this argument is an induction, not a deduction. It has 
-less cogency than a deduction, and yields only a probability, not 
-a certainty; but on the other hand it gives new knowledge, which 
-deduction does not. All the important inferences outside logic and 
-pure mathematics are inductive, not deductive; the only excep- 
-tions are law and theology, each of which derives its first prin- 
-ciples from an unquestionable text, viz. the statute hooks 01 the 
-scriptures. 
-
-Apart from The Prior Analytics, which deals with the syllogism 
-there are other logical writings of Aristotle which have con- 
-siderable importance in the history of philosophy. One of these 
-is the short work on The Categories. Porphyry the Neoplatonist 
-wrote a commentary on this book, which had a very notable 
-influence on medieval philosophy; but for the present let us 
-ignore Porphyry and confine ourselves to Aristotle. 
-
-What, exactly, is meant by the word "category/* whether in 
+What, exactly, is meant by the word "category," whether in 
 Aristotle or in Kant and Hegel, I must confess that I have never 
 been able to understand. I do not myself believe that the term 
 "category" is in any way useful in philosophy, as representing 
 any clear idea. There are, in Aristotle, ten categories: substance, 
 quantity, quality, relation, place, time, position, state, action, 
-and affection. The only definition offered of the term "category " 
+and affection. The only definition offered of the term "category" 
 is: "expressions which are in no way composite signify" and 
 then follows the above list. This seems to mean that every word 
-
-222 
-
-
-
-ARISTOTLE'S LOGIC 
-
 of which the meaning is not compounded of the meanings of 
 other words signifies a substance or a quantity or etc. There is 
 no suggestion of any principle on which the list of ten categories 
@@ -8532,41 +8514,34 @@ sense a species or a genus e.g. "man" or "animal" may be
 called a substance. This secondary sense seems indefensible, 
 and opened the door, in later writers, to much bad metaphysics. 
 
-The Posterior Analytics is a work largely concerned with a 
-question which must trouble any deductive theory, namely: How 
-are first premisses obtained? Since deduction must start from 
-somewhere, we must begin with something unproved, which 
-must be known otherwise than by demonstration. I shall not give 
-Aristotle's theory in detail, since it depends upon the notion of 
-essence. A definition, he says, is a statement of a thing's essential 
-nature. The notion of essence is an intimate part of every philo- 
-sophy subsequent to Aristotle, until we come to modern times. 
-It is, in my opinion, a hopelessly muddle-headed notion, but its 
-historical importance requires us to say something about it. 
+_The Posterior Analytics_ is a work largely concerned with a question
+which must trouble any deductive theory, namely: How are first
+premisses obtained? Since deduction must start from somewhere, we must
+begin with something unproved, which must be known otherwise than by
+demonstration. I shall not give Aristotle's theory in detail, since it
+depends upon the notion of essence. A definition, he says, is a
+statement of a thing's essential nature. The notion of essence is an
+intimate part of every philosophy subsequent to Aristotle, until we
+come to modern times. It is, in my opinion, a hopelessly muddle-headed
+notion, but its historical importance requires us to say something
+about it.
 
-The "essence" of a thing appears to have meant "those of its 
-properties which it cannot change without losing its identity." 
-Socrates may be sometimes happy, sometimes sad; sometimes 
-well, sometimes ill. Since he can change these properties without 
-ceasing to be Socrates, they are no part of his essence. But it is 
-supposed to be of the essence of Socrates that he is a man, though 
-a Pythagorean, who believes in transmigration, will not admit 
-this. In fact, the question of "essence" is one as to the use of 
-words. We apply the same name, on different occasions, to 
-somewhat different occurrences, which .we regard as manifesta- 
-tions of a single "thing" or "person." In fact, however, this is 
-only a verbal convenience. The "essence" of Socrates thus consists 
-of those properties in the absence of which we should not use the 
-name "Socrates." The question is purely linguistic: a word may 
-have an essence, but a thing cannot. 
+The "essence" of a thing appears to have meant "those of its
+properties which it cannot change without losing its identity."
+Socrates may be sometimes happy, sometimes sad; sometimes well,
+sometimes ill. Since he can change these properties without ceasing to
+be Socrates, they are no part of his essence. But it is supposed to be
+of the essence of Socrates that he is a man, though a Pythagorean, who
+believes in transmigration, will not admit this. In fact, the question
+of "essence" is one as to the use of words. We apply the same name, on
+different occasions, to somewhat different occurrences, which .we
+regard as manifestations of a single "thing" or "person." In fact,
+however, this is only a verbal convenience. The "essence" of Socrates
+thus consists of those properties in the absence of which we should
+not use the name "Socrates." The question is purely linguistic: a word
+may have an essence, but a thing cannot.
 
-223 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-The conception of "substance," like that of "essence, 11 is a 
+The conception of "substance," like that of "essence," is a 
 transference to metaphysics of what is only a linguistic convenience. 
 We find it convenient, in describing the world, to describe a 
 certain number of occurrences as events in the life of "Socrates," 
@@ -8608,13 +8583,6 @@ a word as "France" (say) is only a linguistic convenience, and that
 there is not a thing called "France" over and above its various 
 parts. The same holds of "Mr. Smith"; it is a collective name 
 for a number of occurrences. If we take it as anything more, it 
-
-224 
-
-
-
-ARISTOTLE'S LOGIC 
-
 denotes something completely unknowable, and therefore not 
 needed for the expression of what we know. 
 
@@ -8638,15 +8606,11 @@ modern times, practically every advance in science, in logic, or
 in philosophy has had to be made in the teeth of opposition from 
 Aristotle's disciples. 
 
-
-
-H 
-
-
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n233)
 
 ## Chapter XXIII ARISTOTLE'S PHYSICS 
 
-IN tiiis chapter I propose to consider two of Aristotle's books, 
+In this chapter I propose to consider two of Aristotle's books, 
 the one called Physics and the one called On the Heavens. 
 These two books are closely connected; the second takes up 
 the argument at the point at which the first has left it. Both were 

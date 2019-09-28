@@ -8072,3 +8072,536 @@ fortunes. There is also a difference between democracy and polity, in
 addition to the ethical difference in the government, for what
 Aristotle calls "polity" retains some oligarchic elements (1293). But
 between monarchy and tyranny the only difference is ethical.
+
+He is emphatic in distinguishing oligarchy and democracy by the
+economic status of the governing party: there is oligarchy when the
+rich govern without consideration for the poor, democracy when power
+is in the hands of the needy and they disregard the interest of the
+rich.
+
+Monarchy is better than aristocracy, aristocracy is better than 
+polity. But the corruption of the best is worst; therefore tyranny 
+is worse than oligarchy, and oligarchy than democracy. In this 
+way Aristotle arrives at a qualified defence of democracy; for 
+most actual governments are bad, and therefore, among actual 
+governments, democracies tend to be best. 
+
+The Greek conception of democracy was in many ways more extreme than
+ours; for instance, Aristotle says that to elect magistrates is
+oligarchic, while it is democratic to appoint them by lot. In extreme
+democracies, the assembly of the citizens was above the law, and
+decided each question independently. The Athenian law-courts were
+composed of a large number of citizens chosen by lot, unaided by any
+jurist; they were, of course, liable to be swayed by eloquence or
+party passion. When democracy is criticized, it must be understood
+that this sort of thing is meant.
+
+There is a long discussion of causes of revolution. In Greece, 
+revolutions were as frequent as formerly in Latin America, and 
+therefore Aristotle had a copious experience from which to draw 
+inferences. The main cause was the conflict of oligarchs and 
+democrats. Democracy, Aristotle says, arises from the belief that 
+men who are equally free should be equal in all respects; oligarchy, 
+from the fact that men who are superior in some respect claim 
+too much. Both have a kind of justice, but not the best kind. 
+"Therefore both parties, whenever their share in the government 
+does not accord with their preconceived ideas, stir up revolution" 
+(1301). Democratic governments are less liable to revolutions 
+than oligarchies, because oligarchs may fall out with each other. 
+The oligarchs seem to have been vigorous fellows. In some cities, 
+we are told, they swore an oath: "I will be an enemy to the people, 
+and will devise all the harm against them which I can." Nowadays 
+reactionaries are not so frank. 
+
+The three things needed to prevent revolution are government 
+propaganda in education, respect for law, even in small things, 
+and justice in law and administration, i.e., "equality according 
+to proportion, and for every man to enjoy his own" (1307, 
+1307, 1310). Aristotle never seems to have realized the difficulty 
+of "equality according to proportion." If this is to be true justice, 
+the proportion must be of virtue. Now virtue is difficult to measure, 
+and is a matter of party controversy. In political practice, therefore, 
+virtue tends to be measured by income; the distinction between 
+aristocracy and oligarchy, which Aristotle attempts to make, is 
+only possible where there is a very well-established hereditary 
+nobility. Even then, as soon as there exists a large class of rich 
+men who are not noble, they have to be admitted to power for 
+fear of their making a revolution. Hereditary aristocracies cannot 
+long retain their power except where land is almost the only 
+source of wealth. All social inequality, in the long run, is inequality 
+of income. That is part of the argument for democracy: that the 
+attempt to have a "proportionate justice" based on any merit 
+other than wealth is sure to break down. Defenders of oligarchy 
+pretend that income is proportional to virtue; the prophet said 
+he had never seen a righteous man begging his bread, and Aristotle 
+thinks that good men acquire just about his own income, neither 
+very large nor very small. But such views are absurd. Eveiy kind 
+of "justice" other than absolute equality will, in practice, reward 
+some quality quite other than virtue, and is therefore to be 
+condemned. 
+
+There is an interesting section on tyranny. A tyrant desires riches,
+whereas a king desires honour. The tyrant has guards who are
+mercenaries, whereas the king has guards who are citizens. Tyrants are
+mostly demagogues, who acquire power by promising to protect the
+people against the notables. In an ironically Machiavellian tone,
+Aristotle explains what a tyrant must do to retain power. He must
+prevent the rise of any person of exceptional merit, by execution or
+assassination if necessary. He must prohibit common meals, clubs, and
+any education likely to produce hostile sentiment. There must be no
+literary assemblies or discussions. He must prevent people from
+knowing each other well, and compel them to live in public at his
+gates. He should employ spies, like the female detectives at Syracuse.
+He must sow quarrels, and impoverish his subjects. He should keep them
+occupied in great works, as the king of Egypt did in getting the
+pyramids built. He should give power to women and slaves, to make them
+informers. He should make war, in order that his subjects may have
+something to do and be always in want of a leader (1313).
+
+It is a melancholy reflection that this passage is, of the whole book,
+the one most appropriate to the present day. Aristotle concludes that
+there is no wickedness too great for a tyrant. There is, however, he
+says, another method of preserving a tyranny, namely by moderation and
+by seeming religious. There is no decision as to which method is
+likely to prove the more successful.
+
+There is a long argument to prove that foreign conquest is not 
+the end of the State, showing that many people took the imperialist 
+view. There is, it is true, an exception: conquest of "natural 
+slaves" is right and just. This would, in Aristotle's view, justify 
+wars against barbarians, but not against Greeks, for no Greeks 
+are '"natural slaves." In general, war is only a means, not an end; 
+a city in an isolated situation, where conquest is not possible, 
+may be happy; States that live in isolation need not be inactive. 
+God and the universe are active, though foreign conquest is 
+impossible for them. The happiness that a State should seek, 
+therefore, though war may sometimes be a necessary means to it, 
+should not be war, but the activities of peace. 
+
+This leads to the question: how large should a State be? Large cities,
+we are told, are never well governed, because a great multitude cannot
+be orderly. A State ought to be large enough to be more or less
+self-sufficing, but not too large for constitutional government. It
+ought to be small enough for the citizens to know each other's
+characters, otherwise right will not be done in elections and
+law-suits. The territory should be small enough to be surveyed in its
+entirety from a hill-top. We are told both that it should be
+self-sufficient (1326) and that it should have an export and import
+trade (1327), which seems an inconsistency.
+
+Men who work for their living should not be admitted to citizen- ship.
+"Citizens should not lead the life of mechanics or tradesmen, for such
+a life is ignoble and inimical to virtue." Nor should they be
+husbandmen, because they need leisure. The citizens should own the
+property, but the husbandmen should be slaves of a different race
+(1330). Northern races, we are told, are spirited; southern races,
+intelligent; therefore slaves should be of southern races, since it is
+inconvenient if they are spirited. The Greeks alone are both spirited
+and intelligent; they are better governed than barbarians, and if
+united could rule the world (1327). One might have expected at this
+point some allusion to Alexander, but there is none.
+
+With regard to the size of States, Aristotle makes, on a different 
+scale, the same mistake that is made by many modern liberals. 
+A State must be able to defend itself in war, and even, if any 
+liberal culture is to survive, to defend itself without very great 
+difficulty. I low large this requires a State to be, depends upon the 
+technique of war and industry. In Aristotle's day, the City State 
+was obsolete because it could not defend itself against Macedonia. 
+In our day, Greece as a whole, including Macedonia, is obsolete 
+in this sense, as has been recently proved.[^73] To advocate complete 
+independence for Greece, or any other small country, is now as 
+futile as to advocate complete independence for a single city, 
+whose territory can be seen entire from an eminence. There can 
+be no true independence except for a State or alliance strong 
+enough, by its own efforts, to repel all attempts at foreign conquest. 
+Nothing smaller than America and the British Empire combined 
+will satisfy this requirement; and perhaps even this would be 
+too small a unit. 
+
+[^73]: This was written in May, 1941. 
+
+
+The book, which, in the form in which we have it, appears to be
+unfinished, ends with a discussion of education. Education, of course,
+is only for children who are going to be citizens; slaves may be
+taught useful arts, such as cooking, but these are no part of
+education. The citizen should be moulded to the form of government
+under which he lives, and there should therefore be differences
+according as the city in question is oligarchic or democratic. In the
+discussion, however, Aristotle assumes that the citizens will all have
+a share of political power. Children should learn what is useful to
+them, but not vulgarizing; for instance, they should not be taught any
+skill that deforms the body, or that would enable them to earn money.
+They should practise athletics in moderation, but not to the point of
+acquiring professional skill; the boys who train for the Olympic games
+suffer in health, as is shown by the fact that those who have been
+victors as boys are hardly ever victors as men. Children should learn
+drawing, in order to appreciate the beauty of the human form; and they
+should be taught to appreciate such painting and sculpture as
+expresses moral ideas. They may learn to sing and to play musical
+instruments enough to be able to enjoy music critically, but not
+enough to be skilled performers; for no freeman would play or sing
+unless drunk. They must of course, learn to read and write, in spite
+of the usefulness of these arts. But the purpose of education is
+"virtue," not usefulness. What Aristotle means by "virtue" he has told
+us in the Ethics, to which this book frequently refers.
+
+Aristotle's fundamental assumptions, in his _Politics_, are very
+different from those of any modern writer. The aim of the State, in
+his view, is to produce cultured gentlemen men who combine the
+aristocratic mentality with love of learning and the arts This
+combination existed, in its highest perfection, in the Athens of
+Pericles, not in the population at large, but among the well-to-do. It
+began to break down in the last years of Pericles. The populace, who
+had no culture, turned against the friends of Pericles, who were
+driven to defend the privileges of the rich, by treachery,
+assassination, illegal despotism, and other such not very gentlemanly
+methods. After the death of Socrates, the bigotry of the Athenian
+democracy diminished, and Athens remained the centre of ancient
+culture, but political power went elsewhere. Throughout later
+antiquity, power and culture were usually separate: power was in the
+hands of rough soldiers, culture belonged to powerless Greeks, often
+slaves. This is only partially true of Rome in its great days, but it
+is emphatically true before Cicero and after Marcus Aurelius. After
+the barbarian invasion, the "gentlemen" were northern barbarians, the
+men of culture subtle southern ecclesiastics. This state of affairs
+continued, more or less, until the Renaissance, when the laity began
+to acquire culture. From the Renaissance onwards, the Creek conception
+of government by cultured gentlemen gradually prevailed more and more,
+reaching its acme in the eighteenth century.
+
+Various forces have put an end to this state of affairs. First, 
+democracy, as embodied in the French Revolution and its aftermath. The cultured gentlemen, as after the age of Pericles, had 
+to defend their privileges against the populace, and in the process 
+ceased to he either gentlemen or cultured. A second cause was 
+the rise of industrialism, with a scientific technique very different 
+from traditional culture. A third cause was popular education, 
+which conferred the power to read and write, but did not confer 
+culture; this enabled a new type of demagogue to practise a new 
+type of propaganda, as seen in the dictatorships. 
+
+Both for good and evil, therefore, the day of the cultured 
+gentleman is past. 
+
+## Chapter XXII ARISTOTLE'S LOGIC 
+
+Aristotle's influence, which was very great in many different fields,
+was greatest of all in logic. In late antiquity, when Plato was still
+supreme in metaphysics, Aristotle was the recognized authority in
+logic, and he retained this position throughout the Middle Ages. It
+was not till the thirteenth century that Christian philosophers
+accorded him supremacy in the field of metaphysics. This supremacy was
+largely lost after the Renaissance, but his supremacy in logic
+survived. Even at the present day, all Catholic teachers of philosophy
+and many others still obstinately reject the discoveries of modern
+logic, and adhere with a strange tenacity to a system which is as
+definitely antiquated as Ptolemaic astronomy. This makes it difficult
+to do historical justice to Aristotle. His present-day influence is so
+inimical to clear thinking that it is hard to remember how great an
+advance he made upon all his predecessors (including Plato), or how
+admirable his logical work would still seem if it had been a stage in
+a continual progress, instead of being (as in fact it was) a dead end,
+followed by over two thousand years of stagnation. In dealing with the
+predecessors of Aristotle, it is not necessary to remind the reader
+that they are not verbally inspired; one can therefore praise them for
+their ability without being supposed to subscribe to all their
+doctrines. Aristotle, on the contrary, is still, especially in logic,
+a battle-ground, and cannot be treated in a purely historical spirit.
+
+Aristotle's most important work in logic is the doctrine of the 
+syllogism. A syllogism is an argument consisting of three parts, a 
+major premiss, a minor premiss, and a conclusion. Syllogisms 
+are of a number of different kinds, each of which has a name, 
+given by the scholastics. The most familiar is the kind called 
+"Barbara": 
+
+> All men are mortal (Major premiss).  
+> Socrates is a man (Minor premiss).  
+> Therefore: Socrates is mortal (Conclusion)  
+
+> Or: all men are mortal.  
+> All Greeks are men.  
+> Therefore: All Greeks are mortal.  
+
+(Aristotle docs not distinguish between these two forms; this, as 
+we shall see later, is a mistake.) 
+
+Other forms are: No fishes are rational, oil sharks are fishes, 
+therefore no sharks are rational. (This is called "Celarent.") 
+
+All men are rational, some animals are men, therefore some 
+animals are rational. (This is called "Darii.") 
+
+No Greeks are black, some men are Greeks, therefore some men 
+are not black. (This is called "Ferio.") 
+
+These four make up the "first figure"; Aristotle adds a second 
+and third figure, and the schoolmen added a fourth. It is shown 
+that the three later figures can be reduced to the first by various 
+devices. 
+
+There are some inferences that can be made from a single 
+premiss. From "some men are mortal" we can infer that "some 
+mortals are men." According to Aristotle, this can be also inferred 
+from "all men are mortal." From "no gods are mortal" we can 
+infer "no mortals are gods," but from "some men are not Greeks" 
+it does not follow that "some Greeks are not men." 
+
+Apart from such inferences as the above, Aristotle and his followers
+thought that all deductive inference, when strictly stated, is
+syllogistic. By setting forth all the valid kinds of syllogism, and
+setting out any suggested argument in syllogistic form, it should
+therefore be possible to avoid all fallacies.
+
+This system was the beginning of formal logic, and, as such, was 
+both important and admirable. But considered as the end, not the 
+beginning, of formal logic, it is open to three kinds of criticism: 
+
+(1) Formal defects within the system itself. 
+
+(2) Over-estimation of the syllogism, as compared to other 
+forms of deductive argument. 
+
+(3) Over-estimation of deduction as a- form of argument. 
+On each of these three, something must be said. 
+
+(1) _Formal defects_. Let us begin with the two statements 
+"Socrates is a man" and "all Greeks are men." It is necessary to 
+make a sharp distinction between these two, which is not done 
+in Aristotelian logic. The statement "all Greeks arc men" is 
+commonly interpreted as implying that there are Greeks: without 
+this implication, some of Aristotle's syllogisms are not valid. 
+Take for instance: 
+
+"All Greeks are men, All Greeks are white, therefore some men are
+white." This is valid if there are Greeks, but not otherwise. If I
+were to say:
+
+"All golden mountains are mountains, all golden mountains 
+are golden, therefore some mountains are golden," my conclusion 
+would be false, though in some sense my premisses would be 
+true. If we are to be explicit, we must therefore divide the one 
+statement "all Greeks are men" into two, one saying "there are 
+Greeks," and the other saying "if anything is a Greek it is a man." 
+The latter statement is purely hypothetical, and does not imply 
+that there are Greeks. 
+
+The statement "all Greeks are men" is thus much more complex in form
+than the statement "Socrates is a man." "Socrates is a man" has
+"Socrates" for its subject, but "all Greeks are men" does not have
+"all Greeks" for its subject, for there is nothing about "all Greeks"
+either in the statement "there are Greeks," or in the statement "if
+anything is a Greek it is a man."
+
+This purely formal error was a source of errors in metaphysics 
+and theory of knowledge. Consider the state of our knowledge in 
+regard to the two propositions "Socrates is mortal" and "all men 
+are mortal." In order to know the truth of "Socrates is mortal," 
+most of us are content to rely upon testimony; but if testimony 
+is to be reliable, it must lead us back to some one who knew 
+Socrates and saw him dead. The one perceived fact the dead 
+body of Socrates together with the knowledge that this was 
+called "Socrates," was enough to assure us of the mortality 
+of Socrates. But when it comes to "all men are mortal," the 
+matter is different. The question of our knowledge of such 
+general propositions is a very difficult one. Sometimes they are 
+merely verbal: "all Greeks are men" is known because nothing 
+is called "a Greek" unless it is a man. Such general statements 
+can be ascertained from the dictionary; they tell us nothing about 
+the world except how words are used. But "all men are mortal" 
+is not of this sort; there is nothing logically self-contradictory 
+about an immortal man. We believe the proposition on the basis 
+of induction, because there is no well-authenticated case of a 
+man living more than (say) 150 years; but this only makes the 
+proposition probable, not certain. It cannot be certain so long as 
+living men exist. 
+
+Metaphysical errors arose through supposing that "all men" is 
+the subject of "all men are mortal" in the same sense as that in 
+which "Socrates" is the subject of "Socrates is mortal." It made 
+it possible to hold that, in some sense, "all men" denotes an entity 
+of the same sort as that denoted by "Socrates." This led Aristotle 
+to say that in a sense a species is a substance. He is careful to 
+qualify this statement, but his followers, especially Porphyry, 
+showed less caution. 
+
+Another error into which Aristotle falls through this mistake 
+is to think that a predicate of a predicate can be a predicate of 
+the original subject. If I say "Socrates is Greek, all Greeks are 
+human," Aristotle thinks that "human" is a predicate of "Greek," 
+while "Greek" is a predicate of "Socrates," and obviously "human" 
+is a predicate of "Socrates." But in fact "human" is not a predicate 
+of "Greek." The distinction between names and predicates, or 
+in metaphysical language, between particulars and universals, 
+is thus blurred, with disastrous consequences to philosophy. One 
+of the resulting confusions was to suppose that a class with only 
+one member is identical with that one member. This made it 
+impossible to have a correct theory of the number one, and led 
+to endless bad metaphysics about unity. 
+
+(2) Over-estimation of the syllogism. The syllogism is only one kind
+of deductive argument. In mathematics, which is wholly deductive,
+syllogisms hardly ever occur. Of course, it would be possible to
+re-write mathematical arguments in syllogistic form, but this would he
+very artificial and would not make them any more cogent. Take
+arithmetic, for example. If I buy goods worth 16s. 3d., and tender a 1
+pound note in payment, how much change is due to me? To put this
+simple sum in the form of a syllogism would be absurd, and would tend
+to conceal the real nature of the argument. Again, within logic there
+are non-syllogistic inferences such as: "A horse is an animal,
+therefore a horse's head is an animal's head." Valid syllogisms, in
+fact, are only some among valid deductions, and have no logical
+priority over others. The attempt to give pre-eminence to the
+syllogism in deduction misled philosophers as to the nature of
+mathematical reasoning. Kant, who perceived that mathematics is not
+syllogistic, inferred that it uses extra-logical principles, which,
+however, he supposed to be as certain as those of logic. He, like his
+predecessors, though in a different way, was misled by respect for
+Aristotle.
+
+(3) Over-estimation of deduction. The Greeks in general attached more
+importance to deduction as a source of knowledge than modern
+philosophers do. In this respect, Aristotle was less at fault than
+Plato; he repeatedly admitted the importance of induc- tion, and he
+devoted considerable attention to the question: how do we know the
+first premisses from which deduction must start? Nevertheless, he,
+like other Greeks, gave undue prominence to deduction in his theory of
+knowledge. We shall agree that Mr. Smith (say) is mortal, and we may,
+loosely, say that we know this because we know that all men are
+mortal. But what we really know is not "all men are mortal"; we know
+mther something like "all men born more than one hundred and fifty
+years ago are mortal, and so are almost all men born more than one
+hundred years ago." This is our reason for thinking that Mr. Smith
+will die. But this argument is an induction, not a deduction. It has
+less cogency than a deduction, and yields only a probability, not a
+certainty; but on the other hand it gives new knowledge, which
+deduction does not. All the important inferences outside logic and
+pure mathematics are inductive, not deductive; the only exceptions are
+law and theology, each of which derives its first principles from an
+unquestionable text, viz. the statute hooks or the scriptures.
+
+Apart from _The Prior Analytics_, which deals with the syllogism there
+are other logical writings of Aristotle which have considerable
+importance in the history of philosophy. One of these is the short
+work on The Categories. Porphyry the Neoplatonist wrote a commentary
+on this book, which had a very notable influence on medieval
+philosophy; but for the present let us ignore Porphyry and confine
+ourselves to Aristotle.
+
+What, exactly, is meant by the word "category," whether in 
+Aristotle or in Kant and Hegel, I must confess that I have never 
+been able to understand. I do not myself believe that the term 
+"category" is in any way useful in philosophy, as representing 
+any clear idea. There are, in Aristotle, ten categories: substance, 
+quantity, quality, relation, place, time, position, state, action, 
+and affection. The only definition offered of the term "category" 
+is: "expressions which are in no way composite signify" and 
+then follows the above list. This seems to mean that every word 
+of which the meaning is not compounded of the meanings of 
+other words signifies a substance or a quantity or etc. There is 
+no suggestion of any principle on which the list of ten categories 
+has been compiled. 
+
+"Substance" is primarily what is not predicable of a subject nor 
+present in a subject. A thing is said to be "present in a subject" 
+when, though not a part of the subject, it cannot exist without 
+the subject. The instances given are a piece of grammatical 
+knowledge which is present in a mind, and a certain whiteness 
+which may be present in a body. A substance in the above primary 
+sense is an individual thing or person or animal. But in a secondary 
+sense a species or a genus e.g. "man" or "animal" may be 
+called a substance. This secondary sense seems indefensible, 
+and opened the door, in later writers, to much bad metaphysics. 
+
+_The Posterior Analytics_ is a work largely concerned with a question
+which must trouble any deductive theory, namely: How are first
+premisses obtained? Since deduction must start from somewhere, we must
+begin with something unproved, which must be known otherwise than by
+demonstration. I shall not give Aristotle's theory in detail, since it
+depends upon the notion of essence. A definition, he says, is a
+statement of a thing's essential nature. The notion of essence is an
+intimate part of every philosophy subsequent to Aristotle, until we
+come to modern times. It is, in my opinion, a hopelessly muddle-headed
+notion, but its historical importance requires us to say something
+about it.
+
+The "essence" of a thing appears to have meant "those of its
+properties which it cannot change without losing its identity."
+Socrates may be sometimes happy, sometimes sad; sometimes well,
+sometimes ill. Since he can change these properties without ceasing to
+be Socrates, they are no part of his essence. But it is supposed to be
+of the essence of Socrates that he is a man, though a Pythagorean, who
+believes in transmigration, will not admit this. In fact, the question
+of "essence" is one as to the use of words. We apply the same name, on
+different occasions, to somewhat different occurrences, which .we
+regard as manifestations of a single "thing" or "person." In fact,
+however, this is only a verbal convenience. The "essence" of Socrates
+thus consists of those properties in the absence of which we should
+not use the name "Socrates." The question is purely linguistic: a word
+may have an essence, but a thing cannot.
+
+The conception of "substance," like that of "essence," is a 
+transference to metaphysics of what is only a linguistic convenience. 
+We find it convenient, in describing the world, to describe a 
+certain number of occurrences as events in the life of "Socrates," 
+and a certain number of others as events in the life of "Mr. Smith." 
+This leads us to think of "Socrates" or "Mr. Smith" as denoting 
+something that persists through a certain number of years, and 
+as in some way more "solid" and "real" than the events that 
+happen to him. If Socrates is ill, we think that Socrates, at other 
+times, is well, and therefore the being of Socrates is independent 
+of his illness; illness, on the other hand, requires somebody to 
+be ill. But although Socrates need not be ill, something must be 
+occurring to him if he is to be considered to exist. He is not, 
+therefore, really any more "solid" than the things that happen 
+to him. 
+
+"Substance," when taken seriously, is a concept impossible to 
+free from difficulties. A substance is supposed to be the subject 
+of properties, and to be something distinct from all its properties. 
+But when we take away the properties, and try to imagine the 
+substance by itself, we find that there is nothing left. To put the 
+matter in another way: What distinguishes one substance from 
+another? Not difference of properties, for, according to the logic 
+of substance, difference of properties presupposes numerical 
+diversity between the substances concerned. Two substances, 
+therefore, must be just two, without being, in themselves, in any 
+way distinguishable. How, then, are we ever to find out that 
+they are two? 
+
+"Substance," in fact, is merely a convenient way of collecting 
+events into bundles. What can we know about Mr. Smith? When 
+we look at him, we see a pattern of colours; when we listen to him 
+talking, we hear a series of sounds. We believe that, like us, he has 
+thoughts and feelings. But what is Mr. Smith apart from all these 
+occurrences? A mere imaginary hook, from which the occurrences 
+are supposed to hang. They have in fact no need of a hook, any 
+more than the earth needs an elephant to rest upon. Any one 
+can see, in the analogous case of a geographical region, that such 
+a word as "France" (say) is only a linguistic convenience, and that 
+there is not a thing called "France" over and above its various 
+parts. The same holds of "Mr. Smith"; it is a collective name 
+for a number of occurrences. If we take it as anything more, it 
+denotes something completely unknowable, and therefore not 
+needed for the expression of what we know. 
+
+"Substance," in a word, is a metaphysical mistake, due to 
+transference to the world-structure of the structure of sentences 
+composed of a subject and a predicate. 
+
+I conclude that the Aristotelian doctrines with which we have 
+been concerned in this chapter are wholly false, with the exception 
+of the formal theory of the syllogism, which is unimportant. 
+Any person in the present day who wishes to learn logic will be 
+wasting his time if he reads Aristotle or any of his disciples. 
+None the less, Aristotle's logical writings show great ability, and 
+would have been useful to mankind if they had appeared at a 
+time when intellectual originality was still active. Unfortunately, 
+they appeared at the very end of the creative period of Greek 
+thought, and therefore came to be accepted as authoritative. 
+By the time that logical originality revived, a reign of two thousand 
+years had made Aristotle very difficult to dethrone. Throughout 
+modern times, practically every advance in science, in logic, or 
+in philosophy has had to be made in the teeth of opposition from 
+Aristotle's disciples. 
