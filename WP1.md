@@ -166,7 +166,7 @@ again submerged by theology as Christianity rose and Rome fell.
 
 Its second great period, from the eleventh to the fourteenth
 centuries, was dominated by the Catholic Church, except for a few
-great rebels, such as the Emperor Frederick II (1195-1250). This
+great rebels, such as the Emperor Frederick II (1195--1250). This
 period was brought to an end by the confusions that culminated in the
 Reformation. The third period, from the seventeenth century to the
 present day, is dominated, more than either of its predecessors, by
@@ -538,7 +538,7 @@ Egypt and in Mesopotamia, and had spread thence to neighbouring
 countries. But certain elements had been lacking until the Greeks 
 supplied them. What they achieved in art and literature is familiar 
 to even-body, but what they did in the purely intellectual realm 
-is even more exceptional. They invented mathematics [^1] and 
+is even more exceptional. They invented mathematics[^1] and 
 science and philosophy; they first wrote history as opposed to 
 mere annals; they speculated freely about the nature of the world 
 and the ends of life, without being bound in the fetters of any 
@@ -670,7 +670,7 @@ excavations of Sir Arthur Evans and others. It was a maritime
 civilization, in close touch with Egypt (except during the time of the
 Hyksos). From Egyptian pictures it is evident that the very
 considerable commerce between Egypt and Crete was carried on by Cretan
-sailors; this commerce reached its maximum about 1500 BC The Cretan
+sailors; this commerce reached its maximum about 1500 BC. The Cretan
 religion appears to have had some affinities with the religions of
 Syria and Asia Minor, but in art there was more affinity with Egypt,
 though Cretan art was very original and amazingly full of life. The
@@ -707,7 +707,7 @@ no doubt they were defended by sea power.
 
 Before the destruction of the Minoan culture, it spread, about 
 1600 BC, to the mainland of Greece, where it survived, through 
-gradual stages of modification, until about 900 BC This mainland 
+gradual stages of modification, until about 900 BC. This mainland 
 civilization is called the Mycenaean; it is known through the 
 tombs of kings, and also through fortresses on hill-tops, which 
 show more fear of war than had existed in Crete. Both tombs 
@@ -730,7 +730,7 @@ the Cretan civilization pretty completely, as, later, the Romans
 adopted the civilization of Greece. But the lonians were disturbed,
 and largely dispossessed, by their successors, the Achaeans. The
 Achaeans are known, from the Hittite tablets found at Boghaz-Keui, to
-have had a large organized empire in the fourteenth century BC The
+have had a large organized empire in the fourteenth century BC. The
 Mycenaean civilization, which had been weakened by the warfare of the
 lonians and Achaeans, was practically destroyed by the Dorians, the
 last Greek invaders. Whereas previous invaders had largely adopted the
@@ -806,7 +806,7 @@ the art of writing. Although writing had existed for thousands of
 years in Egypt and Babylonia, and the Minonn Cretans had a script
 (which has not been deciphered), there is no conclusive evidence that
 the Greeks acquired alphabetic writing until about the tenth century
-BC They learnt the art from the Phoenicians, who, like the other
+BC. They learnt the art from the Phoenicians, who, like the other
 inhabitants of Syria, were exposed to both Egyptian and Babylonian
 influences, and who held the supremacy in maritime commerce until the
 rise of the Greek cities of Ionia, Italy, and Sicily. In the
@@ -2793,7 +2793,7 @@ There are some presumably those who abstain from sin
 through many incarnations who at last achieve immortal bliss 
 in the company of the gods: 
 
-> But at the last, they [^32] appear among mortal men as prophets,
+> But at the last, they[^32] appear among mortal men as prophets,
 > song-writers, physicians, and princes; and thence they rise up as
 > gods exalted in honour, sharing the hearth of the other gods and the
 > same table, free from human woes, safe from destiny, and incapable
@@ -3105,7 +3105,7 @@ geometrically, indivisible; that between the atoms there is empty
 space; that atoms are indestructible; that they always have been, and
 always will be, in motion; that there are an infinite number of atoms,
 and even of kinds of atoms, the differences being as regards shape and
-size. Aristotle [^36] asserts that, according to the atomists, atoms also
+size. Aristotle[^36] asserts that, according to the atomists, atoms also
 differ as regards heat, the spherical atoms, which compose fire, being
 the hottest; and as regards weight, he quotes Democritus as saying
 "The more any indivisible exceeds, the heavier it is." But the
@@ -3555,7 +3555,7 @@ really known about Protagoras.
 Protagoras was born about 500 BC, at Abdera, the city from 
 which Democritus came. He twice visited Athens, his second visit 
 being not later than 432 BC He made a code of laws for the city 
-of Thurii in 444-3 BC There is a tradition that he was prosecuted 
+of Thurii in 444-3 BC. There is a tradition that he was prosecuted 
 for impiety, but this seems to be untrue, in spite of the fact that 
 he wrote a book _On the Gods_, which began: "With regard to the 
 gods, I cannot feel sure either that they are or that they are not, 
@@ -8004,7 +8004,7 @@ There is first the very interesting comment that it gives too much
 unity to the State, and would make it into an individual. Next 
 comes the kind of argument against the proposed abolition of the 
 family that naturally occurs to every reader. Plato thinks that, by 
-merely giving the title of "son'* to all who are of an age that makes 
+merely giving the title of "son" to all who are of an age that makes 
 their sonship possible, a man will acquire towards the whole 
 multitude the sentiments that men have at present towards their 
 actual sons, and correlatively as regards the title "father." Aristotle, 
@@ -8605,3 +8605,1033 @@ years had made Aristotle very difficult to dethrone. Throughout
 modern times, practically every advance in science, in logic, or 
 in philosophy has had to be made in the teeth of opposition from 
 Aristotle's disciples. 
+
+## Chapter XXIII ARISTOTLE'S PHYSICS 
+
+In this chapter I propose to consider two of Aristotle's books, 
+the one called _Physics_ and the one called _On the Heavens_. 
+These two books are closely connected; the second takes up 
+the argument at the point at which the first has left it. Both were 
+extremely influential, and dominated science until the time of 
+Galileo. Words such as "quintessence" and "sublunary" are 
+derived from the theories expressed in these books. The historian 
+of philosophy, accordingly, must study them, in spite of the fact 
+that hardly a sentence in either can be accepted in the light of 
+modern science. 
+
+To understand the views of Aristotle, as of most Greeks, on physics,
+it is necessary to apprehend their imaginative background. Every
+philosopher, in addition to the formal system which he offers to the
+world, has another, much simpler, of which he may be quite unaware. If
+he is aware of it, he probably realizes that it won't quite do; he
+therefore conceals it, and sets forth something more sophisticated,
+which he believes because it is like his crude system, but which he
+asks others to accept because he thinks he has made it such as cannot
+be disproved. The sophistication comes in by way of refutation of
+refutations, but this alone will never give a positive result: it
+shows, at best, that a theory may be true, not that it must be. The
+positive result, however little the philosopher may realize it, is due
+to his imaginative preconceptions, or to what Santayana calls "animal
+faith."
+
+In relation to physics, Aristotle's imaginative background was 
+very different from that of a modern student. Nowadays, a boy 
+begins with mechanics, which, by its very name, suggests machines. 
+He is accustomed to motor-cars and aeroplanes; he does not, 
+even in the dimmest recesses of his subconscious imagination, 
+think that a motor-car contains some sort of horse in its inside, 
+or that an aeroplane flies because its wings are those of a bird 
+possessing magical powers. Animals have lost their importance 
+in our imaginative pictures of the world, in which man stands 
+comparatively alone as master of a mainly lifeless and largely 
+subservient material environment. 
+
+To the Greek, attempting to give a scientific account of motion, 
+the purely mechanical view hardly suggested itself, except in the 
+case of a few men of genius such as Democritus and Archimedes. 
+Two sets of phenomena seemed important: the movements of 
+animals, and the movements of the heavenly bodies. To the 
+modern man of science, the body of an animal is a very elaborate 
+machine, with an enormously complex physico-chemical structure; 
+every new discovery consists in diminishing the apparent gulf 
+between animals and machines. To the Greek, it seemed more 
+natural to assimilate apparently lifeless motions to those of animals. 
+A child still distinguishes live animals from other things by the 
+fact that they can move of themselves; to many Greeks, and 
+especially to Aristotle, this peculiarity suggested itself as the basis 
+of a general theory of physics. 
+
+But how about the heavenly bodies? They differ from animals by the
+regularity of their movements, but this may be only due to their
+superior perfection. Every Greek philosopher, whatever he may have
+come to think in adult life, had been taught in childhood to regard
+the sun and moon as gods; Anaxagoras was prosecuted for impiety
+because he thought that they were not alive. It was natural that a
+philosopher who could no longer regard the heavenly bodies themselves
+as divine should think of them as moved by the will of a Divine Being
+who had a Hellenic love of order and geometrical simplicity. Thus the
+ultimate source of all movement is Will: on earth the capricious Will
+of human beings and animals, but in heaven the unchanging Will of the
+Supreme Artificer.
+
+I do not suggest that this applies to every detail of what Aristotle 
+has to say. What I do suggest is that it gives his imaginative back- 
+ground, and represents the sort of thing which, in embarking on 
+liis investigations, he would expect to find true. 
+
+After these preliminaries, let us examine what it is that he 
+actually says. 
+
+Physics, in Aristotle, is the science of what the Greeks called
+"phusis" (or "physis"), a word which is translated "nature," but has
+not exactly the meaning which we attach to that word. We still speak
+of "natural science" and "natural history," but "nature" by itself,
+though it is a very ambiguous word, seldom means just what "phusis"
+meant. "Phusis" had to do with growth; one might sav it is the
+"nature" of an acorn to grow into an oak, and in that case one would
+be using the word in the Aristotelian sense. The "nature" of a thing,
+Aristotle says, is its end, that for the sake of which it exists. Thus
+the word has a ideological implication. Some things exist by nature,
+some from other causes. Animals, plants, and simple bodies (elements)
+exist by nature; they have an internal principle of motion (the word
+translated "motion" or "movement" has a wider meaning than
+"locomotion"; in addition to locomotion it includes change of quality
+or of size.) Nature is a source of being moved or at rest. Things
+"have a nature" if they have an internal principle of this kind. The
+phrase "according to nature" applies to these things and their
+essential attributes. (It was through this point of view that
+"unnatural" came to express blame.) Nature is in form rather than in
+matter; what is potentially flesh or bone has not yet acquired its own
+nature, and a thing is more what it is when it has attained to
+fulfilment. This whole point of view seems to be suggested by biology:
+the acorn is "potentially" an oak.
+
+Nature belongs to the class of causes which operate for the sake 
+of something. This leads to a discussion of the view that nature 
+works of necessity, without purpose, in connection with which 
+Aristotle discusses the survival of the fittest, in the form taught 
+by Empedocles. This cannot be right, he says, because things 
+happen in fixed ways, and when a series has a completion, all 
+preceding steps are for its sake. Those things are "natural" which 
+"by a continuous movement, originated from an internal principle, 
+arrive at some completion" (199). 
+
+This whole conception of "nature," though it might well seem 
+admirably suited to explain the growth of animals and plants, 
+became, in the event, a great obstacle to the progress of science, 
+and a source of much that was bad in ethics. In the latter respect, 
+it is still harmful. 
+
+Motion, we are told, is the fulfilling of what exists potentially. 
+This view, apart from other defects, is incompatible with the 
+relativity of locomotion. When A moves relatively to B, B moves 
+relatively to A, and there is no sense in saying that one of the two 
+is in motion while the other is at rest. When a dog seizes a bone, 
+it seems to common sense that the dog moves while the bone 
+remains at rest (until seized), and that the motion has a purpose, 
+namely to fulfil the dog's "nature." But it has turned out that this 
+point of view cannot be applied to dead matter, and that, for the 
+purposes of scientific physics, no conception of an "end" is useful, 
+nor can any motion, in scientific strictness, be treated as other 
+than relative. 
+
+Aristotle rejects the void, as maintained by Leucippus and 
+Democritus. He then passes on to a rather curious discussion of 
+time. It might, he says, be maintained that time does not exist, 
+since it is composed of past and future, of which one no longer 
+exists while the other does not yet exist. This view, however, he 
+rejects. Time, he says, is motion that admits of numeration. (It is 
+not clear why he thinks numeration essential.) We may fairly ask, 
+he continues, whether time could exist without the soul, since there 
+cannot be anything to count unless there is someone to count, 
+and time involves numeration. It seems that he thinks of time as 
+so many hours or days or years. Some things, he adds, are eternal, 
+in the sense of not being in time; presumably he is thinking of 
+such things as numbers. 
+
+There always has been motion, and there always will be; for 
+there cannot be time without motion, and all are agreed that time 
+is uncreated, except Plato. On this point, Christian followers of 
+Aristotle were obliged to dissent from him, since the Bible tells 
+us that the universe had a beginning. 
+
+The _Physics_ ends with the argument for an unmoved mover, 
+which we considered in connection with the _Metaphysics_. There 
+is one unmoved mover, which directly causes a circular motion. 
+Circular motion is the primary kind, and the only kind which 
+can be continuous and infinite. The first mover has no parts or 
+magnitude and is at the circumference of the world. 
+
+Having reached this conclusion, we pass on to the heavens. 
+
+The treatise _On the Heavens_ sets forth a pleasant and simple theory.
+Things below the moon are subject to generation and decay; from the
+moon upwards, everything is ungenerated and indestnictible.The earth,
+which is spherical, is at the centre of the universe. In the sublunary
+sphere, everything is composed of the four elements, earth, water,
+air, and fire; but there is a fifth element, of which the heavenly
+bodies are composed. The natural movement of the terrestrial elements
+is rectilinear, but that of the fifth clement is circular. The heavens
+are perfectly spherical, and the upper regions are more divine than
+the lower. The stars and planets are not composed of fire, hut of the
+fifth element; their motion is due to that of spheres to which they
+are attached. (All this appears in poetical form in Dante's
+_Paradiso_.)
+
+The four terrestrial elements are not eternal, but are generated out
+of each other---fire is absolutely light, in the sense that its
+natural motion is upward; earth is absolutely heavy. Air is relatively
+light, and water is relatively heavy.
+
+This theory provided many difficulties for later ages. Comets, 
+which were recognized as destructible, had to be assigned to the 
+sublunary sphere, but in the seventeenth century it was found 
+that they describe orbits round the sun, and are very seldom as 
+near as the moon. Since the natural motion of terrestrial bodies 
+is rectilinear, it was held that a projectile fired horizontally will 
+move horizontally for a time, and then suddenly begin to fall 
+vertically. Galileo's discovery that a projectile moves in a parabola 
+shocked his Aristotelian colleagues. Copernicus, Kepler, and 
+Galileo had to combat Aristotle as well as the Bible in establishing 
+the view that the earth is not the centre of the universe, but rotates 
+once a day and goes round the sun once a year. 
+
+To come to a more general matter: Aristotelian physics is incompatible
+with Newton's "First Law of Motion," originally enunciated by Galileo.
+This law states that every body, left to itself, will, if already in
+motion, continue to move in a straight line with uniform velocity.
+Thus outside causes are required, not to account for motion, but to
+account for change of motion, either in velocity or in direction.
+Circular motion, which Aristotle thought "natural" for the heavenly
+bodies, involves a continual change in the direction of motion, and
+therefore requires a force directed towards the centre of the circle,
+as in Newton's law of gravitation.
+
+Finally: The view that the heavenly bodies are eternal and
+incorruptible has had to be abandoned. The sun and stars have long
+lives, but do not live for ever. They are born from a nebula, and in
+the end they either explode or die of cold. Nothing in the visible
+world is exempt from change and decay; the Aristotelian belief to the
+contrary, though accepted by medieval Christians, is a product of the
+pagan worship of sun and moon and planets.
+
+
+## Chapter XXIV EARLY GREEK MATHEMATICS AND ASTRONOMY 
+
+I am concerned in this chapter with mathematics, not on its own
+account, but as it was related to Greek philosophy a relation which,
+especially in Plato, was very close. The preeminence of the Greeks
+appears more clearly in mathematics and astronomy than in anything
+else. What they did in art, in literature, and in philosophy, may be
+judged better or worse according to taste, but what they accomplished
+in geometry is wholly beyond question. They derived something from
+Egypt, and rather less from Babylonia; but what they obtained from
+these sources was, in mathematics, mainly simple rules, and in
+astronomy records of observations extended over very long periods. The
+art of mathematical demonstration was, almost wholly, Greek in origin.
+There are many pleasant stories, probably unhistorical, showing what
+practical problems stimulated mathematical investigations. The
+earliest and simplest relates to Thales, who, when in Egypt, was asked
+by the king to find out the height of a pyramid. He waited for the
+time of day when his shadow was as long as he was tall; he then
+measured the shadow of the pyramid, which was of course equal to its
+height. It is said that the laws of perspective were first studied by
+the geometer Agatharcus, in order to paint scenery for the plays of
+Aeschylus. The problem of finding the distance of a ship at sea, which
+was said to have been studied by Thales, was correctly solved at an
+early stage. One of the great problems that occupied Greek geometers,
+that of the duplication of the cube, originated, we are told, with the
+priests of a certain temple, who were informed by the oracle that the
+god wanted a statue twice as large as the one they had. At first they
+thought simply of doubling all the dimensions of the statue, but then
+they realized that the result would be eight times as large as the
+original, which would involve more expense than the god had demanded.
+So they sent a deputation to Plato to ask whether anybody in the
+Academy could solve their problem. The geometers took it up, and
+worked at it for centuries, producing, incidentally, much admirable
+work. The problem is, of course, that of determining the cube root of
+2.
+
+
+
+WThe square root of 2, which was the first irrational to be discovered, was known to the early Pythagoreans, and ingenious 
+methods of approximating to its value were discovered. The best 
+was as follows: Form two columns of numbers, which we will 
+call the _a_'s and the _b_'s; each starts with 1. The next a, at each 
+stage, is formed by adding the last _a_ and _b_ already obtained; the 
+next _b_ is formed by adding twice the previous _a_ to the previous _b_. 
+The first 6 pairs so obtained are (1 ,1), (2, 3), (5, 7), (12, 17), (29, 41), 
+(70, 99). In each pair, 2_a_^2 - _b_^2 is 1 or -1. Thus _b_/_a_ is nearly the 
+square root of two, and at each fresh step it gets nearer. For 
+instance, the reader may satisfy himself that the square of 99/70 
+is very nearly equal to 2. 
+
+Pythagoras always a rather misty figure is described by 
+Proclus as the first who made geometry a liberal education. Many 
+authorities, including Sir Thomas Heath,[^74] believe that he probably 
+discovered the theorem that bears his name, to the effect that, in 
+a right-angled triangle, the square on the side opposite the right 
+angle is equal to the sum of the squares on the other two sides. 
+In any case, this theorem was known to the Pythagoreans at a 
+very early date. They knew also that the sum of the angles of a 
+triangle is two right angles. 
+
+[^74]: _Greek Mathematics_, Vol. I, p. 145.
+
+Irrationals other than the square root of two were studied, in
+particular cases, by Theodorus, a contemporary of Socrates, and in a
+more general way by Theaetetus, who was roughly contemporary with
+Plato, but somewhat older. Democritus wrote a treatise on irrationals,
+but very little is known as to its contents. Plato was profoundly
+interested in the subject; he mentions the work of Thcodorus and
+Theaetetus in the dialogue called after the latter. In the Laws
+(819-820), he says that the general ignorance on this subject is
+disgraceful, and implies that he himself began to know about it rather
+late in life. It had of course an important bearing on the Pythagorean
+philosophy.
+
+One of the most important consequences of the discovery of irrationals
+was the invention of the geometrical theory of proportion by Eudoxus
+(_ca_. 408--_ca_. 355 BC). Before him, there was only the arithmetical
+theory of proportion. According to this theory, the ratio of _a_ to
+_b_ is equal to the ratio of _c_ to _d_ if _a_ times _d_ is equal to
+_b_ times _c_. This definition, in the absence of an arithmetical
+theory of irrationals, is only applicable to rationals. Eudoxus,
+however, gave a new definition not subject to this restriction, framed
+in a manner which suggests the methods of modern analysis. The theory
+is developed in Euclid, and has great logical beauty.
+
+Eudoxus also either invented or perfected the "method of exhaustion," which was subsequently used with great success by 
+Archimedes. This method is an anticipation of the integral calculus. Take, for example, the question of the area of a circle. You 
+can inscribe in a circle a regular hexagon, or a regular dodecagon, 
+or a regular polygon of a thousand or a million sides. The area 
+of such a polygon, however many sides it has, is proportional to 
+the square on the diameter of the circle. The more sides the 
+polygon has, the more nearly it becomes equal to the circle. You 
+can prove that, if you give the polygon enough sides, its area can 
+be got to differ from that of the circle by less than any previously 
+assigned area, however small. For this purpose, the "axiom of 
+Archimedes" is used. This states (when somewhat simplified) 
+that if the greater of two quantities is halved, and then the half 
+is halved, and so on, a quantity will be reached, at last, which is 
+less than the smaller of the original two quantities. In other words, 
+if _a_ is greater than _b_, there is some whole number _n_ such that 2^_n_ 
+times _b_ is greater than _a_. 
+
+The method of exhaustion sometimes leads to an exact result, 
+as in squaring the parabola, which was done by Archimedes; sometimes, as in the attempt to square the circle, it can only lead to 
+successive approximations. The problem of squaring the circle is 
+the problem of determining the ratio of the circumference of a 
+circle to the diameter, which is called &pi;. Archimedes used the 
+approximation 22/7 in calculations; by inscribing and circumscribing 
+a regular polygon of 96 sides, he proved that &pi; is less than 3 1/7 and 
+greater than 3 10/71. The method could be carried to any required 
+degree of approximation, and that is all that any method can do 
+in this problem. The use of inscribed and circumscribed polygons 
+for approximations to &pi; goes back to Antiphon, who was a 
+contemporary of Socrates. 
+
+Euclid, who was still, when I was young, the sole acknowledged 
+text-book of geometry for boys, lived at Alexandria, about 300 BC, 
+a few years after the death of Alexander and Aristotle. Most of 
+his _Elements_ was not original, but the order of propositions, and 
+the logical structure, were largely his. The more one studies geometry, the more admirable these are seen to be. The treatment of 
+parallels by means of the famous postulate of parallels has the 
+twofold merit of rigour in deduction and of not concealing the 
+dubiousness of the initial assumption. The theory of proportion, 
+which follows Eudoxus, avoids all the difficulties connected with 
+irrationals, by methods essentially similar to those introduced by 
+Weierstrass into nineteenth-century analysis. Euclid then passes 
+on to a kind of geometrical algebra, and deals, in Book X, with the 
+subject of irrationals. After this he proceeds to solid geometry, 
+ending with the construction of the regular solids, which had 
+been perfected by Theaetetus and assumed in Plato's Timaeus. 
+
+Euclid's _Elements_ is certainly one of the greatest books ever 
+written, and one of the most perfect monuments of the Greek 
+intellect. It has, of course, the typical Greek limitations: the 
+method is purely deductive, and there is no way, within it, of 
+testing the initial assumptions. These assumptions were supposed 
+to be unquestionable, but in the nineteenth century non-Euclidean 
+geometry showed that they might be in part mistaken, and that 
+only observation could decide whether they were so. 
+
+There is in Euclid the contempt for practical utility which had 
+been inculcated by Plato. It is said that a pupil, after listening to 
+a demonstration, asked what he would gain by learning geometry, 
+whereupon Euclid called a slave and said "Give the young man 
+threepence, since he must needs make a gain out of what he 
+learns." The contempt for practice was, however, pragmatically 
+justified. No one, in Greek times, supposed that conic sections 
+had any utility; at last, in the seventeenth century, Galileo dis- 
+covered that projectiles move in parabolas, and Kepler discovered 
+that planets move in ellipses. Suddenly the work that the Greeks 
+had done from pure love of theory became the key to warfare and 
+astronomy. 
+
+The Romans were too practical-minded to appreciate Euclid; the first
+of them to mention him is Cicero, in whose time there was probably no
+Latin translation; indeed there is no record of any Latin translation
+before Boethius (_ca_. AD 480). The Arabs were more appreciative: a
+copy was given to the caliph by the Byzantine emperor about AD 760,
+and a translation into Arabic was made under Harun al Rashid, about
+AD 800. The first still extant Latin translation was made from the
+Arabic by Adelard of Bath in AD 1120. From that time on, the study of
+geometry gradually revived in the West; but it was not until the late
+Renaissance that important advances were made.
+
+I come now to astronomy, where Greek achievements were as remarkable
+as in geometry. Before their time, among the Babylonians and
+Egyptians, many centuries of observation had laid a foundation. The
+apparent motions of the planets had been recorded, but it was not
+known that the morning and evening star were the same. A cycle of
+eclipses had been discovered, certainly in Babylonia and probably in
+Egypt, which made the prediction of lunar eclipses fairly reliable,
+but not of solar eclipses, since those were not always visible at a
+given spot. We owe to the Babylonians the division of the right angle
+into ninety degrees, and of the degree into sixty minutes; they had a
+liking for the number sixty, and even a system of numeration based
+upon it. The Greeks were fond of attributing the wisdom of their
+pioneers to travels in Egypt, but what had really been achieved before
+the Greeks was very little. The prediction of an eclipse by Thales
+was, however, an example of foreign influence; there is no reason to
+suppose that he added anything to what he learnt from Egyptian or
+Babylonian sources, and it was a stroke of luck that his prediction
+was verified.
+
+Let us begin with some of the earliest discoveries and correct 
+hypotheses. Anaximander thought that the earth floats freely, and 
+is not supported on anything. Aristotle,[^75] who often rejected the 
+best hypotheses of his time, objected to the theory of Anaximander, that the earth, being at the centre, remained immovable 
+because there was no reason for moving in one direction rather 
+than another. If this were valid, he said, a man placed at the 
+centre of a circle with food at various points of the circumference 
+would starve to death for lack of reason to choose one portion of 
+food rather than another. This argument reappears in scholastic 
+philosophy, not in connection with astronomy, but with free will. 
+It reappears in the form of "Buridan's ass," which was unable to 
+choose between two bundles of hay placed at equal distances to 
+right and left, and therefore died of hunger. 
+
+[^75]: _De Caelo_, 295. 
+
+
+Pythagoras, in all probability, was the first to think the earth
+spherical, but his reasons were (one must suppose) aesthetic rather
+than scientific. Scientific reasons, however, were soon found.
+Anaxagoras discovered that the moon shines by reflected light, and
+gave the right theory of eclipses. He himself still thought the earth
+flat, but the shape of the earth's shadow in lunar eclipses gave the
+Pythagoreans conclusive arguments in favour of its being spherical.
+They went further, and regarded the earth as one of the planets. They
+knew from Pythagoras himself, it is said that the morning star and the
+evening star are identical, and they thought that ail the planets,
+including the earth, move in circles, not round the sun, but round the
+"central fire." They had discovered that the moon always turns the
+same face to the earth, and they thought that the earth always turns
+the same face to the "central fire." The Mediterranean regions were on
+the side turned away from the central fire, which was therefore always
+invisible. The central fire was called "the house of Zeus," or "the
+Mother of the gods." The sun was supposed to shine by light reflected
+from the central fire. In addition to the earth, there was another
+body, the counter-earth, at the same distance from the central fire.
+For this, they had two reasons, one scientific, one derived from their
+arithmetical mysticism. The scientific reason was the correct
+observation that an eclipse of the moon sometimes occurs when both sun
+and moon are above the horizon. Refraction, which is the cause of this
+phenomenon, was unknown to them, and they thought that, in such cases,
+the eclipse must be due to the shadow of a body other than the earth.
+The other reason was that the sun and moon, the five planets, the
+earth and counter-earth, and the central fire, made ten heavenly
+bodies, and ten was the mystic number of the Pythagoreans.
+
+This Pythagorean theory is attributed to Philolatis, a Theban, 
+who lived at the end of the fifth century BC. Although it is fanciful 
+and in part quite unscientific, it is very important, since it involves 
+the greater part of the imaginative effort required for conceiving 
+the Copernican hypothesis. To conceive of the earth, not as the 
+centre of the universe, but as one among the planets, not as 
+eternally fixed, but as wandering through space, showed an extra- 
+ordinary emancipation from anthropoctntric thinking. When once 
+this jolt had been given to men's natural picture of the universe, 
+it was not so very difficult to be led by scientific arguments to a 
+more accurate theory. 
+
+To this various observations contributed. Oenopides, who was slightly
+later than Anaxagoras, discovered the obliquity of the ecliptic. It
+soon became clear that the sun must be much larger than the earth,
+which fact supported those who denied that the earth is the centre of
+the universe. The central fire and the counter-earth were dropped by
+the Pythagoreans soon after the time of Plato. Heraclides of Pontus
+(whose dates are about 388 to 315 BC, contemporary with Aristotle)
+discovered that Venus and Mercury revolve about the sun, and adopted
+the view that the earth rotates on its own axis once every twenty-four
+hours. This last was a very important step, which no predecessor had
+taken. Heraclides was of Plato's school, and must have been a great
+man, but was not as much respected as one would expect; he is
+described as a fat dandy.
+
+Aristarchus of Samos, who lived approximately from 310 to 230 BC, and
+was thus about twenty-five years older than Archimedes, is the most
+interesting of all ancient astronomers, because he advanced the
+complete Copernican hypothesis, that all the planets, including the
+earth, revolve in circles round the sun, and that the earth rotates on
+its axis once in twenty-four hours. It is a little disappointing to
+find that the only extant work of Aristarchus, _On the Sizes and
+Distances of the Sun and the Moon_, adheres to the geocentric view. It
+is true that, for the problems with which this book deals, it makes no
+difference which theory is adopted, and he may therefore have thought
+it unwise to burden his calculations with an unnecessary opposition to
+the general opinion of astronomers; or he may have only arrived at the
+Copernican hypothesis after writing this book. Sir Thomas Heath, in
+his work on Aristarchus,[^76] which contains the text of this book
+with a translation, inclines to the latter view. The evidence that
+Aristarchus suggested the Copernican view is, in any case, quite
+conclusive.
+
+[^76]: _Aristarchus of Samos, the Ancient Copernicus_. By Sir Thomas Heath. Oxford, 1913. What follows is based on this book. 
+
+
+The first and best evidence is that of Archimedes, who, as we have
+seen, was a younger contemporary of Aristarchus. Writing to Gelon,
+King of Syracuse, he says that Aristarchus brought out "a book
+consisting of certain hypotheses," and continues: "His hypotheses are
+that the fixed stars and the sun remain unmoved, that the earth
+revolves about the sun in the circumference of a circle, the sun lying
+in the middle of the orbit." There is a passage in Plutarch saying
+that Cleanthes "thought it was the duty of the Greeks to indict
+Aristarchus of Samos on the charge of impiety for putting in motion
+the Hearth of the Universe (i.e. the earth), this being the effect of
+his attempt to save the phenomena by supposing the heaven to remain at
+rest and the earth to revolve in an oblique circle, while it rotates,
+at the same time, about its own axis." Cleanthes was a contemporary of
+Aristarchus, and died about 232 BC. In another passage, Plutarch says
+that Aristarchus advanced this view only as a hypothesis, but that his
+successor Seleucus maintained it as a definite opinion. (Seleucus
+flourished about 250 BC). Aetius and Sextus Empiricus also assert that
+Aristarchus advanced the heliocentric hypothesis, but do not say that
+it was set forth by him only as a hypothesis. Even if he did so, it
+seems not unlikely that he, like Galileo two thousand years later, was
+influenced by the fear of offending religious prejudices, a fear which
+the attitude of Cleanthes (mentioned above) shows to have been well
+grounded.
+
+The Copernican hypothesis, after being advanced, whether positively or tentatively, by Aristarchus, was definitely adopted by 
+Seleucus, but by no other ancient astronomer. This general 
+rejection was mainly due to Hipparchus, who flourished from 161 
+to 126 BC. He is described by Heath as "the greatest astronomer 
+of antiquity."[^77] He was the first to write systematically on trigonometry; he discovered the precession of the equinoxes; he estimated 
+the length of the lunar month with an error of less than one 
+second; he improved Aristarchus's estimates of the sizes and 
+distances of the sun and moon; he made a catalogue of eight 
+hundred and fifty fixed stars, giving their latitude and longitude. 
+As against the heliocentric hypothesis of Aristarchus, he adopted 
+and improved the theory of epicycles which had been invented by 
+Apollonius, who flourished about 220 BC; it was a development 
+of this theory that came to be known, later, as the Ptolemaic 
+system, after the astronomer Ptolemy, who flourished in the middle 
+of the second century AD. 
+
+[^77]: _Greek Mathematics_, Vol. II, p. 253. 
+
+
+Copernicus perhaps came to know something, though not much, of the
+almost forgotten hypothesis of Aristarchus, and was encouraged by
+finding ancient authority for his innovation. Otherwise, the effect of
+this hypothesis on subsequent astronomy was practically nil.
+
+Ancient astronomers, in estimating the sizes of the earth, moon, 
+and sun, and the distances of the moon and sun, used methods 
+which were theoretically valid, but they were hampered by the 
+lack of instruments of precision. Many of their results, in view 
+of this lack, were surprisingly good. Eratosthenes estimated the 
+earth's diameter at 7,850 miles, which is only about fifty miles 
+short of the truth. Ptolemy estimated the mean distance of the 
+moon at 29 1/2 times the earth's diameter; the correct figure is 
+about 30.2. None of them got anywhere near the size and distance 
+of the sun, which all under-estimated. Their estimates, in terms 
+of the earth's diameter, were: 
+
+> Aristarchus, 180;  
+> Hipparchus, 1,245;  
+> Posidonius, 6,545.  
+
+The correct figure is 11,726. It will be seen that these estimates
+continually improved (that of Ptolemy, however, showed a
+retrogression); that of Posidonius[^78] is about half the correct
+figure. On the whole, their picture of the solar system was not so
+very far from the truth.
+
+[^78]: Posidonius was Cicero's teacher. He flourished in the latter half of the second century BC.
+
+Greek astronomy was geometrical, not dynamic. The ancients thought of
+the motions of the heavenly bodies as uniform and circular, or
+compounded of circular motions. They had not the conception of force.
+There were spheres which moved as a whole, and on which the various
+heavenly bodies were fixed. With Newton and gravitation a new point of
+view, less geometrical, was introduced. It is curious to observe that
+there is a reversion to the geometrical point of view in Einstein's
+General Theory of Relativity, from which the conception of force, in
+the Newtonian sense, has been banished.
+
+The problem for the astronomer is this: given the apparent motions of
+the heavenly bodies on the celestial sphere, to introduce, by
+hypothesis, a third co-ordinate, depth, in such a way as to make the
+description of the phenomena as simple as possible. The merit of the
+Coperntcan hypothesis is not truth, but simplicity; in view of the
+relativity of motion, no question of truth is involved. The Greeks, in
+their search for hypotheses which would "save the phenomena," were in
+effect, though not altogether in intention, tackling the problem in
+the scientifically correct way. A comparison with their predecessors,
+and with their successors until Copernicus, must convince every
+student of their truly astonishing genius.
+
+Two very great men, Archimedes and Apollonius, in the third 
+century BC, complete the list of first-class Greek mathematicians. 
+Archimedes was a friend, probably a cousin, of the king of 
+Syracuse, and was killed when that city was captured by the 
+Romans in 212 BC Apollonius, from his youth, lived at Alexandria. 
+Archimedes was not only a mathematician, but also a physicist 
+and student of hydrostatics. Apollonius is chiefly noted for his 
+work on conic sections. I shall say no more about them, as they 
+came too late to influence philosophy. 
+
+After these two men, though respectable work continued to be done in
+Alexandria, the great age was ended. Under the Roman domination, the
+Greeks lost the self-confidence that belongs to political liberty, and
+in losing it acquired a paralysing respect for their predecessors. The
+Roman soldier who killed Archimedes was a symbol of the death of
+original thought that Rome caused throughout the Hellenic world.
+
+# Part 3. Ancient Philosophy after Aristotle 
+
+## Chapter XXV THE HELLENISTIC WORLD 
+
+The history of the Greek-speaking world in antiquity may be divided
+into three periods: that of the free City States, which was brought to
+an end by Philip and Alexander; that of the Macedonian domination, of
+which the last remnant was extinguished by the Roman annexation of
+Egypt after the death of Cleopatra; and finally that of the Roman
+Empire. Of these three periods, the first is characterized by freedom
+and disorder, and second by subjection and disorder, the third by
+subjection and order.
+
+The second of these periods is known as the Hellenistic age. In
+science and mathematics, the work done during this period is the best
+ever achieved by the Greeks. In philosophy, it includes the foundation
+of the Epicurean and Stoic schools, and also of scepticism as a
+definitely formulated doctrine; it is therefore still important
+philosophically, though less so than the period of Plato and
+Aristotle. After the third century BC, there is nothing really new in
+Greek philosophy until the Neoplatonists in the third century AD. But
+meanwhile the Roman world was being prepared for the victory of
+Christianity.
+
+The brief career of Alexander suddenly transformed the Greek world. In
+the ten years from 334 to 324 BC, he conquered Asia Minor, Syria,
+Egypt, Babylonia, Persia, Samarcand, Bactria, and the Punjab. The
+Persian Empire, the greatest that the world had known, was destroyed
+by three battles. The ancient lore of the Babylonians, along with
+their ancient superstitions, became familiar to Greek curiosity; so
+did the Zoroastrian dualism and (in a lesser degree) die religions of
+India, where Buddhism was moving towards supremacy. Wherever Alexander
+penetrated, even in the mountains of Afghanistan, on the banks of the
+Jaxattes, and on the tributaries of the Indus, he founded Greek
+cities, in which he tried to reproduce Greek institutions, with a
+measure of self-government. Although his army was composed mainly of
+Macedonians, and although most European Greeks submitted to him
+unwillingly, he considered himself, at first, as the apostle of
+Hellenism. Gradually, however, as his conquests extended, he adopted
+the policy of promoting a friendly fusion between Greek and barbarian.
+
+For this he had various motives. On the one hand, it was obvious that
+his armies, which were not very large, could not permanently hold so
+vast an empire by force, but must, in the long run, depend upon
+conciliation of the conquered populations. On the other hand, the East
+was unaccustomed to any form of government except that of a divine
+king, a role which Alexander felt himself well fitted to perform.
+Whether he believed himself a god, or only took on the attributes of
+divinity from motives of policy, is a question for the psychologist,
+since the historical evidence is indecisive. In any case, he clearly
+enjoyed the adulation which he received in Egypt as successor of the
+Pharaohs, and in Persia as the Great King. His Macedonian captains the
+"Companions," as they were called had towards him the attitude of
+western nobles to their constitutional sovereign: they refused to
+prostrate themselves before him, they gave advice and criticism even
+at the risk of their lives, and at a crucial moment they controlled
+his actions, when they compelled him to turn homewards from the Indus
+instead of marching on to the conquest of the Ganges. Orientals were
+more accommodating, provided their religious prejudices were
+respected. This offered no difficulty to Alexander; it was only
+necessary to identify Ammon or Bel with Zeus, and to declare himself
+the son of the god. Psychologists observe that Alexander hated Philip,
+and was probably privy to his murder; he would have liked to believe
+that his mother Olympias, like some lady of Greek mythology, had been
+beloved of a god. Alexander's career was so miraculous that he may
+well have thought a miraculous origin the best explanation of his
+prodigious success.
+
+The Greeks had a very strong feeling of superiority to the barbarians;
+Aristotle no doubt expresses the general view when he says that
+northern races are spirited, southern races civilized, but the Greeks
+alone are both spirited and civilized. Plato and Aristotle thought it
+wrong to make slaves of Greeks, but not of barbarians. Alexander, who
+was not quite a Greek, tried to break down this attitude of
+superiority. He himself married two barbarian princesses, and he
+compelled his leading Macedonians to marry Persian women of noble
+birth. His innumerable Greek cities, one would suppose, must have
+contained many more male than female colonists, and their men must
+therefore have followed his example in intermarrying with the women of
+the locality. The result of this policy was to bring into the minds of
+thoughtful men the conception of mankind as a whole; the old loyalty
+to the City State and (in a lesser degree) to the Greek race seemed no
+longer adequate. In philosophy, this cosmopolitan point of view begins
+with the Stoics, but in practice it begins earlier, with Alexander. It
+had the result that the interaction of Greek and barbarian was
+reciprocal: the barbarians learnt something of Greek science, while
+the Greeks learnt much of barbarian superstition. Greek civilization,
+in covering a wider area, became less purely Greek.
+
+Greek civilization was essentially urban. There were, of course, many
+Greeks engaged in agriculture, but they contributed little to what was
+distinctive in Hellenic culture. From the Milesian school onwards, the
+Greeks who were eminent in science and philosophy and literature were
+associated with rich commercial cities, often surrounded by barbarian
+populations. This type of civilization was inaugurated, not by the
+Greeks, but by the Phoenicians; Tyre and Sidon and Carthage depended
+on slaves for manual labour at home, and on hired mercenaries in the
+conduct of their wars. They did not depend, as modern capital cities
+do, upon large rural populations of the same blood and with equal
+political rights. The nearest modern analogue is to be seen in the Far
+East during the latter half of the nineteenth century. Singapore and
+Hong Kong, Shanghai and the other treaty ports of China, were little
+European islands, where the white men formed a com- mercial
+aristocracy living on coolie labour. In North America, north of the
+Mason- Dixon line, since such labour was not available, white men were
+compelled to practise agriculture. For this reason, the hold of the
+white man on North America is secure, while his hold on the Far East
+has already been greatly diminished, and may easily cease altogether.
+Much of his type of culture, especially industrialism, will, however,
+survive. This analogue will help us to understand the position of the
+Greeks in the Alexander's empire.
+
+The effect of Alexander on the imagination of Asia was great 
+and lasting. The _First Book of the Maccabees_, written centuries 
+after his death, opens with an account of his career: 
+
+> And it happened, after that Alexander, son of Philip, the
+> Macedonian, who came out of the land of Chettiim, had smitten
+> Darius, king of the Persians and Medes, that he reigned in his
+> stead, the first over Greece, and made many wars, and won many
+> strong holds, and slew the kings of the earth, and went through to
+> the ends of the earth, and took spoil of many nations, insomuch that
+> the earth was quiet before him; whereupon he was exalted, and his
+> heart was lifted up. And he gathered a mighty strong host, and ruled
+> over countries, and nations, and kings, who became tributaries unto
+> him. And after these things he fell sick, and perceived that he
+> should die. Wherefore he called his servants, such as were
+> honorable, and had been brought up with him from his youth, and
+> parted his kingdom among them, while he was yet alive.[^79] So
+> Alexander reigned twelve years, and then died.
+
+[^79]: This is not historically true. 
+
+He survived as a legendary hero in the Mohammedan religion, 
+and to this day petty chieftains in the Himalayas claim to be 
+descended from him.[^80] No other fully historical hero has ever 
+furnished such a perfect opportunity for the mythopoeic faculty. 
+
+[^80]: Perhaps this is no longer true, as the sons of those who held this belief have been educated at Eton. 
+
+At Alexander's death, there was an attempt to preserve the unity of
+his empire. But of his two sons, one was an infant and the other was
+not yet born. Each had supporters, but in the resultant civil war both
+were thrust aside. In the end, his empire was divided between the
+families of three generals, of whom, roughly speaking, one obtained
+the European, one the African, and one the Asiatic parts of
+Alexander's possessions. The European part fell ultimately to
+Antigonus's descendants; Ptolemy, who obtained Egypt, made Alexandria
+his capital; Seleucus, who obtained Asia after many wars, was too busy
+with campaigns to have a fixed capital, but in later times Antioch was
+the chief city of his dynasty.
+
+Both the Ptolemies and the Seleucids (as the dynasty of Seleucus was
+called) abandoned Alexander's attempts to produce a fusion of Greek
+and barbarian, and established military tyrannies based, at first,
+upon their part of the Macedonian army strengthened with Greek
+mercenaries. The Ptolemies held Egypt fairly securely, but in Asia two
+centuries of confused dynastic wars were only ended by the Roman
+conquest. During these centuries, Persia was conquered by the
+Parthians, and the Bactrian Greeks were increasingly isolated.
+
+In the second century BC (after which they rapidly declined) 
+they had a king, Menander, whose Indian Empire was very 
+extensive. A couple of dialogues between him and a Buddhist sage 
+have survived in Pali, and, in part, in a Chinese translation. Dr. 
+Tarn suggests that the first of these is based on a Greek original; 
+the second, which ends with Menander abdicating and becoming 
+a Buddhist saint, is certainly not. 
+
+Buddhism, at this time, was a vigorous proselytizing religion. 
+Asoka (264-228), the saintly Buddhist king, records, in a still extant 
+inscription, that he sent missionaries to all the Macedonian kings: 
+"And this is the chiefest conquest in His Majesty's opinion the 
+conquest by the Law; this also is that effected by His Majesty both 
+in his own dominions and in all the neighbouring realms as far 
+as six hundred leagues even to where the Greek king Antiochus 
+dwells, and beyond that Antiochus to where dwell the four kings 
+severally named Ptolemy, Antigonus, Magas, and Alexander... 
+and likewise here, in the king's dominions, among the Yonas"[^81] 
+(i.e. the Greeks of the Punjab). Unfortunately no western account 
+of these missionaries has survived. 
+
+[^81]: Quoted in Bevan, _House of Seleucus_, Vol. I, p. 2980. 
+
+Babylonia was much more profoundly influenced by Hellenism. As we have
+seen, the only ancient who followed Aristarchus of Sarnos in
+maintaining the Copernican system was Seleucus of Sdeucia on the
+Tigris, who flourished about 150 BC Tacitus tells us that in the first
+century AD Seleucia had not "lapsed into the barbarous usages of the
+Parthians, but still retained the institutions of Seleucus,[^82] its
+Greek founder. Three hundred citizens, chosen for their wealth or
+wisdom, compose as it were a Senate; the populace too have their share
+of power."[^83] Throughout Mesopotamia, as further West, Greek became
+the language of literature and culture, and remained so until the
+Mohammedan conquest.
+
+[^82]: The king, not the astronomer. 
+[^83]: _Annals_, Book VI, chap. 42. 
+
+Syria (excluding Judea) became completely Hellenized in the 
+cities, in so far as language and literature were concerned. But the 
+rural populations, which were more conservative, retained the 
+religions and the languages to which they were accustomed.[^84] In 
+Asia Minor, the Greek cities of the coast had, for centuries, had 
+an influence on their barbarian neighbours. This was intensified 
+by the Macedonian conquest. The first conflict of Hellenism with 
+the Jews is related in the Books of the Maccabees. It is a profoundly 
+interesting story, unlike anything else in the Macedonian Empire. 
+I shall deal with it at a later stage, when I come to the origin and 
+growth of Christianity. Elsewhere, Greek influence encountered 
+no such stubborn opposition. 
+
+[^84]: See _Cambridge Ancient History_, Vol. V1I, pp. 194-5. 
+
+From the point of view of Hellenistic culture, the most brilliant 
+success of the third century BC was the city of Alexandria. Egypt 
+was less exposed to war than the European and Asiatic parts of 
+the Macedonian domain, and Alexandria was in an extraordinarily 
+favoured position for commerce. The Ptolemies were patrons of 
+learning, and attracted to their capital many of the best men of 
+the age. Mathematics became, and remained until the fall of Rome, 
+mainly Alexandrian. Archimedes, it is true, was a Sicilian, and 
+belonged to the one part of the world where the Greek City 
+States (until the moment of his death in 212 BC) retained their 
+independence; but he too had studied in Alexandria. Eratosthenes 
+was chief librarian of the famous library of Alexandria. The 
+mathematicians and men of science connected, more or less closely, 
+with Alexandria in the third century before Christ were as able 
+as any of the Greeks of the previous centuries, and did work of 
+equal importance. But they were not, like their predecessors, men 
+who took all learning for their province, and propounded universal 
+philosophies; they were specialists in the modern sense. Euclid, 
+Aristarchus, Archimedes, and Apollonius, were content to be 
+mathematicians; in philosophy they did not aspire to originality. 
+
+Specialization characterized the age in all departments, not only 
+in the world of learning. In the self-governing Greek cities of the 
+fifth and fourth centuries, a capable man was assumed to be capable 
+of everything. He would be, as occasion arose, a soldier, a politician, 
+a lawgiver, or a philosopher. Socrates, though he disliked politics, 
+could not avoid being mixed up with political disputes. In his 
+youth he was a soldier, and (in spite of his disclaimer in the 
+_Apology_) a student of physical science. Protagoras, when he could 
+spare time from teaching scepticism to aristocratic youths in search 
+of the latest thing, was drawing up a code of laws for Thurii. 
+
+Plato dabbled in politics, though unsuccessfully. Xenophon, when he
+was neither writing about Socrates nor being a country gentleman,
+spent his spare time as a general. Pythagorean mathematicians
+attempted to acquire the government of cities. Everybody had to serve
+on juries and perform various other public duties. In the third
+century all this was changed. There continued, it is true, to be
+politics in the old City States, but they had become parochial and
+unimportant, since Greece was at the mercy of Macedonian aimies. The
+serious struggles for power were between Macedonian soldiers; they
+involved no question of principle, but merely the distribution of
+territory between rival adventurers. On administrative and technical
+matters, these more or less uneducated soldiers employed Greeks as
+experts; in Egypt, for example, excellent work was done in irrigation
+and drainage. There were soldiers, administrators, physicians,
+mathematicians, philosophers, but there was no one who was all these
+at once.
+
+The age was one in which a man who had money and no desire 
+for power could enjoy a very pleasant life always assuming that 
+no marauding army happened to come his way. Learned men who 
+found favour with some prince could enjoy a high degree of luxury, 
+provided they were adroit flatterers and did not mind being the 
+butt of ignorant royal witticisms. But there was no such thing as 
+security. A palace revolution might displace the sycophantic 
+sage's patron; the Galatians might destroy the rich man's villa; 
+one's city might be sacked as an incident in a dynastic war. In 
+such circumstances it is no wonder that people took to worshipping 
+the goddess Fortune, or Luck. There seemed nothing rational in 
+the ordering of human affairs. Those who obstinately insisted 
+upon finding rationality somewhere withdrew into themselves, 
+and decided, like Milton's Satan, that 
+
+> The mind is its own place, and in itself  
+> Can make a heaven of hell, a hell of heaven.  
+
+Except for adventurous self-seekers, there was no longer any incentive
+to take an interest in public affairs. After the brilliant episode of
+Alexander's conquests, the Hellenistic world was sinking into chaos,
+for lack of a despot strong enough to achieve stable supremacy, or a
+principle powerful enough to produce social cohesion. Greek
+intelligence, confronted with new political problems, showed complete
+incompetence. The Romans, no doubt, were stupid and brutal compared to
+the Greeks, but at least they created order. The old disorder of the
+days of freedom had been tolerable, because every citizen had a share
+in it; but the new Macedonian disorder, imposed upon subjects by
+incompetent rulers, was utterly intolerable far more so than the
+subsequent subjection to Rome.
+
+There was widespread social discontent and fear of revolution. The
+wages of free labour fell, presumably owing to the competition of
+eastern slave labour; and meantime the prices of necessaries rose. One
+finds Alexander, at the outset of his enterprise, having time to make
+treaties designed to keep the poor in their place. "In the treaties
+made in 335 between Alexander and the States of the League of Corinth
+it was provided that the Council of the League and Alexander's
+representative were to see to it that in no city of the League should
+there be either confiscation of personal property, or division of
+land, or cancellation of debt, or liberation of slaves for the purpose
+of revolution."[^85] The temples, in the Hellenistic world, were the
+bankers; they owned the gold reserve, and controlled credit. In the
+early third century, the temple of Apollo at Delos made loans at ten
+per cent; formerly, the rate of interest had been higher.[^86]
+
+[^85]: "The Social Question in the Third Century," by W W. Tarn, in _The Hellenistic Age_ by various authors. Cambridge, 1923. This essay is exceedingly interesting, and contains many facts nor elsewhere readily accessible. 
+
+[^86]: _Ibid_. 
+
+Free labourers who found wages insufficient even for bare necessities
+must, if young and vigorous, have been able to obtain employment as
+mercenaries. The life of a mercenary, no doubt, was filled with
+hardships and dangers, but it also had great possibilities. There
+might be the loot of some rich eastern city; there might be a chance
+of lucrative mutiny. It must have been dangerous for a commander to
+attempt to disband his army, and this must have been one of the
+reasons why wars were almost continuous.
+
+The old civic spirit more or less survived in the old Greek cities,
+but not in the new cities founded by Alexander not excepting
+Alexandria. In earlier times, a new city was always a colony composed
+of emigrants from some one older city, and it remained connected with
+its parent by a bond of sentiment. This kind of sentiment had great
+longevity, as is shown, for example, by the diplomatic activities of
+Lampsacus on the Hellespont in the year 196 BC. This city was
+threatened with subjugation by the Seleucid King Antiochus III, and
+decided to appeal to Rome for protection. An embassy was sent, but it
+did not go direct to Rome; it went first, in spite of the immense
+distance, to Marseilles, which, like Lampsacus, was a colony of
+Phocaea, and was, moreover, viewed with friendly eyes by the Romans.
+The citizens of Mar- seilles, having listened to an oration by the
+envoy, at once decided to send a diplomatic mission of their own to
+Rome to support their sister city. The Gauls who lived inland from
+Marseilles joined in with a letter to their kinsmen of Asia Minor, the
+Galatians, recommending Lampsacus to their friendship. Rome,
+naturally, was glad of a pretext for meddling in the affairs of Asia
+Minor, and by Rome's intervention Lampsacus preserved its freedom
+until it became inconvenient to the Romans.[^87]
+
+[^87]: Beyan, _House of Seleucus_, Vol. II, pp. 45-6. 
+
+In general, the rulers of Asia called themselves "Phil-Hellene," and
+befriended the old Greek cities as far as policy and military
+necessity allowed. The cities desired, and (when they could) claimed
+as a right, democratic self-government, absence of tribute, and
+freedom from a royal garrison. It was worth while to conciliate them,
+because they were rich, they could supply mercenaries, and many of
+them had important harbours. But if they took the wrong side in a
+civil war, they exposed themselves to sheer conquest. On the whole,
+the Seleucids, and the other dynasties which gradually grew up, dealt
+tolerably with them, but there were exceptions.
+
+The new cities, though they had a measure of self-government, had not
+the same traditions as the older ones. Their citizens were not of
+homogeneous origin, but were from all parts of Greece. They were in
+the main adventurers like the conquistadors or the settlers in
+Johannesburg, not pious pilgrims like the earlier Greek colonists or
+the New England pioneers. Consequently no one of Alexander's cities
+formed a strong political unit. This was convenient from the
+standpoint of the king's government, but a weakness from the
+standpoint of the spread of Hellenism.
+
+The influence of non-Greek religion and superstition in the
+Hellenistic world was mainly, but not wholly, bad. This might not have
+been the case. Jews, Persians, and Buddhists all had religions that
+were very definitely superior to the popular Greek polytheism, and
+could even have been studied with profit by the best philosophers.
+Unfortunately it was the Babylonians, or Chaldeans, who most impressed
+the imagination of the Greeks. There was, first of all, their fabulous
+antiquity; the priestly records went back for thousands of years, and
+professed to go back for thousands more. Then there was some genuine
+wisdom: the Babylonians could more or less predict eclipses long
+before the Greeks could. But these were merely causes of
+receptiveness; what was received was mainly astrology and magic.
+"Astrology," says Professor Gilbert Murray, "fell upon the Hellenistic
+mind as a new disease falls upon some remote island people. The tomb
+of Ozymandias, as described by Diodorus, was covered with astrological
+symbols, and that of Antiochus I, which has been discovered in
+Commagene, is of the same character. It was natural for monarchs to
+believe that the stars watched over them. But every one was ready to
+receive the germ."[^88] It appears that astrology was first taught to
+the Greeks in the time of Alexander, by a Chaldean named Berosus, who
+taught in Cos, and, according to Seneca, "interpreted Bel." "This,"
+says Professor Murray, "must mean that he translated into Greek the
+'Eye of Bel,' a treatise in seventy tablets found in the library of
+Assur-bani-pal (686-626 BC) but composed for Sargon I in the third
+millennium BC" (_ibid_., p. 176).
+
+[^88]: _Five Stages of Greek Religion_ pp. 177--8 
+
+As we shall see, the majority even of the best philosophers fell 
+in with the belief in astrology. It involved, since it thought the 
+future predictable, a belief in necessity or fate, which could be 
+set against the prevalent belief in fortune. No doubt most men 
+believed in both, and never noticed the inconsistency. 
+
+The general confusion was bound to bring moral decay, even more than
+intellectual enfeeblement. Ages of prolonged uncertainty, while they
+are compatible with the highest degree of saintliness in a few, are
+inimical to the prosaic every-day virtues of respectable citizens.
+There seems no use in thrift, when to-morrow all your savings may be
+dissipated; no advantage in honesty, when the man towards whom you
+practise it is pretty sure to swindle you; no point in steadfast
+adherence to a cause, when no cause is important or has a chance of
+stable victory; no argument in favour of truthfulness, when only
+supple tergiversation makes the preservation of life and fortune
+possible. The man whose virtue has no source except a purely
+terrestrial prudence will, in such a world, become an adventurer if he
+has the courage, and, if not, will seek obscurity as a timid
+time-server.
+
+Menander, who belongs to this age, says: 
+
+> So many cases I have known  
+> Of men who, though not naturally rogues,  
+> Became so, through misfortune, by constraint.  
+
+This sums up the moral character of the third century BC, 
+except for a few exceptional men. Even among these few, fear 
+took the place of hope; the purpose of life was rather to escape 
+misfortune than to achieve any positive good. "Metaphysics sink 
+into the background, and ethics, now individual, become of the 
+first importance. Philosophy is no longer the pillar of fire going 
+before a few intrepid seekers after truth: it is rather an ambulance 
+following in the wake of the struggle for existence and picking up 
+the weak and wounded."[^89] 
+
+[^89]: C.F. Angus in _Cambridge Ancient History_, Vol. VII, p. 231. The above quotation from Menander is taken from the same chapter. 
