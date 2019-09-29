@@ -11375,19 +11375,18 @@ Mohammedans, and thence ultimately to western Europe.
 Before considering these influences of Rome, a very brief 
 synopsis of the political history will be useful. 
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n301
-
-Alexander's conquests had left the western Mediterranean untouched; it was dominated, at the beginning of the third century 
-BC, by two powerful City States, Carthage and Syracuse. In the 
-first and second Punic Wars (264-241 and 218-201), Rome conquered Syracuse and reduced Carthage to insignificance. During 
-the second century, Rome conquered the Macedonian monarchies 
-Egypt, it is true, lingered on as a vassal state until the death of 
-Cleopatra (30 BC). Spain was conquered as an incident in the 
-war with Hannibal; France was conquered by Caesar in the 
-middle of the first century BC, and England was conquered 
-about a hundred years later. The frontiers of the Empire, in its 
-great days, were the Rhine and Danube in Europe, the Euphrates 
-in Asia, and the desert in North Africa. 
+Alexander's conquests had left the western Mediterranean untouched; it
+was dominated, at the beginning of the third century BC, by two
+powerful City States, Carthage and Syracuse. In the first and second
+Punic Wars (264-241 and 218-201), Rome conquered Syracuse and reduced
+Carthage to insignificance. During the second century, Rome conquered
+the Macedonian monarchies Egypt, it is true, lingered on as a vassal
+state until the death of Cleopatra (30 BC). Spain was conquered as an
+incident in the war with Hannibal; France was conquered by Caesar in
+the middle of the first century BC, and England was conquered about a
+hundred years later. The frontiers of the Empire, in its great days,
+were the Rhine and Danube in Europe, the Euphrates in Asia, and the
+desert in North Africa.
 
 Roman imperialism was, perhaps, at its best in North Africa 
 (important in Christian history as the home of Saint Cyprian and 
@@ -11397,36 +11396,30 @@ The Roman Empire was on the whole stable and peaceful for
 over two hundred years, from the accession of Augustus (30 BC) 
 until the disasters of the third century. 
 
-294 
-
-
-
-THE ROMAN EMPIRE IN RELATION TO CULTURE 
-
-Meanwhile the constitution of the Roman State had undergone 
-important developments. Originally, Rome was a small City 
-State, not very unlike those of Greece, especially such as, like 
-Sparta, did not depend upon foreign commerce. Kings, like those 
-of Homeric Greece, had been succeeded by an aristocratic republic. 
-Gradually, while the aristocratic element, embodied in the Senate, 
-remained powerful, democratic elements were added; the resulting 
-compromise was regarded by Panaetius the Stoic (whose views 
-are reproduced by Polybius and Cicero) as an ideal combination 
-of monarchical, aristocratic, and democratic elements. But conquest upset the precarious balance; it brought immense new 
-wealth to the senatorial class, and, in a slightly lesser degree, to 
-the "knights," as the upper middle class were called. Italian 
-agriculture, which had been in the hands of small farmers growing 
-grain by their own labour and that of their families, came to be a 
-matter of huge estates belonging to the Roman aristocracy, where 
-vines and olives were cultivated by slave labour. The result was 
-the virtual omnipotence of the Senate, which was used shamelessly 
-for the enrichment of individuals, without regard for the interests 
-of the State or the welfare of its subjects. 
+Meanwhile the constitution of the Roman State had undergone important
+developments. Originally, Rome was a small City State, not very unlike
+those of Greece, especially such as, like Sparta, did not depend upon
+foreign commerce. Kings, like those of Homeric Greece, had been
+succeeded by an aristocratic republic. Gradually, while the
+aristocratic element, embodied in the Senate, remained powerful,
+democratic elements were added; the resulting compromise was regarded
+by Panaetius the Stoic (whose views are reproduced by Polybius and
+Cicero) as an ideal combination of monarchical, aristocratic, and
+democratic elements. But conquest upset the precarious balance; it
+brought immense new wealth to the senatorial class, and, in a slightly
+lesser degree, to the "knights," as the upper middle class were
+called. Italian agriculture, which had been in the hands of small
+farmers growing grain by their own labour and that of their families,
+came to be a matter of huge estates belonging to the Roman
+aristocracy, where vines and olives were cultivated by slave labour.
+The result was the virtual omnipotence of the Senate, which was used
+shamelessly for the enrichment of individuals, without regard for the
+interests of the State or the welfare of its subjects.
 
 A democratic movement, inaugurated by the Gracchi in the 
 latter half of the second century BC, led to a series of civil wars, 
 and finally as so often in Greece to the establishment of a 
-4 'tyranny." It is curious to see the repetition, on such a vast scale, 
+"tyranny." It is curious to see the repetition, on such a vast scale, 
 of developments which, in Greece, had been confined to minute 
 areas. Augustus, the heir and adopted son of Julius Caesar, who 
 reigned from 30 BC to AD 14, put an end to civil strife, and (with 
@@ -11444,11 +11437,6 @@ In the civil wars, one general would proclaim himself the champion
 of the Senate, the other of the people. Victory went to the one 
 who offered the highest rewards to the soldiers. The soldiers 
 wanted not only pay and plunder, but grants of land; therefore 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 each civil war ended in the formally legal expulsion of many 
 existing landholders, who were nominally tenants of the State, to 
 make room for the legionaries of the victor. The expenses of the 
@@ -11458,68 +11446,62 @@ could not easily be ended; at last, to every one's surprise, Augustus
 was so completely victorious that no competitor remained to 
 challenge his claim to power. 
 
-To the Roman world, the discovery that the period of civil 
-war was ended came as a surprise, which was a cause of rejoicing 
-to all except a small senatorial party. To every one else, it was a 
-profound relief when Rome, under Augustus, at last achieved the 
-stability and order which Greeks and Macedonians had sought in 
-vain, and which Rome, before Augustus, had also failed to produce. In Greece, according to Rostovtseff, republican Rome had 
-"introduced nothing new, except pauperization, bankruptcy, and 
-a stoppage of all independent political activity/' 1 
+To the Roman world, the discovery that the period of civil war was
+ended came as a surprise, which was a cause of rejoicing to all except
+a small senatorial party. To every one else, it was a profound relief
+when Rome, under Augustus, at last achieved the stability and order
+which Greeks and Macedonians had sought in vain, and which Rome,
+before Augustus, had also failed to produce. In Greece, according to
+Rostovtseff, republican Rome had "introduced nothing new, except
+pauperization, bankruptcy, and a stoppage of all independent political
+activity."[^121]
 
-The reign of Augustus was a period of happiness for the Roman 
-Empire. The administration of the provinces was at last organized 
-with some regard to the welfare of the population, and not on a 
-purely predatory system. Augustus was not only officially deified 
-after his death, but was spontaneously regarded as a god in various 
-provincial cities. Poets praised him, the commercial classes found 
-the universal peace convenient, and even the Senate, which he 
-treated with all the outward forms of respect, lost no opportunity 
-of heaping honors and offices on his head. 
+[^121]: _History of the Ancient World_, Vol. II, p. 255. 
 
-But although the world was happy, some savour had gone out 
-of life, since safety had been preferred to adventure. In early times, 
-every free Greek had had the opportunity of adventure; Philip 
-and Alexander put an end to this state of affairs, and in the 
-Hellenistic world only Macedonian dynasts enjoyed anarchic 
-freedom. The Greek world lost its youth, and became either 
-cynical or religious. The hope of embodying ideals in earthly 
-institutions faded, and with it the best men lost their zest. Heaven, 
-for Socrates, was a place where he could go on arguing; for 
-philosophers after Alexander, it was something more different 
-from their existence here below. 
+The reign of Augustus was a period of happiness for the Roman Empire.
+The administration of the provinces was at last organized with some
+regard to the welfare of the population, and not on a purely predatory
+system. Augustus was not only officially deified after his death, but
+was spontaneously regarded as a god in various provincial cities.
+Poets praised him, the commercial classes found the universal peace
+convenient, and even the Senate, which he treated with all the outward
+forms of respect, lost no opportunity of heaping honors and offices on
+his head.
 
-In Rome, a similar development came later, and in a less painful 
-form. Rome was not conquered, as Greece was, but had, on the 
-1 History of th* Ancient World. Vol. II, p. 255. 
-2Q6 
+But although the world was happy, some savour had gone out of life,
+since safety had been preferred to adventure. In early times, every
+free Greek had had the opportunity of adventure; Philip and Alexander
+put an end to this state of affairs, and in the Hellenistic world only
+Macedonian dynasts enjoyed anarchic freedom. The Greek world lost its
+youth, and became either cynical or religious. The hope of embodying
+ideals in earthly institutions faded, and with it the best men lost
+their zest. Heaven, for Socrates, was a place where he could go on
+arguing; for philosophers after Alexander, it was something more
+different from their existence here below.
 
+In Rome, a similar development came later, and in a less painful form.
+Rome was not conquered, as Greece was, but had, on the contrary, the
+stimulus of successful imperialism. Throughout the period of the civil
+wars, it was Romans who were responsible for the disorders. The Greeks
+had not secured peace and order by submitting to the Macedonians,
+whereas both Greeks and Romans secured both by submitting to Augustus.
+Augustus was a Roman, to whom most Romans submitted willingly, not
+only on account of his superior power; moreover he took pains to
+disguise the military origin of his government, and to base it upon
+decrees of the Senate. The adulation expressed by the Senate was, no
+doubt, largely insincere, but outside the senatorial class no one felt
+humiliated.
 
-
-THE ROMAN EMPIRE IN RELATION TO CULTURE 
-
-contrary, the stimulus of successful imperialism. Throughout the 
-period of the civil wars, it was Romans who were responsible for 
-the disorders. The Greeks had not secured peace and order by 
-submitting to the Macedonians, whereas both Greeks and Romans 
-secured both by submitting to Augustus. Augustus was a Roman, 
-to whom most Romans submitted willingly, not only on account 
-of his superior power; moreover he took pains to disguise the 
-military origin of his government, and to base it upon decrees of 
-the Senate. The adulation expressed by the Senate was, no doubt, 
-largely insincere, but outside the senatorial class no one felt 
-humiliated. 
-
-The mood of the Romans was like that of zjeune homtne range 
-in nineteenth-century France, who, after a life of amatory adventure, settles down to a marriage of reason. This mood, though 
-contented, is not creative. The great poets of the Augustan age 
-had been formed in more troubled times; Horace fled at Philippi, 
-and both he and Virgil lost their farms in confiscations for the 
-benefit of victorious soldiers. Augustus, for the sake of stability, 
-set to work, somewhat insincerely, to restore ancient piety, and 
-was therefore necessarily rather hostile to free inquiry. The 
-Roman world began to become stereotyped, and the process 
-continued under later emperors. 
+The mood of the Romans was like that of _jeune homme range_ in
+nineteenth-century France, who, after a life of amatory adventure,
+settles down to a marriage of reason. This mood, though contented, is
+not creative. The great poets of the Augustan age had been formed in
+more troubled times; Horace fled at Philippi, and both he and Virgil
+lost their farms in confiscations for the benefit of victorious
+soldiers. Augustus, for the sake of stability, set to work, somewhat
+insincerely, to restore ancient piety, and was therefore necessarily
+rather hostile to free inquiry. The Roman world began to become
+stereotyped, and the process continued under later emperors.
 
 The immediate successors of Augustus indulged in appalling 
 cruelties towards Senators and towards possible competitors for 
@@ -11527,93 +11509,59 @@ the purple. To some extent, the misgovernment of this period
 extended to the provinces; but in the main the administrative 
 machine created by Augustus continued to function fairly well. 
 
-A better period began with the accession of Trajan in A.D, 98, 
-and continued until the death of Marcus Aurelius in AD 180. 
-During this time, the government of the Empire was as good as 
-any despotic government can be. The third century, on the contrary, was one of appalling disaster. The army realized its power, 
-made and unmade emperors in return for cash and the promise 
-of a life without warfare, and ceased, in consequence, to be an 
-effective fighting force. The barbarians, from north and east, 
-invaded and plundered Roman territory. The army, preoccupied 
-with private gain and civil discord, was incompetent in defense. 
-The whole fiscal system broke down, since there was an immense 
-diminution of resources and, at the same time, a vast increase of 
-expenditure in unsuccessful war and in bribery of the army. 
-
-297 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-Pestilence, in addition to war, greatly diminished the population. 
-It seemed as if the Empire was about to fall. 
+A better period began with the accession of Trajan in A.D, 98, and
+continued until the death of Marcus Aurelius in AD 180. During this
+time, the government of the Empire was as good as any despotic
+government can be. The third century, on the contrary, was one of
+appalling disaster. The army realized its power, made and unmade
+emperors in return for cash and the promise of a life without warfare,
+and ceased, in consequence, to be an effective fighting force. The
+barbarians, from north and east, invaded and plundered Roman
+territory. The army, preoccupied with private gain and civil discord,
+was incompetent in defense. The whole fiscal system broke down, since
+there was an immense diminution of resources and, at the same time, a
+vast increase of expenditure in unsuccessful war and in bribery of the
+army. Pestilence, in addition to war, greatly diminished the
+population. It seemed as if the Empire was about to fall.
 
 This result was averted by two energetic men, Diocletian (AD 
-
 286-305) and Constantine, whose undisputed reign lasted from 
-
 AD 312 to 337. By them the Empire was divided into an eastern 
-
 and western half, corresponding, approximately, to the division 
-
 between the Greek and Latin languages. By Constantine the 
-
 capital of the eastern half was established at Byzantium, to which 
-
 he gave the new name of Constantinople. Diocletian curbed the 
-
 army, for a while, by altering its character; from his time onwards, 
-
 the most effective fighting forces were composed of barbarians, 
-
 chiefly German, to whom all the highest commands were open. 
-
 This was obviously a dangerous expedient, and early in the fifth 
-
 century it bore its natural fruit. The barbarians decided that it 
-
 was more profitable to fight for themselves than for a Roman 
-
 master. Nevertheless it served its purpose for over a century. 
-
 Diocletian's administrative reforms were equally successful for a 
-
 time, and equally disastrous in the long run. The Roman system 
-
 was to allow local self-government to the towns, and to leave 
-
 their officials to collect the taxes, of which only the total amount 
-
 due from any one town was fixed by the centra) authorities. 
-
 This system had worked well enough in prosperous times, but 
-
 now, in the exhausted state of the empire, the revenue demanded 
-
 was more than could be borne without excessive hardship. The 
-
 municipal authorities were personally responsible for the taxes, 
-
 and fled to escape payment. Diocletian compelled well-to-do 
-
 citizens to accept municipal office, and made flight illegal. From 
-
 similar motives he turned the rural population into serfs, tied to 
-
 the soil and forbidden to migrate. This system was kept on by 
-
 later emperors. 
 
-Constantine's most important innovation was the adoption of 
-Christianity as the State religion, apparently because a large 
-proportion of the soldiers were Christian. 1 The result of this was 
-that when, during the fifth century, the Germans destroyed the 
-Western Empire, its prestige caused them to adopt the Christian 
-religion, thereby preserving for western Europe so much of 
-ancient civilization as had been absorbed by the Church. 
+Constantine's most important innovation was the adoption of
+Christianity as the State religion, apparently because a large
+proportion of the soldiers were Christian.[^122] The result of this
+was that when, during the fifth century, the Germans destroyed the
+Western Empire, its prestige caused them to adopt the Christian
+religion, thereby preserving for western Europe so much of ancient
+civilization as had been absorbed by the Church.
 
-1 Sec Rottovtteff, Hittorv of the Ancient World, Vol. II, p. 332. 
+[^122]: See Rottovtseff, _History of the Ancient World_, Vol. II, p. 332. 
 
 The development of the territory assigned to the eastern half of the
 Empire was different. The Eastern Empire, though continually
@@ -11633,7 +11581,7 @@ had lost of the Grecian heritage.
 I come now to the four ways in which the Roman Empire 
 affected the history of culture. 
 
-I. The direct effect of Rome on Greek thought. This begins in 
+I. _The direct effect of Rome on Greek thought_. This begins in 
 the second century BC, with two men, the historian Polybius, 
 and the Stoic philosopher Panaetius. The natural attitude of the 
 Greek to the Roman was one of contempt mingled with fear; 
@@ -11650,26 +11598,19 @@ insight than had been shown by Aristotle in relation to Alexander,
 realized that the greatness of Rome was due to certain merits 
 which were lacking among the Greeks. 
 
-The historian Polybius, born in Arcadia about 200 BC, was 
-sent to Rome as a prisoner, and there had the good fortune to 
-become the friend of the younger Scipio, whom he accompanied 
-on many of his campaigns. It was uncommon for a Greek to know 
-Latin, though most educated Romans knew Greek; the circumstances of Polybius, however, led him to a thorough familiarity 
-with Latin, lie wrote, for the benefit of the Greeks, the history of 
-ihc later Punic Wars, which enabled Rome to conquer the world. 
-
-299 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-His admiration of the Roman constitution was becoming out of 
-date while he wrote, but until his time it had compared very 
-favorably, in stability and efficiency, with the continually 
-changing constitutions of most Greek cities. The Romans naturally 
-read his history with pleasure; whether the Greeks did so is 
-more doubtful. 
+The historian Polybius, born in Arcadia about 200 BC, was sent to Rome
+as a prisoner, and there had the good fortune to become the friend of
+the younger Scipio, whom he accompanied on many of his campaigns. It
+was uncommon for a Greek to know Latin, though most educated Romans
+knew Greek; the circumstances of Polybius, however, led him to a
+thorough familiarity with Latin. He wrote, for the benefit of the
+Greeks, the history of the later Punic Wars, which enabled Rome to
+conquer the world. His admiration of the Roman constitution was
+becoming out of date while he wrote, but until his time it had
+compared very favorably, in stability and efficiency, with the
+continually changing constitutions of most Greek cities. The Romans
+naturally read his history with pleasure; whether the Greeks did so is
+more doubtful.
 
 Panaetius the Stoic has been already considered in the preceding 
 chapter. He was a friend of Polybius, and, like him, a protege of 
@@ -11691,100 +11632,87 @@ always exhorting the wise man not to tremble in the presence of
 the Emperor. We know the influence of Epictetus on Marcus 
 Aurelius, but his influence on the Greeks is hard to trace. 
 
-Plutarch (ca. AD 46-120), in his Lives of the Noble Grecians and 
-Romans, traced a parallelism between the most eminent men of 
+Plutarch (ca. AD 46--120), in his _Lives of the Noble Grecians and 
+Romans_, traced a parallelism between the most eminent men of 
 the two countries. He spent a considerable time in Rome, and was 
 honored by the Emperors Hadrian and Trajan. In addition to 
 his Lives, he wrote numerous works on philosophy, religion, 
-natural history, and morals. His Lives are obviously concerned 
+natural history, and morals. His _Lives_ are obviously concerned 
 to reconcile Greece and Rome in men's thoughts. 
 
-On the whole, apart from such exceptional men, Rome acted 
-as a blight on the Greek-speaking part of the Empire. Thought 
-and art alike declined. Until the end of the second century AD, 
-life, for the well-to-do, was pleasant and easy-going; there was no 
-incentive to strenuousness, and little opportunity for great achievement. The recognized schools of philosophy the Academy, the 
-Peripatetics, the Epicureans, and the Stoics continued to exist 
-until they were closed by Justinian. None of these, however, 
-showed any vitality throughout the time after Marcus Aurelius, 
+On the whole, apart from such exceptional men, Rome acted as a blight
+on the Greek-speaking part of the Empire. Thought and art alike
+declined. Until the end of the second century AD, life, for the
+well-to-do, was pleasant and easy-going; there was no incentive to
+strenuousness, and little opportunity for great achievement. The
+recognized schools of philosophy the Academy, the Peripatetics, the
+Epicureans, and the Stoics continued to exist until they were closed
+by Justinian. None of these, however, showed any vitality throughout
+the time after Marcus Aurelius, except the Neoplatonists in the third
+century AD, whom we shall consider in the next chapter; and these men
+were hardly at all influenced by Rome. The Latin and Greek halves of
+the Empire became more and more divergent; the knowledge of Greek
+became rare in the west, and after Constantine Latin, in the east,
+survived only in law and in the army.
 
-joo 
-
-
-
-THE ROMAN EMPIRE IN RELATION TO CULTURE 
-
-except the Neoplatonists in the third century AD, whom we shall 
-consider in the next chapter; and these men were hardly at all 
-influenced by Rome. The Latin and Greek halves of the Empire 
-became more and more divergent; the knowledge of Greek 
-became rare in the west, and after Constantine Latin, in the east, 
-survived only in law and in the army. 
-
-II. The influence of Greece and the East on Rome. There are here 
+II. _The influence of Greece and the East on Rome_. There are here 
 two very different things to consider: first, the influence of Hellenic 
 art and literature and philosophy on the most cultivated Romans; 
 second, the spread of non-Hellenic religions and superstitions 
 throughout the Western world. 
 
-(i) When the Romans first came in contact with Greeks, they 
-became aware of themselves as comparatively barbarous and urcouth. The Greeks were immeasurably their superiors in many 
-ways: in manufacture and in the technique of agriculture; in the 
-kinds of knowledge that are necessary for a good official; in conversation and the art of enjoying life; in art and literature and 
-philosophy. The only tilings in which the Romans were superior 
-were military tactics and social cohesion. The relation of the 
-Romans to the Creeks was something like that of the Prussians 
-to the French in 1814 and 1815; but this latter was temporary, 
-whereas the other lasted a long time. After the Punic Wars, young 
-Romans conceived an admiration for the Greeks. They learnt the 
-Greek language, they copied Greek architecture, they employed 
-Greek sculptors. The Roman gods were identified with the gods 
-of Greece. The Trojan origin of the Romans was invented to 
-make a connection with the Homeric myths. Latin poets adopted 
-Greek meters, Latin philosophers took over Greek theories. To 
-the end, Rome was culturally parasitic on Greece. The Romans 
-invented no art forms, constructed no original system of philosophy, and made no scientific discoveries. They made good roads, 
-systematic legal codes, and efficient armies; for the rest they 
-looked to Greece, 
+(1) When the Romans first came in contact with Greeks, they became
+aware of themselves as comparatively barbarous and urcouth. The Greeks
+were immeasurably their superiors in many ways: in manufacture and in
+the technique of agriculture; in the kinds of knowledge that are
+necessary for a good official; in conversation and the art of enjoying
+life; in art and literature and philosophy. The only tilings in which
+the Romans were superior were military tactics and social cohesion.
+The relation of the Romans to the Creeks was something like that of
+the Prussians to the French in 1814 and 1815; but this latter was
+temporary, whereas the other lasted a long time. After the Punic Wars,
+young Romans conceived an admiration for the Greeks. They learnt the
+Greek language, they copied Greek architecture, they employed Greek
+sculptors. The Roman gods were identified with the gods of Greece. The
+Trojan origin of the Romans was invented to make a connection with the
+Homeric myths. Latin poets adopted Greek meters, Latin philosophers
+took over Greek theories. To the end, Rome was culturally parasitic on
+Greece. The Romans invented no art forms, constructed no original
+system of philosophy, and made no scientific discoveries. They made
+good roads, systematic legal codes, and efficient armies; for the rest
+they looked to Greece.
 
-The Hellenizing of Rome brought with it a certain softening of 
-manners, abhorrent to the elder Cato. Until the Punic Wars, the 
-Romans had been a bucolic people, with the virtues and vices ot 
-farmers: austere, industrious, brutal, obstinate, and stupid. Their 
-family life had been stable and solidly built on the patria potestas; 
-women;md young people were completely subordinated. All this 
+The Hellenizing of Rome brought with it a certain softening of
+manners, abhorrent to the elder Cato. Until the Punic Wars, the Romans
+had been a bucolic people, with the virtues and vices ot farmers:
+austere, industrious, brutal, obstinate, and stupid. Their family life
+had been stable and solidly built on the _patria potestas_; women and
+young people were completely subordinated. All this changed with the
+influx of sudden wealth. The small farms disappeared, and were
+gradually replaced by huge estates on which slave labour was employed
+to carry out new scientific kinds of agriculture. A great class of
+traders grew up, and a large number of men enriched by plunder, like
+the nabobs in eighteenth-century England. Women, who had been virtuous
+slaves, became free and dissolute; divorce became common; the rich
+ceased to have children. The Greeks, who had gone through a similar
+development centuries ago, encouraged, by their example, what
+historians call the decay of morals. Even in the most dissolute times
+of the Empire, the average Roman still thought of Rome as the upholder
+of a purer ethical standard against the decadent corruption of Greece.
 
-301 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-
-
-changed with the influx of sudden wealth. The small farms disappeared, and were gradually replaced by huge estates on which 
-slave labour was employed to carry out new scientific kinds of 
-agriculture. A great class of traders grew up, and a large number 
-of men enriched by plunder, like the nabobs in eighteenth-century 
-England. Women, who had been virtuous slaves, became free and 
-dissolute; divorce became common; the rich ceased to have 
-children. The Greeks, who had gone through a similar development centuries ago, encouraged, by their example, what historians 
-call the decay of morals. Even in the most dissolute times of the 
-Empire, the average Roman still thought of Rome as the upholder 
-of a purer ethical standard against the decadent corruption of 
-Greece. 
-
-The cultural influence ot Greece on the Western Kmpire 
-diminished rapidly from the third century AD onwards, chiefly 
-because culture in general decayed. For this there were many 
-causes, but one in particular must be mentioned. In the last times 
-of the Western Empire, the government was more undisguised!}* 
-a military tyranny than it had been, and the army usually selected 
-a successful general as emperor; but the army, even in its highest 
-ranks, was no longer composed of cultivated Romans, but of semibarbarians from the frontier. These rough soldiers had no use for 
-culture, and regarded the civilized citizens solely as sources of 
-revenue. Private persons were too impoverished to support much 
-in the way of education, and the State considered education unnecessary. Consequently, in the West, only a few men of exceptional learning continued to read Greek. 
+The cultural influence ot Greece on the Western Kmpire diminished
+rapidly from the third century AD onwards, chiefly because culture in
+general decayed. For this there were many causes, but one in
+particular must be mentioned. In the last times of the Western Empire,
+the government was more undisguisedly a military tyranny than it had
+been, and the army usually selected a successful general as emperor;
+but the army, even in its highest ranks, was no longer composed of
+cultivated Romans, but of semi-barbarians from the frontier. These
+rough soldiers had no use for culture, and regarded the civilized
+citizens solely as sources of revenue. Private persons were too
+impoverished to support much in the way of education, and the State
+considered education unnecessary. Consequently, in the West, only a
+few men of exceptional learning continued to read Greek.
 
 (2) Non-Hellenic religion and superstition, on the contrary, 
 acquired, as time went on, a firmer and firmer hold on the West. 
@@ -11794,18 +11722,15 @@ Similarly the Roman conquests made the Western world familiar
 with these doctrines, and also with those of Jews and Christians. 
 I shall consider what concerns the Jews anJ Christians at a later 
 stage; for the present, I shall confine myself as far as possible to 
-pagan superstitions. 1 
+pagan superstitions.[^123]
+
+[^123]: See Cumont, _Oriental Religions in Roman Paganism_. 
+
 
 In Rome every sect and every prophet was represented, and 
 sometimes won favor in the highest government circles. Lucian, 
 who stood for sane skepticism in spite of the credulity of his age. 
-* See Cumom, Oriental Religion* in Roman Paganism. 
-
-
-
-THE ROMAN EMPIRE IN RELATION TO CULTURE 
-
-tcfls an amusing story, generally accepted as broadly true, about 
+tells an amusing story, generally accepted as broadly true, about 
 a prophet and miracle-worker called Alexander the Paphlagonian. 
 This man healed the sick and foretold the future, with excursions 
 into blackmail. His fame reached the ears of Marcus Aurelius, 
@@ -11820,144 +11745,122 @@ enjoyed the favors of the moon, and by her had a daughter,
 whom the oracle recommended to Rutilianus. "Rutilianus, who 
 was at the time sixty years old, at once complied with the divine 
 injunction, and celebrated his marriage by sacrificing whole 
-hecatombs to his celestial mother-in-law." 1 
+hecatombs to his celestial mother-in-law."[^124]
 
-More important than the career of Alexander the Paphlagonian 
-was the reign of the Krnperor Klagabalus or Heliogabalus (AD 218--22), who was, until his elevation by the choice of the army, a 
-Syrian priest of the sun. In his slow progress from Syria to Rome, 
-he was preceded by his portrait, sent as a present to the Senate. 
-"He was drawn in his sacerdotal robes of silk and gold, after the 
-loose flowing fashion of the Medes and Phoenicians; his head 
-was covered with a lofty tiara, his numerous collars and bracelets 
-were adorned with gems of inestimable value. His eyebrows were 
-tinged with black, and his cheeks painted with an artificial red 
-and white. The grave senators confessed with a sigh, that, after 
-having long experienced the stern tyranny of their own countrymen, Rome was at length humbled beneath the effeminate luxury 
-of Oriental despotism." 1 Supported by a large section in the army, 
-he proceeded, with fanatical zeal, to introduce in Rome the 
-religious practices of the East; his name was that of the sun-god 
-worshipped at Emesa, where he had been chief priest. His mother, 
-or grandmother, who was the real ruler, perceived that he had 
-Kone too far, and deposed him in favor of her nephew Alexander 
-(222-35), whoe Oriental proclivities were more moderate. The 
-mixture of creeds that wa$ possible in his day was illustrated in 
+[^124]: Benn, _The Greek Philosophers_, Vol. II, p. 226. 
 
-Brnn, Tht Check PMlmofhen. Vol. II, p. 226. 
+More important than the career of Alexander the Paphlagonian was the
+reign of the Krnperor Klagabalus or Heliogabalus (AD 218--22), who
+was, until his elevation by the choice of the army, a Syrian priest of
+the sun. In his slow progress from Syria to Rome, he was preceded by
+his portrait, sent as a present to the Senate. "He was drawn in his
+sacerdotal robes of silk and gold, after the loose flowing fashion of
+the Medes and Phoenicians; his head was covered with a lofty tiara,
+his numerous collars and bracelets were adorned with gems of
+inestimable value. His eyebrows were tinged with black, and his cheeks
+painted with an artificial red and white. The grave senators confessed
+with a sigh, that, after having long experienced the stern tyranny of
+their own countrymen, Rome was at length humbled beneath the
+effeminate luxury of Oriental despotism."[^125] Supported by a large
+section in the army, he proceeded, with fanatical zeal, to introduce
+in Rome the religious practices of the East; his name was that of the
+sun-god worshipped at Emesa, where he had been chief priest. His
+mother, or grandmother, who was the real ruler, perceived that he had
+Kone too far, and deposed him in favor of her nephew Alexander
+(222--35), whoe Oriental proclivities were more moderate. The mixture
+of creeds that wa$ possible in his day was illustrated in his private
+chapel, in which he placed the statues of Abraham Orpheus, Apollonius
+of Tyana, and Christ.
 
-Gibbon, chap. vi. 
+[^125]: Gibbon, chap. vi. 
 
-303 
+The religion of Mithras, which was of Persian origin, was a close
+competitor of Christianity, especially during the latter half of the
+third century AD The emperors, who were making desperate attempts to
+control the army, felt that religion might give a much needed
+stability; but it would have to be one of the new religions, since it
+was these that the soldiers favored. The cult was introduced at Rome,
+and had much to commend it to the military mind. Mithras was a
+sun-god, but not so effeminate as his Syrian colleague; he was a god
+concerned with war, the great war between good and evil which had been
+part of the Persian creed since Zoroaster. Rostovtseff[^126]
+reproduces a bas-relief representing his worship, which was found in a
+subterranean sanctuary at Heddernheim in Germany, and shows that his
+disciples must have been numerous among the soldiers, not only in the
+East, but in the West also.
 
+[^126]: _History of the Ancient World_, Vol. II, p. 343. 
 
+Constantine's adoption of Christianity was politically successful,
+whereas earlier attempts to introduce a new religion failed; but the
+earlier attempts were, from a governmental point of view, very similar
+to his. All alike derived their possibility of success from the
+misfortunes and weariness of the Roman world. The traditional
+religions of Greece and Rome were suited to men interested in the
+terrestrial world, and hopeful of happiness on earth. Asia, with a
+longer experience of despair, had evolved more successful antidotes in
+the form of other-worldly hopes; of all these, Christianity was the
+most effective in bringing consolation. But Christianity, by the time
+it became the State religion, had absorbed much from Greece, and
+transmitted this, along with the Judaic element, to succeeding ages in
+the West.
 
-WESTERN PHILOSOPHICAL THOUGHT 
+III. _The unification of government and culture_. We owe it first to
+Alexander and then to Rome that the achievements of the great age of
+Greece were not lost to the world, like those of the Minoan age. In
+the fifth century BC, a Jenghiz Khan, if one had happened to arise,
+could have wiped out all that was important in the Hellenic world;
+Xerxes, with a little more competence, might have made Greek
+civilization very greatly inferior to what it became after he was
+repulsed. Consider the period from Aeschylus to Plato: all that was
+done in this time was done by a minority of the population of a few
+commercial cities. These cities, as the future showed, had no great
+capacity for withstanding foreign conquest, but by an extraordinary
+stroke of good fortune their conquerors, Macedonian and Roman, were
+Philhellenes, and did not destroy what they conquered, as Xerxes or
+Carthage would have done. The fact that we are acquainted with what
+was done by the Greeks in an and literature and philosophy and science
+is due to the stability introduced by Western conquerors who had the
+good sense to admire the civilization which they governed but did
+their utmost to preserve.
 
-his private chapel, in which he placed the statues of Abraham 
-Orpheus, Apollonius of Tyana, and Christ. 
-. The religion of Mithras, which was of Persian origin, was a 
-close competitor of Christianity, especially during the latter half 
-of the third century AD The emperors, who were making desperate 
-attempts to control the army, felt that religion might give a much 
-needed stability; but it would have to be one of the new religions, 
-since it was these that the soldiers favored. The cult was introduced at Rome, and had much to commend it to the military mind. 
-Mithras was a sun-god, but not so effeminate as his Syrian colleague; he was a god concerned with war, the great war between 
-good and evil which had been part of the Persian creed since 
-Zoroaster. Rostovtseff 1 reproduces a bas-relief representing his 
-worship, which was found in a subterranean sanctuary at Heddernheim in Germany, and shows that his disciples must have been 
-numerous among the soldiers, not only in the East, but in the 
-West also. 
+In certain respects, political and ethical, Alexander and the Romans
+were the causes of a better philosophy than any that was professed by
+Greeks in their days of freedom. The Stoics, as we have seen, believed
+in the brotherhood of man, and did not confine their sympathies to the
+Greeks. The long dominion of Rome accustomed men to the idea of a
+single civilization under a single government, li'e are aware that
+there were important parts of the world which were not subject to Rome
+India and China, more especially. But to the Roman it seemed that
+outside the Empire there were only more or less barbarian tribes, who
+might be conquered whenever it should be worth while to make the
+effort. Essentially and in idea, the empire, in the minds of the
+Romans, was worldwide. This conception descended to the Church, which
+was "Catholic" in spite of Buddhists, Confucians, and (later)
+Mohammedans. _Securus judicat orbis terrarum_ is a maxim taken over by
+the Church from the later Stoics; it owes its appeal to the apparent
+universality of the Roman Empire. Throughout the Middle Ages, after
+the time of Charlemagne, the Church and the Holy Roman Empire were
+world-wide in idea, although everybody knew that they were not so in
+fact. The conception of one human family, one Catholic religion, one
+universal culture, and one world-wide State, has haunted men's
+thoughts ever since its approximate realization by Rome.
 
-Constantine's adoption of Christianity was politically successful, 
-whereas earlier attempts to introduce a new religion failed; but 
-the earlier attempts were, from a governmental point of view, very 
-similar to his. All alike derived their possibility of success from 
-the misfortunes and weariness of the Roman world. The traditional 
-religions of Greece and Rome were suited to men interested in the 
-terrestrial world, and hopeful of happiness on earth. Asia, with a 
-longer experience of despair, had evolved more successful antidotes in the form of other-worldly hopes; of all these, Christianity 
-was the most effective in bringing consolation. But Christianity, 
-by the time it became the State religion, had absorbed much from 
-Greece, and transmitted this, along with the Judaic element, to 
-succeeding ages in the West. 
+The part played by Rome in enlarging the area of civilization was of
+immense importance. Northern Italy, Spain, France, and parts of
+western Germany, were civilized as a result of forcible conquest by
+the Roman legions. All these regions proved themselves just as capable
+of a high level of culture as Rome itself. In the last days of the
+Western Empire, Gaul produced men who were at least the equals of
+their contemporaries in regions of older civilization. It was owing to
+the diffusion of culture by Rome that the barbarians produced only a
+temporary eclipse, not a permanent darkness. It may be argued that the
+quality of civilization was never again as good as in the Athens of
+Pericles; but in a world of war and destruction, quantity is, in the
+long run, almost as important as quality, and quantity was due to
+Rome.
 
-III. The unification of government and culture. We owe it first 
-
-to Alexander and then to Rome that the achievements of the great 
-
-age of Greece were not lost to the world, like those of the Minoan 
-
-age. In the fifth century BC, a Jenghiz Khan, if one had happened 
-
-to arise, could have wiped out all that was important in the 
-
-Hellenic world; Xerxes, with a little more competence, might 
-
-have made Greek civilization very greatly inferior to what it 
-
-became after he was repulsed. Consider the period from Aeschylus 
-
-1 History of the Ancient World, Vol. II, p. 343. 
-
-304 
-
-
-
-THE ROMAN EMPIRE IN RELATION TO CULTURE 
-
-to Plato: all that was done in this time was done by a minority 
-of the population of a few commercial cities. These cities, as the 
-future showed, had no great capacity for withstanding foreign 
-conquest, but by an extraordinary stroke of good fortune their 
-conquerors, Macedonian and Roman, were Philhellenes, and did 
-not destroy what they conquered, as Xerxes or Carthage would 
-have done. The fact that we are acquainted with what was done 
-by the (1 reeks in an and literature and philosophy and science 
-is due to the stability introduced by Western conquerors who had 
-the good sense to admire the civilization which they governed 
-but did their utmost to preserve. 
-
-In certain respects, political and ethical, Alexander and the 
-Romans were the causes of a better philosophy than any that was 
-professed by Greeks in their days of freedom. The Stoics, as we 
-have seen, believed in the brotherhood of man, and did not confine 
-their sympathies to the Greeks. The long dominion of Rome 
-accustomed men to the idea of a single civilization under a single 
-government, li'e are aware that there were important parts of the 
-world which were not subject to Rome India and China, more 
-especially. But to the Roman it seemed that outside the Empire there 
-were only more or less barbarian tribes, who might be conquered 
-whenever it should be worth while to make the effort. Essentially 
-and in idea, the empire, in the minds of the Romans, was worldwide. This conception descended to the Church, which was 
-"Catholic" in spite of Buddhists, Confucians, and (later) Mohammedans. tSVruriis judicat orbis terrarum is a maxim taken over by 
-ihr Church from the later Stoics; it owes its appeal to the apparent 
-uimcr&ality of the Roman Empire. Throughout the Middle Ages, 
-after the time of Charlemagne, the Church and the Holy Roman 
-Kmpirt were world-xude in idea, although everybody knew that 
-they were not so in fact. The conception of one human family, 
-one Catholic religion, one universal culture, and one world-wide 
-State, has haunted men's thoughts ever since its approximate 
-realization by Rome. 
-
-The part played by Rome in enlarging the area of civilization 
-was of immense importance. Northern Italy, Spain, France, and 
-parts of western Germany, were civilized as a result of forcible 
-conquest by the Roman legions. All these regions proved themselves just as capable of a high level of culture as Rome itself. 
-In the last days of the Western Empire, Gaul produced men who 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-were at least the equals of their contemporaries in regions of 
-older civilization. It was owing to the diffusion of culture by 
-Rome that the barbarians produced only a temporary eclipse, 
-not a permanent darkness. It may be argued that the quality of 
-civilization was never again as good as in the Athens of Pericles; 
-but in a world of war and destruction, quantity is, in the long 
-run, almost as important as quality, and quantity was due to 
-Rome. 
-
-IV. The Mohammedans as vehicles of Hellenism. In the seventh 
+IV. _The Mohammedans as vehicles of Hellenism_. In the seventh 
 century, the disciples of the Prophet conquered Syria, Egypt, and 
 North Africa; in the following century, they conquered Spain. 
 Their victories were easy, and the fighting was slight. Except 
@@ -11970,33 +11873,25 @@ Greek authors in translation, and wrote commentaries. Aristotle's
 reputation is mainly due to them; in antiquity, he was not regarded 
 as on a level with Plato. 
 
-It is instructive to consider some of the words that we derive 
-from Arabic, such as: algebra, alcohol, alchemy, alembic, alkali, 
-azimuth, zenith. With the exception of "alcohol" which meant, 
-not a drink, but a substance used in chemistr these words 
-would give a good picture of some of the things we owe to the 
-Arabs. Algebra had been invented by the Alexandrian Greeks, 
-but was carried further by the Mohammedans. "Alchemy/ 
-"alembic," "alkali" are words connected with the attempt to 
-turn base metals into gold, which the Arabs took over from the 
-Greeks, and in pursuit of which they appealed to Greek philosophy. 1 "Azimuth" and "zenith" are astronomical terms, chiefly 
-useful to the Arabs in connection with astrology. 
+It is instructive to consider some of the words that we derive from
+Arabic, such as: algebra, alcohol, alchemy, alembic, alkali, azimuth,
+zenith. With the exception of "alcohol" which meant, not a drink, but
+a substance used in chemistr these words would give a good picture of
+some of the things we owe to the Arabs. Algebra had been invented by
+the Alexandrian Greeks, but was carried further by the Mohammedans.
+"Alchemy," "alembic," "alkali" are words connected with the attempt to
+turn base metals into gold, which the Arabs took over from the Greeks,
+and in pursuit of which they appealed to Greek philosophy.[^127]
+"Azimuth" and "zenith" are astronomical terms, chiefly useful to the
+Arabs in connection with astrology.
+
+[^127]: See _Alchemy, Child of Greek Philosophy_, by Arthur John Hopkins, Columbia, 1934. 
 
 The etymological method conceals what we owe to the Arabs 
 as regards knowledge of Greek philosophy, because, when it was 
 again studied in Europe, the technical term* required were taken 
 from Greek or Latin. In philosophy, the Arabs were better as 
 commentators than as original thinkers. Their importance, for us, 
-
-1 Sec Alchemy, Child of Greek Philtxaphy, by Arthur John Hopkin*, 
-Columbia, 1934. 
-
-306 
-
-
-
-THE ROMAN EMPIRE IN RELATION TO CULTURE 
-
 is that they, and not the Christians, were the immediate inheritors 
 of those parts of the Greek tradition which only the Eastern 
 Empire had kept alive. Contact with the Mohammedans, in Spain, 
@@ -12010,215 +11905,175 @@ writers of antiquity. Rut if the Arabs had not preserved the
 tradition, the men of the Renaissance might not have suspected 
 how much was to he gained by the revival of classical learning. 
 
-
-
-307 
-
-
-
 ## Chapter XXX PLOTINUS 
 
-PLOTINUS (AD 204-70), the founder of Neoplatonism, is 
-the last of the great philosophers of antiquity. His life is 
-almost coextensive with one of the most disastrous periods 
-in Roman history. Shortly before his birth, the army had become 
-conscious of its power, and had adopted the practice of choosing 
-emperors in return for monetary rewards, and assassinating them 
-afterwards to give occasion for a renewed sale of the empire. 
-These preoccupations unfitted the soldiers for the defense of the 
-frontier, and permitted vigorous incursions of Germans from the 
-north and Persians from the Hast. War and pestilence diminished 
-the population of the empire by about a third, while increased 
-taxation and diminished resources caused financial ruin in even 
-those provinces to which no hostile forces penetrated. The cities, 
-which had been the bearers of culture, were especially hard hit; 
-substantial citizens, in large numbers, fled to escape the tax* 
-collector. It was not till after the death of Plotinus that order was 
-re-established and the empire temporarily saved by the vigorous 
-measures of Diocletian and Constantine. 
+Plotinus (AD 204--70), the founder of Neoplatonism, is the last of the
+great philosophers of antiquity. His life is almost coextensive with
+one of the most disastrous periods in Roman history. Shortly before
+his birth, the army had become conscious of its power, and had adopted
+the practice of choosing emperors in return for monetary rewards, and
+assassinating them afterwards to give occasion for a renewed sale of
+the empire. These preoccupations unfitted the soldiers for the defense
+of the frontier, and permitted vigorous incursions of Germans from the
+north and Persians from the Hast. War and pestilence diminished the
+population of the empire by about a third, while increased taxation
+and diminished resources caused financial ruin in even those provinces
+to which no hostile forces penetrated. The cities, which had been the
+bearers of culture, were especially hard hit; substantial citizens, in
+large numbers, fled to escape the tax-collector. It was not till after
+the death of Plotinus that order was re-established and the empire
+temporarily saved by the vigorous measures of Diocletian and
+Constantine.
 
-Of all this there is no mention in the works of Plotinus. He 
-turned aside from the spectacle of ruin and misery in the actual 
-world, to contemplate an eternal world ot goodness and beauty. 
-In this he was in harmony with all the most serious men of his 
-age. To all of them, Christians and pagans alike, the world of 
-practical affairs seemed to offer no hope, and only the Other 
-World seemed worthy of allegiance. To the Christian, the Other 
-World was the Kingdom of Heaven, to be enjoyed after death; 
-to the Platonist, it was the eternal world of ideas, the real world 
-as opposed to that of illusory appearance. Christian theologians 
-combined these points of view, and embodied much of the philosophy of Plotinus. Dean Inge, in his invaluable book on Plotinus, 
-rightly emphasizes what Christianity owes to him. "Platonism," 
-he says, "is part of the vital structure of Christian theology, with 
-which no other philosophy, I venture to say. can work without 
-friction/' There is, he says, an "utter impossibility of excising 
-Platonism from Christianity without tearing Christianity to 
+Of all this there is no mention in the works of Plotinus. He turned
+aside from the spectacle of ruin and misery in the actual world, to
+contemplate an eternal world ot goodness and beauty. In this he was in
+harmony with all the most serious men of his age. To all of them,
+Christians and pagans alike, the world of practical affairs seemed to
+offer no hope, and only the Other World seemed worthy of allegiance.
+To the Christian, the Other World was the Kingdom of Heaven, to be
+enjoyed after death; to the Platonist, it was the eternal world of
+ideas, the real world as opposed to that of illusory appearance.
+Christian theologians combined these points of view, and embodied much
+of the philosophy of Plotinus. Dean Inge, in his invaluable book on
+Plotinus, rightly emphasizes what Christianity owes to him.
+"Platonism," he says, "is part of the vital structure of Christian
+theology, with which no other philosophy, I venture to say. can work
+without friction/' There is, he says, an "utter impossibility of
+excising Platonism from Christianity without tearing Christianity to
+pieces." He points out that Saint Augustine speaks of Plato's system
+as "the most pure and bright in all philosophy," and of Plotinus as a
+man in whom "Plato lived again," and who, if he had lived a little
+later, would have "changed a few words and phrases and become
+Christian." Saint Thomas Aquinas, according to Dean Inge, "is nearer
+to Plotinus than to the real Aristotle."
 
-308 
+Plotinus, accordingly, is historically important as an influence in
+moulding the Christianity of the Middle Ages and of Catholic theology.
+The historian, in speaking of Christianity, has to be careful to
+recognize the very great changes that it has undergone, and the
+variety of forms that it may assume even at one epoch. The
+Christianity of the Synoptic Gospels is almost innocent of
+metaphysics. The Christianity of modern America, in this respect, is
+like primitive Christianity; Platonism is alien to popular thought and
+feeling in the United States, and most American Christians are much
+mere concerned with duties here on earth, and with social progress in
+the everyday world, than with the transcendental hopes that consoled
+men when everything terrestrial inspired despair. I am not speaking of
+any change of dogma, but of a difference of emphasis and interest. A
+modern Christian, unless he realizes how great this difference is,
+will fail to understand the Christianity of the past. We, since our
+study is historical, are concerned with the effective beliefs of past
+centuries, and as to these it is impossible to disagree with what Dean
+Inge says on the influence of Plato and Plotinus.
 
+Plotinus, however, is not only historically important. He represents,
+better than any other philosopher, an important type of theory. A
+philosophical system may be judged important for various different
+kinds of reasons. The first and most obvious is that we think it may
+be true. Not many students of philosophy at the present time would
+feel this about Plotinus; Dean Inge is, in this respect, a rare
+exception. But truth is not the only merit that a mctaphysic can
+possess. It may have beauty, and this is certainly to be found in
+Plotinus; there are passages that remind one of the later cantos of
+Dante's Paradise, and of almost nothing else in literature. Now and
+again, his descriptions of the eternal world of glory
 
+> To our high-wrought fantasy present  
+> That undisturbed song of pure concent  
+> Aye sung before the sapphire-colored throne  
+> To Him that sits thereon.  
 
-PLOTINUS 
+Again, a philosophy may be important because it expresses well what
+men are prone to believe in certain moods or in certain circumstances.
+Uncomplicated joy and sorrow is not matter for philosophy, but rather
+for the simpler kinds of poetry and music. Only joy and sorrow
+accompanied by reflection on the universe generate metaphysical
+theories. A man may be a cheerful pessimist or a melancholy optimist.
+Perhaps Samuel Butler may serve as an example of the first; Plotinus
+is an admirable example of the second. In an age such as that in which
+he lived, unhappiness is immediate and pressing, whereas happiness, if
+attainable at all, must be sought by reflection upon things that are
+remote from the impressions of sense. Such happiness has in it always
+an element of strain; it is very unlike the simple happiness of a
+child. And since it is not derived from the everyday world, but from
+thought and imagination, it demands a power of ignoring or despising
+the life of the senses. It is, therefore, not those who enjoy
+instinctive happiness who invent the kinds of metaphysical optimism
+that depend upon belief in the reality of a super-sensible world.
+Among the men who have been unhappy in a mundane sense, but resolutely
+determined to find a higher happiness in the world of theory, Plotinus
+holds a very high place.
 
-pieces." He points out that Saint Augustine speaks of Plato's 
-system as "the most pure and bright in all philosophy/' and of 
-Plotinus as a man in whom "Plato lived again," and who, if he 
-had lived a little later, would have "changed a few words and 
-phrases and become Christian." Saint Thomas Aquinas, according 
-to Dean Inge, "is nearer to Plotinus than to the real Aristotle." 
+Nor are his purely intellectual merits by any means to be despised. He
+has, in many respects, clarified Plato's teaching; he has developed,
+with as much consistency as possible, the type of theory advocated by
+him in common with many others. His arguments against materialism are
+good, and his whole conception of the relation of soul and body is
+clearer than that of Plato or Aristotle.
 
-Plotinus, accordingly, is historically important as an influence 
-in moulding the Christianity of the Middle Ages and of Catholic 
-theology. The historian, in speaking of Christianity, has to be 
-careful to recognize the very great changes that it has undergone, 
-and the variety of forms that it may assume even at one epoch. 
-The Christianity of the Synoptic Gospels is almost innocent of 
-metaphysics. The Christianity of modern America, in this respect, 
-is like primitive Christianity; Platonism is alien to popular thought 
-and feeling in the United States, and most American Christians 
-are much mere concerned with duties here on earth, and with 
-social progress in the everyday world, than with the transcendental 
-hopes that consoled men when everything terrestrial inspired 
-despair. I am not speaking of any change of dogma, but of a 
-difference of emphasis and interest. A modern Christian, unless 
-he realizes how great this difference is, will fail to understand the 
-Christianity of the past. We, since our study is historical, are concerned with the effective beliefs of past centuries, and as to these 
-it is impossible to disagree with what Dean Inge says on the 
-influence of Plato and Plotinus. 
+Like Spinoza, he has a certain kind of moral purity and loftiness,
+which is very impressive. He is always sincere, never shrill or
+censorious, invariably concerned to tell the reader, as simply as he
+can, what he believes to be important. Whatever one may think of him
+as a theoretical philosopher, it is impossible not to love him as a
+man.
 
-Plotinus, however, is not only historically important. He represents, better than any other philosopher, an important type of 
-theory. A philosophical system may be judged important for 
-various different kinds of reasons. The first and most obvious is 
-that we think it may be true. Not many students of philosophy 
-at the present time would feel this about Plotinus; Dean Inge is, 
-in this respect, a rare exception. But truth is not the only merit 
-that a mctaphysic can possess. It may have beauty, and this is 
-certainly to be found in Plotinus; there are passages that remind 
-one of the later cantos of Dante's Paradise, and of almost nothing 
-else in literature. Now and again, his descriptions of the eternal 
+The life of Plotinus is known, so far as it is known, through the
+biography written by his friend and disciple Porphyry, a Semite whose
+real name was Malchus. There are, however, miraculous elements in this
+account, which maker it difficult to place a complete reliance upon
+its more credible portions. Plotinus considered his spatio-temporal
+appearance unimportant, and was loath to talk about the accidents of
+his historical existence. He stated, however, that he was born in
+Egypt, and it is known that as a young man he studied in Alexandria,
+where he lived until the age of thirty-nine, and where his teacher was
+Ammonius Saccas, often regarded as the founder of Neoplatonism. He
+then joined the expedition of the Emperor Gordian III against the
+Persians, with the intention, it is said, of studying the religions of
+the East. The Emperor was still a youth, and was murdered by the army,
+as was at that time the custom. This occurred during his campaign in
+Mesopotamia in AD 244. Plotinus thereupon abandoned his oriental
+projects and settled in Rome, where he soon began to teach. Among his
+hearers were many influential men, and he was favored by the Emperor
+Gallienus.[^128] At one time he formed a project of founding Plato's
+Republic in Campania, and building for the purpose a new city to be
+called Platonopolis. The Emperor, at first, was favorable, but
+ultimately withdrew his permission. It may seem strange that there
+should be room for a new city so near Rome, but probably by that time
+the region was malarial, as it is now, but had not been earlier. He
+wrote nothing until the age of forty-nine; after that, he wrote much.
+His works were edited and arranged by Porphyry, who was more
+Pythagorean than Plotinus, and caused the Neoplatonist school to
+become more supernaturilist than it would have been if it had followed
+Plotinns more faithfully.
 
-world of glory 
+[^128]: Concerning Gaillienus, Gibbon remarks: "He was a master of several curious but uselsess sciences, a ready orator and an elegant poet, a skillful gardener, and excellent cook, and most contemptible prince. When the great emergiencies of the State required his presence and attention he was engaged in conversation with the philosopher Plotinus, wasting his time in triffling or licentious pleasure, preparing his initiation to the Grecian mysteries, or soliciting a place in the Areopagus of Athens. (chap. x). 
 
-To our high-wrought fantasy present 
-That undisturbed song of pure concent 
-Aye sung before the sapphire-colored throne 
-To Him that sits thereon. 
-309 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-Again, a philosophy may be important because it expresses well 
-what men are prone to believe in certain moods or in certain circumstances. Uncomplicated joy and sorrow is not matter for 
-philosophy, but rather for the simpler kinds of poetry and music. 
-Only joy and sorrow accompanied by reflection on the universe 
-generate metaphysical theories. A man may be a cheerful pessimist 
-or a melancholy optimist. Perhaps Samuel Butler may serve as 
-an example of the first; Plotinus is an admirable example of the 
-second. In an age such as that in which he lived, unhappiness is 
-immediate and pressing, whereas happiness, if attainable at all, 
-must be sought by reflection upon things that are remote from the 
-impressions of sense. Such happiness has in it always an element 
-of strain; it is very unlike the simple happiness of a child. And 
-since it is not derived from the everyday world, but from thought 
-and imagination, it demands a power of ignoring or despising the 
-life of the senses. It is, therefore, not those who enjoy instinctive 
-happiness who invent the kinds of metaphysical optimism that 
-depend upon belief in the reality of a super-sensible world. Among 
-the men who have been unhappy in a mundane sense, but resolutely determined to find a higher happiness in the world of 
-theory, Plotinus holds a very high place. 
-
-Nor are his purely intellectual merits by any means to be 
-despised. He has, in many respects, clarified Plato's teaching; he 
-has developed, with as much consistency as possible, the type of 
-theory advocated by him in common with many others. His 
-arguments against materialism are good, and his whole conception 
-of the relation of soul and body is clearer than that of Plato or 
-Aristotle. 
-
-Like Spinoza, he has a certain kind of moral purity and loftiness, 
-which is very impressive. He is always sincere, never shrill or 
-censorious, invariably concerned to tell the reader, as simply as 
-he can, what he believes to be important. Whatever one may think 
-of him as a theoretical philosopher, it is impossible not to love 
-him as a man. 
-
-The life of Plotinus is known, so far as it is known, through the 
-biography written by his friend and disciple Porphyry, a Semite 
-whose real name was Malchus. There are, however, miraculous 
-elements in this account, which maker it difficult to place a complete 
-reliance upon its more credible portions. 
-Plotinus considered his spatio-temporal appearance unim~ 
-
-310 
-
-
-
-PLOTINU8 
-
-
-
-portant, and was loath to talk about the accidents of his historical 
-existence. He stated, however, that he was born in Egypt, and it 
-is known that as a young man he studied in Alexandria, where 
-he lived until the age of thirty-nine, and where his teacher was 
-Ammonius Saccas, often regarded as the founder of Neoplatonism. 
-He then joined the expedition of the Emperor Gordian III against 
-the Persians, with the intention, it is said, of studying the religions 
-of the East. The Emperor was still a youth, and was murdered by 
-the army, as was at that time the custom. This occurred during 
-his campaign in Mesopotamia in AD 244. Plotinus thereupon 
-abandoned his oriental projects and settled in Rome, where 
-he soon began to teach. Among his hearers were many influential men, and he was favored by the Emperor Gallienus. 1 At 
-one time he formed a project of founding Plato's Republic in 
-Campania, and building for the purpose a new city to be called 
-Platonopolis. The Kmperor, at first, was favorable, but ultimately withdrew his permission. It may seem strange that there 
-should be room for a new city so near Rome, but probably by that 
-time the region was malarial, as it is now, but had not been earlier. 
-He wrote nothing until the age of forty-nine; after that, he wrote 
-much. His works \u-re edited and arranged by Porphyry, who 
-was more Pythagorean than Plotinus, and caused the Neoplatonist 
-school to become more supernaturilist than it would have been 
-if it had followed Plotinns more faithfully. 
-
-The respect of Plotinus for Plato is very great; Plato is usually 
-alluded to as "He." In general, the "blessed ancients" are treated 
-with reverence, but this reverence does not extend to the atomists. 
-The Stoics and Epicureans, being still active, are controverted, 
-the Stoics only for their materialism, the Epicureans for every 
-part of their philosophy. Aristotle plays a larger part than appears, 
-as borrowings from him are often unacknowledged. One feels the 
-influence of Parmenides at many points. 
+The respect of Plotinus for Plato is very great; Plato is usually
+alluded to as "He." In general, the "blessed ancients" are treated
+with reverence, but this reverence does not extend to the atomists.
+The Stoics and Epicureans, being still active, are controverted, the
+Stoics only for their materialism, the Epicureans for every part of
+their philosophy. Aristotle plays a larger part than appears, as
+borrowings from him are often unacknowledged. One feels the influence
+of Parmenides at many points.
 
 The Plato of Plotinus is not so full-blooded as the real Plato. 
-
-Concerning Gailienus, Gibbon remarks: "He was a master of several 
-curieTbttl JL ^-nccs, a ready orator and e egant poe^i i*dftd 
-excellent cook, and most contemptible pnnce. When the 
-iet of the St,te required his presence and attention he 
-convention with the philosopher Plotmus, wasting hi, 
-or licentious pleasure., preparing his .motto. , the 
-in myU or eliciting a place in the Areopagus of Athens 
-'chap. x). 
-
-3" 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 The theory of ideas, the mystical doctrines of the Phaedo and of 
-Book VI of the Republic, and the discussion of love in the Symposium, make up almost the whole of Plato as he appears in the 
-Emieads (as the books of Plotinus are called). The political interests, 
+Book VI of the _Republic_, and the discussion of love in the Symposium, make up almost the whole of Plato as he appears in the 
+Enneads (as the books of Plotinus are called). The political interests, 
 the search for definitions of separate virtues, the pleasure in 
 mathematics, the dramatic and affectionate appreciation of individuals, and above all the playfulness of Plato, are wholly absent 
 from Plotinus. Plato, as Carlyle said, is "very much at his ease 
 in Zion"; Plotinus, on the contrary, is always on his best behavior. 
+
 The metaphysics of Plotinus begins with a Holy Trinity: The 
 One, Spirit and Soul. These three are not equal, like the Persons 
-of the Christian Trinity; the One is supreme, Spirit conies next, 
-and Soul last. 1 
+of the Christian Trinity; the One is supreme, Spirit comes next, 
+and Soul last.[^129]
+
+[^129]: Origen, who was a contemporary of Plotinus and had the same teacher in philosophy, taught that the First Person was superior to the Second, and the Second to the Third, agreeing in this with Plotinus. But Origin's view was subsequently declared heretical. 
 
 The One is somewhat shadowy. It is sometimes called God, 
 sometimes the Good; it transcends Being, which is the first sequent 
@@ -12226,13 +12081,17 @@ upon the One. We must not attribute predicates to it, but only
 say "It is." (This is reminiscent of Parmenides.) It would be a 
 mistake to speak of God as "the All," because God transcends 
 the All. God is present through all things. The One can be present 
-without any coming: ** while it is nowhere, nowhere is it not." 
+without any coming: "while it is nowhere, nowhere is it not." 
 Although the One is sometimes spoken of as the Good, we are 
-also told that it precedes both the Good and the Beautiful.* 
-Sometimes, the One appears to resemble Aristotle's God; we arc 
+also told that it precedes both the Good and the Beautiful.[^130] 
+Sometimes, the One appears to resemble Aristotle's God; we are 
 told that God has no need of His derivatives, and ignores the 
 created world. The One is indefinable, and in regard to it there 
 is more truth in silence than in any words whatever. 
+
+[^130]: _Fifth Ennead_, Fifth Tractate, chap. 12. 
+
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n315)
 
 We now come to the Second Person, whom Plotinus calls nous. 
 It is always difficult to find an English word to represent nous. 
@@ -12244,12 +12103,6 @@ McKenna, the translator of Plotinus, uses "Intellectual-Principle/'
 but this is awkward, and does not suggest an object suitable for 
 religious veneration. Dean Inge uses "Spirit," which is perhaps 
 
-1 Origen, who waa a contemporary of Plotinus and had the tame teacher 
-to philosophy, taught that the Fiitt Pcnon waa auperior to the Second, 
-and the Second to the Third, agreeing in (hit with Plotinua. But 
-view wa* aubaequently declared heretical. 
-
-1 Ftfth Ermtad, Fifth Tractate, chap. 12. 
 
 3'* 
 
@@ -13095,13 +12948,13 @@ who were strong among the rural population. 1 When, in 170 BC,
 Antiochus became Involved in war with ligypt, the Jews rebelled.
 Thereupon Antiochus took the holy vessels from the Temple, and placed
 in it the image of the God. He identified Yahweh with Zeus, following
-a practice \\hich had been successful ever)' where else.* He resolved
+a practice which had been successful ever)' where else.* He resolved
 to extirpate the Jewish religion, and to stop circumcision and the
 observance of the laws relating to food. To all this Jerusalem
 submitted, but outside Jerusalem the Jews resisted with the utmost
 stubbornness.
 
-1 From them, probably, dc \eloped the sect of the Kssenes, whose 
+1 From them, probably, developed the sect of the Essenes, whose 
 doctrines seem to have influenced primitive Christianity. Sec Ocstcrlcy 
 and Robinson, Ilutury of Israel, Vol. II, p. 323 II. The Pharisee* also 
 descended from them. 
@@ -14296,7 +14149,7 @@ naked and hungry in the person of His poor."
 
 This passage occurs incidentally in a letter to a friend who has 
 decided to devote his daughter to perpetual virginity, and most 
-of it is concerned \\ith the rules to be observed in the education 
+of it is concerned with the rules to be observed in the education 
 of girls so dedicated. It is strange that, with all Jerome's deep 
 feeling about the fall of the ancient world, he thinks the preservation of virginity more important than victory over the Huns and 
 Vandals and Goths. Never once do his thoughts turn to any 
@@ -14690,8 +14543,7 @@ important, either intrinsically or historically. I shall consider:
 
 First: his pure philosophy, particularly his theory of time; 
 Second: his philosophy of history, as developed in The City 
-
-ofGod\ 
+of God.
 Third: his theory of salvation, as propounded ajrainst the 
 
 Pelagians. 
@@ -15070,9 +14922,8 @@ It is evident from the above that what makes the ascetic dislike
 sex is its independence of the will. Virtue, it is held, demands a 
 complete control of the will over the body, but such control does 
 not suffice to make the sexual act possible. The sexual act, therefore, seems inconsistent with a perfectly virtuous life. 
-1 ThtCityofGod,\\\, 15. 
-379 
 
+1 The City of God, \\\, 15. 
 
 
 WESTERN PHILOSOPHICAL THOUGHT 
