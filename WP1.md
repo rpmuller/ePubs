@@ -156,7 +156,7 @@ must be endured if we wish to live without the support of comforting
 fairy tales. It is not good either to forget the questions that
 philosophy asks, or to persuade ourselves that we have found
 indubitable answers to them. To teach how to live without certainty,
-and yet without being paralysed by hesitation, is perhaps the chief
+and yet without being paralyzed by hesitation, is perhaps the chief
 thing that philosophy, in our age, can still do for those who study
 it.
 
@@ -191,7 +191,7 @@ Aristotle is dominated by religious and patriotic devotion to the City
 large political element. When the Greeks became subject, first to the
 Macedonians, and then to the Romans, the conceptions appropriate to
 their days of independence were no longer applicable. This produced,
-on the one hand, a loss of vigour through the breach with tradition,
+on the one hand, a loss of vigor through the breach with tradition,
 and, on the other hand, a more individual and less social ethic. The
 Stoics thought of the virtuous life as a relation of the soul to God,
 rather than as a relation of the citizen to the State. They thus
@@ -269,7 +269,7 @@ represented at once continuity with the past and what was most
 civilized in the present.
 
 The secular power, on the contrary, was in the hands of kings and
-barons of Teutonic descent, who endeavoured to preserve what they
+barons of Teutonic descent, who endeavored to preserve what they
 could of the institutions that they had brought out of the forests of
 Germany. Absolute power was alien to those institutions, and so was
 what appeared to these vigorous conquerors as a dull and spiritless
@@ -278,7 +278,7 @@ but all alike expected to be allowed occasional outbursts of passion
 in the form of war, murder, pillage, or rape. Monarchs might repent,
 for they were sincerely pious, and, after all, repentance was itself a
 form of passion. But the Church could never produce in them the quiet
-regularity of good behaviour which a'modern employer demands, and
+regularity of good behavior which a'modern employer demands, and
 usually obtains, of his employees. What was the use of conquering the
 world if they could not drink and murder and love as the spirit moved
 them? And why should they, with their armies of proud knights, submit
@@ -324,13 +324,13 @@ took account of was placed with precision with relation to the other
 contents of its very finite cosmos. But the Great Schism, die
 conciliar movement, and the Renaissance papacy led up to the
 Reformation, which destroyed the unity of Christendom and the
-scholastic theory of government that centred round the
+scholastic theory of government that centered round the
 Pope. In the Renaissance period new knowledge, both of antiquity 
 and of the earth's surface, made men tired of systems, which were 
 felt to be mental prisons. The Copernican astronomy assigned to 
 the earth and to man a humbler position than they had enjoyed 
 in the Ptolemaic theory. Pleasure in new facts took the place, 
-among intelligent men, of pleasure in reasoning, analysing, and 
+among intelligent men, of pleasure in reasoning, analyzing, and 
 systematizing. Although in art the Renaissance is still orderly, in 
 thought it prefers a large and fruitful disorder. In this respect, 
 Montaigne is the most typical exponent of the age. 
@@ -432,7 +432,7 @@ escape into the world of everyday common sense.
 With subjectivism in philosophy, anarchism in politics goes hand in
 hand. Already during Luther's lifetime, unwelcome and unacknowledged
 disciples had developed the doctrine of Anabaptism, which, for a time,
-dominated the city of Miinster. The Anabaptists repudiated all law,
+dominated the city of Munster. The Anabaptists repudiated all law,
 since they held that the good man will be guided at every moment by
 the Holy Spirit, who cannot be bound by formulas. From this premiss
 they arrive at communism and sexual promiscuity; they were therefore
@@ -534,7 +534,7 @@ determine.
 In all history, nothing is so surprising or so difficult to account 
 for as the sudden rise of civilization in Greece. Much of what 
 makes civilization had already existed for thousands of years in 
-Egypt and in Mesopotamia, and had spread thence to neighbouring 
+Egypt and in Mesopotamia, and had spread thence to neighboring 
 countries. But certain elements had been lacking until the Greeks 
 supplied them. What they achieved in art and literature is familiar 
 to even-body, but what they did in the purely intellectual realm 
@@ -556,7 +556,7 @@ Philosophy begins with Thales, who, fortunately, can be dated by the
 fact that he predicted an eclipse which, according to the astronomers,
 occurred in the year 585 BC Philosophy and science---which were not
 originally separate---were therefore born together at the beginning of
-the sixth century. What had been happening in Greece and neighbouring
+the sixth century. What had been happening in Greece and neighboring
 countries before this lime? Any answer must be in part conjectural,
 but archaeology, during the present century, has given us much more
 knowledge than was possessed by our grandfathers.
@@ -587,15 +587,15 @@ death, and believed that the souls of the dead descend into the
 underworld, where they are judged by Osiris according to the 
 manner of their life on earth. They thought that the soul would 
 ultimately return to the body; this led to mummification and 
-to the construction of splendid tomks. The pyramids were built 
+to the construction of splendid tombs. The pyramids were built 
 by various kings at the end of the fourth millennium BC and 
 the beginning of the third. After this time, Egyptian civilization 
 became more and more stereotyped, and religious conservatism 
-made progress impossible. About 1800 BC Epypt was conquered 
+made progress impossible. About 1800 BC Egypt was conquered 
 by Semites named Hyksos, who ruled the country for about 
 two centuries. They left no permanent mark on Epypt, but their 
 presence there must have helped to spread Egyptian civilization 
-in Syria ami Palestine. 
+in Syria and Palestine. 
 
 Babylonia had a more warlike development than Egypt. At first, the
 ruling race were not Semites, but "Sumerians," whose origin is
@@ -613,15 +613,13 @@ male. The bull was usually regarded as an embodiment of male
 fertility, and bull-gods were common. In Babylon, Ishtar, the
 earth-goddess, was supreme among female divinities.  Throughout
 western Asia, the Great Mother was worshipped under various
-names. When Greek colonists in Asia Mjnor found temples to her, they
+names. When Greek colonists in Asia Minor found temples to her, they
 named her Artemis and took over the existing cult. This is the origin
 of "Diana of the Ephesians."[^2] Christianity transformed her into the
 Virgin Mary, and it was a Council at Ephesus that legitimated the
 title "Mother of God" as applied to Our Lady.
 
-[^2]: Diana was the Latin equivalent of Artemis. It is Artemis who is 
-mentioned in the Greek Testament where our translation speaks of 
-Diana.
+[^2]: Diana was the Latin equivalent of Artemis. It is Artemis who is mentioned in the Greek Testament where our translation speaks of Diana.
 
 Where a religion was bound up with the government of an empire,
 political motives did much to transform its primitive features. A god
@@ -674,7 +672,7 @@ sailors; this commerce reached its maximum about 1500 BC. The Cretan
 religion appears to have had some affinities with the religions of
 Syria and Asia Minor, but in art there was more affinity with Egypt,
 though Cretan art was very original and amazingly full of life. The
-centre of the Cretan civilization was the so-called "palace of
+center of the Cretan civilization was the so-called "palace of
 Minos"at Knossos,of which memories lingered in the traditions of
 classical Greece. The palaces of Crete were very magnificent, but were
 destroyed about the end of the fourteenth century BC, probably by
@@ -724,15 +722,15 @@ these questions is possible, but there is evidence which makes it
 probable that they were conquerors who spoke Greek, and that at least
 the aristocracy consisted of fair-haired invaders from the North, who
 brought the Greek language with them.[^4] The Greeks came to Greece in
-three successive waves, first the lonians, then the Achaeans, and last
-the Dorians. The lonians appear, though conquerors, to have adopted
+three successive waves, first the Ionians, then the Achaeans, and last
+the Dorians. The Ionians appear, though conquerors, to have adopted
 the Cretan civilization pretty completely, as, later, the Romans
-adopted the civilization of Greece. But the lonians were disturbed,
+adopted the civilization of Greece. But the Ionians were disturbed,
 and largely dispossessed, by their successors, the Achaeans. The
 Achaeans are known, from the Hittite tablets found at Boghaz-Keui, to
 have had a large organized empire in the fourteenth century BC. The
 Mycenaean civilization, which had been weakened by the warfare of the
-lonians and Achaeans, was practically destroyed by the Dorians, the
+Ionians and Achaeans, was practically destroyed by the Dorians, the
 last Greek invaders. Whereas previous invaders had largely adopted the
 Minoan religion, the Dorians retained the original Indo-European
 religion of their ancestors. The religion of Mycenaean times, however,
@@ -762,7 +760,7 @@ The mainland of Greece is mountainous and largely infertile.
 There are, however, many fertile valleys, with easy access to the 
 sea, but cut off by the mountains from easy land communication 
 with each other. In these valleys little separate communities grew 
-up, living by agriculture, and centring round a town, generally 
+up, living by agriculture, and centering round a town, generally 
 close to the sea. In such circumstances it was natural that, as 
 soon as the population of any community grew too great for its 
 internal resources, those who could not live on the land should 
@@ -803,7 +801,7 @@ Ionia.[^5] Coinage seems to have been invented shortly before 700 BC
 One of the most important results, to the Greeks, of commerce or
 piracy at first the two are scarcely distinct was the acquisition of
 the art of writing. Although writing had existed for thousands of
-years in Egypt and Babylonia, and the Minonn Cretans had a script
+years in Egypt and Babylonia, and the Minoan Cretans had a script
 (which has not been deciphered), there is no conclusive evidence that
 the Greeks acquired alphabetic writing until about the tenth century
 BC. They learnt the art from the Phoenicians, who, like the other
@@ -872,7 +870,7 @@ fertility, vegetable, animal, and human. The winter solstice was a
 time when the sun had to be encouraged not to go on diminishing in
 strength; spring and harvest also called for appropriate
 ceremonies. These were often such as to generate a great collective
-excitement, in which individuals lost their sense of separatcness and
+excitement, in which individuals lost their sense of separateness and
 felt themselves at one with the whole tribe. All over the world, at a
 certain stage of religious evolution, sacred animals and human beings
 were ceremonially killed and eaten. In different regions, this stage
@@ -903,7 +901,7 @@ As Gilbert Murray says
 The Olympians make no such claim. The most they ever did was 
 to conquer it. ... And when they have conquered their kingdoms, 
 what do they do? Do they attend to the government? Do they 
-promote agriculture? Do they practise trades and industries? 
+promote agriculture? Do they practice trades and industries? 
 Not a bit of it. Why should they do any honest work? They 
 find it easier to live on the revenues and blast with thunderbolts 
 the people who do not pay. They are conquering chieftains, 
@@ -919,7 +917,7 @@ The leading family is the House of Pelops, but it did not succeed
 in setting a pattern of happy family life. 
 
 > Tantalos, the Asiatic founder of the dynasty, began its career by a
-> direct offence airainst the gods; some said, by trying to cheat them
+> direct offense against the gods; some said, by trying to cheat them
 > into eating human flesh, that of his own son Pelops. Pelops, having
 > been miraculously restored to life, offended in his turn. He won his
 > famous chariot-race against Oinomans, king of Pisa, by the
@@ -980,7 +978,7 @@ different parts of the Greek world, and only a minority of cities
 contributed to the total of Hellenic achievement. Sparta, of which 
 I shall have much to say later, was important in a military sense, 
 but not culturally. Corinth was rich and prosperous, a great 
-commercial centre, but not prolific in great men. 
+commercial center but not prolific in great men. 
 
 Then there were purely agricultural rural communities, such 
 as the proverbial Arcadia, which townsmen imagined to be 
@@ -1011,7 +1009,7 @@ after the Persian war.[^14]
 There was, however, in ancient Greece, much that we can feel to have
 been religion as we understand the term. This was connected, not with
 the Olympians, but with Dionysus, or Bacchus, whom we think of most
-naturally as the somewhat disreputablegod of wine and drunkenness. The
+naturally as the somewhat disreputable god of wine and drunkenness. The
 way in which, out of his worship, there arose a profound mysticism,
 which greatly influenced many of the philosophers, and even had a part
 in shaping Christian theology, is very remarkable, and must be
@@ -1024,7 +1022,7 @@ regarded them as barbarians. Like all primitive agriculturists,
 they had fertility cults, and a god who promoted fertility. Mis 
 name was Bacchus. It was never quite clear whether Bacchus 
 had the shape of a man or of a bull. When they discovered how 
-to make beer, they thought intoxication divine, and gave honour 
+to make beer, they thought intoxication divine, and gave honor 
 to Bacchus. When, later, they came to know the vine and to learn 
 to drink wine, they thought even better of him. His functions in 
 promoting fertility in general became somewhat subordinate 
@@ -1049,7 +1047,7 @@ communities that have been civilized quickly, the Greeks, or at least
 a certain proportion of them, developed a love of the primitive, and a
 hankering after a more instinctive and passionate way of life than
 that sanctioned by current morals. To the man or woman who, by
-compulsion, is more civilized in behaviour than in feeling,
+compulsion, is more civilized in behavior than in feeling,
 rationality is irksome and virtue is felt as a burden and a
 slavery. This leads to a reaction in thought, in feeling, and in
 conduit. It is the reaction in thought that will specially concern us,
@@ -1094,7 +1092,7 @@ prudence had destroyed; he finds the world full of delight and beauty,
 and his imagination is suddenly liberated from the prison of every-day
 preoccupations. The Bacchic ritual produced what was called
 "enthusiasm," which means, etymologically, having the god enter into
-the worshipper, who believed that he became one wilh the god. Much of
+the worshipper, who believed that he became one with the god. Much of
 what is greatest in human achievement involves some element of
 intoxication,[^15] some sweeping away of prudence by passion. Without
 the Bacchic element, life would be uninteresting; with it, it is
@@ -1195,7 +1193,7 @@ which is instructive[^16]:
 
 Orphic tablets have been found in tombs, giving instructions to 
 the soul of the dead person as to how to find his way in the 
-next world, and whal to say in order to prove himself worthy of 
+next world, and what to say in order to prove himself worthy of 
 salvation. They are broken and incomplete; the most nearly 
 complete (the Petelia tablet) is as follows: 
 
@@ -1238,7 +1236,7 @@ much in Pythagoras, and which, in Plato, went so far as to claim
 complete political equality for women. "Women as a sex," says 
 Pythagoras, "are more naturally akin to piety." Another Bacchic 
 element was respect for violent emotion. Greek tragedy grew out 
-of the rites of Dionysus. Euripides, especially, honoured the two 
+of the rites of Dionysus. Euripides, especially, honored the two 
 chief gods of Orphism, Dionysus and Eros. He has no respect for 
 the coldly self-righteous well-behaved man, who, in his tragedies, 
 is apt to be driven mad or otherwise brought to grief by the gods 
@@ -1254,31 +1252,31 @@ indirectly, by Bacchic or Orphic influences. At Eleusis, where the
 Eleusinian mysteries formed the most sacred part of Athenian State
 religion, a hymn was sung, saying:
 
-With Thy wine-cup waving high, 
-With Thy maddening revelry, 
-To Eleusis' flowery vale, 
-Comest Thou Bacchus, Paean, hail! 
+> With Thy wine-cup waving high,  
+> With Thy maddening revelry,  
+> To Eleusis' flowery vale,  
+> Comest Thou Bacchus, Paean, hail!  
 
 In the _Bacchae_ of Euripides, the chorus of Maenads displays a 
 combination of poetry and savagery which is the very reverse of 
 serene. They celebrate the delight in tearing a wild animal limb 
 from limb, and eating it raw then and there: 
 
-O glad, glad on the Mountains 
-To swoon in the race outworn. 
-When the holy fawn-skin clings 
-And all else sweeps away, 
-To the joy of the quick red fountains, 
-The blood of the hill-goat torn, 
-The glory of wild-beast ravenings 
-Where the hill-top catches the day, 
-To the Phrygian, Lydian mountains 
-Tis Bromios leads the way. 
+> O glad, glad on the Mountains  
+> To swoon in the race outworn.  
+> When the holy fawn-skin clings  
+> And all else sweeps away,  
+> To the joy of the quick red fountains,  
+> The blood of the hill-goat torn,  
+> The glory of wild-beast ravenings  
+> Where the hill-top catches the day,  
+> To the Phrygian, Lydian mountains  
+> Tis Bromios leads the way.  
 
 (Bromios was another of the many names of Dionysus.) The dance 
 of the Maenads on the mountain side was not only fierce; it was 
 an escape from the burdens and cares of civilization into the world 
-of non-human beauty and the freedom of wind and stars. In a les< 
+of non-human beauty and the freedom of wind and stars. In a less 
 frenzied mood they sing: 
 
 Will they ever come to me, ever again, 
@@ -1319,7 +1317,7 @@ the Negro spiritual:
 Not all of the Greeks, but a large proportion of them, were 
 passionate, unhappy, at war with themselves, driven along one 
 road by the intellect and along another by the passions, with the 
-imagination to conceive heaven and the wilful self-assertion that 
+imagination to conceive heaven and the willful self-assertion that 
 creates hell. They had a maxim "nothing too much," but they 
 were in fact excessive in everything in pure thought, in poetry, 
 in religion, and in sin. It was the combination of passion and 
@@ -1338,7 +1336,7 @@ this latter tendency; so do the earliest Ionian philosophers; so,
 up to a point, does Aristotle. Beloch (_op. cit._, I, i, p. 434), after 
 describing Orphism, says: 
 
-> But the Greek nation was too full of youthful vigour for the general
+> But the Greek nation was too full of youthful vigor for the general
 > acceptance of a belief which denies this world and transfers real life
 > to the Beyond. Accordingly the Orphic doctrine remained confined to
 > the relatively narrow circle of the initiate, without acquiring the
@@ -1468,7 +1466,7 @@ by a Milesian garrison; but the most important, during the period
 610-560 BC, was Daphnae. Here Jeremiah and many other Jewish fugitives
 took refuge from Nebuchadrezzar (Jeremiah xliii. 5 ff.); but while
 Egypt undoubtedly influenced the Greeks, the Jews did not, nor can we
-suppose that Jeremiah felt anything but horror towards the sceptical
+suppose that Jeremiah felt anything but horror towards the skeptical
 Ionians.
 
 As regards the date of Thales, the best evidence, as we saw, is that
@@ -1476,7 +1474,7 @@ he was famous for predicting an eclipse which, according to the
 astronomers, must have taken place in 585 BC. Other evidence, such as
 it is, agrees in placing his activities at about this time. It is no
 proof of extraordinary genius on his part to have predicted an
-eclipse. Miletus wao allied with Lydia, and Lydia had cultural
+eclipse. Miletus was allied with Lydia, and Lydia had cultural
 relations with Babylonia, and Babylonian astronomers had discovered
 that eclipses recur in a cycle of about nineteen years.  They could
 predict eclipses of the moon with pretty complete success, but as
@@ -1607,7 +1605,7 @@ quantitative, depending entirely upon the proportion
 
 He thought that the earth is shaped like a round table, and that
 air encompasses everything: "Just as our soul, being air, holds
-us together, so do breath and air encopass the whole world." 
+us together, so do breath and air encompass the whole world." 
 It seems that the world breathes.
 
 Anaximenes was more admired in antiquity than Anaximander, though
@@ -1629,7 +1627,7 @@ was Olympic, but seems to have been not taken very seriously. The
 speculations of Thales, Anaximander, and Anaximenes are to be regarded
 as scientific hypotheses, and seldom show any undue intrusion of
 anthropomorphic desires and moral ideas. The questions they asked were
-good questions, and their vigour inspired subsequent investigators.
+good questions, and their vigor inspired subsequent investigators.
 
 The next stage in Greek philosophy, which is associated with the Greek
 cities in southern Italy, is more religious, and, in particular, more
@@ -1767,16 +1765,17 @@ kindred."[^24] It is said that Pythagoras, like St Francis, preached to animals.
 
 But what has all this to do with mathematics? It is connected by means of an ethic which praised the contemplative life. Burnet sums up this ethic as follows:
 
-> We are strangers in this world, and the body is the tomb of the soul, and yet
-> we must not seek to escape by self-murder; for we are the chattels of God
-> who is our herdsman, and without His command we have no right to make
-> our escape. In this life, there are three kinds of men, just as there are three
-> sorts of people who come to the Olympic Games. The lowest class is made
-> up of those who come to buy and seel, the next above them are those who
-> compete. Best of all, however, are those who come simply to look on. The
-> greatest purification of all is, therefore, distinterested science, and it is the
-> man who devotes himself to that, the true philosopher, who has most
-> effectually released himself from the "wheel of birth."[^25]
+> We are strangers in this world, and the body is the tomb of the
+> soul, and yet we must not seek to escape by self-murder; for we are
+> the chattels of God who is our herdsman, and without His command we
+> have no right to make our escape. In this life, there are three
+> kinds of men, just as there are three sorts of people who come to
+> the Olympic Games. The lowest class is made up of those who come to
+> buy and sell, the next above them are those who compete. Best of
+> all, however, are those who come simply to look on. The greatest
+> purification of all is, therefore, disinterested science, and it is
+> the man who devotes himself to that, the true philosopher, who has
+> most effectually released himself from the "wheel of birth."[^25]
 
 [^25]: _Early Greek Philosophy_, p. 108.
 
@@ -1960,7 +1959,7 @@ from the more straightforward mysticism of Asia. It is only in quite
 recent times that it has been possible to say clearly where Pythagoras
 was wrong. I do not know of any other man who has been as influential
 as he was in the sphere of thought. I say this because what appears as
-Platonism is, when analysed, found to be in essence Pythagoreanism.
+Platonism is, when analyzed, found to be in essence Pythagoreanism.
 The whole conception of an eternal world, revealed to the intellect
 but not to the senses, is derived from him. But for him, Christians
 would not have thought of Christ as the Word; but for him, theologians
@@ -2067,7 +2066,7 @@ ever shall be, about the gods and all the things whereof I speak. Yea,
 even if a man should chance to say something utterly right, still he
 himself knows it not there is nowhere anything but guessing."[^28]
 
-[^28]: Quoted from Edwyn Bevan, _Stoics and Sceptics_, Oxford, 1913, p. 121.
+[^28]: Quoted from Edwyn Bevan, _Stoics and Skeptics_, Oxford, 1913, p. 121.
 
 Xenophanes has his place in the succession of rationalists, who were
 opposed to the mystical tendencies of Pythagoras and others, but as an
@@ -2147,7 +2146,7 @@ interprets current theology to fit his doctrine, in part rejects it
 with considerable scorn. He has been called Bacchic (by Cornford), and
 regarded as an interpreter of the mysteries (by Pfieiderer). I do not
 think the relevant fragments bear out this view. He says, for example:
-"The mysteries practised among men are unholy mysteries." This
+"The mysteries practiced among men are unholy mysteries." This
 suggests that he had in mind possible mysteries that would not be
 "unholy," but would be quite different from those that existed. He
 would have been a religious reformer, if he had not been too scornful
@@ -2171,14 +2170,14 @@ on his attitude to the theology of his day.
 > Night-walkers, magicians, priests of Bacchus, and priestesses of the
 > wine-vat, mystery-mongers.
 
-> The mysteries practised among men are unholy mysteries. 
+> The mysteries practiced among men are unholy mysteries. 
 
 > And they pray to these images, as if one were to talk with a 
 > man's house, knowing not what gods or heroes are. 
 
 > For if it were not to Dionysus that they made a procession and 
 > sang the shameful phallic hymn, they would be acting most 
-> shamelessly. But Hades is the same as Dionysus in whose honour 
+> shamelessly. But Hades is the same as Dionysus in whose honor 
 > they go mad and keep the feast of the wine-vat. 
 
 > They vainly purify themselves by defiling themselves with 
@@ -2206,7 +2205,7 @@ satisfy the most hustling of moderns:
 > The transformations of Fire are, first of all, sea; and half of 
 > the sea is earth, half whirlwind.
 
-In such a world, perpetual change was to be expected, ami 
+In such a world, perpetual change was to be expected, and
 perpetual change was what Heraclitus believed in. 
 
 He had, however, another doctrine on which he set even more 
@@ -2233,9 +2232,9 @@ than the diversity:
 
 >The way up and the way down is one and the same.
 
-> God is day and night, winter and summer, war and peace, 
-> surfeit and hunger; but he takes various shapes, just as fire, when 
-> it is mingled with spices, is named according to the savour of each.
+> God is day and night, winter and summer, war and peace, surfeit and
+> hunger; but he takes various shapes, just as fire, when it is
+> mingled with spices, is named according to the savor of each.
 
 Nevertheless, there would be no unity if there were not opposites 
 to combine: "it is the opposite which is good for us." 
@@ -2268,7 +2267,7 @@ man."
 God, no doubt, is the embodiment of cosmic justice. 
 
 The doctrine that everything is in a state of flux is the most 
-famous of the opinions of Ileraclitus, and the one most emphasized 
+famous of the opinions of Heraclitus, and the one most emphasized 
 by his disciples, as described in Plato's Theaetetus. 
 
 > You cannot step twice into the same river; for fresh waters 
@@ -2400,7 +2399,7 @@ the empire of Time. This search begins with Parmenides.
 
 ## Chapter V PARMENIDES 
 
-The Greeks were not addicted to moderation, cither in their theories
+The Greeks were not addicted to moderation, either in their theories
 or in their practice. Heraclitus maintained that everything changes;
 Parmenides retorted that nothing changes.
 
@@ -2412,7 +2411,7 @@ not this interview is historical, we may at least infer, what is
 otherwise evident, that Plato himself was influenced by the doctrines
 of Parmenides. The south Italian and Sicilian philosophers were more
 inclined to mysticism and religion than those of Ionia, who were on
-the whole scientific and sceptical in their tendencies. But
+the whole scientific and skeptical in their tendencies. But
 mathematics, under the influence of Pythagoras, flourished more in
 Magna Graecia than in Ionia; mathematics at that time, however, was
 entangled with mysticism. Parmenides was influenced by Pythagoras, but
@@ -2492,7 +2491,7 @@ Hamlet is an imagined individual; unicorns are an imagined
 species. Some sentences in which the word "unicorn" occurs are 
 true, and some are false, but in each case not directly. Consider 
 "a unicorn has one horn" and "a cow has two horns." To prove 
-the latter, you have to lopk at a cow; it is not enough to say that 
+the latter, you have to look at a cow; it is not enough to say that 
 in some book cows are said to have two horns. But the evidence 
 that unicorns have one horn is only to be found in books, and in 
 fact the correct statement is: "Certain books assert that there are 
@@ -2515,7 +2514,7 @@ try to show a sense in which it is true.
 
 Parmenides assumes that words have a constant meaning; this is really
 the basis of his argument, which he supposes unquestionable. But
-although the dictionary or the encyclopaedia gives what may be called
+although the dictionary or the encyclopedia gives what may be called
 the official and socially sanctioned meaning of a word, no two people
 who use the same word have just the same thought in their minds.
 
@@ -2584,9 +2583,9 @@ as originally stated. Refutations are seldom final; in most cases,
 they are only a prelude to further refinements.
 
 What subsequent philosophy, down to quite modern times, accepted from
-Parmenides. was not the impossibility of all change, which was too
-violent a paradox, but the indestructibility of subit once. The word
-"substance" did not occur in his immediate successors, but the concept
+Parmenides was not the impossibility of all change, which was too
+violent a paradox, but the indestructibility of _substance_. The word
+"substance" did not occur in his immediate successors, but the _concept_
 is already present in their speculations. A substance was supposed to
 be the persistent subject of varying predicates. As such it became,
 and remained for more than two thousand years, one of the fundamental
@@ -2681,7 +2680,7 @@ medical school which sprang from him influenced both Plato and
 Aristotle. According to Burnet (p. 234), it affected the whole 
 tendency pf scientific and philosophical thinking. 
 
-All this shows the scientific vigour of his time, which was not 
+All this shows the scientific vigor of his time, which was not 
 equalled in the later ages of Greece. 
 
 I come now to his cosmology. It was he, as already mentioned, who
@@ -2741,9 +2740,9 @@ tearing out the life."
 At one time he speaks of himself exuberantly as a god: 
 
 > Friends, that inhabit the great city looking down on the yellow rock
-> of Acragas, up by the citadel, busy in goodly works, harbour of
-> honour for the stranger, men unskilled in meanness, all hail. I go
-> about among you an immortal god, no mortal now, honoured among all
+> of Acragas, up by the citadel, busy in goodly works, harbor of
+> honor for the stranger, men unskilled in meanness, all hail. I go
+> about among you an immortal god, no mortal now, honored among all
 > as is meet, crowned with fillets and flowery garlands. Straightway,
 > whenever I enter with these in my train, both men and women, into
 > the flourishing towns, is reverence done me; they go after me in
@@ -2763,7 +2762,7 @@ expiation for his impiety:
 > hands with blood, or followed strife and forsworn himself, he 
 > must wander thrice ten thousand years from the abodes of the 
 > blessed, being born throughout the time in all manners of mortal 
-> forms, changing jme toilsome path of life for another. For the 
+> forms, changing one toilsome path of life for another. For the 
 > mighty Air drives him into the Sea, and the Sea spews him forth 
 > upon the dry Earth; Earth tosses him into the beams of the 
 > blazing Sun, and he flings him back to the eddies of Air. One takes 
@@ -2795,7 +2794,7 @@ in the company of the gods:
 
 > But at the last, they[^32] appear among mortal men as prophets,
 > song-writers, physicians, and princes; and thence they rise up as
-> gods exalted in honour, sharing the hearth of the other gods and the
+> gods exalted in honor, sharing the hearth of the other gods and the
 > same table, free from human woes, safe from destiny, and incapable
 > of hurt.
 
@@ -2804,7 +2803,7 @@ in the company of the gods:
 In all this, it would seem, there is very little that was not already
 contained in the teaching of Orphism and Pythagoreanism.
 
-The originality of Empedocies, outside science, consists in the
+The originality of Empedocles, outside science, consists in the
 doctrine of the four elements, and in the use of the two principles of
 Love and Strife to explain change.
 
@@ -2824,7 +2823,7 @@ Ionia and Magna Graecia (the Greek cities of south Italy
 and Sicily) produced the great men. The victory of Athens against 
 the Persian king Darius at Marathon (490), and of the combined 
 Greek fleets against his son and successor Xerxes (480) under 
-Athenian leadership, gave Athens great prestige. The lonians in 
+Athenian leadership, gave Athens great prestige. The Ionians in 
 the islands and on part of the mainland of Asia Minor had rebelled 
 against Persia, and their liberation was effected by Athens after 
 the Persians had been driven from the mainland of Greece. In 
@@ -2846,7 +2845,7 @@ departing from the custom of choosing Homeric subjects, deals with the
 defeat of Xerxes. He was quickly followed by Sophocles, and Sophocles
 by Euripides. Both extend into the dark days of the Peloponnesian War
 that followed the fall and death of Pericles, and Euripides reflects
-in his plays the scepticism of the later period. His contemporary
+in his plays the skepticism of the later period. His contemporary
 Aristophanes, the comic poet, makes fun of all isms from the
 standpoint of robust and limited common sense; more particularly, he
 holds up Socrates to obloquy as one who denies the existence of Zeus
@@ -2896,7 +2895,7 @@ of mind in creation.
 Most of Plato's dialogues are supposed by him to take place 
 during the time of Pericles, and they give an agreeable picture of 
 life among the rich. Plato belonged to an aristocratic Athenian 
-family, and grew up in the tradition of the perioil before war and 
+family, and grew up in the tradition of the period before war and 
 democracy had destroyed the wealth and security of the upper 
 classes. His young men, who have no need to work, spend most 
 of their leisure in the pursuit of science and mathematics and 
@@ -2938,8 +2937,8 @@ of Athens was bound up, caused increasing friction with Sparta,
 leading at last to the Peloponnesian War (431-404), in which Athens
 was completely defeated.
 
-In spile of political collapse, the prestige of Athens survived, 
-and throughout almost a millennium philosophy was centred there. 
+In spite of political collapse, the prestige of Athens survived, 
+and throughout almost a millennium philosophy was centered there. 
 
 Alexandria eclipsed Athens in mathematics and science, but Plato 
 and Aristotle had made Athens philosophically supreme. The 
@@ -2980,9 +2979,9 @@ and continents, showed a certain hostility to those who attempted
 to introduce a higher level of culture than that to which they were 
 accustomed. When Pericles was growing old, his opponents began 
 a campaign against him by attacking his friends. They accused 
-Phcidias of embezzling some of the gold that was to be employed 
+Pheidias of embezzling some of the gold that was to be employed 
 on his statues. They passed a law permitting impeachment of 
-those who did not practise religion and taught theories about "the 
+those who did not practice religion and taught theories about "the 
 things on high." Under this law, they prosecuted Anaxagoras, 
 who was accused of teaching that the sun was a red-hot stone 
 and the moon was earth. (The same accusation was repeated by 
@@ -3001,7 +3000,7 @@ that element preponderates. Like Empedocles, he argues against
 the void, saying that the clepsydra or an inflated skin shows that 
 there is air where there seems to be nothing. 
 
-He differed from his predecessors in regarding mind (nous) as a 
+He differed from his predecessors in regarding mind (_nous_) as a 
 substance which enters into the composition of living things, and 
 distinguishes them from dead matter. In everything, he says, there 
 is a portion of everything except mind, and some things contain 
@@ -3014,7 +3013,7 @@ that snow is black (in pant).
 Mind is the source of all motion. It causes a rotation, which is 
 gradually spreading throughout the world, and is causing the 
 lightest things to go to the circumference, and the heaviest to fall 
-towards the centre. Mind is uniform, and is just as good in animals 
+towards the center. Mind is uniform, and is just as good in animals 
 as in man. Man's apparent superiority is due to the fact that he 
 has hands; all seeming differences of intelligence are really due 
 to bodily differences. 
@@ -3040,7 +3039,7 @@ the Peloponnesus. The moon has mountains, and (he thought)
 inhabitants.
 
 Anaxagoras is said to have been of the school of Anaximenes; certainly
-he kept alive the rationalist and scientific tradition of the lonians.
+he kept alive the rationalist and scientific tradition of the Ionians.
 One does not find in him the ethical and religious preoccupations
 which, passing from the Pythagoreans to Socrates and from Socrates to
 Plato, brought an obscurantist bias into Greek philosophy. He is not
@@ -3281,7 +3280,7 @@ Let us consider the subsequent history of this problem. The first and
 most obvious way of avoiding the logical difficulty is to distinguish
 between matter and space. According to this view, space is not
 nothing, but is of the nature of a receptacle, which may or may not
-have any given part filled with matter. Aristotle says (Physics, 208
+have any given part filled with matter. Aristotle says (_Physics_, 208
 b): "The theory that the void exists involves the existence of place:
 for one would define void as place bereft of body." This view is set
 forth with the utmost explicitness by Newton, who asserts the
@@ -3361,7 +3360,7 @@ all sorts of shapes; fire is composed of small spherical atoms, and so
 is the soul. Atoms, by collision, produce vortices, which generate
 bodies and ultimately worlds.[^42] There are many worlds, some growing,
 some decaying; some may have no sun or moon, some several. Every world
-has a Ixrtfinning and an end. A world may be destroyed by collision
+has a beginning and an end. A world may be destroyed by collision
 with a larger world. This cosmology may be summarized in Shelley's
 words:
 
@@ -3380,7 +3379,7 @@ physical processes. Perception is of two sorts, one of the senses, one
 of the understanding. Perceptions of the latter sort depend only on
 the things perceived, while those of the former sort depend also on
 our senses, and are therefore apt to be deceptive. Like Locke,
-Democritus held that such qualities as warmth, taste, and colour are
+Democritus held that such qualities as warmth, taste, and color are
 not really in the object, but are due to our sense-organs, while such
 qualities as weight, density, and hardness are really in the object.
 
@@ -3416,24 +3415,24 @@ From this point onwards, there are first certain seeds of decay, in
 spite of previously unmatched achievement, and then a gradual
 decadence. What is amiss, even in the best philosophy after
 Democritus, is an undue emphasis on man as compared with the universe.
-First comes scepticism, with the Sophists, leading to a study of how
+First comes skepticism, with the Sophists, leading to a study of how
 we know rather than to the attempt to acquire fresh knowledge. Then
 comes, with Socrates, the emphasis on ethics; with Plato, the
-rejection of the world of sense in favour of the self-created world of
+rejection of the world of sense in favor of the self-created world of
 pure thought; with Aristotle, the belief in purpose as the fundamental
 concept in science. In spite of the genius of Plato and Aristotle,
 their thought has vices which proved infinitely harmful. After their
-time, there was a decay of vigour, and a gradual recrudescence of
+time, there was a decay of vigor, and a gradual recrudescence of
 popular superstition. A partially new outlook arose as a result of the
 victory of Catholic orthodoxy; but it was not until the Renaissance
-that philosophy regained the vigour and independence that characterize
+that philosophy regained the vigor and independence that characterize
 the predecessors of Socrates.
 
 
 ## Chapter X PROTAGORAS 
 
 The great pre-Socratic systems that we have been considering were
-confronted, in the latter half of the fifth century, by a sceptical
+confronted, in the latter half of the fifth century, by a skeptical
 movement, in which the most important figure was Protagoras, chief of
 the Sophists. The word "Sophist" had originally no bad connotation; it
 meant, as nearly as may be, what we mean by "professor." A Sophist was
@@ -3465,7 +3464,7 @@ theological and ethical dogmas against the assaults of enlightenment.
 But the enlightened are politically weaker in America than they were
 in Athens, because they have failed to make common cause with the
 plutocracy. There is, however, one important and highly intellectual
-class which is concerned with the defence of the plutocracy, namely
+class which is concerned with the defense of the plutocracy, namely
 the class of corporation lawyers. In same respects, their functions
 are similar to those that were performed in Athens by the Sophists.
 
@@ -3507,7 +3506,7 @@ the hostility of democratic politicians should wish to acquire
 forensic skill. For Athens, though much addicted to persecution, was
 in one respect less illiberal than modern America, since those accused
 of impiety and corrupting the young were allowed to plead in their own
-defence.
+defense.
 
 This explains the popularity of the Sophists with one class and their
 unpopularity with another. But in their own minds they served more
@@ -3571,7 +3570,7 @@ things that are not that they are not." This is interpreted as
 meaning that each man is the measure of all things, and that, 
 when men differ, there is no objective truth in virtue of which 
 one is right and the other wrong. The doctrine is essentially 
-sceptical, and is presumably based on the "deceitfulness" of the 
+skeptical, and is presumably based on the "deceitfulness" of the 
 senses. 
 
 One of the three founders of pragmatism, F. C. S. Schiller, was in the
@@ -3580,17 +3579,17 @@ because Plato, in the _Theaetetus_, suggests, as an interpretation of
 Protagoras, that one opinion can be better than another, though it
 cannot be truer. For example, when a man has jaundice everything looks
 yellow. There is no sense in saying that things are really not yellow,
-but the colour they look to a man in health; we can say, however,
+but the color they look to a man in health; we can say, however,
 that, since health is better than sickness, the opinion of the man in
 health is better than that of the man who has jaundice. This point of
 view, obviously, is akin to pragmatism.
 
 The disbelief in objective truth makes the majority, for practical 
 purposes, the arbiters as to what to believe. Hence Protagoras was 
-led to a defence of law and convention and traditional morality. 
+led to a defense of law and convention and traditional morality. 
 While, as we saw, he did not know whether the gods existed, he 
 was sure they ought to be worshipped. This point of view is 
-obviously the right one for a man whose theoretical scepticism is 
+obviously the right one for a man whose theoretical skepticism is 
 thoroughgoing and logical. 
 
 Protagoras spent his adult life in a sort of perpetual lecture tour
@@ -3626,7 +3625,7 @@ merit. The pursuit of truth, when it is whole-hearted, must ignore
 moral considerations; we cannot know in advance that the truth will
 turn out to be what is thought edifying in a given society. The
 Sophists were prepared to follow an argument wherever it might lead
-them. Often it led them to scepticism. One of them, Gorgias,
+them. Often it led them to skepticism. One of them, Gorgias,
 maintained that nothing exists; that if anything exists, it is
 unknowable; and granting it even to exist and la be knowable by any
 one man, he could never communicate it to others. We do not know what
@@ -3663,7 +3662,7 @@ of the Sophists.
 During the fifth century---whatever part the Sophists may have had in
 the change---there was in Athens a transformation from a certain stiff
 Puritan simplicity to a quick-witted and rather cruel cynicism in
-conflict with a slow-witted and equally cruel defence of crumbling
+conflict with a slow-witted and equally cruel defense of crumbling
 orthodoxy. At the beginning of the century comes the Athenian
 championship of the cities of Ionia against the Persians, and the
 victory of Marathon in 490 BC. At the end comes the defeat of Athens
@@ -3698,7 +3697,7 @@ Euripides, all belong to the fifth century. Aeschylus fought at
 Marathon and saw the battle of Salamis. Sophocles was still
 religiously orthodox. But Euripides was influenced by Protagoras and
 by the free-thinking spirit of the time, and his treatment of the
-myths is sceptical and subversive. Aristophanes, the comic poet, made
+myths is skeptical and subversive. Aristophanes, the comic poet, made
 fun of Socrates, Sophists, and philosophers, but, nevertheless,
 belonged to their circle; in the Symposium Plato represents him as on
 very friendly terms with Socrates. Pheidias the sculptor, as we have
@@ -3764,12 +3763,12 @@ the various points of view.
 Let us begin with Xenophon, a military man, not very liberally 
 endowed with brains, and on the whole conventional in his outlook. Xenophon is pained that Socrates should have been accused 
 of impiety and of corrupting the youth; he contends that, on the 
-contrany, Socrates was eminently pious and had a thoroughly 
+contrary, Socrates was eminently pious and had a thoroughly 
 wholesome effect upon those who came under his influence. His 
 ideas, it appears, so far from being subversive, were rather dull 
-and commonplace. This defence goes too far, since it leaves the 
+and commonplace. This defense goes too far, since it leaves the 
 hostility to Socrates unexplained. As Burnet says (_Thales to Plato_, 
-p. 149): "Xenophon's defence of Socrates is too successful. He 
+p. 149): "Xenophon's defense of Socrates is too successful. He 
 would never have been put to death if he had been like that." 
 
 There has been a tendency to think that everything Xenophon says must
@@ -3826,7 +3825,7 @@ did so is of course another question.
 
 The dialogue which is most generally regarded as historical is the
 Apology. This professes to be the speech that Socrates made in his own
-defence at his trial not, of course, a stenographic report, but what
+defense at his trial not, of course, a stenographic report, but what
 remained in Plato's memory some years after the event, put together
 and elaborated with literary art. Plato was present at the trial, and
 it certainly seems fairly clear that what is set down is the sort of
@@ -3846,7 +3845,7 @@ ground could not be made evident, on account of the amnesty. He was
 found guilty by a majority, and it was then open to him, by Athenian
 law, to propose some lesser penalty than death. The judges had to
 choose, if they had found the accused guilty, between the penalty
-demanded by the prosecution and that suggested by the defence. It was
+demanded by the prosecution and that suggested by the defense. It was
 therefore to the interest of Socrates to suggest a substantial
 penalty, which the court might have accepted as adequate. He, however,
 proposed a fine of thirty minae, for which some of his friends
@@ -3925,7 +3924,7 @@ oracle.
 Young men of the richer classes, he says, having not much to 
 do, enjoy listening to him exposing people, and proceed to do 
 likewise, thus increasing the number of his enemies. "For they 
-do not like to confess that their pretence of knowledge has been 
+do not like to confess that their pretense of knowledge has been 
 detected." 
 
 So much for the first class of accusers. 
@@ -3953,12 +3952,12 @@ considerations.
 
 The rest of the Apology is essentially religious in tone. He has been
 a soldier, and has remained at his post, as he was ordered to do. Now
-"God orders me to fulfil the philosopher's mission of searching into
+"God orders me to fulfill the philosopher's mission of searching into
 myself and other men," and it would be as shameful to desert his post
 now as in time of battle. Fear of death is not wisdom, since no one
 knows whether death may not be the greater good. If he were offered
 his life on condition of ceasing to speculate as he has done hitherto,
-he would reply: "Men of Athens, I honour and love you; but I shall
+he would reply: "Men of Athens, I honor and love you; but I shall
 obey God rather than you,[^47] and while I have life and strength I
 shall never cease from the practice and teaching of philosophy,
 exhorting any one whom I meet.... For know that this is the command of
@@ -3968,14 +3967,14 @@ than my service to the God." He goes on:
 [^47]: Cf. _Acts_, V, 29. 
 
 I have something more to say, at which you may be inclined to cry
-cnit; but I believe that to hear me will be good for you, and
+out; but I believe that to hear me will be good for you, and
 therefore I beg that you will not cry out. I would have you know, that
 if you kill such a one as I am, you will injure yourselves more than
 you will injure me. Nothing will injure me, not Meletus nor yet Anytus
 they cannot, for a bad man is not permitted to injure a belter than
 himself. I do not deny that Anytus may perhaps kill him, or drive him
 into exile, or deprive him of civil rights; and he may imagine, and
-others may imagine, that he is intlicting a great injury upon him: but
+others may imagine, that he is inflicting a great injury upon him: but
 there I do not agree. For the evil of doing as he is doing the evil of
 unjustly taking away the life of another is greater far.
 
@@ -4004,11 +4003,11 @@ He points out that among those present are many former pupils
 of his, and fathers and brothers of pupils; not one of these has 
 been produced by the prosecution to testify that he corrupts the 
 young. (This is almost the only argument in the Apology that a 
-lawyer for the defence would sanction.) He refuses to follow the 
+lawyer for the defense would sanction.) He refuses to follow the 
 custom of producing his weeping children in court, to soften the 
 hearts of the judges; such scenes, he says, make the accused and 
 the city alike ridiculous. It is his business to convince the judges, 
-not to ask a favour of them. 
+not to ask a favor of them. 
 
 After the verdict, and the rejection of the alternative penalty of 
 thirty minae (in connection with which Socrates names Plato as 
@@ -4022,7 +4021,7 @@ speech.
 > punishment far heavier than you have inflicted on me will surely 
 > await you.... If you think that by killing men you can prevent 
 > some one from censuring your evil lives, you are mistaken; that 
-> is not a way of escape which is either possible or honourable; 
+> is not a way of escape which is either possible or honorable; 
 > the easiest and the noblest way is not to be disabling others, but 
 > to be improving yourselves. 
 
@@ -4041,7 +4040,7 @@ knowledge. "In another world they do not put a man to death for asking
 questions: assuredly not. For besides being happier than we are, they
 will be immortal, if what is said is true....
 
-"The hour of departure has arrived, and we go our ways I to die, ami
+"The hour of departure has arrived, and we go our ways I to die, and
 you to live. Which is better God only knows."
 
 The _Apology_ gives a clear picture of a man of a certain type: a man
@@ -4070,7 +4069,7 @@ occurred once when he was on military service:
 > One morning he was thinking about something which he could 
 > not resolve; he would not give it up, but continued thinking from 
 > early dawn until noon there he stood fixed in thought; and at 
-> noon attention was drawn to him, and the rumour ran through 
+> noon attention was drawn to him, and the rumor ran through 
 > the wondering crowd that Socrates had been standing and thinking 
 > about something ever since the break of day. At last, in the 
 > evening after supper, some Ionians out of curiosity (I should 
@@ -4086,14 +4085,14 @@ Aristodemus go together to the banquet, but Socrates drops behind
 in a fit of abstraction. When Aristodemus arrives, Agathon, the 
 host, says "what have you done with Socrates?" Aristodemus is 
 astonished to find Socrates not with him; a slave is sent to look 
-for him, and finds him in the portico of a neighbouring house. 
+for him, and finds him in the portico of a neighboring house. 
 "There he is fixed," says the slave on his return, "and when I 
 call to him he will not stir." Those who know him well explain 
 that "he has a way of stopping anywhere and losing himself 
 without any reason." They leave him alone, and he enters when 
 the feast is half over. 
 
-Every one is agreed that Socrates was very uply; he had a snub nose
+Every one is agreed that Socrates was very ugly; he had a snub nose
 and a considerable paunch; he was "uglier than all the Silenuses in
 the Satyric drama" (Xenophon, Symposium). He was always dressed in
 shabby old clothes, and went barefoot everywhere. His indifference to
@@ -4157,14 +4156,14 @@ present day.
 
 Dialectic, that is to say, the method of seeking knowledge by 
 question and answer, was not invented by Socrates. It seems to 
-have been first practised systematically by Zeno, the disciple of 
+have been first practiced systematically by Zeno, the disciple of 
 Parmenides; in Plato's dialogue _Parmenides_, Zeno subjects Socrates 
 to the same kind of treatment to which, elsewhere in Plato, 
 Socrates subjects others. But there is every reason to suppose that 
-Socrates practised and developed the method. As we saw, when 
+Socrates practiced and developed the method. As we saw, when 
 Socrates is condemned to death he reflects happily that in the 
 next world he can go on asking questions for ever, and cannot be 
-put to death, as he will be immortal. Certainly, if he practised 
+put to death, as he will be immortal. Certainly, if he practiced 
 dialectic in the way described in the _Apology_, the hostility to him 
 is easily explained: all the humbugs in Athens would combine 
 against him. 
@@ -4232,7 +4231,7 @@ through the myth. Each is important. The reality enabled the
 Spartans to defeat Athens in war; the myth influenced Plato's 
 political theory, and that of countless subsequent writers. The 
 myth, fully developed, is to be found in Plutarch's _Life of Lycurgus_; 
-the ideals that it favours have had a great part in framing the 
+the ideals that it favors have had a great part in framing the 
 doctrines of Rousseau, Nietzsche, and National Socialism.[^48] The 
 myth is of even more importance, historically, than the reality; 
 nevertheless, we will begin with the latter. For the reality was the 
@@ -4269,7 +4268,7 @@ exceptional bravery in battle.
 [^49]: Bury, _History of Greece_, Vol. I, p. 138. It seems that Spartan men ate nearly six times as much as their wives. 
 
 
-At some time during the eighth century BC the Spartans conquered the neighbouring country of Messenia, and reduced most 
+At some time during the eighth century BC the Spartans conquered the neighboring country of Messenia, and reduced most 
 of its inhabitants to the condition of helots. There had been a 
 lack of _Lebensraum_ in Sparta, but the new territory, for a time, 
 removed this source of discontent. 
@@ -4366,7 +4365,7 @@ intended to balance the kings. Every month the kings swore to
 uphold the constitution, and the ephors then swore to uphold the 
 kings so long as they remained true to their oath. When either 
 king went on a warlike expedition, two ephors accompanied him 
-to watch over his behaviour. The ephors were the supreme civil 
+to watch over his behavior. The ephors were the supreme civil 
 court, but over the kings they had criminal jurisdiction. 
 
 [^50]: In speaking of "democratic" elements in the Spartan constitution, one must of course remember that the citizens as a whole were a ruling class fiercely tyrannizing over the helots, and allowing no power to die perioeci. 
@@ -4449,7 +4448,7 @@ Apart from such flagrant matters, the policy of Sparta was always
 petty and provincial. When Athens liberated the Greeks of Asia 
 Minor and the adjacent islands from the Persians, Sparta held 
 aloof; so long as the Peloponnesus was deemed safe, the fate of 
-other (ireeks was a matter of indifference. Every attempt at a 
+other Greeks was a matter of indifference. Every attempt at a 
 confederation of the Hellenic world was defeated by Spartan 
 particularism. 
 
@@ -4483,7 +4482,7 @@ Aristotle criticizes every point of the Spartan constitution. He says
 that the ephors are often very poor, and therefore easy to bribe; and
 their power is so great that even kings are compelled to court them,
 so that the constitution has been turned into a democracy. The ephors,
-we are told, have too much licence, and live in a manner contrary to
+we are told, have too much license, and live in a manner contrary to
 the spirit of the constitution, while the strictness in relation to
 ordinary citizens is so intolerable that they take refuge in the
 secret illegal indulgence of sensual pleasures.
@@ -4495,7 +4494,7 @@ disbelieve him, and it is in line with all modern experience of the
 results of excessive severity in the laws. But it was not Aristotle's
 Sparta that persisted in men's imagination; it was the mythical Sparta
 of Plutarch and the philosophic idealization of Sparta in Plato's
-Republic. Century after century, young men read these works, and were
+_Republic_. Century after century, young men read these works, and were
 fired with the ambition to become Lycurguses or philosopher-kings. The
 resulting union of idealism and love of power has led men astray over
 and over again, and is still doing so in the present day.
@@ -4529,7 +4528,7 @@ like the recollection of a brilliant sunrise in the Alps, while the
 mountaineer struggles through an arduous day of wind and snow. These
 memories, as they gradually faded, left in men's minds the images of
 certain peaks that had shone with peculiar brightness in the early
-light, keeping alive the knowledge that behind the clouds a splendour
+light, keeping alive the knowledge that behind the clouds a splendor
 still survived, and might at any moment become manifest. Of these,
 Plato was the most important in early Christianity, Aristotle in the
 medieval Church; hut when, after the Renaissance, men began to value
@@ -4543,25 +4542,26 @@ Lycurgus and Sparta, it was bad. What he has to say about Lycurgus is
 important, and I shall give a brief account of it, even at the cost of
 some repetition.
 
-Lycurgus so Plutarch says having resolved to give laws to 
-Sparta, travelled widely in order to study different institutions. 
-He liked the laws of Crete, which were "very straight and severe,"[^53]
-but disliked those of Ionia, where there were "superfluities and 
-vanities." In Egypt he learned the advantage of separating the 
-soldiers from the rest of the people, and afterwards, having 
-returned from his travels, "brought the practice of it into Sparta: 
-where setting the merchants, artificers, and labourers every one 
-a part by themselves, he did establish a noble Commonwealth." 
-He made an equal division of lands among all the citizens of Sparta 
-in order to "banish out of the city all insolvency, envy, covetousness, and dcliciousness, and also all riches and poverty." He forbade gold and silver money, allowing only iron coinage, of so 
-little value that "to lay up thereof the value often minas, it would 
-have occupied a whole cellar in a house." By this means he 
-banished "all superfluous and unprofitable sciences," since there 
-was not enough money to pay their practitioners; and by the 
-same law he made all external commerce impossible. Rhetoricians, 
-panders, and jewellers, not liking the iron money, avoided Sparta. 
-He next ordained that all the citizens should eat together, and all 
-should have the same food. 
+Lycurgus so Plutarch says having resolved to give laws to Sparta,
+travelled widely in order to study different institutions. He liked
+the laws of Crete, which were "very straight and severe,"[^53] but
+disliked those of Ionia, where there were "superfluities and
+vanities." In Egypt he learned the advantage of separating the
+soldiers from the rest of the people, and afterwards, having returned
+from his travels, "brought the practice of it into Sparta: where
+setting the merchants, artificers, and labourers every one a part by
+themselves, he did establish a noble Commonwealth." He made an equal
+division of lands among all the citizens of Sparta in order to "banish
+out of the city all insolvency, envy, covetousness, and deliciousness,
+and also all riches and poverty." He forbade gold and silver money,
+allowing only iron coinage, of so little value that "to lay up thereof
+the value often minas, it would have occupied a whole cellar in a
+house." By this means he banished "all superfluous and unprofitable
+sciences," since there was not enough money to pay their
+practitioners; and by the same law he made all external commerce
+impossible. Rhetoricians, panders, and jewelers, not liking the iron
+money, avoided Sparta. He next ordained that all the citizens should
+eat together, and all should have the same food.
 
 [^53]: In quoting Plutarch I use North's translation. 
 
@@ -4580,7 +4580,7 @@ ill of if, being old and having a young wife, he allowed a younger man
 to have children by her. "It was lawful also for an honest man that
 loved another man's wife ... to intreat her husband to suffer him to
 lie with her, and that he might also plough in that lusty ground, an
-cast abroad the seed of well-favoured children." There was to be no
+cast abroad the seed of well-favored children." There was to be no
 foolish jealousy, for "Lycurgus did not like that children should be
 private to any men, but that they should be common to the common weal:
 by which reason he would also, that such as should become citizens
@@ -4612,11 +4612,11 @@ the boy's actions; Plutarch states that once, when a boy cried out
 because he was hurt in fighting, his lover was fined for the boy's 
 cowardice. 
 
-There was little liberty at any stape in the life of a Spartan. 
+There was little liberty at any stage in the life of a Spartan. 
 
 Their discipline and order of life continued still, after they 
 were full grown men, For it was not lawful for any man to live 
-as he listed, but they were within tlieir city, as if they had been in 
+as he listed, but they were within their city, as if they had been in 
 a camp, where every man knoweth what allowance he hath to live 
 withal, and what business he hath else to do in his calling. To be 
 short, they were all of this mind, that they were not born to serve 
@@ -4640,7 +4640,7 @@ together, as the bees be about their master bee."
 
 Spartans were not allowed to travel, nor were foreigners admitted 
 to Sparta, except on business; for it was feared that alien customs 
-uould corrupt Lacedaemonian virtue. 
+would corrupt Lacedaemonian virtue. 
 
 Plutarch relates the law that allowed Spartans to kill helots whenever
 they felt so disposed, but refuses to believe that anything so
@@ -4670,31 +4670,32 @@ or successors.
 The most important matters in Plato's philosophy are: first, his
 Utopia, which was the earliest of a long series; second, his theory of
 ideas, which was a pioneer attempt to deal with the still unsolved
-problem of universals; third, his arguments in favour of immortality;
+problem of universals; third, his arguments in favor of immortality;
 fourth, his cosmogony; fifth, his conception of knowledge as
 reminiscence rather than perception. But before dealing with any of
 these topics, I shall say a few words about the circumstances of his
 life and the influences which determined his political and
 philosophical opinions.
 
-Plato was born in 428--7 BC, in the early years of the Peloponnesian War. He was a well-to-do aristocrat, related to various 
-people who were concerned in the rule of the Thirty Tyrants. He 
-was a young man when Athens was defeated, and he could attribute 
-the defeat to democracy, which his social position and his family 
-connections were likely to make him despise. He was a pupil of 
-Socrates, for whom he had a profound affection and respect; and 
-Socrates was put to death by the democracy. It is not, therefore, 
-surprising that he should turn to Sparta for an adumbration of 
-his ideal commonwealth. Plato possessed the art to dress up 
-illiberal suggestions in such a way that they deceived future ages, 
-which admired the _Republic_ without ever becoming aware of what 
-was involved in its proposals. It has always been correct to praise 
-Plato, but not to understand him. This is the common fate of 
-great men. My object is the opposite. I wish to understand him
-but to treat him with as little reverence as if he were a contemporary Encgish or American advocate of totalitarianism.
+Plato was born in 428--7 BC, in the early years of the Peloponnesian
+War. He was a well-to-do aristocrat, related to various people who
+were concerned in the rule of the Thirty Tyrants. He was a young man
+when Athens was defeated, and he could attribute the defeat to
+democracy, which his social position and his family connections were
+likely to make him despise. He was a pupil of Socrates, for whom he
+had a profound affection and respect; and Socrates was put to death by
+the democracy. It is not, therefore, surprising that he should turn to
+Sparta for an adumbration of his ideal commonwealth. Plato possessed
+the art to dress up illiberal suggestions in such a way that they
+deceived future ages, which admired the _Republic_ without ever
+becoming aware of what was involved in its proposals. It has always
+been correct to praise Plato, but not to understand him. This is the
+common fate of great men. My object is the opposite. I wish to
+understand him but to treat him with as little reverence as if he were
+a contemporary English or American advocate of totalitarianism.
 
 The purely philosophical influences on Plato were also such as 
-to predispose him in favour of Sparta. These influences, speaking 
+to predispose him in favor of Sparta. These influences, speaking 
 broadly, were: Pythagoras, Parmenides, Heraclitus, and Socrates. 
 
 From Pythagoras (whether by way of Socrates or not) Plato 
@@ -4708,7 +4709,7 @@ From Parmenides he derived the belief that reality is eternal
 and timeless, and that, on logical grounds, all change must be 
 illusory. 
 
-From Heraclitus he derived the negative doctine that there is 
+From Heraclitus he derived the negative doctrine that there is 
 nothing permanent in the sensible world. This, combined with the 
 doctrine of Parmenides, led to the conclusion that knowledge is 
 not to be derived from the senses, but is only to be achieved by 
@@ -4729,7 +4730,7 @@ rulers should be those who best understand the eternal Good.
 
 In the second place: Plato, like all mystics, has, in his beliefs, a
 core of certainty which is essentially incommunicable except by a way
-of life. The Pythagoreans had endeavoured to set up a rule of the
+of life. The Pythagoreans had endeavored to set up a rule of the
 initiate, and this is, at bottom, what Plato desires. If a man is to
 be a good statesman, he must know the Good; this he can only do by a
 combination of intellectual and moral discipline. If those who have
@@ -4774,15 +4775,16 @@ so long as there are many sovereign States. And even then the most
 difficult part of the pursuit of the general interest would consist in
 arriving at compromises among mutually hostile special interests.
 
-But even if we suppose that there is such a thing as "wisdom," 
-is there any form of constitution which will give the government 
-to the wise? It is clear that majorities, like general councils, may 
-err, and in fact have erred. Aristocracies are not always wise; kings 
-are often foolish; Popes, in spite of infallibility, have committed 
-grievous errors. Wduld anybody advocate entrusting the government to university graduates, or even to doctors of divinity? Or 
-to men who, having been born poor, have made great fortunes? 
-It is clear that no legally definable selection of citizens is likely to 
-be wiser, in practice, than the whole body. 
+But even if we suppose that there is such a thing as "wisdom," is
+there any form of constitution which will give the government to the
+wise? It is clear that majorities, like general councils, may err, and
+in fact have erred. Aristocracies are not always wise; kings are often
+foolish; Popes, in spite of infallibility, have committed grievous
+errors. Would anybody advocate entrusting the government to university
+graduates, or even to doctors of divinity? Or to men who, having been
+born poor, have made great fortunes? It is clear that no legally
+definable selection of citizens is likely to be wiser, in practice,
+than the whole body.
 
 It might be suggested that men could be given political wisdom 
 by a suitable training. But the question would arise: what is a 
@@ -4806,7 +4808,7 @@ philosophers. Books VI and VII are concerned to define the word
 The third section consists mainly of a discussion of various 
 kinds of actual constitutions and of their merits and defects. 
 
-The nominal purpose of the Republic is to define "justice." But at an
+The nominal purpose of the _Republic_ is to define "justice." But at an
 early stage it is decided that, since everything is easier to see in
 the large than in the small, it will be better to inquire what makes a
 just State than what makes a just individual. And since justice must
@@ -4851,7 +4853,7 @@ his day was, in one respect, analogous to England in the nineteenth
 century: there was in each an aristocracy enjoying wealth and social
 prestige, but having no monopoly of political power; and in each the
 aristocracy had to secure as much power as it could by means of
-impressive behaviour. In Plato's Utopia, however, the aristocracy
+impressive behavior. In Plato's Utopia, however, the aristocracy
 rules unchecked.
 
 Gravity, decorum and courage seem to be the qualities mainly to be
@@ -5048,7 +5050,7 @@ theory, every person and every thing has his or its appointed place
 and appointed function. This does not depend upon the fiat of Zeus,
 for Zeus himself is subject to the same kind of law as governs others.
 The theory is connected with the idea of fate or necessity. It applies
-emphatitally to the heavenly bodies. But where there is vigour, there
+emphatitally to the heavenly bodies. But where there is vigor, there
 is a tendency to overstep just bounds; hence arises strife. Some kind
 of impersonal super-Olympian law punishes hubris, and restores the
 eternal order which the aggressor sought to violate. This whole
@@ -5065,7 +5067,7 @@ with equality: while for Plato it has no such implication. "Justice,"
 in the sense in which it is almost synonymous with "law" as when we
 speak of "courts of justice" is concerned mainly with property rights,
 which have nothing to do with equality. The first suggested definition
-of "justice," at the beginning of the Republic, is that it consists in
+of "justice," at the beginning of the _Republic_, is that it consists in
 paying debts. This definition is soon abandoned as inadequate, but
 something of it remains at the end.
 
@@ -5106,7 +5108,7 @@ man's job. Although all the rulers are to be philosophers, there are
 to be no innovations: a philosopher is to be, for all time, a man who
 understands and agrees with Plato.
 
-When we ask: what will Plato's Republic achieve? the answer is rather
+When we ask: what will Plato's _Republic_ achieve? the answer is rather
 humdrum. It will achieve success in wars against roughly equal
 populations, and it will secure a livelihood for a certain small
 number of people. It will almost certainly produce no art or science,
@@ -5126,7 +5128,7 @@ is impersonal; it is something having (at least ostensibly) no special
 reference to the ego of the man who feels the desire, and therefore
 capable, theoretically, of being desired by everybody. Thus we might
 define an "ideal" as something desired, not egocentric, and such that
-the person desiring it wishes that every one else also deiircd it. I
+the person desiring it wishes that every one else also desired it. I
 may wish that everybody had enough to eat, that everybody felt kindly
 towards everybody, and so on, and if I wish anything of this kind I
 shall also wish others to wish it. In this way, I can build up what
@@ -5158,7 +5160,7 @@ is really the case, ethical disputes resolve themselves into contests
 for power including propaganda power.
 
 This point of view, in a crude form, is put forth in the first 
-book of the Republic by Thrasymachus, who, like almost all the 
+book of the _Republic_ by Thrasymachus, who, like almost all the 
 characters in Plato's dialogues, was a real person. He was a 
 Sophist from Chalcedon. and a famous teacher of rhetoric; he 
 appeared in the first comedy of Aristophanes, 427 BC. After 
@@ -5295,8 +5297,8 @@ modifications, influenced most of the great philosophers, down
 to and including Hegel. But not only philosophers were influenced 
 by Plato. Why did the Puritans object to the music and painting
 and gorgeous ritual of the Catholic Church? You will find the
-answer in the tenth book of the Republic. Why are children in
-school compelled no learn arithmetic? The reasons are given in
+answer in the tenth book of the _Republic_. Why are children in
+school compelled to learn arithmetic? The reasons are given in
 the seventh book. 
 
 The following paragraphs summarize Plato's theory of ideas. 
@@ -5362,7 +5364,7 @@ anything, it means something which is not this or that cat, but some
 kind of universal cattiness. This is not born when a particular cat is
 born, and does not die when it dies. In fact, it has no position in
 space or time; it is "eternal." This is the logical part of the
-doctrine. The arguments in its favour, whether ultimately valid or
+doctrine. The arguments in its favor, whether ultimately valid or
 not, are strong, and quite independent of the metaphysical part of the
 doctrine.
 
@@ -5458,7 +5460,7 @@ like sudden insight may be misleading, and must be tested soberly,
 when the divine intoxication has passed. 
 
 Plato's vision, which he completely trusted at the time when he 
-wrote the Republic, needs ultimately the help of a parable, 
+wrote the _Republic_, needs ultimately the help of a parable, 
 the parable of the cave, in order to convey its nature to the 
 reader. But it is led up to by various preliminary discussions, 
 designed to make the reader see the necessity of the world of 
@@ -5486,17 +5488,16 @@ it can be done by reason, which shows that there is a rectilinear
 triangle in heaven, of which geometrical propositions can be 
 affirmed categorically, not hypothetically. 
 
-There is, at this point, a difficulty which did not escape Plato's 
-notice, and was evident to modern idealistic philosophers. 
-We saw that God made only one bed, and it would he natural 
-to suppose that he made only one straight line. But if there is a 
-heavenly triangle, he must have made at least three straight lines. 
-Theobjects of geometry, though ideal, must exist in manycxamples; 
-we need the possibility of two intersecting circles , and so on. 
-This suggests that geometry, on Plato's theory, should not be 
-capable of ultimate truth, but should be condemned as part of 
-the study of appearance. We will, however, ignore this point, 
-as to which Plato's answer is somewhat obscure. 
+There is, at this point, a difficulty which did not escape Plato's
+notice, and was evident to modern idealistic philosophers. We saw that
+God made only one bed, and it would he natural to suppose that he made
+only one straight line. But if there is a heavenly triangle, he must
+have made at least three straight lines. The objects of geometry,
+though ideal, must exist in many examples; we need the possibility of
+two intersecting circles , and so on. This suggests that geometry, on
+Plato's theory, should not be capable of ultimate truth, but should be
+condemned as part of the study of appearance. We will, however, ignore
+this point, as to which Plato's answer is somewhat obscure.
 
 Plato seeks to explain the difference between clear intellectual 
 vision and the confused vision of sense-perception by an analogy 
@@ -5588,7 +5589,7 @@ proper names, but must have also general words such as "man," "dog,"
 difficult to see how they can have meaning if the world consists
 entirely of particular things, such as are designated by proper names.
 There may be ways of getting round this argument, but at any rate it
-affords a prima facie case in favour of universals. I shall
+affords a prima facie case in favor of universals. I shall
 provisionally accept it as in some degree valid. But when so much is
 granted, the rest of what Plato says by no means follows.
 
@@ -5744,7 +5745,7 @@ multiplicity of ideas would thus not be ultimate. Ultimately there is
 only God, or the Good, to whom the ideas are adjectival. This, at any
 rate, is a possible interpretation of Plato. Plato proceeds to an
 interesting sketch of the education proper to a young man who is to be
-a guardian. We saw that the young man is selected for this honour on
+a guardian. We saw that the young man is selected for this honor on
 the ground of a combination of intellectual and moral qualities; he
 must be just and gentle, fond of learning, with a good memory and a
 harmonious mind. The young man who has been chosen for these merits
@@ -5760,7 +5761,7 @@ view in connection with empirical astronomy. The way this came about
 is curious, and worth considering.
 
 The apparent motions of the planets, until they have been very
-profoundly analysed, appear to be irregular and complicated, and not
+profoundly analyzed, appear to be irregular and complicated, and not
 at all such as a Pythagorean Creator would have chosen. It was obvious
 to every Greek that the heavens ought to exemplify mathematical
 beauty, which would only be the case if the planets moved in circles.
@@ -5776,7 +5777,7 @@ hypothesis to "the Pythagoreans" (_De Coelo_, 293 a). It was revived
 by Copernicus, and its success might seem to justify Plato's aesthetic
 bias in astronomy. Unfortunately, however, Kepler discovered that the
 planets move in ellipses, not in circles, with the sun at a focus, not
-at the centre; then Newton discovered that they do not move even in
+at the center; then Newton discovered that they do not move even in
 exact ellipses. And so the geometrical simplicity sought by Plato, and
 apparently found by Aristarchus of Samos, proved in the end illusory.
 
@@ -5840,7 +5841,7 @@ state. The laws end a long speech with the words:
 > first, that you may be justified before the princes of the world
 > below. For neither will you nor any that belong to you be happier or
 > holier or juster in this life, or happier in another, if you do as
-> Crito bids. Now you depart in innocense, a sufferer and not a doer
+> Crito bids. Now you depart in innocence, a sufferer and not a doer
 > of evil; a victim, not of the laws, but of men. But if you go forth,
 > returning evil for evil, and injury for injury, breaking the
 > covenants and agreement which you have made with us, and wronging
@@ -5862,11 +5863,11 @@ discussion.
 Socrates begins by maintaining that, though any one who has the spirit
 of philosophy will not fear death, but, on the contrary, will welcome
 it, yet he will not take his own life, for that is held to be
-unlawful. His friends imquire why suicide is held to be unlawful, and
+unlawful. His friends inquire why suicide is held to be unlawful, and
 his answer, which is in accordance with Orphic doctrine, is almost
 exactly what a Christian might say. "There is a doctrine whispered in
 secret that many is a prisoner who has no right to open the door and
-run away; this is a great myster which I do not quite understand." He
+run away; this is a great mystery which I do not quite understand." He
 compares the relation of man to God with that of cattle to their
 owner; you would be angry, he says, if your ox took the liberty of
 putting himself out of the way, and so "there may be reason in saying
@@ -5979,7 +5980,7 @@ justified.
 Thought is best, Socrates says, when the mind is gathered into 
 itself, and is not troubled by sounds or sights or pain or pleasure 
 but takes leave of the body and aspires after true being; "and in 
-this the philosopher dishonours the body." From this point, 
+this the philosopher dishonors the body." From this point, 
 Socrates goes on to the ideas or forms or essences. There is 
 absolute justice, absolute beauty, and absolute good, but they are 
 not visible to the eye. "And I speak not of these alone, but of 
@@ -6099,8 +6100,8 @@ teaching, but only recollection." He professes to prove his point by
 having Meno call in a slave-boy whom Socrates proceeds to question on
 geometrical problems. The boy's answers are supposed to show that he
 really knows geometry, although he has hitherto been unaware of
-possessing this knowledge. The same conclusion is drawn in the Meno as
-in the Phaedo, that knowledge is brought by the soul from a previous
+possessing this knowledge. The same conclusion is drawn in the _Meno_ as
+in the _Phaedo_, that knowledge is brought by the soul from a previous
 existence.
 
 As to this, one may observe, in the first place, that the argument 
@@ -6119,12 +6120,12 @@ experience, among sensible objects, of exact equality; we see only
 approximate equality. How, then, do we arrive at the idea of 
 absolute equality? Or do we, perhaps, have no such idea? 
 
-Let us take a concrete case. The metre is defined as the length of a
+Let us take a concrete case. The meter is defined as the length of a
 certain rod in Paris at a certain temperature. What should we mean if
-we said, of some other rod, that its length was exactly one metre? I
+we said, of some other rod, that its length was exactly one meter? I
 don't think we should mean anything. We could say: The most accurate
 processes of measurement known to science at the present day fail to
-show that our rod is either longer or shorter than the standard metre
+show that our rod is either longer or shorter than the standard meter
 in Paris. We might, if we were sufficiently rash, add a prophecy that
 no subsequent refinements in the technique of measurement will alter
 this result. But this is still an empirical statement, in the sense
@@ -6133,7 +6134,7 @@ we really possess the idea of absolute equality that Plato supposes us
 to possess.
 
 But even if we do, it is clear that no child possesses it until it 
-reaches a certain afce, and that the idea is elidttd by experience, 
+reaches a certain age, and that the idea is elicited by experience, 
 although not directly derived from experience. Moreover, unless 
 our existence before birth was not one of sense-perception, it 
 would have been as incapable of generating the idea as this life 
@@ -6177,10 +6178,10 @@ sense-perception, it contemplates the world of changing things.
 > soul is called wisdom.
 
 The soul of the true philosopher, which has, in life, been liberated
-from thraldom to the flesh, will, after death, depart to the invisible
+from thralldom to the flesh, will, after death, depart to the invisible
 world, to live in bliss in the company of the gods. But the impure
 soul, which has loved the body, will become a ghost haunting the
-sepulchre, or will enter into the body of an animal, such as an ass or
+sepulcher, or will enter into the body of an animal, such as an ass or
 wolf or hawk, according to its character. A man who has been virtuous
 without being a philosopher will become a bee or wasp or ant, or some
 other animal of a gregarious and social sort.
@@ -6205,7 +6206,7 @@ the soul is a harmony, and urges: if the lyre is broken, can the
 harmony survive? Socrates replies that the soul is not a harmony, 
 for a harmony is complex, but the soul is simple. Moreover, he 
 says, the view that the soul is a harmony is incompatible with its 
-pre-existcnce, which was proved by the doctrine of reminiscence; 
+pre-existence, which was proved by the doctrine of reminiscence; 
 for the harmony does not exist before the lyre. 
 
 Socrates proceeds to give an account of his own philosophical 
@@ -6224,26 +6225,24 @@ tn illness, and Socrates has recovered from life's fitful fever.
 "Of all the men of his time," Phaedo concludes, "he was the 
 wisest and justest and best." 
 
-The Platonic Socrates was a pattern to subsequent philosophers 
-for many ages. What are we to think of him ethically? (I am con- 
-cerned only with the man as Plato portrays him.) His merits are 
-obvious. He is indifferent to worldly success, so devoid of fear that 
-he remains calm and urbane and humorous to the last moment, 
-caring more for what he believes to be truth than for anything 
-else whatever. He has, however, some very grave defects. He is 
-dishonest and sophistical in argument, and in his private thinking 
-he uses intellect to prove conclusions that are to him agreeable, 
-rather than in a disinterested search for knowledge. There is 
-something smug and unctuous about him, which reminds one of 
-a bad type of cleric. His courage in the face of death would have 
-been more remarkable if he had not believed that he was going 
-to enjoy eternal bliss in the company of the gods. Unlike some of 
-his predecessors, he was not scientific in his thinking, but was 
-determined to prove the universe agreeable to his ethical standards. 
-This is treachery to truth, and the worst of philosophic sins. As 
-a man, we may believe him admitted to the communion of saints; 
-but as a philosopher he needs a long residence in a scientific 
-purgatory. 
+The Platonic Socrates was a pattern to subsequent philosophers for
+many ages. What are we to think of him ethically? (I am concerned only
+with the man as Plato portrays him.) His merits are obvious. He is
+indifferent to worldly success, so devoid of fear that he remains calm
+and urbane and humorous to the last moment, caring more for what he
+believes to be truth than for anything else whatever. He has, however,
+some very grave defects. He is dishonest and sophistical in argument,
+and in his private thinking he uses intellect to prove conclusions
+that are to him agreeable, rather than in a disinterested search for
+knowledge. There is something smug and unctuous about him, which
+reminds one of a bad type of cleric. His courage in the face of death
+would have been more remarkable if he had not believed that he was
+going to enjoy eternal bliss in the company of the gods. Unlike some
+of his predecessors, he was not scientific in his thinking, but was
+determined to prove the universe agreeable to his ethical standards.
+This is treachery to truth, and the worst of philosophic sins. As a
+man, we may believe him admitted to the communion of saints; but as a
+philosopher he needs a long residence in a scientific purgatory.
 
 ## Chapter XVII PLATO'S COSMOGONY 
 
@@ -6409,7 +6408,7 @@ which is half a square and the one which is half an equilateral
 triangle. Originally everything was in confusion, and "the various
 elements had different places before they were arranged so as to form
 the universe." But then God fashioned them by form and number, and
-"made them as far as'possible the fairest and best, out of things
+"made them as far as possible the fairest and best, out of things
 which were not fair and good." The above two sorts of triangles, we
 are told, are the most beautiful forms and therefore God used them in
 constructing matter. By means of these two triangles, it is possible
@@ -6506,7 +6505,7 @@ genuine knowledge, but such a statement as "snow is white" is so full
 of ambiguity and uncertainty that it cannot find a place in the
 philosopher's corpus of truths.
 
-This view is perhaps traceable to Panne nides, but in its explicit
+This view is perhaps traceable to Parmenides, but in its explicit
 form the philosophic world owes it to Plato. I propose, in this
 chapter, to deal with Plato's criticism of the view that knowledge is
 the same thing as perception, which occupies the first half of the
@@ -6643,10 +6642,10 @@ argument against the identification of knowledge with perception. He
 begins by pointing out that we perceive through eyes and ears, rather
 than with them, and he goes on to point out that some of our knowledge
 is not connected with any sense-organ. We can know, for instance, that
-sounds and colours are unlike, though no organ of sense can perceive
+sounds and colors are unlike, though no organ of sense can perceive
 both. There is no special organ for "existence and non-existence,
 likeness and unlikeness, sameness and differences, and also unity and
-numbers in general." The same applies to honourable and dishonourable,
+numbers in general." The same applies to honorable and dishonorable,
 and good and bad. "The mind contemplates some things through its own
 instrumentality, others through the bodily faculties." We perceive
 hard and soft through touch, but it is the mind that judges that they
@@ -6675,7 +6674,7 @@ essential to knowledge, but cannot be included in perception since
 they are not effected through any sense-organ. The things to be said
 about these are different. Let us begin with likeness and unlikeness.
 
-That two shades of colour, both of which I am seeing, are similar or
+That two shades of color, both of which I am seeing, are similar or
 dissimilar as the case may be, is something which I, for my part,
 should accept, not indeed as a "percept," but as a "judgment of
 perception." A percept, I should say, is not knowledge, but merely
@@ -6684,7 +6683,7 @@ physics and to the world of psychology. We naturally think of
 perception, as Plato does, as a relation between a percipient and an
 object: we say "I see a table." But here "I" and "table" are logical
 constructions. The core of crude occurrence is merely certain patches
-of colour. These are asso- ciated with images of touch, they may cause
+of color. These are associated with images of touch, they may cause
 words, and they may become a source of memories. The percept as filled
 out with images of touch becomes an "object," which is supposed
 physical; the percept as filled out with words and memories becomes a
@@ -6697,29 +6696,29 @@ proposition "knowledge is perception" must be interpreted as meaning
 it is grammatically capable of being correct.
 
 To return to likeness and unlikeness, it is quite possible, when I
-perceive two colours simultaneously, for their likeness or unlikeness
+perceive two colors simultaneously, for their likeness or unlikeness
 to be part of the datum, and to be asserted in a judgment of
 perception. Plato's argument that we have no sense-organ for
 perceiving likeness and unlikeness ignores the cortex, and assumes
 that all sense-organs must be at the surface of the body.
 
-The argument for including likeness and unlikeness as possible 
-perceptive data is as follows. Let us assume that we see two shades 
-of colour A and B, and that we judge "A is like B." Let us assume 
-further, as Plato does, that such a judgment is in general correct, 
-and, in particular, is correct in the case we are considering. There 
-is, then, a relation of likeness between A and B, and not merely 
-a judgment on our part asserting likeness. If there were only our 
-judgment, it would be an arbitrary judgment, incapable of truth 
-or falsehood. Since it obviously is capable of truth or falsehood, 
-the likeness can subsist between A and B, and cannot be merely 
-something "mental." The judgment "A is like B" is true (if it is 
-true) in virtue of a "fact," just as much as the judgment "A is 
-red" or "A is round." The mind is no wore involved in the per- 
-ception of likeness than in the perception of colour. 
+The argument for including likeness and unlikeness as possible
+perceptive data is as follows. Let us assume that we see two shades of
+color A and B, and that we judge "A is like B." Let us assume
+further, as Plato does, that such a judgment is in general correct,
+and, in particular, is correct in the case we are considering. There
+is, then, a relation of likeness between A and B, and not merely a
+judgment on our part asserting likeness. If there were only our
+judgment, it would be an arbitrary judgment, incapable of truth or
+falsehood. Since it obviously is capable of truth or falsehood, the
+likeness can subsist between A and B, and cannot be merely something
+"mental." The judgment "A is like B" is true (if it is true) in virtue
+of a "fact," just as much as the judgment "A is red" or "A is round."
+The mind is no wore involved in the perception of likeness than in the
+perception of color.
 
 I come now to _existence_ on which Plato lays great stress. We 
-have, he says, as regards sound and colour, a thought which 
+have, he says, as regards sound and color, a thought which 
 includes both at once, namely that they exist. Existence belongs 
 to everything, and is among the things that the mind apprehends 
 by itself; without reaching existence, it is impossible to reach 
@@ -6741,7 +6740,7 @@ nonsense. To say "lions exist" means "there are lions," i.e. "'_x_
 is a lion' is true for a suitable _x_." But we cannot say of the suitable 
 _x_ that it "exists"; we can only apply this verb to a description, 
 complete or incomplete. "Lion" is an incomplete description, 
-because it applies to many objects: "The largbst lion in the Zoo" 
+because it applies to many objects: "The largest lion in the Zoo" 
 is complete, because it applies to only one object. 
 
 Now suppose that I am looking at a bright red patch. I may 
@@ -6792,7 +6791,7 @@ degree.
 
 The complete answer, as regards propositions in which the 
 word "ten" occurs, is that, when these propositions are correctly 
-analysed, they are found to contain no constituent corresponding 
+analyzed, they are found to contain no constituent corresponding 
 to the word "ten." To explain this in the case of such a large 
 number as ten would be complicated; let us, therefore, substitute 
 "I have two hands." This means: 
@@ -6804,7 +6803,7 @@ when, and only when, _x_ is _a_ or _x_ is _b_."
 Here the word "two" does not occur. It is true that two letters 
 a and b occur, but we do not need to know that they are two, any 
 more than we need to know that they are black, or white, or 
-whatever colour they may happen to be. 
+whatever color they may happen to be. 
 
 Thus numbers are, in a certain precise sense, formal. The facts which
 verify various propositions asserting that various collections each
@@ -6823,7 +6822,7 @@ corresponding constituent in the meaning of the statement. We may
 continue, if we like, to say that numbers are eternal, immutable, and
 so on, but we must add that they are logical fictions.
 
-There is a further point. Concerning sound and colour, Plato 
+There is a further point. Concerning sound and color, Plato 
 says "both together are _two_, and each of them is _one_." We have 
 considered the _two_ now we must consider the _one_. There is here 
 a mistake very analogous to that concerning existence. The predicate "one" is not applicable to things, but only to unit classes. 
@@ -6890,9 +6889,9 @@ material.
 
 (3) The doctrine of universal flux is caricatured by Plato, and it is
 difficult to suppose that any one ever held it in the extreme form
-that he gives to it. Let us suppose, for example, that the colours we
+that he gives to it. Let us suppose, for example, that the colors we
 see are continually changing. Such a word as "red" applies to many
-shades of colour, and if we say "I see red," there is no reason why
+shades of color, and if we say "I see red," there is no reason why
 this should not remain true throughout the time that it takes to say
 it. Plato gets his results by applying to processes of continuous
 change such logical oppositions as perceiving and not-perceiving,
@@ -6912,7 +6911,7 @@ their meanings; take, for example, the word "idea," It is only
 by a considerable process of education that we learn to give to 
 this word something like the meaning which Plato gave to it. It 
 is necessary that the changes in the meanings of words should he 
-slower than the changes that the words d&cribe; but it is not 
+slower than the changes that the words decribe; but it is not 
 necessary that there should be no changes in the meanings of 
 words. Perhaps this does not apply to the abstract words of logic 
 and mathematics, but these words, as we have seen, apply only 
@@ -6940,7 +6939,7 @@ every serious intellectual advance has had to begin with an attack on
 some Aristotelian doctrine; in logic, this is still true at the
 present day. But it would have been at least as disastrous if any of
 his predecessors (except perhaps Democritus) had acquired equal
-authority. To do him justice, we must, to bejrin with, forget his
+authority. To do him justice, we must, to begin with, forget his
 excessive posthumous fame, and the equally excessive posthumous
 condemnation to which it led.
 
@@ -7110,30 +7109,30 @@ exist without this or that quality. The supposed ground for the
 distinction between things and qualities thus seems to be illusory. 
 
 The true ground of the distinction is, in fact, linguistic; it is
-derived from syntax. There are proper names, adjectives, and relation-
-words; we may say "John is wise, James is foolish, John is taller than
-James," Here "John" and "James" are proper names, "wise" and "foolish"
-are adjectives, and "taller" is a relation-word. Metaphysicians, ever
-since Aristotle, have inter- preted these syntactical differences
-metaphysically: John and James are substances, wisdom and folly are
-universal. (Relation-words were ignored or misinterpreted.) It may be
-that, given sufficient care, metaphysical differences can be found
-that have some relation to these syntactical differences, but, if so,
-it will be only by means of a long process, involving, incidentally,
-the creation of an artificial philosophical language. And this
-language will contain no such names as "John" and "James" and no such
-adjectives as "wise" and "foolish"; all the words of ordinary
-languages will have yielded to analysis, and been replaced by words
-having a less complex significance. Until this labour has been
-performed, the question of particulars and universals cannot be
+derived from syntax. There are proper names, adjectives, and
+relation-words; we may say "John is wise, James is foolish, John is
+taller than James," Here "John" and "James" are proper names, "wise"
+and "foolish" are adjectives, and "taller" is a relation-word.
+Metaphysicians, ever since Aristotle, have interpreted these
+syntactical differences metaphysically: John and James are substances,
+wisdom and folly are universal. (Relation-words were ignored or
+misinterpreted.) It may be that, given sufficient care, metaphysical
+differences can be found that have some relation to these syntactical
+differences, but, if so, it will be only by means of a long process,
+involving, incidentally, the creation of an artificial philosophical
+language. And this language will contain no such names as "John" and
+"James" and no such adjectives as "wise" and "foolish"; all the words
+of ordinary languages will have yielded to analysis, and been replaced
+by words having a less complex significance. Until this labour has
+been performed, the question of particulars and universals cannot be
 adequately discussed. And when we reach the point at which we can at
 last discuss it, we shall find that the question we are discussing is
 quite different from what we supposed it to be at the outset.
 
 If, therefore, I have failed to make Aristotle's theory of universals
 clear, that is (I maintain) because it is not clear. But it is
-certainly an advance on the theory of ideas, and is certainly con-
-cerned with a genuine and very important problem.
+certainly an advance on the theory of ideas, and is certainly
+concerned with a genuine and very important problem.
 
 There is another term which is important in Aristotle and in his
 scholastic followers, and that is the term "essence." This is by no
@@ -7304,7 +7303,7 @@ perishable; it alone is capable of existence in isolation from all
 other psychic powers. All the other parts of soul, it is evident from
 what we have said, are, in spite of certain statements to the
 contrary, incapable of separate existence" (413). The mind is the part
-of us that under- stands mathematics and philosophy; its objects are
+of us that understands mathematics and philosophy; its objects are
 timeless, and therefore it is regarded as itself timeless. The soul is
 what moves the body and perceives sensible objects; it is
 characterized by self-nutrition, sensation, feeling, and motivity
@@ -7335,8 +7334,8 @@ movement, for it never thinks about what is practicable, and never
 says what is to be avoided or what pursued (432).
 
 A similar doctrine, though with a slight change of terminology, is set
-forth in the Nicomachean Ethics. There is in the soul one element that
-is rational, and one that is irrational. The irrational part is
+forth in the _Nicomachean Ethics_. There is in the soul one element
+that is rational, and one that is irrational. The irrational part is
 two-fold: the vegetative, which is found in everything living, even in
 plants, and the appetitive, which exists in all animals (1102). The
 life of the rational soul consists in contemplation, which is the
@@ -7350,24 +7349,24 @@ with man, the life in accordance with it is divine in comparison with
 human life. But we must not follow those who advise us, being men, to
 think of human things, and being mortal, of mortal things, but must,
 so far as we can, make ourselves immortal, and strain every nerve to
-live in accord- ance with the best thing in us; for even if it be
-small in bulk, much more does it in power and worth surpass
-everything" (1177).  It seems, from these passages, that individuality
-what distinguishes one man from another is connected with the body and
-the irrational soul, while the rational soul or mind is divine and
+live in accordance with the best thing in us; for even if it be small
+in bulk, much more does it in power and worth surpass everything"
+(1177). It seems, from these passages, that individuality what
+distinguishes one man from another is connected with the body and the
+irrational soul, while the rational soul or mind is divine and
 impersonal. One man likes oysters, and another likes pineapples; this
 distinguishes between them. But when they think about the
 multiplication table, provided they think correctly, there is no
 difference between them. The irrational separates us, the rational
 unites us. Thus the immortality of mind or reason is not a personal
-immortality of separate men, but a share in God's immortality.  It
-does not appear that Aristotle believed in personal immortality, in
-the sense in which it was taught by Plato and afterwards by
-Christianity. He believed only that, in so far as men are rational,
-they partake of the divine, which is immortal. It is open to man to
-increase the element of the divine in his nature, and to do so is the
-highest virtue. But if he succeeded completely, he would have ceased
-to exist as a separate person. This is perhaps not the only possible
+immortality of separate men, but a share in God's immortality. It does
+not appear that Aristotle believed in personal immortality, in the
+sense in which it was taught by Plato and afterwards by Christianity.
+He believed only that, in so far as men are rational, they partake of
+the divine, which is immortal. It is open to man to increase the
+element of the divine in his nature, and to do so is the highest
+virtue. But if he succeeded completely, he would have ceased to exist
+as a separate person. This is perhaps not the only possible
 interpretation of Aristotle's words, but I think it is the most
 natural.
 
@@ -7387,11 +7386,11 @@ are not, like Plato's, impregnated with mystical religion; nor do they
 countenance such unorthodox theories as are to be found in the
 _Republic_ concerning property and the family. Those who neither fall
 below nor rise above the level of decent, well-behaved citizens will
-find in the Ethics a systematic account of the principles by which
+find in the _Ethics_ a systematic account of the principles by which
 they hold that their conduct should be regulated.  Those who demand
 anything more will be disappointed. The book appeals to the
 respectable middle-aged, and has been used by them, especially since
-the seventeenth century, to repress the ardours and enthusiasms of the
+the seventeenth century, to repress the ardors and enthusiasms of the
 young. But to a man with any depth of feeling it is likely to be
 repulsive.
 
@@ -7434,7 +7433,7 @@ boastfulness and mock-modesty (1108), but this only applies to
 truthfulness about oneself. I do not see how truthfulness in any wider
 sense can be fitted into the scheme. There was once a mayor who had
 adopted Aristotle's doctrine; at the end of his term of office he made
-a speech saying that he had endeavoured to steer the narrow line
+a speech saying that he had endeavored to steer the narrow line
 between partiality on the one hand and impartiality on the other.  The
 view of truthfulness as a mean seems scarcely less absurd.
 
@@ -7492,16 +7491,16 @@ Nietzsche was justified in regarding Christianity as a slave-morality.
 > of the virtues; for it makes them greater, and it is not found
 > without them. Therefore it is hard to be truly magnanimous; for it
 > is impossible without nobility and goodness of character. It is
-> chiefly with honours and dishonours, then, that the magnanimous man
-> is concerned; and at honours that are great and conferred by good
+> chiefly with honors and dishonors, then, that the magnanimous man
+> is concerned; and at honors that are great and conferred by good
 > men he will be moderately pleased, thinking that he is coming by his
-> own or even less than his own; for there can be no honour that is
+> own or even less than his own; for there can be no honor that is
 > worthy of perfect virtue, yet he will at any rate accept it since
-> they have nothing greater to bestow on him; but honour from casual
+> they have nothing greater to bestow on him; but honor from casual
 > people and on trifling grounds he will utterly despise, since it is
-> not this that he deserves, and dishonour too, since in his case it
+> not this that he deserves, and dishonor too, since in his case it
 > cannot be just.... Power and wealth arc desirable for the sake of
-> honour; and to him for whom even honour is a little thing the others
+> honor; and to him for whom even honor is a little thing the others
 > must be so too. Hence magnanimous men are thought to be
 > disdainful.... The magnanimous man does not run into trifling
 > dangers, ... but he will face great dangers, and when he is in
@@ -7513,7 +7512,7 @@ Nietzsche was justified in regarding Christianity as a slave-morality.
 > benefactor besides being repaid will incur a debt to him. ... It is
 > the mark of the magnanimous man to ask for nothing or scarcely
 > anything, but to give help readily, and to be dignified towards
-> people who enjoy a hiuh position but unassuming towards those of the
+> people who enjoy a high position but unassuming towards those of the
 > middle class; for it is a difficult and lofty thing to be superior
 > to the former, but easy to be so to the latter, and a lofty bearing
 > over the former is no mark of ill-breeding, but among humble people
@@ -7577,14 +7576,14 @@ possible that the good community may be one in which there is
 subordination. In an orchestra, the first violin is more important
 than the oboe, though both arc necessary for the excellence of the
 whole. It is impossible to organize an orchestra on the principle of
-giving to each man what would be best lor him as an isolated
+giving to each man what would be best for him as an isolated
 individual. The same sort of thing applies to the government of a
 large modern State, however democratic. A modern democracy unlike
 those of antiquity confers great power upon certain chosen
 individuals, Presidents or Prime Ministers, and must expect of them
 kinds of merit which are not expected of the ordinary citizen. When
 people are not thinking in terms of religion or political controversy,
-they are likely to hold that a good President is more to be honoured
+they are likely to hold that a good President is more to be honored
 than a good bricklayer. In a democracy a President is not expected to
 be quite like Aristotle's magnanimous man, but still he is expected to
 be rather different from the average citizen, and to have certain
@@ -7729,7 +7728,7 @@ most godlike in his activity, and therefore the happiest and best:
 > have any care for human affairs, as they are thought to have, it
 > would be reasonable both that they should delight in that which was
 > best and most akin to them (i.e. reason) and that they should reward
-> those who love and honour this most, as caring for the things that
+> those who love and honor this most, as caring for the things that
 > are dear to them and acting both rightly and nobly. And that all
 > these attributes belong most of all to the philosopher is manifest.
 > He, therefore, is the dearest to the gods. And he who is that will
@@ -7787,7 +7786,7 @@ expression of an ethical optimism. He believes in the scientific
 importance of final causes, and this implies the belief that purpose
 governs the course of development in the universe. He thinks that
 changes are, in the main, such as embody an increase of organization
-or "form," and at bottom virtuous actions are those that favour this
+or "form," and at bottom virtuous actions are those that favor this
 tendency. It is true that a great deal of his practical ethics is not
 particularly philosophical, but merely the result of observation of
 human affairs; but this part of his doctrine, though it may be
@@ -7802,7 +7801,7 @@ essentially only for the few magnanimous men and philosophers. Most
 men, it would seem to follow, are mainly means for the production of a
 few rulers and sages. Kant maintained that every human being is an end
 in himself, and this may be taken as an expression of the view
-introduced by Christi- anity. There is, however, a logical difficulty
+introduced by Christianity. There is, however, a logical difficulty
 in Kant's view, since it gives no means of reaching a decision when
 two men's interests clash. If each is an end in himself, how are we to
 arrive at a principle for determining which shall give way? Such a
@@ -7817,7 +7816,7 @@ because, in the long run, the general happiness is increased by
 rewarding virtue and punishing vice, not because of an ultimate
 ethical doctrine that the good deserve more than the bad. "Justice,"
 in this view, consists in considering only the amount of happiness
-involved, without favour to one individual or class as against
+involved, without favor to one individual or class as against
 another. Greek philosophers, including Plato and Aristotle, had a
 different conception of justice, and it is one which is still widely
 prevalent. They thought originally on grounds derived from religion
@@ -7840,7 +7839,7 @@ More generally, there is an emotional poverty in the _Ethics_, which is
 not found in the earlier philosophers. There is something unduly smug
 and comfortable about Aristotle's speculations on human affairs;
 everything that makes men feel a passionate interest in each other
-seems to be forgotten. Even his account of friend- ship is tepid. He
+seems to be forgotten. Even his account of friendship is tepid. He
 shows no sign of having had any of those experiences which make it
 difficult to preserve sanity; all the more profound aspects of the
 moral life are apparently unknown to him. He leaves out, one may say,
@@ -7913,14 +7912,14 @@ conception involved here is that of organism: a hand, when the body is
 destroyed, is, we are told, no longer a hand. The implication is that
 a hand is to be defined by its purpose that of grasping which it can
 only perform when joined to a living body. In like manner an
-individual cannot fulfil his purpose unless he is part of a State. He
+individual cannot fulfill his purpose unless he is part of a State. He
 who founded the State, Aristotle says, was the greatest of
 benefactors; for without law man is the worst of animals, and law
 depends for its existence on the State. The State is not a mere
 society for exchange and the prevention of crime: "The end of the
 State is the good life.... And the State is the union of families and
 villages in a perfect and self-sufficing life, by which we mean a
-happy and honourable life" (1280). "A political society exists for the
+happy and honorable life" (1280). "A political society exists for the
 sake of noble actions, not of mere companionship" (1281).
 
 A State being composed of households, each of which consists 
@@ -7954,7 +7953,7 @@ its proper use, or exchanged, which is its improper use. It follows
 that there is something degraded about a shoemaker, who must 
 exchange his shoes in order to live. Retail trade, we are told, is 
 not a natural part of the art of getting wealth (1257). The natural 
-way to get wealth is by skilful management of house and land. 
+way to get wealth is by skillful management of house and land. 
 To the wealth that can be made in this way there is a limit, but 
 to what can be made by trade there is none. Trade has to do with 
 money, but wealth is not the acquisition of coin. Wealth derived 
@@ -7967,7 +7966,7 @@ unnatural" (1258).
 
 What came of this dictum you may read in Tawney's _Religion 
 and the Rise of Capitalism_. But while his history is reliable, his 
-comment has a bias in favour of what is pre-capitalistic. 
+comment has a bias in favor of what is pre-capitalistic. 
 
 "Usury" means all lending money at interest, not only, as now, lending
 at an exorbitant rate. From Greek times to the present day, mankind,
@@ -7984,7 +7983,7 @@ reason to revise Aristotle's opinion. Their objection to usury was
 reinforced by anti-Semitism, for most fluid capital was Jewish.
 Ecclesiastics and barons had their quarrels, sometimes very bitter;
 but they could combine against the wicked Jew who had tided them over
-a bad harvest by means of a loan, and con- sidered that he deserved
+a bad harvest by means of a loan, and considered that he deserved
 some reward for his thrift.
 
 With the Reformation, the situation changed. Many of the 
@@ -7994,8 +7993,8 @@ then other Protestant divines, sanctioned interest. At last the
 Catholic Church was compelled to follow suit, because the old 
 prohibitions did not suit the modern world. Philosophers, whose 
 incomes are derived from the investments of universities, have 
-favoured interest ever since they ceased to be ecclesiastics and 
-therefore connected with landowning. At every stage, theie has 
+favored interest ever since they ceased to be ecclesiastics and 
+therefore connected with landowning. At every stage, there has 
 been a wealth of theoretical argument to support the economically 
 convenient opinion. 
 
@@ -8027,7 +8026,7 @@ other things that he recommends.
 
 Plato's communism annoys Aristotle. It would lead, he says, 
 to anger against lazy people, and to the sort of quarrels that are 
-common between fellow-travellers. It is better if each minds his 
+common between fellow travellers. It is better if each minds his 
 own business. Property should be private, but people should be 
 so trained in benevolence as to allow the use of it to be largely 
 common. Benevolence and generosity are virtues, and without 
@@ -8036,10 +8035,10 @@ Plato's plans were good, someone would have thought of them
 sooner.[^72] I do not agree with Plato, but if anything could make 
 me do so, it would be Aristotle's arguments against him. 
 
-[^72]: Cf. The Noodle's Oration in Sydney Smith: "If the proposal be sound, would the Saxon have passed it by? Would the Dane have ignored it? Would it have escaped the wisdom of the Norman?" (I quote from memory.) 
+[^72]: _Cf_. The Noodle's Oration in Sydney Smith: "If the proposal be sound, would the Saxon have passed it by? Would the Dane have ignored it? Would it have escaped the wisdom of the Norman?" (I quote from memory.) 
 
 As we have seen in connection with slavery, Aristotle is no 
-Miever in equality. Granted, however, the subjection of slaves 
+believer in equality. Granted, however, the subjection of slaves 
 and women, it still remains a question whether all citizens should 
 be politically equal. Some men, he says, think this desirable, on 
 the ground that all revolutions turn on the regulation of property, 
@@ -8064,7 +8063,7 @@ external goods, but external goods by the help of virtue, and
 happiness, whether consisting in pleasure or virtue, or both, is more
 often found with those who are most highly cultivated in their mind
 and in their character, and have only a moderate share of external
-poods, than among those who possess external goods to a useless extent
+goods, than among those who possess external goods to a useless extent
 but are deficient in higher qualities" (1323). There is therefore a
 difference between the rule of the best (aristocracy) and of the
 richest (oligarchy), since the best are likely to have only moderate
@@ -8082,7 +8081,7 @@ rich.
 Monarchy is better than aristocracy, aristocracy is better than 
 polity. But the corruption of the best is worst; therefore tyranny 
 is worse than oligarchy, and oligarchy than democracy. In this 
-way Aristotle arrives at a qualified defence of democracy; for 
+way Aristotle arrives at a qualified defense of democracy; for 
 most actual governments are bad, and therefore, among actual 
 governments, democracies tend to be best. 
 
@@ -8135,13 +8134,13 @@ other than wealth is sure to break down. Defenders of oligarchy
 pretend that income is proportional to virtue; the prophet said 
 he had never seen a righteous man begging his bread, and Aristotle 
 thinks that good men acquire just about his own income, neither 
-very large nor very small. But such views are absurd. Eveiy kind 
+very large nor very small. But such views are absurd. Every kind 
 of "justice" other than absolute equality will, in practice, reward 
 some quality quite other than virtue, and is therefore to be 
 condemned. 
 
 There is an interesting section on tyranny. A tyrant desires riches,
-whereas a king desires honour. The tyrant has guards who are
+whereas a king desires honor. The tyrant has guards who are
 mercenaries, whereas the king has guards who are citizens. Tyrants are
 mostly demagogues, who acquire power by promising to protect the
 people against the notables. In an ironically Machiavellian tone,
@@ -8189,7 +8188,7 @@ entirety from a hill-top. We are told both that it should be
 self-sufficient (1326) and that it should have an export and import
 trade (1327), which seems an inconsistency.
 
-Men who work for their living should not be admitted to citizen- ship.
+Men who work for their living should not be admitted to citizenship.
 "Citizens should not lead the life of mechanics or tradesmen, for such
 a life is ignoble and inimical to virtue." Nor should they be
 husbandmen, because they need leisure. The citizens should own the
@@ -8233,7 +8232,7 @@ discussion, however, Aristotle assumes that the citizens will all have
 a share of political power. Children should learn what is useful to
 them, but not vulgarizing; for instance, they should not be taught any
 skill that deforms the body, or that would enable them to earn money.
-They should practise athletics in moderation, but not to the point of
+They should practice athletics in moderation, but not to the point of
 acquiring professional skill; the boys who train for the Olympic games
 suffer in health, as is shown by the fact that those who have been
 victors as boys are hardly ever victors as men. Children should learn
@@ -8245,7 +8244,7 @@ enough to be skilled performers; for no freeman would play or sing
 unless drunk. They must of course, learn to read and write, in spite
 of the usefulness of these arts. But the purpose of education is
 "virtue," not usefulness. What Aristotle means by "virtue" he has told
-us in the Ethics, to which this book frequently refers.
+us in the _Ethics_, to which this book frequently refers.
 
 Aristotle's fundamental assumptions, in his _Politics_, are very
 different from those of any modern writer. The aim of the State, in
@@ -8258,7 +8257,7 @@ had no culture, turned against the friends of Pericles, who were
 driven to defend the privileges of the rich, by treachery,
 assassination, illegal despotism, and other such not very gentlemanly
 methods. After the death of Socrates, the bigotry of the Athenian
-democracy diminished, and Athens remained the centre of ancient
+democracy diminished, and Athens remained the center of ancient
 culture, but political power went elsewhere. Throughout later
 antiquity, power and culture were usually separate: power was in the
 hands of rough soldiers, culture belonged to powerless Greeks, often
@@ -8278,7 +8277,7 @@ ceased to he either gentlemen or cultured. A second cause was
 the rise of industrialism, with a scientific technique very different 
 from traditional culture. A third cause was popular education, 
 which conferred the power to read and write, but did not confer 
-culture; this enabled a new type of demagogue to practise a new 
+culture; this enabled a new type of demagogue to practice a new 
 type of propaganda, as seen in the dictatorships. 
 
 Both for good and evil, therefore, the day of the cultured 
@@ -8363,7 +8362,7 @@ beginning, of formal logic, it is open to three kinds of criticism:
 (2) Over-estimation of the syllogism, as compared to other 
 forms of deductive argument. 
 
-(3) Over-estimation of deduction as a- form of argument. 
+(3) Over-estimation of deduction as a form of argument. 
 On each of these three, something must be said. 
 
 (1) _Formal defects_. Let us begin with the two statements 
@@ -8463,14 +8462,14 @@ Aristotle.
 (3) Over-estimation of deduction. The Greeks in general attached more
 importance to deduction as a source of knowledge than modern
 philosophers do. In this respect, Aristotle was less at fault than
-Plato; he repeatedly admitted the importance of induc- tion, and he
+Plato; he repeatedly admitted the importance of induction, and he
 devoted considerable attention to the question: how do we know the
 first premisses from which deduction must start? Nevertheless, he,
 like other Greeks, gave undue prominence to deduction in his theory of
 knowledge. We shall agree that Mr. Smith (say) is mortal, and we may,
 loosely, say that we know this because we know that all men are
 mortal. But what we really know is not "all men are mortal"; we know
-mther something like "all men born more than one hundred and fifty
+either something like "all men born more than one hundred and fifty
 years ago are mortal, and so are almost all men born more than one
 hundred years ago." This is our reason for thinking that Mr. Smith
 will die. But this argument is an induction, not a deduction. It has
@@ -8572,7 +8571,7 @@ they are two?
 
 "Substance," in fact, is merely a convenient way of collecting 
 events into bundles. What can we know about Mr. Smith? When 
-we look at him, we see a pattern of colours; when we listen to him 
+we look at him, we see a pattern of colors; when we listen to him 
 talking, we hear a series of sounds. We believe that, like us, he has 
 thoughts and feelings. But what is Mr. Smith apart from all these 
 occurrences? A mere imaginary hook, from which the occurrences 
@@ -8637,10 +8636,10 @@ faith."
 In relation to physics, Aristotle's imaginative background was 
 very different from that of a modern student. Nowadays, a boy 
 begins with mechanics, which, by its very name, suggests machines. 
-He is accustomed to motor-cars and aeroplanes; he does not, 
+He is accustomed to motor-cars and airplanes; he does not, 
 even in the dimmest recesses of his subconscious imagination, 
 think that a motor-car contains some sort of horse in its inside, 
-or that an aeroplane flies because its wings are those of a bird 
+or that an airplane flies because its wings are those of a bird 
 possessing magical powers. Animals have lost their importance 
 in our imaginative pictures of the world, in which man stands 
 comparatively alone as master of a mainly lifeless and largely 
@@ -8674,10 +8673,10 @@ ultimate source of all movement is Will: on earth the capricious Will
 of human beings and animals, but in heaven the unchanging Will of the
 Supreme Artificer.
 
-I do not suggest that this applies to every detail of what Aristotle 
-has to say. What I do suggest is that it gives his imaginative back- 
-ground, and represents the sort of thing which, in embarking on 
-liis investigations, he would expect to find true. 
+I do not suggest that this applies to every detail of what Aristotle
+has to say. What I do suggest is that it gives his imaginative
+background, and represents the sort of thing which, in embarking on
+liis investigations, he would expect to find true.
 
 After these preliminaries, let us examine what it is that he 
 actually says. 
@@ -8703,7 +8702,7 @@ essential attributes. (It was through this point of view that
 "unnatural" came to express blame.) Nature is in form rather than in
 matter; what is potentially flesh or bone has not yet acquired its own
 nature, and a thing is more what it is when it has attained to
-fulfilment. This whole point of view seems to be suggested by biology:
+fulfillment. This whole point of view seems to be suggested by biology:
 the acorn is "potentially" an oak.
 
 Nature belongs to the class of causes which operate for the sake 
@@ -8729,7 +8728,7 @@ relatively to A, and there is no sense in saying that one of the two
 is in motion while the other is at rest. When a dog seizes a bone, 
 it seems to common sense that the dog moves while the bone 
 remains at rest (until seized), and that the motion has a purpose, 
-namely to fulfil the dog's "nature." But it has turned out that this 
+namely to fulfill the dog's "nature." But it has turned out that this 
 point of view cannot be applied to dead matter, and that, for the 
 purposes of scientific physics, no conception of an "end" is useful, 
 nor can any motion, in scientific strictness, be treated as other 
@@ -8766,8 +8765,8 @@ Having reached this conclusion, we pass on to the heavens.
 
 The treatise _On the Heavens_ sets forth a pleasant and simple theory.
 Things below the moon are subject to generation and decay; from the
-moon upwards, everything is ungenerated and indestnictible.The earth,
-which is spherical, is at the centre of the universe. In the sublunary
+moon upwards, everything is ungenerated and indestructible. The earth,
+which is spherical, is at the center of the universe. In the sublunary
 sphere, everything is composed of the four elements, earth, water,
 air, and fire; but there is a fifth element, of which the heavenly
 bodies are composed. The natural movement of the terrestrial elements
@@ -8793,7 +8792,7 @@ move horizontally for a time, and then suddenly begin to fall
 vertically. Galileo's discovery that a projectile moves in a parabola 
 shocked his Aristotelian colleagues. Copernicus, Kepler, and 
 Galileo had to combat Aristotle as well as the Bible in establishing 
-the view that the earth is not the centre of the universe, but rotates 
+the view that the earth is not the center of the universe, but rotates 
 once a day and goes round the sun once a year. 
 
 To come to a more general matter: Aristotelian physics is incompatible
@@ -8804,7 +8803,7 @@ Thus outside causes are required, not to account for motion, but to
 account for change of motion, either in velocity or in direction.
 Circular motion, which Aristotle thought "natural" for the heavenly
 bodies, involves a continual change in the direction of motion, and
-therefore requires a force directed towards the centre of the circle,
+therefore requires a force directed towards the center of the circle,
 as in Newton's law of gravitation.
 
 Finally: The view that the heavenly bodies are eternal and
@@ -8854,17 +8853,18 @@ work. The problem is, of course, that of determining the cube root of
 
 
 
-WThe square root of 2, which was the first irrational to be discovered, was known to the early Pythagoreans, and ingenious 
-methods of approximating to its value were discovered. The best 
-was as follows: Form two columns of numbers, which we will 
-call the _a_'s and the _b_'s; each starts with 1. The next a, at each 
-stage, is formed by adding the last _a_ and _b_ already obtained; the 
-next _b_ is formed by adding twice the previous _a_ to the previous _b_. 
-The first 6 pairs so obtained are (1 ,1), (2, 3), (5, 7), (12, 17), (29, 41), 
-(70, 99). In each pair, 2_a_^2 - _b_^2 is 1 or -1. Thus _b_/_a_ is nearly the 
-square root of two, and at each fresh step it gets nearer. For 
-instance, the reader may satisfy himself that the square of 99/70 
-is very nearly equal to 2. 
+The square root of 2, which was the first irrational to be discovered,
+was known to the early Pythagoreans, and ingenious methods of
+approximating to its value were discovered. The best was as follows:
+Form two columns of numbers, which we will call the _a_'s and the
+_b_'s; each starts with 1. The next a, at each stage, is formed by
+adding the last _a_ and _b_ already obtained; the next _b_ is formed
+by adding twice the previous _a_ to the previous _b_. The first 6
+pairs so obtained are (1 ,1), (2, 3), (5, 7), (12, 17), (29, 41), (70,
+99). In each pair, 2_a_^2 - _b_^2 is 1 or -1. Thus _b_/_a_ is nearly
+the square root of two, and at each fresh step it gets nearer. For
+instance, the reader may satisfy himself that the square of 99/70 is
+very nearly equal to 2.
 
 Pythagoras always a rather misty figure is described by 
 Proclus as the first who made geometry a liberal education. Many 
@@ -8956,18 +8956,17 @@ to be unquestionable, but in the nineteenth century non-Euclidean
 geometry showed that they might be in part mistaken, and that 
 only observation could decide whether they were so. 
 
-There is in Euclid the contempt for practical utility which had 
-been inculcated by Plato. It is said that a pupil, after listening to 
-a demonstration, asked what he would gain by learning geometry, 
-whereupon Euclid called a slave and said "Give the young man 
-threepence, since he must needs make a gain out of what he 
-learns." The contempt for practice was, however, pragmatically 
-justified. No one, in Greek times, supposed that conic sections 
-had any utility; at last, in the seventeenth century, Galileo dis- 
-covered that projectiles move in parabolas, and Kepler discovered 
-that planets move in ellipses. Suddenly the work that the Greeks 
-had done from pure love of theory became the key to warfare and 
-astronomy. 
+There is in Euclid the contempt for practical utility which had been
+inculcated by Plato. It is said that a pupil, after listening to a
+demonstration, asked what he would gain by learning geometry,
+whereupon Euclid called a slave and said "Give the young man
+threepence, since he must needs make a gain out of what he learns."
+The contempt for practice was, however, pragmatically justified. No
+one, in Greek times, supposed that conic sections had any utility; at
+last, in the seventeenth century, Galileo discovered that projectiles
+move in parabolas, and Kepler discovered that planets move in
+ellipses. Suddenly the work that the Greeks had done from pure love of
+theory became the key to warfare and astronomy.
 
 The Romans were too practical-minded to appreciate Euclid; the first
 of them to mention him is Cicero, in whose time there was probably no
@@ -9002,10 +9001,10 @@ was verified.
 Let us begin with some of the earliest discoveries and correct 
 hypotheses. Anaximander thought that the earth floats freely, and 
 is not supported on anything. Aristotle,[^75] who often rejected the 
-best hypotheses of his time, objected to the theory of Anaximander, that the earth, being at the centre, remained immovable 
+best hypotheses of his time, objected to the theory of Anaximander, that the earth, being at the center, remained immovable 
 because there was no reason for moving in one direction rather 
 than another. If this were valid, he said, a man placed at the 
-centre of a circle with food at various points of the circumference 
+center of a circle with food at various points of the circumference 
 would starve to death for lack of reason to choose one portion of 
 food rather than another. This argument reappears in scholastic 
 philosophy, not in connection with astronomy, but with free will. 
@@ -9022,7 +9021,7 @@ than scientific. Scientific reasons, however, were soon found.
 Anaxagoras discovered that the moon shines by reflected light, and
 gave the right theory of eclipses. He himself still thought the earth
 flat, but the shape of the earth's shadow in lunar eclipses gave the
-Pythagoreans conclusive arguments in favour of its being spherical.
+Pythagoreans conclusive arguments in favor of its being spherical.
 They went further, and regarded the earth as one of the planets. They
 knew from Pythagoras himself, it is said that the morning star and the
 evening star are identical, and they thought that ail the planets,
@@ -9045,22 +9044,21 @@ The other reason was that the sun and moon, the five planets, the
 earth and counter-earth, and the central fire, made ten heavenly
 bodies, and ten was the mystic number of the Pythagoreans.
 
-This Pythagorean theory is attributed to Philolatis, a Theban, 
-who lived at the end of the fifth century BC. Although it is fanciful 
-and in part quite unscientific, it is very important, since it involves 
-the greater part of the imaginative effort required for conceiving 
-the Copernican hypothesis. To conceive of the earth, not as the 
-centre of the universe, but as one among the planets, not as 
-eternally fixed, but as wandering through space, showed an extra- 
-ordinary emancipation from anthropoctntric thinking. When once 
-this jolt had been given to men's natural picture of the universe, 
-it was not so very difficult to be led by scientific arguments to a 
-more accurate theory. 
+This Pythagorean theory is attributed to Philolatis, a Theban, who
+lived at the end of the fifth century BC. Although it is fanciful and
+in part quite unscientific, it is very important, since it involves
+the greater part of the imaginative effort required for conceiving the
+Copernican hypothesis. To conceive of the earth, not as the center of
+the universe, but as one among the planets, not as eternally fixed,
+but as wandering through space, showed an extraordinary emancipation
+from anthropoctntric thinking. When once this jolt had been given to
+men's natural picture of the universe, it was not so very difficult to
+be led by scientific arguments to a more accurate theory.
 
 To this various observations contributed. Oenopides, who was slightly
 later than Anaxagoras, discovered the obliquity of the ecliptic. It
 soon became clear that the sun must be much larger than the earth,
-which fact supported those who denied that the earth is the centre of
+which fact supported those who denied that the earth is the center of
 the universe. The central fire and the counter-earth were dropped by
 the Pythagoreans soon after the time of Plato. Heraclides of Pontus
 (whose dates are about 388 to 315 BC, contemporary with Aristotle)
@@ -9116,21 +9114,22 @@ influenced by the fear of offending religious prejudices, a fear which
 the attitude of Cleanthes (mentioned above) shows to have been well
 grounded.
 
-The Copernican hypothesis, after being advanced, whether positively or tentatively, by Aristarchus, was definitely adopted by 
-Seleucus, but by no other ancient astronomer. This general 
-rejection was mainly due to Hipparchus, who flourished from 161 
-to 126 BC. He is described by Heath as "the greatest astronomer 
-of antiquity."[^77] He was the first to write systematically on trigonometry; he discovered the precession of the equinoxes; he estimated 
-the length of the lunar month with an error of less than one 
-second; he improved Aristarchus's estimates of the sizes and 
-distances of the sun and moon; he made a catalogue of eight 
-hundred and fifty fixed stars, giving their latitude and longitude. 
-As against the heliocentric hypothesis of Aristarchus, he adopted 
-and improved the theory of epicycles which had been invented by 
-Apollonius, who flourished about 220 BC; it was a development 
-of this theory that came to be known, later, as the Ptolemaic 
-system, after the astronomer Ptolemy, who flourished in the middle 
-of the second century AD. 
+The Copernican hypothesis, after being advanced, whether positively or
+tentatively, by Aristarchus, was definitely adopted by Seleucus, but
+by no other ancient astronomer. This general rejection was mainly due
+to Hipparchus, who flourished from 161 to 126 BC. He is described by
+Heath as "the greatest astronomer of antiquity."[^77] He was the first
+to write systematically on trigonometry; he discovered the precession
+of the equinoxes; he estimated the length of the lunar month with an
+error of less than one second; he improved Aristarchus's estimates of
+the sizes and distances of the sun and moon; he made a catalogue of
+eight hundred and fifty fixed stars, giving their latitude and
+longitude. As against the heliocentric hypothesis of Aristarchus, he
+adopted and improved the theory of epicycles which had been invented
+by Apollonius, who flourished about 220 BC; it was a development of
+this theory that came to be known, later, as the Ptolemaic system,
+after the astronomer Ptolemy, who flourished in the middle of the
+second century AD.
 
 [^77]: _Greek Mathematics_, Vol. II, p. 253. 
 
@@ -9199,7 +9198,7 @@ came too late to influence philosophy.
 After these two men, though respectable work continued to be done in
 Alexandria, the great age was ended. Under the Roman domination, the
 Greeks lost the self-confidence that belongs to political liberty, and
-in losing it acquired a paralysing respect for their predecessors. The
+in losing it acquired a paralyzing respect for their predecessors. The
 Roman soldier who killed Archimedes was a symbol of the death of
 original thought that Rome caused throughout the Hellenic world.
 
@@ -9219,7 +9218,7 @@ subjection and order.
 The second of these periods is known as the Hellenistic age. In
 science and mathematics, the work done during this period is the best
 ever achieved by the Greeks. In philosophy, it includes the foundation
-of the Epicurean and Stoic schools, and also of scepticism as a
+of the Epicurean and Stoic schools, and also of skepticism as a
 definitely formulated doctrine; it is therefore still important
 philosophically, though less so than the period of Plato and
 Aristotle. After the third century BC, there is nothing really new in
@@ -9305,10 +9304,10 @@ do, upon large rural populations of the same blood and with equal
 political rights. The nearest modern analogue is to be seen in the Far
 East during the latter half of the nineteenth century. Singapore and
 Hong Kong, Shanghai and the other treaty ports of China, were little
-European islands, where the white men formed a com- mercial
+European islands, where the white men formed a commercial
 aristocracy living on coolie labour. In North America, north of the
-Mason- Dixon line, since such labour was not available, white men were
-compelled to practise agriculture. For this reason, the hold of the
+Mason-Dixon line, since such labour was not available, white men were
+compelled to practice agriculture. For this reason, the hold of the
 white man on North America is secure, while his hold on the Far East
 has already been greatly diminished, and may easily cease altogether.
 Much of his type of culture, especially industrialism, will, however,
@@ -9377,7 +9376,7 @@ Asoka (264-228), the saintly Buddhist king, records, in a still extant
 inscription, that he sent missionaries to all the Macedonian kings: 
 "And this is the chiefest conquest in His Majesty's opinion the 
 conquest by the Law; this also is that effected by His Majesty both 
-in his own dominions and in all the neighbouring realms as far 
+in his own dominions and in all the neighboring realms as far 
 as six hundred leagues even to where the Greek king Antiochus 
 dwells, and beyond that Antiochus to where dwell the four kings 
 severally named Ptolemy, Antigonus, Magas, and Alexander... 
@@ -9388,8 +9387,8 @@ of these missionaries has survived.
 [^81]: Quoted in Bevan, _House of Seleucus_, Vol. I, p. 2980. 
 
 Babylonia was much more profoundly influenced by Hellenism. As we have
-seen, the only ancient who followed Aristarchus of Sarnos in
-maintaining the Copernican system was Seleucus of Sdeucia on the
+seen, the only ancient who followed Aristarchus of Samos in
+maintaining the Copernican system was Seleucus of Seleucia on the
 Tigris, who flourished about 150 BC Tacitus tells us that in the first
 century AD Seleucia had not "lapsed into the barbarous usages of the
 Parthians, but still retained the institutions of Seleucus,[^82] its
@@ -9407,7 +9406,7 @@ cities, in so far as language and literature were concerned. But the
 rural populations, which were more conservative, retained the 
 religions and the languages to which they were accustomed.[^84] In 
 Asia Minor, the Greek cities of the coast had, for centuries, had 
-an influence on their barbarian neighbours. This was intensified 
+an influence on their barbarian neighbors. This was intensified 
 by the Macedonian conquest. The first conflict of Hellenism with 
 the Jews is related in the Books of the Maccabees. It is a profoundly 
 interesting story, unlike anything else in the Macedonian Empire. 
@@ -9421,7 +9420,7 @@ From the point of view of Hellenistic culture, the most brilliant
 success of the third century BC was the city of Alexandria. Egypt 
 was less exposed to war than the European and Asiatic parts of 
 the Macedonian domain, and Alexandria was in an extraordinarily 
-favoured position for commerce. The Ptolemies were patrons of 
+favored position for commerce. The Ptolemies were patrons of 
 learning, and attracted to their capital many of the best men of 
 the age. Mathematics became, and remained until the fall of Rome, 
 mainly Alexandrian. Archimedes, it is true, was a Sicilian, and 
@@ -9446,7 +9445,7 @@ a lawgiver, or a philosopher. Socrates, though he disliked politics,
 could not avoid being mixed up with political disputes. In his 
 youth he was a soldier, and (in spite of his disclaimer in the 
 _Apology_) a student of physical science. Protagoras, when he could 
-spare time from teaching scepticism to aristocratic youths in search 
+spare time from teaching skepticism to aristocratic youths in search 
 of the latest thing, was drawing up a code of laws for Thurii. 
 
 Plato dabbled in politics, though unsuccessfully. Xenophon, when he
@@ -9456,7 +9455,7 @@ attempted to acquire the government of cities. Everybody had to serve
 on juries and perform various other public duties. In the third
 century all this was changed. There continued, it is true, to be
 politics in the old City States, but they had become parochial and
-unimportant, since Greece was at the mercy of Macedonian aimies. The
+unimportant, since Greece was at the mercy of Macedonian armies. The
 serious struggles for power were between Macedonian soldiers; they
 involved no question of principle, but merely the distribution of
 territory between rival adventurers. On administrative and technical
@@ -9469,7 +9468,7 @@ at once.
 The age was one in which a man who had money and no desire 
 for power could enjoy a very pleasant life always assuming that 
 no marauding army happened to come his way. Learned men who 
-found favour with some prince could enjoy a high degree of luxury, 
+found favor with some prince could enjoy a high degree of luxury, 
 provided they were adroit flatterers and did not mind being the 
 butt of ignorant royal witticisms. But there was no such thing as 
 security. A palace revolution might displace the sycophantic 
@@ -9537,7 +9536,7 @@ decided to appeal to Rome for protection. An embassy was sent, but it
 did not go direct to Rome; it went first, in spite of the immense
 distance, to Marseilles, which, like Lampsacus, was a colony of
 Phocaea, and was, moreover, viewed with friendly eyes by the Romans.
-The citizens of Mar- seilles, having listened to an oration by the
+The citizens of Marseilles, having listened to an oration by the
 envoy, at once decided to send a diplomatic mission of their own to
 Rome to support their sister city. The Gauls who lived inland from
 Marseilles joined in with a letter to their kinsmen of Asia Minor, the
@@ -9554,7 +9553,7 @@ necessity allowed. The cities desired, and (when they could) claimed
 as a right, democratic self-government, absence of tribute, and
 freedom from a royal garrison. It was worth while to conciliate them,
 because they were rich, they could supply mercenaries, and many of
-them had important harbours. But if they took the wrong side in a
+them had important harbors. But if they took the wrong side in a
 civil war, they exposed themselves to sheer conquest. On the whole,
 the Seleucids, and the other dynasties which gradually grew up, dealt
 tolerably with them, but there were exceptions.
@@ -9609,9 +9608,9 @@ are compatible with the highest degree of saintliness in a few, are
 inimical to the prosaic every-day virtues of respectable citizens.
 There seems no use in thrift, when to-morrow all your savings may be
 dissipated; no advantage in honesty, when the man towards whom you
-practise it is pretty sure to swindle you; no point in steadfast
+practice it is pretty sure to swindle you; no point in steadfast
 adherence to a cause, when no cause is important or has a chance of
-stable victory; no argument in favour of truthfulness, when only
+stable victory; no argument in favor of truthfulness, when only
 supple tergiversation makes the preservation of life and fortune
 possible. The man whose virtue has no source except a purely
 terrestrial prudence will, in such a world, become an adventurer if he
@@ -9635,3 +9634,1752 @@ following in the wake of the struggle for existence and picking up
 the weak and wounded."[^89] 
 
 [^89]: C.F. Angus in _Cambridge Ancient History_, Vol. VII, p. 231. The above quotation from Menander is taken from the same chapter. 
+
+## Chapter XXVI CYNICS AND SKEPTICS 
+
+The relation of intellectually eminent men to contemporary society has
+been very different in different ages. In some fortunate epochs they
+have been on the whole in harmony with their surroundings suggesting,
+no doubt, such reforms as seemed to them necessary, but fairly
+confident that their suggestions would be welcomed, and not disliking
+the world in which they found themselves even if it remained
+unreformed. At other times they have been revolutionary, considering
+that radical alterations were called for, but expecting that, partly
+as a result of their advocacy, these alterations would be brought
+about in the near future. At yet other times they have despaired of
+the world, and felt that, though they themselves knew what was needed,
+there was no hope of its being brought about. This mood sinks easily
+into the deeper despair which regards life on earth as essentially
+bad, and hopes for good only in a future life or in some mystical
+transfiguration.
+
+In some ages, all these attitudes have been adopted by different 
+men living at the same time. Consider, for example, the early 
+nineteenth century. Goethe is comfortable, Bentham is a reformer, 
+Shelley is a revolutionary, and Leopardi is a pessimist. But in 
+most periods there has been a prevailing tone among great writers. 
+In England they were comfortable under Elizabeth and in the 
+eighteenth century; in France, they became revolutionary about 
+1750; in Germany, they have been nationalistic since 1813. 
+
+During the period of ecclesiastical domination, from the fifth 
+century to the fifteenth, there was a certain conflict between what 
+was theoretically believed and what was actually felt. Theoretically, 
+the world was a vale of tears, a preparation, amid tribulation, for 
+the world to come. But in practice the writers of books, being 
+almost all clerics, could not help feeling exhilarated by the power 
+of the Church; they found opportunity for abundant activity of 
+a sort that they believed to be useful. They had therefore the 
+mentality of a governing class, not of men who feel themselves 
+exiles in an alien world. This is part of the curious dualism that 
+runs through the Middle Ages, owing to the fact that the Church, 
+though based on other-worldly beliefs, was the most important 
+institution in the every-day world. 
+
+The psychological preparation for the other-worldliness of
+Christianity begins in the Hellenistic period, and is connected with
+the eclipse of the City State. Down to Aristotle, Greek philosophers,
+though they might complain of this or that, were, in the main, not
+cosmically despairing, nor did they feel themselves politically
+impotent. They might, at times, belong to a beaten party, but, if so,
+their defeat was due to the chances of conflict, not to any inevitable
+powerlessness of the wise. Even those who, like Pythagoras, and Plato
+in certain moods, condemned the world of appearance and sought escape
+in mysticism, had practical plans for turning the governing classes
+into saints and sages. When political power passed into the hands of
+the Macedonians, Greek philosophers, as was natural, turned aside from
+politics and devoted themselves more to the problem of individual
+virtue or salvation. They no longer asked: how can men create a good
+State? They asked instead: how can men be virtuous in a wicked world,
+or happy in a world of suffering? The change, it is true, is only one
+of degree; such questions had been asked before, and the later Stoics,
+for a time, again concerned themselves with politics the politic^ of
+Rome, not of Greece. But the change was none the less real. Except to
+a limited extent during the Roman period in Stoicism, the outlook of
+those who thought and felt seriously became increasingly subjective
+and individualistic, until, at last, Christianity evolved a gospel of
+individual salvation which inspired missionary zeal and created the
+Church. Until that happened, there was no institution to which the
+philosopher could give whole-hearted adherence, and therefore there
+was no adequate outlet for his legitimate love of power. For this
+reason, the philosophers of the Hellenistic period are more limited as
+human beings than the men who lived while the City State could still
+inspire allegiance. They still think, because they cannot help
+thinking; but they scarcely hope that their thought will bear fruit in
+the world of affairs.
+
+Four schools of philosophy were founded about the time of Alexander.
+The two most famous, the Stoics and Epicureans, will be the subjects
+of later chapters; in the present chapter we shall be concerned with
+the Cynics and Skeptics.
+
+The first of these schools is derived, through its founder Diogenes, from Amisthenes, a disciple of Socrates, about twenty 
+years older than Plato. Antisthenes was a remarkable character, 
+in some ways rather like Tolstoy. Until after the death of Socrates, 
+he lived in the aristocratic circle of his fellow disciples, and 
+showed no sign of unorthodoxy. But something whether the 
+defeat of Athens, or the death of Socrates, or a distaste for philosophic quibbling caused him, when no longer young, to despise 
+the things that he had formerly valued. He would have nothing 
+but simple goodness. He associated with working men, and 
+dressed as one of them. He took to open-air preaching, in a style 
+that the uneducated could understand. All refined philosophy he 
+held to be worthless; what could be known, could be known by 
+the plain man. He believed in the "return to nature" and carried 
+this belief very far. There was to be no government, no private 
+property, no marriage, no established religion. His followers, if 
+not he himself, condemned slavery. He was not exactly ascetic, 
+but he despised luxury and all pursuit of artificial pleasures of 
+the senses. "I had rather be mad than delighted" he said.[^90]
+
+[^90]: Benn, Vol. II, pp. 4, 5; Murray, _Five Stage_ pp. 113-14. 
+
+
+The fame of Antisthenes was surpassed by that of his disciple
+Diogenes, "a young man from Sinope, on the Euxine, whom he
+[Antisthenes] did not take to at first sight; the son of a
+disreputable money-changer who had been sent to prison for defacing
+the coinage. Antisthenes ordered the lad away, but he paid no
+attention; he beat him with his stick, but he never moved. He wanted
+'wisdom' and saw that Antisthenes had it to give. His aim in life was
+to do as his father had done, to 'deface the coinage' but on a much
+larger scale. He would deface all the coinage current in the world.
+Every conventional stamp was false. The men stamped as generals and
+kings; the things stamped as honor and wisdom and happiness and
+riches; all were base metal with lying superscription."[^91]
+
+[^91]: _Ibid._, p. 117.
+
+He decided to live like a dog, and was therefore called a "cynic," 
+which means "canine." He rejected all conventions whether of 
+religion, of manners, of dress, of housing, of food, or of decency. 
+One is told that he lived in a tub, but Gilbert Murray assures us 
+that this is a mistake: it was a large pitcher, of the sort used in 
+primitive times for burials.[^92] He lived, like an Indian fakir, by 
+begging. He proclaimed his brotherhood, not only with the whole 
+human race, but also with animals. He was a man about whom 
+stories gathered, even in his lifetime. Everyone knows how 
+Alexander visited him, and asked if he desired any favor; "only 
+to stand out of my light," he replied. 
+
+[^92]: _Ibid._, p. 119.
+
+
+The teaching of Diogenes was by no means what we now call 
+"cynical" quite the contrary. He had an ardent passion for 
+"virtue," in comparison with which he held worldly goods of no 
+account. He sought virtue and moral freedom in liberation from 
+desire: be indifferent to the goods that fortune has to bestow, 
+and you will be emancipated from fear. In this respect, his doctrine, 
+as we shall see, was taken up by the Stoics, but they did not follow 
+him in rejecting the amenities of civilization. He considered that 
+Prometheus was justly punished for bringing to man the arts that 
+have produced the complication and artificiality of modern life. 
+In this he resembled the Taoists and Rousseau and Tolstoy, but 
+was more consistent than they were. 
+
+His doctrine, though he was a contemporary of Aristotle, 
+belongs in its temper to the Hellenistic age. Aristotle is the last 
+Greek philosopher who faces the world cheerfully; after him, all 
+have, in one form or another, a philosophy of retreat. The world 
+is bad; let us learn to be independent of it. External goods are 
+precarious; they are the gift of fortune, not the reward of our own 
+efforts. Only subjective goods virtue, or contentment through 
+resignation are secure, and these alone, therefore, will be valued 
+by the wise man. Diogenes personally was a man full of vigor, 
+but his doctrine, like all those of the Hellenistic age, was one to 
+appeal to weary men, in whom disappointment had destroyed 
+natural zest. And it was certainly not a doctrine calculated to 
+promote art or science or statesmanship, or any useful activity 
+except one of protest against powerful evil. 
+
+It is interesting to observe what the Cynic teaching became when it
+was popularized. In the early part of the third century BC, the cynics
+were the fashion, especially in Alexandria. They published little
+sermons pointing out how easy it is to do without material
+possessions, how happy one can be on simple food, how warm one can
+keep in winter without expensive clothes (which might be true in
+Egypt!), how silly it is to feel affection for one's native country,
+or to mourn when one's children or friends die. "Because my son or my
+wife is dead," says Teles, who was one of these popularizing Cynics,
+"is that any reason for my neglecting myself, who am still alive, and
+ceasing to look after my property?"[^93] At this point, it becomes
+difficult to feel any sympathy with the simple life, which has grown
+altogether too simple. One wonders who enjoyed these sermons. Was it
+the rich, who wished to think the sufferings of the poor imaginary? Or
+was it the new poor, who were trying to despise the successful
+business man? Or was it sycophants who persuaded themselves that the
+charity they accepted was unimportant? Teles says to a rich man: "You
+give liberally and I take valiantly from you, neither grovelling nor
+demeaning myself basely nor grumbling."[^94] A very convenient
+doctrine. Popular Cynicism did not teach abstinence from the good
+things of this world, but only a certain indifference to them. In the
+case of a borrower, this might take the form of minimizing the
+obligation to the lender. One can see how the word "cynic" acquired
+its everyday meaning.
+
+[^93]: _The Hellenistic Age_ (Cambridge, 1923), p. 84ff. 
+[^94]: _Ibid._, p. 86. 
+
+What was best in the Cynic doctrine passed over into Stoicism, 
+which was an altogether more complete and rounded philosophy. 
+
+Skepticism, as a doctrine of the schools, was first proclaimed by
+Pyrrho, who was in Alexander's army, and campaigned with it as far as
+India. It seems that this gave him a sufficient taste of travel, and
+that he spent the rest of his life in his native city, Elis, where he
+died in 275 BC. There was not much that was new in his doctrine,
+beyond a certain systematizing and formalizing of older doubts.
+Skepticism with regard to the senses had troubled Greek philosophers
+from a very early stage; the only exceptions were those who, like
+Parmenides and Plato, denied the cognitive value of perception, and
+made their denial into an opportunity for an intellectual dogmatism.
+The Sophists, notably Protagoras and Gorgias, had been led by the
+ambiguities and apparent contradictions of sense-perception to a
+subjectivism not unlike Hume's. Pyrrho seems (for he very wisely wrote
+no books) to have added moral and logical skepticism to skepticism as
+to the senses. He is said to have maintained that there could never be
+any rational ground for preferring one course of action to another. In
+practice, this meant that one conformed to the customs of whatever
+country one inhabited. A modern disciple would go to church on Sundays
+and perform the correct genuflexions, but without any of the religious
+beliefs that are supposed to inspire these actions. Ancient Skeptics
+went through the whole pagan ritual, and were even sometimes priests;
+their Skepticism assured them that this behavior could not be proved
+wrong, and their common sense (which survived their philosophy)
+assured them that it was convenient.
+
+Skepticism naturally made an appeal to many unphilosophic minds.
+People observed the diversity of schools and the acerbity of their
+disputes, and decided that all alike were pretending to knowledge
+which was in fact unattainable. Skepticism was a lazy man's
+consolation, since it showed the ignorant to be as wise as the reputed
+men of learning. To men who, by temperament, required a gospel, it
+might seem unsatisfying, but like every doctrine of the Hellenistic
+period it recommended itself as an antidote to worry. Why trouble
+about the future? It is wholly uncertain. You may as well enjoy the
+present; "what's to come is still unsure." For these reasons,
+Skepticism enjoyed a considerable popular success.
+
+It should be observed that Skepticism as a philosophy is not 
+merely doubt, but what may be called dogmatic doubt. The man 
+of science says "I think it is so-and-so, but I am not sure." The 
+man of intellectual curiosity says "I don't know how it is, but I 
+hope to find out." The philosophical Skeptic says "nobody knows, 
+and nobody ever can know." It is this element of dogmatism that 
+makes the system vulnerable. Skeptics, of course, deny that they 
+assert the impossibility of knowledge dogmatically, but their 
+denials are not very convincing. 
+
+Pyrrho's disciple Timon, however, advanced some intellectual 
+arguments which, from the standpoint of Greek logic, were very 
+hard to answer. The only logic admitted by the Greeks was deductive, and all deduction had to start, like Euclid, from general 
+principles regarded as self-evident. Timon denied the possibility 
+of finding such principles. Everything, therefore, will have to be 
+proved by means of something else, and all argument will be 
+either circular or an endless chain hanging from nothing. In either 
+case nothing can be proved. This argument, as we can see, cut 
+at the root of the Aristotelian philosophy which dominated the 
+Middle Ages. 
+
+Some forms of Skepticism which, in our own day, arc advocated by men
+who arc by no means wholly skeptical, had not occurred to the Skeptics
+of antiquity. They did not doubt phenomena, or question propositions
+which, in their opinion, only expressed what we know directly
+concerning phenomena. Most of Timon's work is lost, but two surviving
+fragments will illustrate this point. One says "The phenomenon is
+always valid." The other says: "That honey w sweet I refuse to assert;
+that it appears sweet, I fully grant."[^95] A modern Skeptic would
+point out that the phenomenon merely occurs, and is not either valid
+or invalid; what is valid or invalid must be a statement, and no
+statement can be so closely linked to the phenomenon as to be
+incapable of falsehood. For the same reason, he would say that the
+statement "honey appears sweet" is only highly probable, not
+absolutely certain.
+
+[^95]: Quoted by Edwyn Bevan, _Stoics and Skeptics_, p. 126. 
+
+In some respects, the doctrine of Timon was very similar to 
+that of Hume. He maintained that something which had never 
+been observed atoms, for instance could not be validly inferred; 
+but when two phenomena had been frequently observed together, 
+one could be inferred fiom the other. 
+
+Timon lived at Athens throughout the later years of his long 
+life, and died there in 235 BC With his death, the school of 
+Pyrrho, as a school, came to an end, but his doctrines, somewhat 
+modified, were taken up, strange as it may seem, by the Academy, 
+which represented the Platonic tradition. 
+
+The man who effected this surprising philosophic revolution was
+Arcesilaus, a contemporary of Timon, who died as an old man about 240
+BC. What most men have taken from Plato is belief in a supersensible
+intellectual world and in the superiority of the immortal soul to the
+mortal body. But Plato was many-sided, and in some respects could be
+regarded as teaching skepticism. The Platonic Socrates professes to
+know nothing; we naturally treat this as irony, but it could be taken
+seriously. Many of the dialogues reach no positive conclusion, and aim
+at leaving the reader in a state of doubt. Some the latter half of the
+Parmenide*, for instance might seem to have no purpose except to show
+that either side of any question can be maintained with equal
+plausibility. The Platonic dialectic could be treated as an end,
+rather than a means, and if so treated it lent itself admirably to the
+advocacy of Skepticism. This seems to have been the way in which
+Arcesilaus interpreted the man whom he still professed to follow. He
+had decapitated Plato, but at any rate the torso that remained was
+genuine.
+
+The manner in which Arcesilaus taught would have had much 
+to commend it, if the young men who learnt from him had been 
+able to avoid being paralyzed by it. He maintained no thesis, but 
+would refute any thesis set up by a pupil. Sometimes he would 
+himself advance two contradictory propositions on successive 
+occasions, showing how to argue convincingly in favor of either. 
+A pupil sufficiently vigorous to rebel might have learnt dexterity 
+and the avoidance of fallacies; in fact, none seem to have learnt 
+anything except cleverness and indifference to truth. So great 
+was the influence of Arcesilaus that the Academy remained 
+skeptical for about two hundred years. 
+
+In the middle of this skeptical period, an amusing incident occurred.
+Carneades, a worthy successor of Arcesilaus as head of the Academy,
+was one of three philosophers sent by Athens on a diplomatic mission
+to Rome in the year 156 BC. He saw no reason why his ambassadorial
+dignity should interfere with the main chance, so he announced a
+course of lectures in Rome. The young men, who, at that time, were
+anxious to ape Greek manners and acquire Greek culture, flocked to
+hear him. His first lecture expounded the views of Aristotle and Plato
+on justice, and was thoroughly edifying. His second, however, was
+concerned in refuting all that he had said in his first, not with a
+view to establishing opposite conclusions, but merely to show that
+every conclusion is unwarranted. Plato's Socrates had argued that to
+inflict injustice was a greater evil to the perpetrator than to suffer
+it. Carneadcs, in his second lecture, treated this contention with
+scorn. Great States, he pointed out, had become great by unjust
+aggressions against their weaker neighbors; in Rome, this could not
+well be denied. In a shipwreck, you may save your life at the expense
+of some one weaker, and you are a fool if you do not. "Women and
+children first," he seems to think, is not a maxim that leads to
+personal survival. What would you do if you were flying from a
+victorious enemy, you had lost your horse, but you found a wounded
+comrade on a horse? If you were sensible, you would drag him off and
+seize his horse, whatever justice might ordain. All this not very
+edifying argumentation is surprising in a nominal follower of Plato,
+but it seems to have pleased the modern-minded Roman youths.
+
+There was one man whom it did not please, and that was the 
+Cato, who represented the stern, stiff, stupid, and brutal 
+moral code by means of which Rome had defeated Carthage. 
+From youth to old age, he lived simply, rose early, practiced 
+severe manual labour, ate only coarse food, and never wore a 
+gown that cost over a hundred pence. Towards the State he was 
+scrupulously honest, avoiding all bribery and plunder. He exacted 
+of other Romans all the virtues that he practiced himself, and 
+asserted that to accuse and pursue the wicked was the best thing 
+an honest man could do. He enforced, as far as he could, the old 
+Roman severity of manners: 
+
+> Cato put out of the Senate also, one Manilius, who was in 
+> great towardness to have been made Consul the next year following, 
+> only because he kissed his wife too lovingly in the day time, and 
+> before his daughter: and reproving him for it, he told him, his 
+> wife never kissed him, but when it thundered."[^96]
+
+[^96]: North's Plutarch, _Lives_, Marcus Cato. 
+
+When he was in power, he put down luxury and feasting. He 
+made his wife suckle not only her own children, but also those of 
+his slaves, in order that, having been nourished by the same milk, 
+they might love his children. When his slaves were too old to 
+work, he sold them remorselessly. He insisted that his slaves 
+should always be either working or sleeping. He encouraged his 
+slaves to quarrel with each other, for "he could not abide that 
+they should be friends." When a slave had committed a grave 
+fault, he would call in his other slaves, and induce them to condemn 
+the delinquent to death; he would then carry out the sentence 
+with his own hands in the presence of the survivors. 
+
+The contrast between Cato and Carneades was very complete: 
+the one brutal through a morality that was too strict and too 
+traditional, the other ignoble through a morality that was too 
+lax and too much infected with the social dissolution of the 
+Hellenistic world. 
+
+> Marcus Cato, even from the beginning that young men began to study
+> the Greek tongue, and that it grew in estimation in Rome, did
+> dislike of it: fearing lest the youth of Rome that were desirous of
+> learning and eloquence, would utterly give over the honor and glory
+> of arms.... So lie openly found fault one day in the Senate, that
+> the Ambassadors were long there, and had no dispatch: considering
+> also they were cunning men, and could easily persuade what they
+> would. And if there were no other respect, this only might persuade
+> them to determine some answer for them, and to send them home again
+> to their schools, to teach their children of Greece, and to let
+> alone the children of Rome, that they might learn to obey the laws
+> and the Senate, as they had done before. Now he spake thus to the
+> Senate, not of any private ill will or malice he bare to Carneades,
+> as some men thought: but because he generally hated philosophy."[^97]
+
+[^97]: North's Plutarch, _Lives_, Marcus Cato. 
+
+The Athenians, in Cato's view, were a lesser breed without the law; it
+did not matter if they were degraded by the shallow sophistries of
+intellectuals, but the Roman youth must be kept puritanical,
+imperialistic, ruthless, and stupid. He failed, however; later Romans,
+while retaining many of his vices, adopted those of Carneades also.
+
+The next head of the Academy, after Carneades (_ca_. 180 to _ca_. 110
+BC), was a Carthaginian whose real name was Hasdrubal, but who, in his
+dealings with Greeks, preferred to call himself Clitomachus. Unlike
+Carneades, who confined himself to lecturing, Clitomachus wrote over
+four hundred books, some of them in the Phoenician language. His
+principles appear to have been the same as those of Carneades. In some
+respects, they were useful. These two Skeptics set themselves against
+the belief in divination, magic, and astrology, which was becoming
+more and more widespread. They also developed a constructive doctrine,
+concerning degrees of probability: although we can never be justified
+in feeling certainty, some things are more likely to be true than
+others. Probability should be our guide in practice, since it is
+reasonable to act on the most probable of possible hypotheses. This
+view is one with which most modern philosophers would agree.
+Unfortunately, the books setting it forth are lost, and it is
+difficult to reconstruct the doctrine from the hints that remain.
+
+After Clitomachus, the Academy ceased to be skeptical, and from the
+time of Antiochus (who died in 69 BC) its doctrines became, for
+centuries, practically indistinguishable from those of the Stoics.
+
+Skepticism, however, did not disappear. It was revived by the 
+Cretan Aenesidemus, who came from Knossos, where, for aught 
+we know, there may have been Skeptics two thousand years earlier, 
+entertaining dissolute courtiers with doubts as to the divinity of 
+the mistress of animals. The date of Aenesidemus is uncertain. 
+He threw over the doctrines on probability advocated by Carneades, 
+and reverted to the earliest forms of Skepticism. His influence was 
+considerable; he was followed by the satirist Lucian in the second 
+century AD, and also, slightly later, by Sextus Empiricus, the 
+only Skeptic philosopher of antiquity whose works survive. There 
+is, for example, a short treatise, "Arguments Against Belief in a 
+God," translated by Edwyn Bevan in his Later Greek Religion, 
+pp. 52--56, and said by him to be probably taken by Sextus 
+Empiricus from Carneades, as reported by Clitomachus. 
+
+This treatise begins by explaining that, in behavior, the Skeptics 
+are orthodox: "We skeptics follow in practice the way of the world, 
+but without holding any opinion about it. We speak of the Gods 
+as existing and offer worship to the Gods and say that they exercise 
+providence, but in saying this we express no belief, and avoid the 
+rashness of the dogmatizers." 
+
+He then argues that people differ as to the nature of God; for 
+instance, some think Him corporeal, some incorporeal. Since we 
+have no experience of Him, we cannot know His attributes. The 
+existence of God is not self-evident, and therefore needs proof. 
+There is a somewhat confused argument to show that no such 
+proof is possible. He next takes up the problem of evil, and 
+concludes with the words: 
+
+> Those who affirm positively that God exists cannot avoid falling
+> into an impiety. For if they say that God controls everything, they
+> make Him the author of evil things; if, on the other hand, they say
+> that He controls some things only, or that He controls nothing, they
+> are compelled to make God either grudging or impotent, and to do
+> that is quite obviously an impiety.
+
+Skepticism, while it continued to appeal to some cultivated individuals until somewhere in the third century AD, was contrary 
+to the temper of the age, which was turning more and more to 
+dogmatic religion and doctrines of salvation. Skepticism had 
+enough force to make educated men dissatisfied with the State 
+religions, but it had nothing positive, even in the purely intellectual 
+sphere, to offer in their place. From the Renaissance onwards, 
+theological skepticism has been supplemented, in most of its 
+advocates, by an enthusiastic belief in science, but in antiquity 
+there was no such supplement to doubt. Without answering the 
+arguments of the Skeptics, the ancient world turned aside from 
+them. The Olympians being discredited, the way was left clear 
+for an invasion of oriental religions, which competed for the 
+favor of the superstitious until the triumph of Christianity. 
+
+## Chapter XXVII THE EPICUREANS 
+
+The two great new schools of the Hellenistic period, the 
+Stoics and Epicureans, were contemporaneous in their 
+foundation. Their founders, Zeno and Epicurus, were born 
+at about the same time, and settled in Athens as heads of their 
+respective sects within a few years of each other. It is therefore 
+a matter of taste which to consider first. I shall begin with the 
+Epicureans, because their doctrines were fixed once for all by 
+their founder, whereas Stoicism had a long development, 
+extending as far as the Emperor Marcus Aurelius, who died 
+in AD 180. 
+
+The main authority for the life of Epicurus is Diogenes Laertius, who
+lived in the third century AD. There are, however, two difficulties:
+first, Diogenes Laertius is himself ready to accept legends of little
+or no historical value; second, part of his Life consists in reporting
+the scandalous accusations brought against Epicurus by the Stoics, and
+it is not always clear whether he is asserting something himself or
+merely mentioning a libel. The scandals invented by the Stoics are
+facts about them, to be remembered when their lofty morality is
+praised; but they are not facts about Epicurus. For instance, there
+was a legend that his mother was a quack priestess, as to which
+Diogenes says:
+
+> They (apparently the Stoics) say that he used to go round from house
+> to house with his mother reading out the purification prayers, and
+> assisted his father in elementary teaching for a miserable
+> pittance.
+
+On this Bailey comments:[^98] "If there is any truth in the story 
+that he went about with his mother as an acolyte, reciting the 
+formulae of her incantations, he may well have been inspired in 
+quite early years with the hatred of superstition, which was afterwards so prominent a feature in his teaching." This theory is 
+attractive, but, in view of the extreme unscrupulousness of later 
+antiquity in inventing a scandal, I do not think it can be accepted 
+as having any foundation.[^99] There is against it the fact that he 
+had an unusually strong affection for his mother.[^100]
+
+[^98]: _The Greek Atomists and Epicurus_, by Cyril Bailey, Oxford, 1928, p. 221. Mr. Bailey has made a specialty of Epicurus, and his book is invaluable to the student. 
+
+[^99]: The Stoics were very unjust to Epicurus. Epictctus, for example, addressing him, says; "This is the life of which you pronounce yourself worthy: eating, drinking, copulation, evacuation and snoring." Book II, chap, xx, _Discourses of Epictetus_. 
+
+[^100]: Gilbert Murray, Five Stages, p. 130 
+
+The main facts of the life of Epicurus seem, however, fairly certain.
+His father was a poor Athenian colonist in Samos; Epicurus was born in
+342-1 BC, but whether in Samos or in Attica is not known. In any case,
+his boyhood was passed in Samos. He states that he took to the study
+of philosophy at the age of fourteen. At the age of eighteen, about
+the time of Alexander's death, he went to Athens, apparently to
+establish his citizenship, but while he was there the Athenian
+colonists were turned out of Samos (322 BC). The family of Epicurus
+became refugees in Asia Minor, where he rejoined them. At Taos, either
+at this time, or perhaps earlier, he was taught philosophy by a
+certain Nausiphanes, apparently a follower of Democritus. Although his
+mature philosophy owes more to Democritus than to any other
+philosopher, he never expressed anything but contempt for Nausiphanes,
+whom he alluded to as "The Mollusc."
+
+In the year 311 he founded his school, which was first in 
+Mitylene, then in Lampsacus, and, from 307 onwards, in Athens, 
+where he died in 270-1 BC. 
+
+After the hard years of his youth, his life in Athens was placid, 
+and was only troubled by his ill health. He had a house and a 
+garden (apparently separate from the house), and it was in the 
+garden that he taught. His three brothers, and some others, had 
+been members of his school from the first, but in Athens his 
+community was increased, not only by philosophic disciples, but 
+by friends and their children, slaves and _hetaerae_. These last were 
+made an occasion of scandal by his enemies, but apparently quite 
+unjustly. He had a very exceptional capacity for purely human 
+friendship, and wrote pleasant letters to the young children of 
+members of the community. He did not practice that dignity and 
+reserve in the expression of the emotions that was expected of 
+ancient philosophers; his letters are amazingly natural and 
+unaffected. 
+
+The life of the community was very simple, partly on principle, 
+and partly (no doubt) for lack of money. Their food and drink 
+was mainly bread and water, which Epicurus found quite satisfying. "I am thrilled with pleasure in the body," he says, "when 
+I live on bread and water, and I spit on luxurious pleasures, not 
+for their own sake, but because of the inconveniences that follow 
+them." The community depended financially, at least in part, 
+on voluntary contributions. "Send me some preserved cheese," 
+he writes, "that when I like, I may have a feast." To another 
+friend: "Send us offerings for the sustenance of our holy body 
+on behalf of yourself and your children." And again: "The only 
+contribution I require is that which ordered the disciples to 
+send me, even if they be among the Hyperboreans. I wish to 
+receive from each of you two hundred and twenty drachmae[^101] a 
+year and no more." 
+
+[^101]: About five pounds. 
+
+Epicurus suffered all his life from bad health, but learnt to endure
+it with great fortitude. It was he, not a Stoic, who first maintained
+that a man could be happy on the rack. Two letters written, one a few
+days before his death, the other on the day of his death, show that he
+had some right to this opinion. The first says: "Seven days before
+writing this the stoppage became complete and I suffered pains such as
+bring men to their last day. If anything happens to me, do you look
+after the children of Metrodorus for four or five years, but do not
+spend any more on them than you now spend on me." The second says: "On
+this truly happy day of my life, as I am at the point of death, I
+write this to you. The diseases in my bladder and stomach are pursuing
+their course, lacking nothing of their usual severity: but against all
+this is the joy in my heart at the recollection of my conversations
+with you. Do you, as I might expect from your devotion from boyhood to
+me and to philosophy, take good care of the children of Metrodorus."
+Metrodorus, who had been one of his first disciples, was dead;
+Epicurus provided for his children in his will.
+
+Although Epicurus was gentle and kindly towards most people, 
+a different side of his character appeared in his relations to philosophers, especially those to whom he might be considered indebted. "I suppose," he says, "that these grumblers will believe 
+me to be a disciple of The Mollusc (Nausiphanes) and to have 
+listened to his teaching in company with a few bibulous youths. 
+For indeed the fellow was a bad man and his habits such as 
+could never lead to wisdom."[^102] He never acknowledged the extent 
+of his indebtedness to Democritus, and as for Leucippus, he 
+asserted that there was no such philosopher meaning, no doubt, 
+not that there was no such man, but that the man was not a 
+philosopher. Diogenes Laertius gives a whole list of abusive 
+epithets that he is supposed to have applied to the most eminent 
+of his predecessors. With this lack of generosity towards other 
+philosophers goes another grave fault, that of dictatorial dogmatism. His followers had to learn a kind of creed embodying 
+his doctrines, which they were not allowed to question. To the 
+end, none of them added or modified anything. When Lucretius, 
+two hundred years later, turned the philosophy of Epicurus into 
+poetry, he added, so far as can be judged, nothing theoretical to 
+the master's teaching. Wherever comparison is possible, Lucretius 
+is found to agree closely with the original, and it is generally 
+held that, elsewhere, he may be used to fill in the gaps in our 
+knowledge caused by the loss of all of Epicurus's three hundred 
+books. Of his writings, nothing remains except a few letters, some 
+fragments, and a statement of "Principal Doctrines." 
+
+[^102]: _The Stoic and Epicurean Philosophers_, by W. J. Gates, p. 47. Where possible, I have availed myself of Mr. Gates's translations. 
+
+The philosophy of Epicurus, like all those of his age (with the
+partial exception of Skepticism), was primarily designed to secure
+tranquillity. He considered pleasure to be the good, and adhered, with
+remarkable consistency, to all the consequences of this view.
+"Pleasure," he said, "is the beginning and end of the blessed life.
+Diogenes Laertius quotes him as saying, in a book on _The End of
+Life_, "I know not how I can conceive the good, if I withdraw the
+pleasures of taste and withdraw the pleasures of love and those of
+hearing and sight." Again: "The beginning and the root of all good is
+the pleasure of the stomach; even wisdom and culture must be referred
+to this." The pleasure of the mind, we are told, is the contemplation
+of pleasures of the body. Its only advantage over bodily pleasures is
+that we can learn to contemplate pleasure rather than pain, and thus
+have more control over mental than over physical pleasures. "Virtue,"
+unless it means "prudence in the pursuit of pleasure," is an empty
+name. Justice, for example, consists in so acting as not to have
+occasion to fear other men's resentment a view which leads to a
+doctrine of the origin of society not unlike the theory of the Social
+Contract.
+
+Epicurus disagrees with some of his hedonist predecessors in
+distinguishing between active and passive pleasures, or dynamic and
+static pleasures. Dynamic pleasures consist in the attainment of a
+desired end, the previous desire having been accompanied by pain.
+Static pleasures consist in a state of equilibrium, which results from
+the existence of the kind of state of affairs that would be desired if
+it were absent. I think one may say that the satisfying of hunger,
+while it is in progress, is a dynamic pleasure, but the state of
+quiescence which supervenes when hunger is completely satisfied is a
+static pleasure. Of these two kinds, Epicurus holds it more prudent to
+pursue the second, since it is unalloyed, and does not depend upon the
+existence of pain as a stimulus to desire. When the body is in a state
+of equilibrium, there is no pain; we should, therefore, aim at
+equilibrium and the quiet pleasures rather than at more violent joys.
+Epicurus, it seems, would wish, if it were possible, to be always in
+the state of having eaten moderately, never in that of voracious
+desire to eat.
+
+He is thus led, in practice, to regarding absence of pain, rather than
+presence of pleasure, as the wise man's goal.[^103] The stomach may be
+at the root of things, but the pains of stomach-ache outweigh the
+pleasures of gluttony; accordingly Epicurus lived on bread, with a
+little cheese on feast days. Such desires as those for wealth and
+honor are futile, because they make a man restless when he might be
+contented. "The greatest good of all is prudence: it is a more
+precious thing even than philosophy." Philosophy, as he understood it,
+was a practical system designed to secure a happy life; it required
+only common sense, not logic or mathematics or any of the elaborate
+training prescribed by Plato. He urges his young disciple and friend
+Pythodes to "flee from every form of culture." It was a natural
+consequence of his principles that he advised abstinence from public
+life, for in proportion as a man achieves power he increases the
+number of those who envy him and therefore wish to do him injury. Even
+if he escapes outward misfortune, peace of mind is impossible in such
+a situation. The wise man will try to live unnoticed, so as to have no
+enemies.
+
+[^103]: (For Epicurus) "Absence of pain is in itself pleasure, indeed in his ultimate analysis the truest pleasure." Bailey, _op. cit._, p. 249. 
+
+Sexual love, as one of the most "dynamic: of pleasures, naturally 
+comes under the ban. "Sexual intercourse," the philosopher 
+declares, "has never done a man good and he is lucky if it has not 
+harmed him." He was fond of children (other people's), but for 
+the gratification of this taste he seems to have relied upon other 
+people not to follow his advice. He seems, in fact, to have liked 
+children against his better judgment; for he considered marriage 
+and children a distraction from more serious pursuits. Lucretius, 
+who follows him in denouncing love, sees no harm in sexual 
+intercourse provided it is divorced from passion. 
+
+The safest of social pleasures, in the opinion of Epicurus, is 
+friendship. Epicurus, like Bentham, is a man who considers that 
+all men, at all times, pursue only their own pleasure, sometimes 
+wisely, sometimes unwisely; but, again like Bentham, he is constantly seduced by his own kindly and affectionate nature into 
+admirable behavior from which, on his own theories, he ought 
+to have refrained. He obviously liked his friends without regard 
+to what he got out of them, but he persuaded himself that he was 
+as selfish as his philosophy held all men to be. According to 
+Cicero, he held that "friendship cannot be divorced from pleasure, 
+and for that reason must be cultivated, because without it neither 
+can we live in safety and without fear, nor even pleasantly." 
+Occasionally, however, he forgets his theories more or less: "all 
+friendship is desirable in itself," he says, adding "though it starts 
+from the need of help."[^104] 
+
+[^104]: On the subject of friendship and Epicurus's amiable inconsistency, see Bailey, _op. cit._, pp. 517-20. 
+
+Epicurus, though his ethic seemed to others swinish and lacking 
+in moral exaltation, was very much in earnest. As we have seen, 
+he speaks of the community in the garden as "our holy body"; 
+he wrote a book _On Holiness_; he had all the fervour of a religious 
+reformer. He must have had a strong emotion of pity for the 
+sufferings of mankind, and an unshakeable conviction that they 
+would be greatly lessened if men would adopt his philosophy. It 
+was a valetudinarian's philosophy, designed to suit a world in 
+which adventurous happiness had become scarcely possible. Eat 
+little, for fear of indigestion; drink little, for fear of next morning; 
+eschew politics and love and all violently passionate activities; do 
+not give hostages to fortune by marrying and having children; in 
+your mental life, teach yourself to contemplate pleasures rather 
+than pains. Physical pain is certainly a great evil, but if severe, 
+it is brief, and if prolonged, it can be endured. by means of mental 
+discipline and the habit of thinking of happy things in spite of it. 
+Above all, live so as to avoid fear. 
+
+It was through the problem of avoiding fear that Epicurus was 
+led into theoretical philosophy. He held that two of the greatest 
+sources of fear were religion and the dread of death, which were 
+connected, since religion encouraged the view that the dead are 
+unhappy. He therefore sought a metaphysic which would prove 
+that the gods do not interfere in human affairs, and that the soul 
+perishes with the body. Most modern people think of religion as 
+a consolation, but to Epicurus it was the opposite. Supernatural 
+interference with the course of nature seemed to him a source of 
+terror, and immortality fatal to the hope of release from pain. 
+Accordingly he constructed an elaborate doctrine designed to 
+cure men of the beliefs that inspire fear. 
+
+Epicurus was a materialist, but not a determinist. He followed 
+Democritus in believing that the world consists of atoms and the 
+void; but he did not believe, as Democritus did, that the atoms are 
+at all times completely controlled by natural laws. The conception 
+of necessity in Greece was, as we have seen, religious in origin, 
+and perhaps he was right in considering that an attack on religion 
+would be incomplete if it allowed necessity to survive. His atoms 
+had weight, and were continually falling; not towards the center 
+of the earth, but downwards in some absolute sense. Every now 
+and then, however, an atom, actuated by something like free will, 
+would swerve slightly from the direct downward path,[^105] and so 
+would come into collision with some other atom. From this point 
+onwards, the development of vortices, etc., proceeded in much the 
+same way as in Democritus. The soul is material, and is composed 
+of particles like those of breath and heat. (Epicurus thought 
+breath and wind different in substance from air; they were not 
+merely air in motion.) Soul-atoms are distributed throughout the 
+body. Sensation is due to thin films thrown off by bodies and 
+travelling on until they touch soul-atoms. These films may still 
+exist when the bodies from which they originally proceeded have 
+been dissolved; this accounts for dreams. At death, the soul is 
+dispersed, and its atoms, which of course survive, are no longer 
+capable of sensation, because they are no longer connected with 
+the body. It follows, in the words of Epicurus, that "Death is 
+nothing to us; for that which is dissolved, is without sensation, 
+and that which lacks sensation is nothing to us." 
+
+[^105]: An analogous view is urged in our day by Eddington, in his interpretation of the principle of indeterminacy. 
+
+As for the gods, Epicurus firmly believes in their existence, since he
+cannot otherwise account for the widespread existence of the idea of
+gods. But he is persuaded that they do not trouble themselves with the
+affairs of our human world. They are rational hedonists, who follow
+his precepts, and abstain from public life; government would be an
+unnecessary labour, to which, in their life of complete blessedness,
+they feel no temptation. Of course, divination and augury and all such
+practices are purely superstitious, and so is the belief in
+Providence.
+
+There is therefore no ground for the fear that we may incur the 
+anger of the gods, or that we may suffer in Hades after death. 
+Though subject to the powers of nature, which can be studied 
+scientifically, we yet have free will, and are, within limits, the 
+masters of our fate. We cannot escape death, but death, rightly 
+understood, is no evil. If we live prudently, according to the 
+maxims of Epicurus, we shall probably achieve a measure of 
+freedom from pain. This is a moderate gospel, but to a man 
+impressed with human misery it sufficed to inspire enthusiasm 
+
+Epicurus has no interest in science on its own account; he values it
+solely as providing naturalistic explanations of phenomena which
+superstition attributes to the agency of the gods. When there are
+several possible naturalistic explanations, he holds that there is no
+point in trying to decide between them. The phases of the moon, for
+example, have been explained in many different ways; any one of these,
+so long as it does not bring in the gods, is as good as any other, and
+it would be idle curiosity to attempt to determine which of them is
+true. It is no wonder that the Epicureans contributed practically
+nothing to natural knowledge. They served a useful purpose by their
+protest against the increasing devotion of the later pagans to magic,
+astrology, and divination; but they remained, like their founder,
+dogmatic, limited, and without genuine interest in anything outside
+individual happiness. They learnt by heart the creed of Epicurus, and
+added nothing to it throughout the centuries during which the school
+survived.
+
+The only eminent disciple of Epicurus is the poet Lucretius 
+(99-55 BC), who was a contemporary of Julius Caesar. In the 
+last days of the Roman Republic, free thought was the fashion, 
+and the doctrines of Epicurus were popular among educated 
+people. The Emperor Augustus introduced an archaistic revival 
+of ancient virtue and ancient religion, which caused the poem of 
+Lucretius On the Nature of Things to become unpopular, and it 
+remained so until the Renaissance. Only one manuscript of it 
+survived die Middle Ages, and that narrowly escaped destruction 
+by bigots. Hardly any great poet has had to wait so long for 
+recognition, but in modern times his merits have been almost 
+universally acknowledged. For example, he and Benjamin Franklin 
+were Shelley's favorite authors. 
+
+His poem sets forth in verse the philosophy of Epicurus. Although the
+two men have the same doctrine, their temperaments are very different.
+Lucretius was passionate, and much more in need of exhortations to
+prudence than Epicurus was. He committed suicide, and appears to have
+suffered from periodic insanity brought on, so some averred, by the
+pains of love or the unintended effects of a love philtre. He feels
+towards Epicurus as towards a saviour, and applies language of
+religious intensity to the man whom he regards as the destroyer of
+religion:[^106]
+
+[^106]: I quote the translation of Mr. R. C. Trevelyan, Book 1, 60-79. 
+
+> When prostrate upon earth lay human life  
+> Visibly trampled down and foully crushed  
+> Beneath Religion's cruelty, who meanwhile  
+> Out of the regions of the heavens above  
+> Showed forth her face, lowering on mortal men  
+> With horrible aspect, first did a man of Greece  
+> Dare to lift up his mortal eyes against her;  
+> The first was he to stand up and defy her.  
+> Him neither stories of the gods, nor lightnings,  
+> Nor heaven with muttering menaces could quell,  
+> But all the more did they arouse his soul's  
+> Keen valour, till he longed to be the first  
+> To break through the fast-bolted doors of Nature.  
+> Therefore his fervent energy of mind  
+> Prevailed, and he passed onward, voyaging far  
+> Beyond the flaming ramparts of the world,  
+> Ranging in mind and spirit far and wide  
+> Throughout the unmeasured universe; and thence  
+> A conqueror he returns to us, bringing back  
+> Knowledge both of what can and what cannot  
+> Rise into being, teaching us in fine 
+> Upon what principle each thing has its powers  
+> Limited, and its deep-set boundary stone.  
+> Therefore now has Religion been cast down  
+> Beneath men's feet, and trampled on in turn: 
+> Ourselves heaven-high his victory exalts. 
+
+The hatred of religion expressed by Epicurus and Lucretius is 
+not altogether easy to understand, if one accepts the conventional 
+accounts of the cheerfulness of Greek religion and ritual. Keats's 
+_Ode on a Grecian Urn_, for instance, celebrates a religious ceremony, 
+but not one which could fill men's minds with dark and gloomy 
+terrors. I think popular beliefs were very largely not of this cheerful 
+kind. The worship of the Olympians had less of superstitious 
+cruelty than the other forms of Greek religion, but even the 
+Olympian gods had demanded occasional human sacrifice until 
+the seventh or sixth century BC, and this practice was recorded 
+in myth and drama.[^107] Throughout the barbarian world, human 
+sacrifice was still recognized in the time of Epicurus; until the 
+Roman conquest, it was practiced in times of crisis, such as the 
+Punic Wars, by even the most civilized of barbarian populations. 
+
+[^107]: Lucretius instances the sacrifice of Iphigenia as an example of the harm wrought by religion. Book I, 85--100. 
+
+As was shown most convincingly by Jane Harrison, the Greeks had, in
+addition to the official cults of Zeus and his family, other more
+primitive beliefs associated with more or less barbarous rites. These
+were to some extent incorporated in Orphism, which became the
+prevalent belief among men of religious temperament. It is sometimes
+supposed that Hell was a Christian invention, but this is a mistake.
+What Christianity did in this respect was only to systematize earlier
+popular beliefs. From the beginning of Plato's Republic it is clear
+that the fear of punishment after death was common in fifth-century
+Athens, and it is not likely that it grew less in the interval between
+Socrates and Epicurus. (I am thinking not of the educated minority,
+but of the general population.) Certainly, also, it was common to
+attribute plagues, earthquakes, defeats in war, and such calamities,
+to divine displeasure or to failure to respect the omens. I think that
+Greek literature and art are probably very misleading as regards
+popular beliefs. What should we know of Methodism in the late
+eighteenth century if no record of the period survived except its
+aristocratic books and paintings? The influence of Methodism, like
+that of religiosity in the Hellenistic age, rose from below; it was
+already powerful in the time of Boswell and Sir Joshua Reynolds,
+although from their allusions to it the strength of its influence is
+not apparent. We must not, therefore, judge of popular religion in
+Greece by the pictures on "Grecian Urns" or by the works of poets and
+aristocratic philosophers. Epicurus was not aristocratic, either by
+birth or through his associates; perhaps this explains his exceptional
+hostility to religion.
+
+It is through the poem of Lucretius that the philosophy of Epicurus has chiefly become known to readers since the Renaissance. 
+What has most impressed them, when they were not professional 
+philosophers, is the contrast with Christian belief in such matters 
+as materialism, denial of Providence, and rejection of immortality. 
+What is especially striking to a modern reader is to have these 
+views which, nowadays, are generally regarded as gloomy and 
+depressing presented as a gospel of liberation from the burden 
+of fear. Lucretius is as firmly persuaded as any Christian of the 
+importance of true belief in matters of religion. After describing 
+how men seek escape from themselves when they are the victims 
+of an inner conflict, and vainly seek relief in change of place, 
+he says:[^108]
+
+[^108]: Book III, 1068--76. I again quote Mr. R. C. Trevelyan's translation. 
+
+> Each man flies from his own self;  
+> Yet from that self in fact he has no power  
+> To escape: he clings to it in his own despite,  
+> And loathes it too, because, though he is sick,  
+> He perceives not the cause of his disease.  
+> Which if he could but comprehend aright,  
+> Each would put all things else aside and first  
+> Study to learn the nature of the world,  
+> Since 'tis our state during eternal time,  
+> Not for one hour merely, that is in doubt,  
+> That state wherein mortals will have to pass  
+> The whole time that awaits them after death.  
+
+The age of Epicurus was a weary age, and extinction could 
+appear as a welcome rest from travail of spirit. The last age of 
+the Republic, on the contrary, was not, to most Romans, a time 
+of disillusionment: men of titanic energy were creating out of 
+chaos a new order, which the Macedonians had failed to do. But 
+to the Roman aristocrat who stood aside from politics, and cared 
+nothing for the scramble for power and plunder, the course of 
+events must have been profoundly discouraging. When to this 
+was added the affliction of recurrent insanity, it is not to be 
+wondered at that Lucretius accepted the hope of non-existence 
+as a deliverance. 
+
+But the fear of death is so deeply rooted in instinct that the gospel
+of Epicurus could not, at any time, make a wide popular appeal; it
+remained always the creed of a cultivated minority. Even among
+philosophers, after the time of Augustus, it was, as a rule, rejected
+in favor of Stoicism. It survived, it is true, though with
+diminishing vigor, for six hundred years after the death of Epicurus;
+but as men became increasingly oppressed by the miseries of our
+terrestrial existence, they demanded continually stronger medicine
+from philosophy or religion. The philosophers took refuge, with few
+exceptions, in Neoplatonism; the uneducated turned to various Eastern
+superstitions, and then, in continually increasing numbers, to
+Christianity, which, in its early form, placed all good in the life
+beyond the grave, thus offering men a gospel which was the exact
+opposite of that of Epicurus. Doctrines very similar to his, however,
+were revived by the French _philosophes_ at the end of the eighteenth
+century, and brought to England by Bentham and his followers; this was
+done in conscious opposition to Christianity, which these men regarded
+as hostilely as Epicurus regarded the religions of his day.
+
+## Chapter XXVIII STOICISM 
+
+STOICISM, while in origin contemporaneous with Epicurean- 
+ism, had a longer history and less constancy in doctrine. 
+The teaching of its founder Zeno, in the early part of the 
+third century BC, was by no means identical with that of Marcus 
+Aurelius in the latter half of the second century AD Zeno was a 
+materialist, whose doctrines were, in the main, a combination of 
+Cynicism and Heraclitus; but gradually, through an admixture 
+of Platonism, the Stoics abandoned materialism, until, in the end, 
+little trace of it remained. Their ethical doctrine, it is true, changed 
+very little, and was what most of them regarded as of the chief 
+importance. liven in this respect, however, there is some change 
+of emphasis. As time goes on, continually less is said about the 
+other aspects of Stoicism, and continually more exclusive stress 
+is laid upon ethics and those parts of theology that are most 
+relevant to ethics. With regard to all the earlier Stoics, we are 
+hampered by the fact that their works survive only in a few frag- 
+ments. Seneca, Kpictetus, and Marcus Aurelius, who belong to 
+the first and second centuries AD, alone survive in complete 
+books. 
+
+Stoicism is less Greek than any school of philosophy with which 
+we have been hitherto concerned. The early Stoics were mostly 
+Syrian, the later ones mostly Roman. Tarn (Hellenistic Civilization, 
+p. 287) suspects Chaldean influences in Stoicism. Uebenveg justly 
+observes that, in Hcllenizing the barbarian world, the Greeks 
+dropped what only suited themselves. Stoicism, unlike the earlier 
+purely Greek philosophies, is emotionally narrow, and in a certain 
+sense fanatical; but it also contains religious elements of which 
+the world felt the need, and which the Greeks seemed unable to 
+supply. In particular, it appealed to rulers: "nearly all the suc- 
+cessors of Alexander we may say all the principal kings in 
+existence in the generations following Zeno professed themselves 
+Stoics," says Professor Gilbert Murray. 
+
+Zeno was a Phoenician, born at Citium, in Cyprus, at some time 
+during the latter half of the fourth century BC It seems probable 
+that his family were engaged in commerce, and that business 
+
+
+
+WESTERN PHILOSOPHICAL THOUGHT 
+
+interests were what first took him to Athens. When there, however, 
+he became anxious to study philosophy. The views of the Cynics 
+were more congenial to him than those of any other school, but 
+he was something of an eclectic. The followers of Plato accused 
+him of plagiarizing the Academy. Socrates was the chief saint of 
+the Stoics throughout their history; his attitude at the time of 
+his trial, his refusal to escape, his calmness in the face of death, 
+and his contention that the perpetrator of injustice injures himself 
+more than his victim, all fined in perfectly with Stoic teaching. 
+So did his indifference to heat and cold, his plainness in matters 
+of food and dress, and his complete independence of all bodily 
+comforts. But the Stoics never took over Plato 1 * doctrine of ideas, 
+and most of them rejected his arguments for immortality. Only 
+the later Stoics followed him in regarding the soul as immaterial; 
+the earlier Stoics agreed with Heraclitus in the view that the soul 
+is composed of material fire. Verbally, this doctrine is also to be 
+found in Epictetus and Marcus Aurelius, but it seems that in 
+them the fire is not to be taken literally as one of the four elements 
+of which physical things are composed. 
+
+Zeno had no patience with metaphysical subtleties. Virtue was 
+what he thought important, and he only valued physics and meta- 
+physics in so far as they contributed to virtue. He attempted to 
+combat the metaphysical tendencies of the age by means of 
+common sense, which, in Greece, meant materialism. Doubts as 
+to the trustworthiness of the senses annoyed him, and he pushed 
+the opposite doctrine to extremes. 
+
+"Zeno began by asserting the existence of the real world. 'What 
+do you mean by real?' asked the Skeptic. 'I mean solid and material. 
+I mean that this table is solid matter.' 'And God,' asked the 
+Skeptic, 'and the Soul?' 'Perfectly solid,' said Zeno, 'more solid, 
+if anything, than the table.' 'And virtue or justice or the Rule of 
+Three; also solid matter?' 'Of course,' said Zeno, 'quite solid.'"[^109]
+
+[^109]: Gilbert Murray, _The Stoic Philosophy_ (1915), p. 25.
+
+It is evident that, at this point, Zeno, like many others, was 
+hurried by anti-metaphysical zeal into a metaphysic of his own. 
+
+The main doctrines to which the school remained constant throughout
+are concerned with cosmic determinism and human freedom. Zeno believed
+that there is no such thing as chance, and that the course of nature
+is rigidly determined by natural laws. Originally there was only fire;
+then the other elements---air, water, earth, in that order gradually
+emerged. But sooner or later there will be a cosmic conflagration, and
+all will again become fire. This, according to most Stoics, is not a
+final consummation, like the end of the world in Christian doctrine,
+but only the conclusion of a cycle; the whole process will be repeated
+endlessly. Everything that happens has happened before, and will
+happen again, not once, but countless times.
+
+So far, the doctrine might seem cheerless, and in no respect more
+comforting than ordinary materialism such as that of Democritus. But
+this was only one aspect of it. The course of nature, in Stoicism as
+in eighteenth-century theology, was ordained by a Lawgiver who was
+also a beneficent Providence. Down to the smallest detail, the whole
+was designed to secure certain ends by natural means. These ends,
+except in so far as they concern gods and daemons, are to be found in
+the life of man. Everything has a purpose connected with human beings.
+Some animals are good to eat, some afford tests of courage; even bed
+bugs are useful, since they help us to wake in the morning and not lie
+in bed too long. The supreme Power is called sometimes God, sometimes
+Zeus. Seneca distinguished this Zeus from the object of popular
+belief, who was also real, but subordinate.
+
+God is not separate from the world; He is the soul of the world, 
+and each of us contains a part of the Divine Fire. All things are 
+parts of one single system, which is called Nature; the individual 
+life is good when it is in harmony with Nature. In one sense, every 
+life is in harmony with Nature, since it is such as Nature's laws 
+have caused it to be; but in another sense a human life is only in 
+harmony with Nature when the individual will is directed to ends 
+which are among those of Nature. Virtue consists in a will which 
+is in agreement with Nature. The wicked, though perforce they 
+obey God's law, do so involuntarily; in the simile of Cleanthes, 
+they are like a dog tied to a cart, and compelled to go wherever 
+it goes. 
+
+In the life of an individual man, virtue is the sole good; such 
+things as health, happiness, possessions, are of no account. Since 
+virtue resides in the will, everything really good or bad in a man's 
+life depends only upon himself. He may become poor, but what 
+of it? He can still be virtuous. A tyrant may put him in prison, 
+but he can still persevere in living in harmony with Nature. He 
+may be sentenced to death, but he can die nobly, like Socrates. 
+Other men have power only over externals; virtue, which alone 
+is truly good, rests entirely with the individual. Therefore every 
+man has perfect freedom, provided he emancipates himself from 
+mundane desires. It is only through false judgments that such 
+desires prevail; the sage whose judgments are true is master of 
+his fate in all that he values, since no outside force can deprive 
+him of virtue. 
+
+There are obvious logical difficulties about this doctrine. If
+virtue is really the sole good, a beneficent Providence must be 
+solely concerned to cause virtue, yet the laws of Nature have 
+produced abundance of sinners. If virtue is the sole good, there 
+can be no reason against cruelty and injustice, since, as the Stoics 
+are never tired of pointing out, cruelty and injustice afford the 
+sufferer the best opportunities for the exercise of virtue. If the 
+world is completely deterministic, natural laws will decide whether 
+I shall be virtuous or not. If I am wicked, Nature compels me to 
+be wicked, and the freedom which virtue is supposed to give is 
+not possible for me. 
+
+To a modern mind, it is difficult to feel enthusiastic about a
+virtuous life if nothing is going to be achieved by it. We admire a
+medical man who risks his life in an epidemic of plague, because we
+think illness is an evil, and we hope to diminish its frequency. But
+if illness is no evil, the medical man might as well stay comfortably
+at home. To the Stoic, his virtue is an end it itself, not something
+that does good. And when we take a longer view, what is the ultimate
+outcome? A destruction of the present world by fire, and then a
+repetition of the whole process. Could anything be more devastatingly
+futile? There may be progress here and there, for a time, but in the
+long run there is only recurrence. When we see something unbearably
+painful, we hope that in time such things will cease to happen; but
+the Stoic assures us that what is happening now will happen over and
+over again. Providence, which sees the whole, must, one would think,
+ultimately grow weary through despair.
+
+There goes with this a certain coldness in the Stoic conception 
+of virtue. Not only bad passions are condemned, but all passions. 
+The sage does not feel sympathy; when his wife or his children 
+die, he reflects that this event is no obstacle to his own virtue, 
+and therefore he does not suffer deeply. Friendship, so highly 
+prized by Epicurus, is all very well, but it must not be carried to 
+the point where your friend's misfortunes can destroy your holy 
+calm. As for public life, it may be your duty to engage in it, since 
+it gives opportunities for justice, fortitude, and so on; but you 
+must not be actuated by a desire to benefit mankind, since the 
+benefits you can confer such as peace, or a more adequate supply 
+of food are no true benefits, and, in any case, nothing matters 
+to you except your own virtue. The Stoic is not virtuous in order 
+to do good, but does good in order to be virtuous. It has not 
+occurred to him to love his neighbor as himself; love, except in 
+a superficial sense, is absent from his conception of virtue. 
+
+When I say this, I am thinking of love as an emotion, not as a 
+principle. As a principle, the Stoics preached universal love; this 
+principle is found in Seneca and his successors, and probably was 
+taken by them from earlier Stoics. The logic of the school led to 
+doctrines which were softened by the humanity of its adherents, 
+who were much better men than they would have been if they 
+had been consistent. Kant who resembles them says that you 
+must be kind to your brother, not because you are fond of him, 
+but because the moral law enjoins kindness; I doubt, however, 
+whether, in private life, he lived down to this precept. 
+
+Leaving these generalities, let us come to the history of Stoicism. 
+
+Of Zeno,[^110] only some fragments remain. From these it appears 
+that he defined God as the fiery mind of the world, that he said 
+God was a bodily substance, and that the whole universe formed 
+the substance of God; Tertullian says that, according to Zeno, 
+God runs through the material world as honey runs through the 
+honeycomb. According to Diogenes Lacrtius, Zeno held that the 
+General Law, which is Right Reason, pervading everything, is 
+the same as Zeus, the Supreme Head of the government of the 
+universe: God, Mind, Destiny, Zeus, are one thing. Destiny is a 
+power which moves matter; "Providence" and "Nature" are 
+other names for it. Zeno does not believe that there should be 
+temples to the gods: "To build temples there will be no need: for 
+a temple must not be held a thing of great worth or anything holy. 
+Nothing can be of great worth or holy which is the work of 
+builders and mechanics." He seems, like the later Stoics, to have 
+believed in astrology and divination. Cicero says that he attributed 
+a divine potency to the stars. Diogenes Laertius says: "All kinds 
+of divination the Stoics leave valid. There must be divination, 
+they say, if there is such a thing as Providence. They prove the 
+reality of the art of divination by a number of cases in which 
+predictions have come true, as Zeno asserts." Chrysippus is 
+explicit on this subject. 
+
+[^110]: For the sources of what follows, see Bevan, _Later Greek Religion_, p. 1ff. 
+
+The Stoic doctrine as to virtue does not appear in the surviving 
+fragments of Zeno, but seems to have been held by him. 
+
+Cleanthes of Assos, the immediate successor of Zeno, is chiefly 
+notable for two things. First: as we have already seen, he held 
+that Aristarchus of Samos should be prosecuted for impiety 
+because he made the sun, instead of the earth, the center of the 
+universe. The second thing is his Hymn to Zeus, much of which 
+might have been written by Pope, or any educated Christian in 
+the century after Newton. Even more Christian is the short 
+prayer of Cleanthes: 
+
+> Lead me, O Zeus, and thou, O Destiny.  
+> Lead thou me on.  
+> To whatsoever task thou sendest me,  
+> Lead thou me on.  
+> I follow fearless, or, if in mistrust  
+> I lag and will not, follow still I must.  
+
+Chrysippus (280-207 BC) who succeeded Cleanthes, was a voluminous
+author, and is said to have written seven hundred and five books. He
+made Stoicism systematic and pedantic. He held that only Zeus, the
+Supreme Fire, is immortal; the other gods, including the sun and moon,
+are born and die. He is said to have considered that God has no share
+in the causation of evil, but it is not clear how he reconciled this
+with determinism. Elsewhere he deals with evil after the manner of
+Hcraclitus, maintaining that opposites imply one another, and good
+without evil is logically impossible: "There can be nothing more inept
+than the people who suppose that good could have existed without the
+existence of evil. Good and evil being antithetical, both must needs
+subsist in opposition." In support of this doctrine he appeals to
+Plato, not to Heraclitus.
+
+Chrysippus maintained that the good man is always happy and the bad
+man unhappy, and that the good man's happiness differs in no way from
+God's. On the question whether the soul survives death, there were
+conflicting opinions. Cleanthes maintained that all souls survive
+until the next universal conflagration (when everything is absorbed
+into God); but Chrysippus maintained that this is only true of the
+souls of the wise. He was less exclusively ethical in his interests
+than the later Stoics; in fact, he made logic fundamental. The
+hypothetical and disjunctive syllogism, as well as the word
+"disjunction," are due to the Stoics; so is the study of grammar and
+the invention of "cases" in declension.[^111] Chrysippus, or other
+Stoics inspired by his work, had an elaborate theory of knowledge, in
+the main empirical and based on perception, though they allowed
+certain ideas and principles, which were held to be established by
+consensus gentium, the agreement of mankind. But Zeno, as well as the
+Roman Stoics, regarded all theoretical studies as subordinate to
+ethics: he says that philosophy is like an orchard, in which logic is
+the walls, physics the trees, and ethics the fruit; or like an egg, in
+which logic is the shell, physics the white, and ethics the
+yolk.[^112] Chrysippus, it would seem, allowed more independent value
+to theoretical studies. Perhaps his influence accounts for the fact
+that among the Stoics there were many men who made advances in
+mathematics and other sciences.
+
+[^111]: See Barth, _Die Stoa_, 4th edition, Stuttgart, 1922. 
+[^112]: _Ibid_. 
+
+Stoicism, after Chrysippus, was considerably modified by two 
+important men, Panaetius and Posidonius. Panaetius introduced 
+a considerable element of Platonism, and abandoned materialism. 
+He was a friend of the younger Scipio, and had an influence on 
+Cicero, through whom, mainly, Stoicism became known to the 
+Romans. Posidonius, under whom Cicero studied in Rhodes, 
+influenced him even more. Posidonius was taught by Panaetius, 
+who died about 110 BC. 
+
+Posidonius (_ca._, 135--_ca.__ 51 BC) was a Syrian Greek, and was a
+child when the Seleucid empire came to an end. Perhaps it was his
+experience of anarchy in Syria that caused him to travel westward,
+first to Athens, where he imbibed the Stoic philosophy, and then
+further afield, to the western parts of the Roman Empire. 44 He saw
+with his own eyes the sunset in the Atlantic beyond the verge of the
+known world, and the African coast over against Spain, where the trees
+were full of apes, and the villages of barbarous people inland from
+Marseilles, where human heads hanging at the house-doors for trophies
+were an every-day sight."[^113] He became a voluminous writer on
+scientific subjects; indeed, one of the reasons for his travels was a
+wish to study the tides, which could not be done in the Mediterranean.
+He did excellent work in astronomy; as we saw in Chapter XXIV his
+estimate of the distance of the sun was the best in antiquity.[^114]
+He was also a historian of note---he continued Polybius. But it was
+chiefly as an eclectic philosopher that he was known: he combined with
+Stoicism much of Plato's teaching, which the Academy, in its skeptical
+phase, appeared to have forgotten.
+
+[^113]: Bevan, _Stoics and Skeptics_, p. 88. 
+[^114]: He estimated that by sailing westward from Cadiz, India could be teached after 70,000 stades. "This remark was the ultimate foundation of Columbia's confidence." Tarn, _Hellenistic Civilization_, p. 249. 
+
+This affinity to Plato is shown in his teaching about the soul 
+and the life after death. Panaetius had said, as most Stoics did, 
+that the soul perishes with the body. Posidonius, on the contrary, 
+says that it continues to live in the air, where, in most cases, it 
+remains unchanged until the next world-conflagration. There is 
+no hell, but the wicked, after death, are not so fortunate as the 
+good, for sin makes the vapours of the soul muddy, and prevents 
+it from rising as far as the good soul rises. The very wicked stay 
+near the earth and are reincarnated; the truly virtuous rise to the 
+stellar sphere and spend their time watching the stars go round. 
+They can help other souls; this explains (he thinks) the truth of 
+astrology. Bevan suggests that, by this revival of Orphic notions 
+and incorporation of Neo-Pythagorean beliefs, Posidonius may 
+have paved the way for Gnosticism. He adds, very truly, that 
+what was fatal to such philosophies as his was not Christianity 
+but the Copernican theory.[^115] Cleanthes was right in regarding 
+Aristarchus of Samos as a dangerous enemy. 
+
+[^115]: The above account of Posidonius is mainly based on Chapter III of Edwyn Bevan's _Stoics and Skeptics_. 
+
+Much more important historically (though not philosophically) 
+than the earlier Stoics were the three who were connected with 
+Rome: Seneca, Epictetus, and Marcus Aurelius---a minister, a 
+slave, and an emperor, respectively. 
+
+Seneca (_ca_. 3 BC to AD 65) was a Spaniard, whose father was 
+a cultivated man living in Rome. Seneca adopted a political career, 
+and was being moderately successful when he was banished to 
+Corsica (AD 41) by the Emperor Claudius, because he had 
+incurred the enmity of the Empress Messalina. Claudius's second 
+wife Agrippina recalled Seneca from exile in AD 48, and appointed 
+him tutor to her son, aged eleven. Seneca was less fortunate than 
+Aristotle in his pupil, who was the Emperor Nero. Although, as a 
+Stoic, Seneca officially despised riches, he amassed a huge fortune, 
+amounting, it was said, to three hundred million sesterces (about 
+three million pounds). Much of this he acquired by lending 
+money in Britain; according to Dio, the excessive rates of interest 
+that he exacted were among the causes of revolt in that country. 
+The heroic Queen Boadicea, if this is true, was heading a rebellion 
+against capitalism as represented by the philosophic apostle of 
+austerity. 
+
+Gradually, as Nero's excesses grew more unbridled, Seneca fell 
+increasingly out of favor. At length he was accused, justly or 
+unjustly, of complicity in a widespread conspiracy to murder 
+Nero and place a new emperor some said, Seneca himself 
+upon the throne. In view of his former services, he was graciously 
+permitted to commit suicide (AD 65). 
+
+His end was edifying. At first, on being informed of the Emperor's
+decision, he set about making a will. When told that there was no time
+allowed for such a lengthy business, he turned to his sorrowing family
+and said: "Never mind, I leave you what is of far more value than
+earthly riches, the example of a virtuous life" or words to that
+effect. He then opened his veins, and summoned his secretaries to take
+down his dying words; according to Tacitus, his eloquence continued to
+flow during his last moments. His nephew Lucan, the poet, suffered a
+similar death at the same time, and expired reciting his own verses.
+Seneca was judged, in future ages, rather by his admirable precepts
+than by his somewhat dubious practice. Several of the Fathers claimed
+him as a Christian, and a supposed correspondence between him and
+Saint Paul was accepted as genuine by such men as Saint Jerome.
+
+Epictetus (born about AD 60, died about AD 100) is a very different
+type of man, though closely akin as a philosopher. He was a Greek,
+originally a slave of Epaphroditus, a freedman of Nero and then his
+minister. He was lame as a result, it was said of a cruel punishment
+in his days of slavery. He lived and taught at Rome until AD 90, when
+the Emperor Domitian, who had no use for intellectuals, banished all
+philosophers. Epictetus thereupon retired to Nicopolis in Epirus,
+where, after some years spent in writing and teaching, he died.
+
+Marcus Aurelius (AD 121-180) was at the other end of the social scale.
+He was the adopted son of the good Emperor Antoninus Pius, who was his
+uncle and his father-in-law, whom he succeeded in AD 161, and whose
+memory he revered. As Emperor, he devoted himself to Stoic virtue. He
+had much need of fortitude, for his reign was beset by calamities
+earthquakes, pestilences, long and difficult wars, military
+insurrections. His _Meditations_, which are addressed to himself, and
+apparently not intended for publication, show that he felt his public
+duties burdensome, and that he suffered from a great weariness. His
+only son Commodus, who succeeded him, turned out to be one of the
+worst of the many bad emperors, but successfully concealed his vicious
+propensities so long as his father lived. The philosopher's wife
+Faustina was accused, perhaps unjustly, of gross immorality, but he
+never suspected her, and after her death took trouble about her
+deification. He persecuted the Christians, because they rejected the
+State religion, which he considered politically necessary. In all his
+actions he was conscientious, but in most he was unsuccessful. He is a
+pathetic figure: in a list of mundane desires to be resisted, the one
+that he finds most seductive is the wish to retire to a quiet country
+life. For this, the opportunity never came. Some of his _Meditations_
+are dated from the camp, on distant campaigns, the hardships of which
+eventually caused his death.
+
+It is remarkable that Epictetus and Marcus Aurelius are completely at
+one on all philosophical questions. This suggests that although social
+circumstances affect the philosophy of an age, individual
+circumstances have less influence than is sometimes thought upon the
+philosophy of an individual. Philosophers are usually men with a
+certain breadth of mind, who can largely discount the accidents of
+their private lives; but even they cannot rise above the larger good
+or evil of their time. In bad times they invent consolations; in good
+times their interests are more purely intellectual.
+
+Gibbon, whose detailed history begins with the vices of Commodus,
+agrees with most eighteenth-century writers in regarding the period of
+the Antonines as a golden age. "If a man were called upon," be says,
+"to fix the period in the history of the world, during which the
+condition of the human race was most happy and prosperous, he would,
+without hesitation, name that which elapsed from the death of Domitian
+to the accession of Commodus." It is impossible to agree altogether
+with this judgment. The evil of slavery involved immense suffering,
+and was sapping the vigor of the ancient world. There were
+gladiatorial shows and fights with wild beasts, which were intolerably
+cruel and must have debased the populations that enjoyed the
+spectacle. Marcus Aurelius, it is true, decreed that gladiators should
+fight with blunted swords; but this reform was short-lived, and he did
+nothing about fights with wild beasts. The economic system was very
+bad; Italy was going out of cultivation, and the population of Rome
+depended upon the free distribution of grain from the provinces. All
+initiative was concentrated in the Emperor and his ministers;
+throughout the vast extent of the Empire, no one. except an occasional
+rebellious general, could do anything but submit. Men looked to the
+past for what was best; the future, they felt, would be at best a
+weariness, and at worst a horror. When we compare the tone of Marcus
+Aurelius with that of Bacon, or Locke, or Condorcet, we see the
+difference between a tired and a hopeful age. In a hopeful age, great
+present evils can be endured, because it is thought that they will
+pass; but in a tired ape even real poods lose their savour. The Stoic
+ethic suited the times of Epictetus and Marcus Aurelius, because its
+gospel was one of endurance rather than hope.
+
+Undoubtedly the age of the Antonines was much better than 
+any later age until the Renaissance, from the point of view of the 
+general happiness. But careful study shows that it was not so 
+prosperous as its architectural remains would lead one to suppose. 
+Graeco-Roman civilization had made very little impression on 
+the agricultural regions; it was practically limited to the cities. 
+Even in the cities, there was a proletariat which suffered very 
+great poverty, and there was a large slave class. Rostovtseff sums 
+up a discussion of social and economic conditions in the cities 
+as follows:[^116]
+
+[^116]: Rostovtseff, _The Social and Economic History qf the Roman Empire_, p. 179. 
+
+> This picture of their social conditions is not so attractive as the
+> picture of their external appearance. The impression conveyed by our
+> sources is that the splendor of the cities was created by, and
+> existed for, a rather small minority of their population; that the
+> welfare even of this small minority was based on comparatively weak
+> foundations; that the large masses of the city population had either
+> a very moderate income or lived in extreme poverty. In a word, we
+> must not exaggerate the health of the cities: their external aspect
+> is misleading.
+
+On earth, says Epictetus, we are prisoners, and in an earthly 
+body. According to Marcus Aurelius, he used to say "Thou art 
+a little soul bearing about a corpse." Zeus could not make the 
+body free, but he gave us a portion of his divinity. God is the 
+father of men, and we are all brothers. We should not say "I am 
+an Athenian" or "I am a Roman," but "I am a citizen of the 
+universe." If you were a kinsman of Caesar, you would feel safe; 
+how much more should you feel safe in being a kinsman of God? 
+If we understand that virtue is the only true good, we shall see 
+that no real evil can befall us. 
+
+> I must die. But must I die groaning? I must be imprisoned. But must
+> I whine as well? I must suffer exile. Can any one then hinder me
+> from going with a smile, and a good courage, and at peace? "Tell the
+> secret." I refuse to tell, for this is in my power. "But I will
+> chain you." What say you, fellow? Chain me? My leg you will chain
+> yes, but my will no, not even Zeus can conquer that. "I will
+> imprison you." My bit of a body, you mean. "I will behead you." Why?
+> When did I ever tell you that I was the only man in the world that
+> could not be beheaded?
+>
+> These are the thoughts that those who pursue philosophy 
+> should ponder, these are the lessons they should write down day 
+> by day, in these they should exercise themselves.[^117]
+
+[^117]: Quoted from Gates, _op. cit._, pp. 225-6, 
+
+Slaves are the equals of other men, because all alike arc sons 
+of God. 
+
+We must submit to God as a good citizen submits to the law. 
+"The soldier swears to respect no man above Caesar, but we to 
+respect ourselves first of all."[^118] "When you appear before the 
+mighty of the earth, remember that Another looks from above 
+on what is happening, and that you must please Him rather than 
+this man."[^119]
+
+[^118]: _Ibid._, p. 251.
+[^119]: _Ibid._, p. 280. 
+
+>Who then is a Stoic? 
+>
+> Show me a man moulded to the pattern of the judgments that he
+> utters, in the same way as we call a statue Phidian that is moulded
+> according to the art of Phidias. Show me one who is sick and yet
+> happy, in peril and yet happy, dying and yet happy, in exile and
+> happy, in disgrace and happy. Show him me. By the gods I would fain
+> see a Stoic. Nay you cannot show me a finished Stoic; then show me
+> one in the moulding, one who has set his feet on the path. Do me
+> this kindness, do not grudge an old man like me a sight I never saw
+> till now. What! You think you are going to show me the Zeus of
+> Phidias or his Athena, that work of ivory and gold? It is a soul I
+> want; let one of you show me the soul of a man who wishes to be at
+> one with God, and to blame God or man no longer, to fail in nothing,
+> to feel no misfortune, to be free from anger, envy, and jealousy one
+> who (why wrap up my meaning?) desires to change his manhood for
+> godhead, and who in this poor body of his has his purpose set upon
+> com- munion with God. Show him to me. Nay, you cannot.
+
+Epictctus is never weary of showing how we should deal with 
+what are considered misfortunes, which he does often by means 
+of homely dialogues. 
+
+Like the Christians, he holds that we should love our enemies. 
+In general, in common with other Stoics, he despises pleasure, 
+but there is a kind of happiness that is noi to be despised. "Athens 
+is beautiful. Yes, but happiness is far more beautiful freedom 
+from passion and disturbance, the sense that your affairs depend 
+on no one" (p. 428). Every man is an actor in a play, in which 
+God has assigned the parts; it is our duty to perform our part 
+worthily, whatever it may be. 
+
+There is great sincerity and simplicity in the writings which record
+the teaching of Epictetus. (They are written down from notes by his
+pupil Arrian.) His morality is lofty and unworldly; in a situation in
+which a man's main duty is to resist tyrannical power, it would be
+difficult to find anything more helpful. In some respects, for
+instance in recognizing the brotherhood of nian and in teaching the
+equality of slaves, it is superior to anything to be found in Plato or
+Aristotle or any philosopher whose thought is inspired by the City
+State. The actual world, in the time of Epictctus, was very inferior
+to the Athens of Pericles; but the evil in what existed liberated his
+aspirations, and his ideal world is as superior to that of Plato as
+his actual world is inferior to the Athens of the fifth century.
+
+The _Meditations_ of Marcus Aurelius begin by acknowledging 
+his indebtedness to his grandfather, father, adopted father, various 
+teachers, and the gods. Some of the obligations he enumerates are 
+curious. He learned (he says) from Diognetus not to listen to 
+miracle-workers; from Rusticus, not to write poetry; from Sextus, 
+to practice gravity without affectation; from Alexander the 
+grammarian, not to correct bad grammar in others, but to use 
+the right expression shortly afterwards; from Alexander the 
+Platonist, not to excuse tardiness in answering a letter by the 
+plea of press of business; from his adopted father, not to fall in 
+love with boys. He owes it to the gods (he continues) that he was 
+not brought up too long with his grandfather's concubine, and 
+did not make proof of his virility too soon; that his children are 
+neither stupid nor deformed in body; that his wife is obedient, 
+affectionate, and simple; and that when he took to philosophy he 
+did not waste time on history, syllogism, or astronomy. 
+
+What is impersonal in the _Meditations_ agrees closely with 
+Epictetus. Marcus Aurelius is doubtful about immortality, but 
+says, as a Christian might: "Since it is possible that thou mayst 
+depart from life this very moment, regulate every act and thought 
+accordingly." Life in harmony with the universe is what is good; 
+and harmony with the universe is the same thing as obedience 
+to the will of God. 
+
+> Everything harmonizes with me which is harmonious to thee, O
+> Universe. Nothing for me is too early or too late, which is in due
+> time for thee. Everything is fruit to me which thy seasons bring, O
+> Nature: from thec are ail things, in thee are all things, to thee
+> all things return. The poet says, Dear city of Cecrops; and wilt not
+> thou say, Dear city of Zeus?"
+
+One sees that Saint Augustine's City of God was in part taken 
+over from the pagan Emperor. 
+
+Marcus Aureiius is persuaded that God gives every man a special daemon
+as his guide a belief which reappears in the Christian guardian angel.
+He finds comfort in the thought of the universe as a closely-knit
+whole; it is, he says, one living being, having one substance and one
+soul. One of his maxims is: "Frequently consider the connection of all
+things in the universe." "Whatever may happen to thee, it was prepared
+for thee from all eternity; and the implication of causes was from
+eternity spinning the thread of thy being." There goes with this, in
+spite of his position in the Roman State, the Stoic belief in the
+human race as one community: "My city and country, so far as I am
+Antoninus, is Rome, but so far as I am a man, it is the world." There
+is the difficulty that one finds in all Stoics, of reconciling
+determinism with the freedom of the will. "Men exist for the sake of
+one another," he says, when he is thinking of his duty as ruler. "The
+wickedness of one man does no harm to another," he says on the same
+page, when he is thinking of the doctrine that the virtuous will alone
+is good. He never inferred that the goodness of one man does no good
+to another, and that he would do no harm to anybody but himself if he
+were as bad an Emperor as Nero; and yet this conclusion seems to
+follow.
+
+"It is peculiar to man," he says, "to love even those who do 
+wrong. And this happens if, when they do wrong, it occurs to 
+thee that they are kinsmen, and that they do wrong through 
+ignorance and unintentionally, and that soon both of you will die; 
+and above all, that the wrong-doer has done thee no harm, for 
+he has not made thy ruling faculty worse than it was before." 
+
+And again: "Love mankind, Follow God.... And it is 
+enough to remember that Law rules all." 
+
+These passages bring out very clearly the inherent contradictions 
+in Stoic ethics and theology. On the one hand, the universe is a 
+rigidly deterministic single whole, in which all that happens is 
+the result of previous causes. On the other hand, the individual 
+will is completely autonomous, and no man can be forced to sin 
+by outside causes. This is one contradiction and there is a second 
+closely connected with it. Since the will is autonomous, and the 
+virtuous will alone is good, one man cannot do either good or 
+harm to another; therefore benevolence is an illusion. Something 
+must be said about each of these contradictions. 
+
+The contradiction between free will and determinism is one of 
+those that run through philosophy from early times to our own 
+day, taking different forms at different times. At present it is the 
+Stoic form that concerns us. 
+
+I think that a Stoic, if we could make him submit to a Socratic 
+interrogation, would defend his view more or less as follows: The 
+universe is a single animate Being, having a soul which may also 
+be called God or Reason. As a whole, this Being is free. God 
+decided, from the first, that He would act according to fixed 
+general laws, but He chose such laws as would have the best 
+results. Sometimes, in particular cases, the results are not wholly 
+desirable, but this inconvenience is worth enduring, as in human 
+codes of law, for the sake of the advantage of legislative fixity. A 
+human being is partly fire, partly of lower clay; in so far as he is 
+fire (at any rate when it is of the best quality), he is part of God. 
+When the divine part of a man exercises will virtuously, this will 
+is part of God's, which is free; therefore in these circumstances 
+the human will also is free. 
+
+This is a good answer up to a point, but it breaks down when we
+consider the causes of our volitions. We all know, as a matter of
+empirical fact, that dyspepsia, for example, has a bad effect on a
+man's virtue, and that, by suitable drugs forcibly administered,
+will-power can be destroyed. Take Epictetus's favorite case, the man
+unjustly imprisoned by a tyrant, of which there have been more
+examples in recent years than at any other period in human history.
+Some of these men have acted with Stoic heroism; some, rather
+mysteriously, have not. It has become clear, not only that sufficient
+torture will break down almost any man's fortitude, but also that
+morphia or cocaine can reduce a man to docility. The will, in fact, is
+only independent of the tyrant so long as the tyrant is unscientific.
+This is an extreme example; but the same arguments that exist in
+favor of determinism in the inanimate world exist also in the sphere
+of human volitions in general. I do not say I do not think that these
+arguments are conclusive; I say only that they are of equal strength
+in both cases, and that there can be no good reason for accepting them
+in one region and rejecting them in another. The Stoic, when he is
+engaged in urging a tolerant attitude to sinners, will himself urge
+that the sinful will is a result of previous causes; it is only the
+virtuous will that seems to him free. This, however, is inconsistent.
+Marcus Aurelius explains his own virtue as due to the good influence
+of parents, grandparents, and teachers; the good will is just as much
+a result of previous causes as the bad will. The Stoic may say truly
+that his philosophy is a cause of virtue in those who adopt it, but it
+seems that it will not have this desirable effect unless there is a
+certain admixture of intellectual error. The realization that virtue
+and sin alike are the inevitable result of previous causes (as the
+Stoics should have held) is likely to have a somewhat paralyzing
+effect on moral effort.
+
+I come now to the second contradiction, that the Stoic, while he
+preached benevolence, held, in theory, that no man can do either good
+or harm to another, since the virtuous will alone is good, and the
+virtuous will is independent of outside causes. This contradiction is
+more patent than the other, and more peculiar to the Stoics (including
+certain Christian moralists). The explanation of their not noticing it
+is that, like many other people, they had two systems of ethics, a
+superfine one for themselves, and an inferior one for "the lesser
+breeds without the law." When the Stoic philosopher is thinking of
+himself, he holds that happiness and all other worldly so-called goods
+are worthless; he even says that to desire happiness is contrary to
+nature, meaning that it involves lack of resignation to the will of
+God. But as a practical man administering the Roman Empire, Marcus
+Aurelius knows perfectly well that this son of thing won't do. It is
+his duty to see that the grain-ships from Africa duly reach Rome, that
+measures are taken to relieve the sufferings caused by pestilence, and
+that barbarian enemies are not allowed to cross the frontier. That is
+to say, in dealing with those of his subjects whom he does not regard
+as Stoic philosophers, actual or potential, he accepts ordinary
+mundane standards of what is good or bad. It is by applying these
+standards that he arrives at his duty as an adminis- trator. What is
+odd is that this duty, itself, is in the higher sphere of what the
+Stoic sage should do, although it is deduced from an ethic which the
+Stoic sage regards as fundamentally mistaken.
+
+The only reply that I can imagine to this difficulty is one which is
+perhaps logically unassailable, but is not very plausible. It would, I
+think, be given by Kant, whose ethical system is very similar to that
+of the Stoics. True, he might say, there is nothing good but the good
+will, but the will is good when it is directed to certain ends, that,
+in themselves, are indifferent. It does not matter whether Mr. A is
+happy or unhappy, but I, if I am virtuous, shall act in a way which I
+believe will make him happy, because that is what the moral law
+enjoins. I cannot make Mr. A virtuous, because his virtue depends only
+upon himself; but I can do something towards making him happy, or
+rich, or learned, or healthy. The Stoic ethic may therefore be stated
+as follows: Certain things are vulgarly considered goods, but this is
+a mistake; what is good is a will directed towards securing these
+false goods for other people. This doctrine involves no logical
+contradiction, but it loses all plausibility if we genuinely believe
+that what are commonly considered goods are worthless, for in that
+case the virtuous will might just as well be directed to quite other
+ends.
+
+There is, in fact, an element of sour grapes in Stoicism. We 
+can't be happy, but we can be good; let us therefore pretend that, 
+so long as we are good, it doesn't matter being unhappy. This 
+doctrine is heroic, and, in a bad world, useful; but it is neither 
+quite true nor, in a fundamental sense, quite sincere. 
+
+Although the main importance of the Stoics was ethical, there 
+were two respects in which their teaching bore fruit in other fields. 
+One of these is theory of knowledge; the other is the doctrine of 
+natural law and natural rights. 
+
+In theory of knowledge, in spite of Plato, they accepted perception;
+the deceptiveness of the senses, they held, was really false judgment,
+and could be avoided by a little care. A Stoic philosopher, Sphaerus,
+an immediate disciple of Zeno, was once invited to dinner by King
+Ptolemy, who, having heard of this doctrine, offered him a pomegranate
+made of wax. The philosopher proceeded to try to eat it, whereupon the
+king laughed at him. He replied that he had felt no certainty of its
+being a real pomegranate, but had thought it unlikely that anything
+inedible would be supplied at the royal table.[^120] In this answer he
+appealed to a Stoic distinction, between those things which can be
+known with certainty on the basis of perception, and those which, on
+this basis, are only probable. On the whole, this doctrine was sane
+and scientific.
+
+[^120]: _Diogenes Laertius_, Vol. VII, 177. 
+
+Another doctrine of theirs in theory of knowledge was more 
+influential, though more questionable. This was their belief in 
+innate ideas and principles. Greek logic was wholly deductive, 
+and this raised the question of first premisses. First premises had 
+to be, at least in part, general, and no method existed of proving 
+them. The Stoics held that there are certain principles which are 
+luminously obvious, and are admitted by all men; these could be 
+made, as in Euclid's _Elements_, the basis of deduction. Innate ideas, 
+similarly, could be used as the starting-point of definitions. This 
+point of view was accepted throughout the Middle Ages, and 
+even by Descartes. 
+
+The doctrine of natural right, as it appears in the sixteenth,
+seventeenth, and eighteenth centuries, is a revival of a Stoic
+doctrine, though with important modifications. It was the Stoics who
+distinguished jus naturale from jut gentium. Natural law was derived
+from first principles of the kind held to underlie all general
+knowledge. By nature, the Stoics held, all human beings are equal.
+Marcus Aurelius, in his Meditations, favors "a polity in which there
+is the same law for all, a polity administered with regard to equal
+rights and equal freedom of speech, and a kingly government which
+respects most of all the freedom of the governed." This was an ideal
+which could not be consistently realized in the Roman Empire, but it
+influenced legislation, particularly in improving the status of women
+and slaves. Christianity took over this part of Stoic teaching along
+with much of the rest. And when at last, in the seventeenth century,
+the opportunity came to combat despotism effectually, the Stoic
+doctrines of natural law and natural equality, in their Christian
+dress, acquired a practical force which, in antiquity, not even an
+emperor could to them.
+
+## Chapter XXIX THE ROMAN EMPIRE IN RELATION TO CULTURE 
+
+The Roman Empire affected the history of culture in various 
+more or less separate ways. 
+
+First: there is the direct effect of Rome on Hellenistic 
+thought. This is not very important or profound. 
+
+Second: the effect of Greece and the East on the western half 
+of the empire. This was profound and lasting, since it included 
+the Christian religion. 
+
+Third: the importance of the long Roman peace in diffusing 
+culture and in accustoming men to the idea of a single civilization 
+associated with a single government. 
+
+Fourth: the transmission of Hellenistic civilization to the 
+Mohammedans, and thence ultimately to western Europe. 
+
+Before considering these influences of Rome, a very brief 
+synopsis of the political history will be useful. 
