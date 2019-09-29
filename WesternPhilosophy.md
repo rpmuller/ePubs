@@ -2,7 +2,8 @@
 % Bertrand Russell
 % 1946
 
-# History of Western Philosophy: and its Connection with Political and Social Circumstances from the Earliest Times to the Present Day 
+# History of Western Philosophy
+and its Connection with Political and Social Circumstances from the Earliest Times to the Present Day  
 Bertrand Russell, 1946
 
 [Page Scans](https://archive.org/details/westernphilosoph035502mbp/page/n1)
@@ -3387,7 +3388,7 @@ Democritus was a thorough-going materialist; for him, as we have seen,
 the soul was composed of atoms, and thought was a physical process.
 There was no purpose in the universe; there were only atoms governed
 by mechanical laws. He disbelieved in popular religion, and he argued
-against the nous of Anaxagoras. In ethics he considered cheerfulness
+against the _nous_ of Anaxagoras. In ethics he considered cheerfulness
 the goal of life, and regarded moderation and culture as the best
 means to it. He disliked everything violent and passionate; he
 disapproved of sex, because, he said, it involved the overwhelming of
@@ -12091,47 +12092,36 @@ is more truth in silence than in any words whatever.
 
 [^130]: _Fifth Ennead_, Fifth Tractate, chap. 12. 
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n315)
+We now come to the Second Person, whom Plotinus calls _nous_. It is
+always difficult to find an English word to represent _nous_. The
+standard dictionary translation is "mind," but this does not have the
+correct connotations, particularly when the word is used in a
+religious philosophy. If we were to say that Plotinus put mind above
+soul, we should give a completely wrong impression. McKenna, the
+translator of Plotinus, uses "Intellectual-Principle," but this is
+awkward, and does not suggest an object suitable for religious
+veneration. Dean Inge uses "Spirit," which is perhaps the best word
+available. But it leaves out the intellectual element which was
+important in all Greek religious philosophy after Pythagoras.
+Mathematics, the world of ideas, and all thought about what is not
+sensible, have, for Pythagoras, Plato, and Plotinus, something divine;
+they constitute the activity of _nous_, or at least the nearest
+approach to its activity that we can conceive. It was this
+intellectual element in Plato's religion that led Christians notably
+the author of Saint John's Gospel to identify Christ with the Logos.
+Logos should be translated "reason" in this connection; this prevents
+us from using "reason" as the translation of _nous_. I shall follow
+Dean Inge in using "Spirit," but with the proviso that _nous_ has an
+intellectual connotation which is absent from "Spirit" as usually
+understood. But often I shall use the word _nous_ untranslated.
 
-We now come to the Second Person, whom Plotinus calls nous. 
-It is always difficult to find an English word to represent nous. 
-The standard dictionary translation is "mind," but this does not 
-have the correct connotations, particularly when the word is used 
-in a religious philosophy. If we were to say that Plotinus put 
-mind above soul, we should give a completely wrong impression. 
-McKenna, the translator of Plotinus, uses "Intellectual-Principle/' 
-but this is awkward, and does not suggest an object suitable for 
-religious veneration. Dean Inge uses "Spirit," which is perhaps 
-
-
-3'* 
-
-
-
-PLOTINUS 
-
-the best word available. But it leaves out the intellectual element 
-which was important in all Greek religious philosophy after 
-Pythagoras. Mathematics, the world of ideas, and all thought 
-about what is not sensible, have, for Pythagoras, Plato, and 
-Plotinus, something divine; they constitute the activity of nous, 
-or at least the nearest approach to its activity that we can conceive. 
-It was this intellectual element in Plato's religion that led Christians 
-notably the author of Saint John's Gospel to identify 
-Christ with the Logos. Logos should be translated "reason" in this 
-connection; this prevents us from using "reason" as the translation 
-of nous. I shall follow Dean Inge in using "Spirit," but with the 
-proviso that nous has an intellectual connotation which is absent 
-from "Spirit" as usually understood. But often I shall use the 
-word nous untranslated. 
-
-Nous, we are told, is the image of the One; it is engendered 
-because the One, in its self-quest, has vision; this seeing is nous. 
+_Nous_, we are told, is the image of the One; it is engendered 
+because the One, in its self-quest, has vision; this seeing is _nous_. 
 This is a difficult conception. A Being without parts, Plotinus says, 
 may know itself; in this case, the seer and the seen are one. In 
 God, who is conceived, as by Plato, on the analogy of the sun, the 
-light-giver and what is lit are the same. Pursuing the analogy, nous 
-may be considered as the lit^ht by which the One sees itself. It is 
+light-giver and what is lit are the same. Pursuing the analogy, _nous_ 
+may be considered as the light by which the One sees itself. It is 
 possible for us to know the Divine Mind, which we forget through 
 self-will. To know the Divine Mind, we must study our own 
 toul when it is most god-like: we must put aside the body, and 
@@ -12139,21 +12129,21 @@ the part of the soul that moulded the body, and "sense with
 desires and impulses and every such futility"; what is then left 
 is an image of the Divine Intellect. 
 
-"Those divinely possessed and inspired have at least the knowledge that they hold some greater thing within them, though they 
-cannot tell what it is; from the movements that stir them and the 
-utterances that come from them they perceive the power, not 
-themselves, that moves them: in the same way, it must be, we 
-stand towards the Supreme when we hold nous pure; we know 
-the Divine Mind within, that which gives Being and all else of 
-that order: but we know, too, that other, know that it is none of 
-these, but a nobler principle than anything we know as Being; 
-fuller and greater; above reason, mind, and feeling; conferring 
-these powers, not to be confounded with them." 1 
+"Those divinely possessed and inspired have at least the knowledge
+that they hold some greater thing within them, though they cannot tell
+what it is; from the movements that stir them and the utterances that
+come from them they perceive the power, not themselves, that moves
+them: in the same way, it must be, we stand towards the Supreme when
+we hold _nous_ pure; we know the Divine Mind within, that which gives
+Being and all else of that order: but we know, too, that other, know
+that it is none of these, but a nobler principle than anything we know
+as Being; fuller and greater; above reason, mind, and feeling;
+conferring these powers, not to be confounded with them."[^131]
 
-1 Eimtad*. V, 3, 14 McKenna's translation. 
+[^131]: enneads. v, 3, 14 mckenna's translation. 
 
 Thus when we are "divinely possessed and inspired" we see not 
-only nous, but also the One. When we are thus in contact with the 
+only _nous_, but also the One. When we are thus in contact with the 
 Divine, we cannot reason or express the vision in words; this comes 
 later. "At the moment of touch there is no power whatever to make 
 any affirmation; there is no leisure; reasoning upon the vision is 
@@ -12169,41 +12159,39 @@ principle to see the Supreme which is also the means to the
 vision; for that which illumines the Soul is that which it is to see 
 just as it is by the sun's own light that we see the sun. 
 
-But how is this to be accomplished? 
-Cut away everything/' 1 
+> But how is this to be accomplished?  
+> Cut away everything.[^132]
+
+[^132]: Enneads, V, 3, 17. 
 
 The experience of "ecstasy" (standing outside one's own body) 
 happened frequently to Plotinus: 
 
-Many times it has happened: Lifted out of the body into myself; 
-becoming external to all other things and self-encentered; beholding a marvellous beauty; then, more than ever, assured of community with the loftiest order; enacting the noblest life, acquiring 
-identity with the divine; stationing within It by having attained 
-that activity; poised above whatsoever in the Intellectual is less 
-than the Supreme: yet, there comes the moment of descent from 
-intellection to reasoning, and after that sojourn in the divine, I ask 
-myself how it happens that I can now be descending, and how did 
-the Soul ever enter into my body, the Soul which even within the 
-body, is the high thing it has shown itself to be. 1 
+> Many times it has happened: Lifted out of the body into myself;
+> becoming external to all other things and self-encentered; beholding
+> a marvellous beauty; then, more than ever, assured of community with
+> the loftiest order; enacting the noblest life, acquiring identity
+> with the divine; stationing within It by having attained that
+> activity; poised above whatsoever in the Intellectual is less than
+> the Supreme: yet, there comes the moment of descent from
+> intellection to reasoning, and after that sojourn in the divine, I
+> ask myself how it happens that I can now be descending, and how did
+> the Soul ever enter into my body, the Soul which even within the
+> body, is the high thing it has shown itself to be.[^133]
+
+[^133]: IV, 8, 1.
+
 
 This brings us to Soul, the third and lowest member of the 
-Trinity. Soul, though inferior to nous, is the author of all living 
+Trinity. Soul, though inferior to _nous_, is the author of all living 
 things; it made the sun and moon and stars, and the whole visible 
 world. It is the offspring of the Divine Intellect. It is double: 
-there is an inner soul, intent on nous, and another, which faces 
+there is an inner soul, intent on _nous_, and another, which faces 
 the external. The latter is associated with a downward movement, 
 in which the Soul generates its image, which is Nature and the 
 world of sense. The Stoics had identified Nature with God, but 
-
-1 Eimtadt, V, 3, 17. 2 IV, 8, i 
-
-3'4 
-
-
-
-PLOTINU8 
-
 Plotinus regards it as the lowest sphere, something emanating 
-from the Soul when it forgets to look upward towards nous. 
+from the Soul when it forgets to look upward towards _nous_. 
 This might suggest the Gnostic view that the visible world is evil, 
 but Plotinus does not take this view. The visible world is beautiful, 
 and is the abode of blessed spirits; it is only less good than the 
@@ -12219,37 +12207,31 @@ memory of the divine, and not because it is fallen; the world of
 sense, he thinks, is as good as a sensible world can be. He feels 
 strongly the beauty of things perceived by the senses: 
 
-Who that truly perceives the harmony of the Intellectual 
-Realm could fail, if he has any bent towards music, to answer to 
-the harmony in sensible sounds? What geometrician or arithmetician could fail to take pleasure in the symmetries, correspondences and principles of order observed in visible things? 
-Consider, even, the case of pictures: those seeing by the bodily 
-sense the productions of the art of painting do not see the one 
-thing in the one only way; they are deeply stirred by recognizing 
-in the objects depicted to the eyes the presentation of what lies 
-in the idea, and so are called to recollection of the truth the 
-very experience out of which Love rises. Now, if the sight of 
-Beauty excellently reproduced upon a face hurries the mind to 
-that other Sphere, surely no one seeing the loveliness lavish in 
-the world of sense this vast orderliness, the form which the stars 
-even in their remoteness display, no one could be so dull-witted, 
-so immoveable, as not to be carried by all this to recollection, 
-and gripped by reverent awe in the thought of all this, so great, 
-sprung from that greatness. Not to answer thus could only be to 
-have neither fathomed this world nor had any vision of that 
-other (II, 9, 16). 
+> Who that truly perceives the harmony of the Intellectual Realm could
+> fail, if he has any bent towards music, to answer to the harmony in
+> sensible sounds? What geometrician or arithmetician could fail to
+> take pleasure in the symmetries, correspondences and principles of
+> order observed in visible things? Consider, even, the case of
+> pictures: those seeing by the bodily sense the productions of the
+> art of painting do not see the one thing in the one only way; they
+> are deeply stirred by recognizing in the objects depicted to the
+> eyes the presentation of what lies in the idea, and so are called to
+> recollection of the truth the very experience out of which Love
+> rises. Now, if the sight of Beauty excellently reproduced upon a
+> face hurries the mind to that other Sphere, surely no one seeing the
+> loveliness lavish in the world of sense this vast orderliness, the
+> form which the stars even in their remoteness display, no one could
+> be so dull-witted, so immoveable, as not to be carried by all this
+> to recollection, and gripped by reverent awe in the thought of all
+> this, so great, sprung from that greatness. Not to answer thus could
+> only be to have neither fathomed this world nor had any vision of
+> that other (II, 9, 16).
 
 There is another reason for rejecting the Gnostic view. The 
 Gnostics think that nothing divine is associated with the sun, 
 moon, and stars; they were created by an evil spirit. Only the soul 
 of man, among things perceived, has any goodness. But Plotinus 
 is firmly persuaded that the heavenly bodies are the bodies of 
-
-315 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 god-like beings, immeasurably superior to man. According to the 
 Gnostics, "their own soul, the soul of the least of mankind, they 
 declare deathless, divine; but the entire heavens and the stars 
@@ -12276,28 +12258,24 @@ more analogous to sexual desire. When the soul leaves the body,
 it must enter another body if it has been sinful, for justice requires 
 that it should be punished. If, in this life, you have murdered 
 your mother, you will, in the next life, be a woman, and be 
-murdered by your son (HI, 2, 13). Sin must be punished; but the 
+murdered by your son (II, 2, 13). Sin must be punished; but the 
 punishment happens naturally, through the restless driving of the 
 sinner's errors. 
 
-Do we remember this life after we are dead? The answer is perfectly logical, but not what most modem theologians would say. 
-Memory is concerned with our life in time, whereas our best and 
-truest life is in eternity. Therefore, as the soul grows towards 
-eternal life, it mil remember less and less; friends, children, wife, 
-will be gradually forgotten; ultimately, we shall know nothing of 
-the things of this world, but only contemplate the intellectual 
-realm. There will be no memory of personality, which, in contemplative vision, is unaware of itself. The soul will become one 
-with nous, but not to its own destruction: nous and the individual 
-soul will be simultaneously two and one (IV, 4, 2). 
+Do we remember this life after we are dead? The answer is perfectly
+logical, but not what most modem theologians would say. Memory is
+concerned with our life in time, whereas our best and truest life is
+in eternity. Therefore, as the soul grows towards eternal life, it mil
+remember less and less; friends, children, wife, will be gradually
+forgotten; ultimately, we shall know nothing of the things of this
+world, but only contemplate the intellectual realm. There will be no
+memory of personality, which, in contemplative vision, is unaware of
+itself. The soul will become one with _nous_, but not to its own
+destruction: _nous_ and the individual soul will be simultaneously two
+and one (IV, 4, 2).
 
-In the Fourth Emend, which is on the Soul, one section, the 
+In the _Fourth Ennead_, which is on the Soul, one section, the 
 Seventh Tractate, is devoted to the discussion of immortality. 
-
-116 
-
-
-
-PLOTINUS 
 
 The body, being compound, is clearly not immortal; if, then, 
 it is part of us, we are not wholly immortal. But what is the relation 
@@ -12314,16 +12292,16 @@ Essence is eternal. This view is implicit in Plato's argument that
 the soul is immortal because ideas arc eternal; but it is only with 
 Plotinus that it becomes explicit. 
 
-How does the soul enter the body from the aloofness of the 
-intellectual world? The answer is, through appetite. But appetite, 
-though sometimes ignoble, may be comparatively noble. At best, 
-the soul "has the desire of elaborating order on the model of 
-what it has seen in the Intellectual-Principle (nous). 99 That is to 
-say, soul contemplates the inward realm of essence, and wishes 
-to produce something, as like it as possible, that can be seen by 
-looking without instead of looking within like (we might say) a 
-composer who first imagines his music, and then wishes to hear it 
-performed by an orchestra. 
+How does the soul enter the body from the aloofness of the
+intellectual world? The answer is, through appetite. But appetite,
+though sometimes ignoble, may be comparatively noble. At best, the
+soul "has the desire of elaborating order on the model of what it has
+seen in the Intellectual-Principle (_nous_)." That is to say, soul
+contemplates the inward realm of essence, and wishes to produce
+something, as like it as possible, that can be seen by looking without
+instead of looking within like (we might say) a composer who first
+imagines his music, and then wishes to hear it performed by an
+orchestra.
 
 But this desire of the soul to create has unfortunate results. So 
 long as the soul lives in the pure world of essence, it is not separated 
@@ -12332,109 +12310,98 @@ joined to a body, it has the task of governing what is lower than
 itself, and by this task it becomes separate from other souls, which 
 have other bodies. Except in a few men at a few moments, the 
 soul becomes chained to the body. "The body obscures the truth, 
-but there 1 all stands out clear and separate 11 (IV, 9, 5). 
+but there[^134] all stands out clear and separate 11 (IV, 9, 5). 
 
+[^134]: Plotinus habitually uses "There" as a Christian might---as it 
+	is used, for instance, in 
+	> The life that knows no ending,  
+	> The tearless life is There.  
 This doctrine, like Plato's, has difficulty in avoiding the view 
 that the creation was a mistake. The soul at its best is content 
-with nous, the world of essence; if it were always at its best, it 
+with _nous_, the world of essence; if it were always at its best, it 
 would not create, but only contemplate. It seems that the act of 
-
-4 Plotinus habitually uses "There" as a Christian might as it is used, 
-for instance, in 
-
-The life that knows no ending, 
-The tearless life is There. 
-
-317 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 creation is to be excused on the ground that the created world, 
 in its main lines, is the best that is logically possible; but this is 
 a copy of the eternal world, and as such has the beauty that is 
 possible to a copy. The most definite statement is in the Tractate 
 on the Gnostics (II, 9, 8): 
 
-To ask why the Soul has created the Kosmos, is to ask why there 
-is a Soul and why a Creator creates. The question, also, implies a 
-beginning in the eternal and, further, represents creation as the act 
-of a changeful Being who turns from this to that. 
+> To ask why the Soul has created the Kosmos, is to ask why there is a
+> Soul and why a Creator creates. The question, also, implies a
+> beginning in the eternal and, further, represents creation as the
+> act of a changeful Being who turns from this to that.
+>
+> Those that think so must be instructed if they would but bear with
+> correction in the nature of the Supernals, and brought to desist
+> from that blasphemy of majestic powers which comes so easily to
+> them, where all should be reverent scruple.
+>
+> Even in the administration of the Universe there is no ground for
+> such attack, for it affords manifest proof of the greatness of the
+> Intellectual Kind.
+> 
+> This All that has emerged into life is no amorphous structure like
+> those lesser forms within it which are born night and day out of the
+> lavishness of its vitality the Universe is a life organised,
+> effective, complex, all-comprehensive, displaying an unfathomable
+> wisdom. How, then, can anyone deny that it is a clear image,
+> beautifully formed, of the Intellectual Divinities? No doubt it is a
+> copy, not original; but that is its very nature; it cannot be at
+> once symbol and reality. But to say that it is an inadequate copy is
+> false; nothing has been left out which a beautiful representation
+> within the physical order could include.
+> 
+> Such a reproduction there must necessarily be though not by
+> deliberation and contrivance for the Intellectual could not be the
+> last of things, but must have a double Act, one within itself, and
+> one outgoing; there must, then, be something later than the Divine;
+> for only the thing with which all power ends fails to pass downwards
+> something of itself.
 
-Those that think so must be instructed if they would but bear 
-with correction in the nature of the Supernals, and brought to 
-desist from that blasphemy of majestic powers which comes so 
-easily to them, where all should be reverent scruple. 
-
-Even in the administration of the Universe there is no ground 
-for such attack, for it affords manifest proof of the greatness of 
-the Intellectual Kind. 
-
-This All that has emerged into life is no amorphous structure 
-like those lesser forms within it which are born night and day out 
-of the lavishness of its vitality the Universe is a life organised, 
-effective, complex, all-comprehensive, displaying an unfathomable 
-wisdom. How, then, can anyone deny that it is a clear image, beautifully formed, of the Intellectual Divinities? No doubt it is a copy, 
-not original; but that is its very nature; it cannot be at once symbol 
-and reality. But to say that it is an inadequate copy is false; nothing 
-has been left out which a beautiful representation within the physical order could include. 
-
-Such a reproduction there must necessarily be though not by 
-deliberation and contrivance for the Intellectual could not be the 
-last of things, but must have a double Act, one within itself, and 
-one outgoing; there must, then, be something later than the 
-Divine; for only the thing with which all power ends fails to pass 
-downwards something of itself. 
-
-This is perhaps the best answer to the Gnostics that the principles of Plotinus make possible. The problem, in slightly different 
-language, was inherited by Christian theologians; they, also, have 
-found it difficult to account for the creation without allowing the 
-blasphemous conclusion that, before it, something was lacking 
-to the Creator. Indeed, their difficulty is greater than that of 
-Plotinus, for he may say that the nature of Mind made creation 
-inevitable, whereas, for the Christian, the world resulted from the 
-untrammelled exercise of God's free will 
-
-
-
-PLCtlNUS 
+This is perhaps the best answer to the Gnostics that the principles of
+Plotinus make possible. The problem, in slightly different language,
+was inherited by Christian theologians; they, also, have found it
+difficult to account for the creation without allowing the blasphemous
+conclusion that, before it, something was lacking to the Creator.
+Indeed, their difficulty is greater than that of Plotinus, for he may
+say that the nature of Mind made creation inevitable, whereas, for the
+Christian, the world resulted from the untrammelled exercise of God's
+free will.
 
 Plotinus has a very vivid sense of a certain kind of abstract 
 beauty. In describing the position of Intellect as intermediate 
 between the One and Soul, he suddenly bursts out into a passage 
 of rare eloquence: 
 
-The Supreme in its progress could never be borne forward upon 
-some soulless vehicle nor even directly upon the Soul: it will be 
-heralded by some ineffable beauty: before the Great King in his 
-progress there comes first the minor train, thn rank by rank the 
-greater and more exalted, closer to the King the kinglier; next his 
-own honored company until, last among all these grandeurs, 
-suddenly appears the Supreme Monarch himself, and all unless 
-indeed for those who have contented themselves with the spectacle 
-before his coming and gone away prostrate themselves and hail 
-him (V, 5, 3). 
+> The Supreme in its progress could never be borne forward upon some
+> soulless vehicle nor even directly upon the Soul: it will be
+> heralded by some ineffable beauty: before the Great King in his
+> progress there comes first the minor train, thn rank by rank the
+> greater and more exalted, closer to the King the kinglier; next his
+> own honored company until, last among all these grandeurs, suddenly
+> appears the Supreme Monarch himself, and all unless indeed for those
+> who have contented themselves with the spectacle before his coming
+> and gone away prostrate themselves and hail him (V, 5, 3).
 
 There is a Tractate on Intellectual Beauty, which shows the 
 same kind of feeling (V, 8): 
 
-Assuredly all the gods are august and beautiful in a beauty 
-beyond our speech. And what makes them so? Intellect; and 
-especially Intellect operating within them (the divine sun and 
-stars) to visibility. . . . 
-
-To "live at ease" is There; and to these divine beings verity is 
-mother and nurse, existence and sustenance; all that is not of 
-process but of authentic being they see, and themselves in all; for 
-all is transparent, nothing dark, nothing resistant; every being is 
-lucid to every other, in breadth and depth; light runs through 
-light. And each of them contains all within itself, and at the same 
-time sees all in every other, so that everywhere there is all, and all 
-is all and each all, and infinite the glory. Each of them is great; 
-the small is great; the sun, There, is all the stars; and every star, 
-again, is all the stars and sun. While some manner of being is 
-dominant in each, all are mirrored in every other. 
+> Assuredly all the gods are august and beautiful in a beauty beyond
+> our speech. And what makes them so? Intellect; and especially
+> Intellect operating within them (the divine sun and stars) to
+> visibility....
+>
+> To "live at ease" is There; and to these divine beings verity is
+> mother and nurse, existence and sustenance; all that is not of
+> process but of authentic being they see, and themselves in all; for
+> all is transparent, nothing dark, nothing resistant; every being is
+> lucid to every other, in breadth and depth; light runs through
+> light. And each of them contains all within itself, and at the same
+> time sees all in every other, so that everywhere there is all, and
+> all is all and each all, and infinite the glory. Each of them is
+> great; the small is great; the sun, There, is all the stars; and
+> every star, again, is all the stars and sun. While some manner of
+> being is dominant in each, all are mirrored in every other.
 
 In addition to the imperfection which the world inevitably 
 possesses because it is a copy, there is, for Plotinus as for the 
@@ -12442,17 +12409,10 @@ Christians, the more positive evil that results from sin. Sin is a
 consequence of free will, which Plotinus upholds as against the 
 determinists, and, more particularly, the astrologers. He does not 
 venture to deny the validity of astrology altogether, but he attempts 
-to set bounds to it, BO as to make what remains compatible with 
+to set bounds to it, so as to make what remains compatible with 
 free will. He does the same as regards magic; the sage, he says, is 
 exempt from the power of the magician. Porphyry relates that a 
-
-3*9 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-rival philosopher tried to put evil spells on Plotinus, but that' 
+rival philosopher tried to put evil spells on Plotinus, but that 
 because of his holiness and wisdom, the spells recoiled on the 
 rival. Porphyry, and all the followers of Plotinus, are much more 
 superstitious than he is. Superstition, in him, is as slight as was 
@@ -12462,47 +12422,40 @@ Let us now endeavor to sum up the merits and defects of the
 doctrine taught by Plotinus, and in the main accepted by Christian 
 theology so long as, it remained systematic and intellectual. 
 
-There is, first and foremost, the construction of what Plotinus 
-believed to be a secure refuge for ideals and hopes, and one, moreover, which involved both moral and intellectual effort. In the 
-third century, and in the centuries after the barbarian invasion, 
-western civilization came near to total destruction. It was fortunate 
-that, while theology was almost the sole surviving mental activity, 
-the system that was accepted was not purely superstitious, but 
-preserved, though sometimes deeply buried, doctrines which 
-embodied much of the work of Greek intellect and much of the 
-moral devotion that is common to the Stoics and the Neoplatonists. 
-This made possible the rise of the scholastic philosophy, and later, 
-with the Renaissance, the stimulus derived from the renewed 
-study of Plato, and thence of the other ancients. 
+There is, first and foremost, the construction of what Plotinus
+believed to be a secure refuge for ideals and hopes, and one,
+moreover, which involved both moral and intellectual effort. In the
+third century, and in the centuries after the barbarian invasion,
+western civilization came near to total destruction. It was fortunate
+that, while theology was almost the sole surviving mental activity,
+the system that was accepted was not purely superstitious, but
+preserved, though sometimes deeply buried, doctrines which embodied
+much of the work of Greek intellect and much of the moral devotion
+that is common to the Stoics and the Neoplatonists. This made possible
+the rise of the scholastic philosophy, and later, with the
+Renaissance, the stimulus derived from the renewed study of Plato, and
+thence of the other ancients.
 
-On the other hand, the philosophy of Plotinus has the defect 
-of encouraging men to look within rather than to look without: 
-when we look within we see nous, which is divine, while when we 
-look without we see the imperfections of the sensible world. This 
-kind of subjectivity was a gradual growth; it is to be found in the 
-doctrines of Protagoras, Socrates, and Plato, as well as in the 
-Stoics and Epicureans. But at first it was only doctrinal, not 
-temperamental; for a long time it failed to kill scientific curiosity. 
-We saw how Posidonius, about 100 BC, travelled to Spain and 
-the Atlantic coast of Africa to study the tides. Gradually, however, 
-subjectivism invaded men's feelings as well as their doctrines. 
-Science was no longer cultivated, and only virtue was thought 
-important. Virtue, as conceived by Plato, involved all that was 
-then possible in the way of mental achievement; but in later 
-centuries it came to be thought of, increasingly, as involving only 
-the virtuous wiU, and not a desire to understand the physical 
-world or improve the world of human institutions. Christianity, 
-in its ethical doctrines, was not free from this defect, although in 
-practice belief in the importance of spreading the Christian faith 
-
-.120 * 
-
-
-
-PLOTINUS 
-
-gave a practicable object for moral activity, which was no longer 
-confined to the perfecting of self. 
+On the other hand, the philosophy of Plotinus has the defect of
+encouraging men to look within rather than to look without: when we
+look within we see _nous_, which is divine, while when we look without
+we see the imperfections of the sensible world. This kind of
+subjectivity was a gradual growth; it is to be found in the doctrines
+of Protagoras, Socrates, and Plato, as well as in the Stoics and
+Epicureans. But at first it was only doctrinal, not temperamental; for
+a long time it failed to kill scientific curiosity. We saw how
+Posidonius, about 100 BC, travelled to Spain and the Atlantic coast of
+Africa to study the tides. Gradually, however, subjectivism invaded
+men's feelings as well as their doctrines. Science was no longer
+cultivated, and only virtue was thought important. Virtue, as
+conceived by Plato, involved all that was then possible in the way of
+mental achievement; but in later centuries it came to be thought of,
+increasingly, as involving only the virtuous wiU, and not a desire to
+understand the physical world or improve the world of human
+institutions. Christianity, in its ethical doctrines, was not free
+from this defect, although in practice belief in the importance of
+spreading the Christian faith gave a practicable object for moral
+activity, which was no longer confined to the perfecting of self.
 
 Plotinus is both an end and a beginning an end as regards the 
 Greeks, a beginning as regards Christendom. To the ancient world, 
@@ -12515,211 +12468,240 @@ evil to be combated was not languor but brutality. The work of
 transmitting what could survive of his philosophy was performed 
 by the Christian philosophers of the last age of Rome. 
 
-
-
-// u/or > o/ W nt cr n l>k tttuoff h > J 2 1 
-
-
-
 # Book Two CATHOLIC PHILOSOPHY 
-
 # INTRODUCTION
 
-CATHOLIC philosophy, in the sense in which 1 shall use the 
-term, is that which dominated European thought from 
-Augustine to the Renaissance. There have been philosophers, before and after this period often centuries, who belonged 
-to the same general school. Before Augustine there were the early 
-Fathers, especially Origen; after the Renaissance there are many, 
-'ncluding, at the present day, all orthodox Catholic teachers of 
-philosophy, who adhere to some medieval system, especially that 
-of Thomas Aquinas. But it is only from Augustine to the Renaissance that the greatest philosophers of the age are concerned 
-in building up or perfecting the Catholic synthesis. In the Christian 
-centuries before Augustine, Stoics and Neoplatonists outshine the 
-Fathers in philosophic ability; after the Renaissance, none of the 
-outstanding philosophers, even among those who were orthodox 
-Catholics, were concerned to carry on the Scholastic or the 
-Augustinian tradition. 
+Catholic philosophy, in the sense in which I shall use the term, is
+that which dominated European thought from Augustine to the
+Renaissance. There have been philosophers, before and after this
+period often centuries, who belonged to the same general school.
+Before Augustine there were the early Fathers, especially Origen;
+after the Renaissance there are many, including, at the present day,
+all orthodox Catholic teachers of philosophy, who adhere to some
+medieval system, especially that of Thomas Aquinas. But it is only
+from Augustine to the Renaissance that the greatest philosophers of
+the age are concerned in building up or perfecting the Catholic
+synthesis. In the Christian centuries before Augustine, Stoics and
+Neoplatonists outshine the Fathers in philosophic ability; after the
+Renaissance, none of the outstanding philosophers, even among those
+who were orthodox Catholics, were concerned to carry on the Scholastic
+or the Augustinian tradition.
 
-The period with which we shall be concerned in this book differs 
-from earlier and later times not only in philosophy, but in many 
-other ways. The most notable of these is the power of the Church. 
-The Church brought philosophic beliefs into a closer relation to 
-social and political circumstances than they have ever had before 
-or since the medieval period, which we may reckon from about 
-A.I). 400 to about AD 1400. The Church is a social institution 
-built upon a creed, partly philosophic, partly concerned with 
-sacred history. It achieved power and wealth by means of its creed. 
-The lay rulers, who were in frequent conflict with it, were defeated 
-because the great majority' of the population, including most of 
-the lay rulers themselves, were profoundly convinced of the truth 
-of the Catholic faith. There were traditions, Roman and Germanic, 
-against which the Church had to fight. The Roman tradition was 
-strongest in Italy, especially among lawyers; the German tradition 
-was strongest in the feudal aristocracy that arose out of the barbarian conquest. But for many centuries neither of these traditions 
+The period with which we shall be concerned in this book differs from
+earlier and later times not only in philosophy, but in many other
+ways. The most notable of these is the power of the Church. The Church
+brought philosophic beliefs into a closer relation to social and
+political circumstances than they have ever had before or since the
+medieval period, which we may reckon from about AD 400 to about
+AD 1400. The Church is a social institution built upon a creed, partly
+philosophic, partly concerned with sacred history. It achieved power
+and wealth by means of its creed. The lay rulers, who were in frequent
+conflict with it, were defeated because the great majority' of the
+population, including most of the lay rulers themselves, were
+profoundly convinced of the truth of the Catholic faith. There were
+traditions, Roman and Germanic, against which the Church had to fight.
+The Roman tradition was strongest in Italy, especially among lawyers;
+the German tradition was strongest in the feudal aristocracy that
+arose out of the barbarian conquest. But for many centuries neither of
+these traditions proved strong enough to generate a successful
+opposition to the Church; and this was largely due to the fact that
+they were not embodied in any adequate philosophy.
 
-122 
-
-
-
-INTRODUCTION 
-
-proved strong enough to generate a successful opposition to the 
-Church; and this was largely due to the fact that they were not 
-embodied in any adequate philosophy. 
-
-A history of thought, such as that upon which we are engaged, 
-is unavoidably one-sided in dealing with the Middle Ages. With 
-very few exceptions, all the men of this period who contributed 
-to the intellectual life of their time were churchmen. The laity 
-in the Middle Ages slowly built up a vigorous political and 
-economic system, but their activities were in a sense blind. There 
-was in the later Middle Ages an important lay literature, very 
-different from that of the Church; in a general history, this literature would demand more consideration than is called for in a 
-history of philosophic thought. It is not until we come to Dante 
-that we find a layman writing with full knowledge of the ecclesiastical philosophy of his time. Until the fourteenth century, 
-ecclesiastics have a virtual monopoly of philosophy, and philosophy, accordingly, is written from the standpoint of the Church. 
-For this reason, medieval thought cannot be made intelligible 
-without a fairly extensive account of the growth of ecclesiastical 
-institutions, and especially of the papacy. 
+A history of thought, such as that upon which we are engaged, is
+unavoidably one-sided in dealing with the Middle Ages. With very few
+exceptions, all the men of this period who contributed to the
+intellectual life of their time were churchmen. The laity in the
+Middle Ages slowly built up a vigorous political and economic system,
+but their activities were in a sense blind. There was in the later
+Middle Ages an important lay literature, very different from that of
+the Church; in a general history, this literature would demand more
+consideration than is called for in a history of philosophic thought.
+It is not until we come to Dante that we find a layman writing with
+full knowledge of the ecclesiastical philosophy of his time. Until the
+fourteenth century, ecclesiastics have a virtual monopoly of
+philosophy, and philosophy, accordingly, is written from the
+standpoint of the Church. For this reason, medieval thought cannot be
+made intelligible without a fairly extensive account of the growth of
+ecclesiastical institutions, and especially of the papacy.
 
 The medieval world, as contrasted with the world of antiquity, 
-is characterized by various forms of dualism. There is the dualisr 
-of clergy and laity, the dualism of Latin and Teuton, the duali' 
-of the kingdom of God and the kingdoms of this world, the c* 
-ism of the spirit and the flesh. All these are exemplified ' 
-dualism of Pope and Emperor. The dualism of Latin and 
-an outcome of the barbarian invasion, but the others 
-sources. The relations of clergy and laity, for the 
-were to be modelled on the relations of Samuel and 
-demand for the supremacy of the clergy arose out 
-of Arian or semi-Arian emperors and kings. The d 
-kingdom of God and the kingdoms of this world i* 
-New Testament, but was systematized in Saint t ^ c dark 
-of God. The dualism of the spirit and the flesh ' ct i v ity was 
-Plato, and was emphasized by the Neoplatoni?* me to the 
-in the teaching of St. Paul; and it domir^ nstan 
+is characterized by various forms of dualism. There is the dualism 
+of clergy and laity, the dualism of Latin and Teuton, the dualism 
+of the kingdom of God and the kingdoms of this world, the dualism
+of the spirit and the flesh. All these are exemplified in the 
+dualism of Pope and Emperor. The dualism of Latin and Teuton is
+an outcome of the barbarian invasion, but the others have older
+sources. The relations of clergy and laity, for the Middle Ages,
+were to be modelled on the relations of Samuel and Saul; the
+demand for the supremacy of the clergy arose out of the period
+of Arian or semi-Arian emperors and kings. The dualism of the 
+kingdom of God and the kingdoms of this world is found in the
+New Testament, but was systematized in Saint Augustine's _City of
+of God_. The dualism of the spirit and the flesh is to be found in
+Plato, and was emphasized by the Neoplatonists; it is important
+in the teaching of St. Paul; and it domiated the Christian
 asceticism of the fourth and fifth centuries. 
 
-Catholic philosophy is divided into 
-ages, during which, in Western Europe, 
-almost non-existent. From the 
+Catholic philosophy is divided into two periods by the dark ages,
+during which, in Western Europe, intellectual activity was almost
+non-existent. From the conversion of Constantine to the deal of
+Boethius, the thoughts of Christian philosophers are still dominated
+by the Roman Empire, either as an actuality or as a recent memory. The
+barbarians, in this period, are regarded merely as a nuisance, not as
+an independent part of Christendom. There is still a civilized
+community, in which all well-to-do people can read and write, and a
+philosopher has to appeal to the laity as well as to the clergy.
+Between this period and the dark ages, at the end of the sixth
+century, stands Gregory the Great, who regards himself as a subject of
+the Byzantine emperor, but is lordly in his attitude to barbarian
+kings. After his time, throughout Western Christendom, the separation
+of clergy and laity becomes more and more marked. The lay aristicracy
+creates the fuedal system, which slighty temperst he prevailing
+turbulent anarchy; Christian humility is preached by the clergy, but
+practiced only by the lower classes; pagan pride is embodied in the
+duel, trial by battle, tournaments, and private revenge, all of which
+the Church dislikes but cannot prevent. With great deifficulty,
+beginning the the eleventh centeury, the Church succeeds in
+emancipating itself from the fuedal aristocracy, and this emancipation
+is one of the causes of the emergence of Europe from the dark ages.
 
+The first great period of Catholic philosophy was dominated by St
+Augustine, and by Plato among the pagans. The second period culminates
+in St Thomas Aquinas, for whom, and for his successors, Aristotle far
+outweighs Plato. The dualism of _The City of God_, however, survives
+in full force. The Church represents the City of God, and politically
+philosophers stand for the interests of the Church. Philosophy was
+concerned to defend the faith, and invoked reason to enable it to
+argue with those who, like the Mohammedans, did not accept the
+validity of the Christian revelation. By this invocation of reason the
+philosophers challenged criticism, not merely as theologians, but as
+inventors of systems designed to appeal to men of no matter what
+creed. In the long run, the appeal to reason was perhaps a mistake,
+but in the thirteenth century it seemed highly successful.
 
+The thirteenth-century synthesis, which has an air of completeness and
+finality, was destroyed by a variety of causes. Perhaps the most
+important of these was the growth of a rich commercial class, first in
+Italy, and then elsewhere. The fuedal aristocracy, in the main, had
+been ignorant, stupid, and barbaric; the common people had sided with
+the Church as superior to the nobles in intelligence, in morality, and
+in capacity to combat anarchy. But the new commercial class were as
+intelligent as the clergy, as well-informed in mundane matters, more
+capable of coping with the nobles, and more acceptable to the urban
+lower classes as champions of civic liberty. Democratic tendencies
+came to the fore, and after helping the Pope to defeat the Emperor,
+set to work to emancipate economic life from ecclesiastical control.
 
-WESTERN PHILOSOPHICAL THOUGHT 
+Another cause of the end of the Middle Ages was the rise of strong
+national monarchies in France, England, and Spain. Having suppressed
+intenal anarchy, and allied themselves with the rich merchants against
+the aristocracy, the kings, after the middle of the fifteenth century,
+were strong enough to fight the Pope in the national interest.
 
-wars of Byzantines and Lombards destroyed most of what remained of the civilization of Italy. The Arabs conquered most of 
-the territory of the Eastern Empire, established themselves in 
-Africa and Spain, threatened France, and even, on one occasion, 
-sacked Rome. The Danes and Normans caused havoc in France 
-and England, in Sicily and Southern Italy. Life, throughout these 
-centuries, was precarious and full of hardship. Bad as it was in 
-reality, gloomy superstitions made it even worse. It was thought 
-that the great majority even of Christians would go to hell. At 
-every moment, men felt themselves encompassed by evil spirits, 
-and exposed to the machinations of sorcerers and witches. No joy 
-of life was possible, except, in fortunate moments, to those who 
-retained the thoughtlessness of children. The general misery 
-heightened the intensity of religious feeling. The life of the good 
-here below was a pilgrimage to the heavenly city; nothing of value 
-was possible in the sublunary world except the steadfast virtue 
-that would lead, in the end, to eternal bliss. The Greeks, in their 
-great days, had found joy and beauty in the everyday world. 
-Empedocles, apostrophizing his fellow-citizens, says: " Friends, 
-that inhabit the great city looking down on the yellow rock of 
-Acragas, up by the citadel, busy in goodly works, harbor of 
-honor for the stranger, men unskilled in meanness, all hail." In 
-later times, until the Renaissance, men had no such simple happiness in the visible world, but turned their hopes to the ur-*>' J 
-Acragas is replaced in their love by Jerusalem the Golden. lts t " e 
-earthly happiness at last returned, the intensity of longing nten; sts 
-other world grew gradually less. Men used the same \ f *" e 
-with a less profound sincerity. *; 
+The papacy, meanwhile, had lost the moral prestige which it had
+enjoyed, and on the whole deserved, in the eleventh, twelfth, and
+thirteenth centuries. First by subservience to France during the
+period when the popes lived at Avignon, then by the Great Schism, they
+had unintentionally persuaded the Western world that an unchecked
+paper autocracy was neither possible nor desirable. In the fifteenth
+century, their position as rulers of Christendom become subordinate,
+in practice, to their position as Italian princes, involved in the
+complex and unscrupulous game of Italian power politics.
 
-In the attempt to make the genesis and significance stian reve ' 
-philosophy intelligible, I have found it necessary to challenged 
-space to general history than is demanded in connects * systems 
-ancient or modern philosophy. Catholic philoy^^' * n the * on 8 
-the philosophy of an institution, namel ""stake, but in the 
-modern philosophy, even when it r -** v;Cess * u *' 
-concerned with problems, espec* 8 ' which had an air of complete 
-which are derived from Christ:J b X a vanet y of cause8 Perhaps 
-Catholic doctrines as to thtV 2 * thc 8 rowth of a rich commercial 
-Graeco-Ror/*n paganism tl Hewhene. The feudal aristocracy, in 
-Christian, from the very begi' * tu P ld and barbaric; the common 
-or, in political terms, to Chur^ rch M superior to the nobles in 
+And so the Renaissance and the Reformation disrupted the medieval
+synthesis, which has not yet been succeeded by anything so tidy and so
+apparently complete. The growth and decay of this synthesis is the
+subject of Book II.
 
-3*4 
+The mood of thoughtful men, throughout the whole period, was one of
+deep unhappiness in regard to the affairs of this world, only rendered
+enurable by the hope of a better world hereafter. This unhappiness was
+a reflection of what was happening throughout Western Europe. The
+third century was a period of disaster, when the general level of
+well-being was sharply lowered. After a lull during the fourth
+century, the fifth brought the extinction of the Western Empire and
+the establishment of barbarians throughout its former territory. The
+cultivated urban rich, upon whom the late Roman civilization depended,
+were largely reduced to the condition of destitute refugees; the
+remainder took to living on their rural estates. Fresh shocks
+continued until about AD 1000, without any sufficient breathing space
+to allow of recovery. The wars of Byzantines and Lombards destroyed
+most of what remained of the civilization of Italy. The Arabs
+conquered most of the territory of the Eastern Empire, established
+themselves in Africa and Spain, threatened France, and even, on one
+occasion, sacked Rome. The Danes and Normans caused havoc in France
+and England, in Sicily and Southern Italy. Life, throughout these
+centuries, was precarious and full of hardship. Bad as it was in
+reality, gloomy superstitions made it even worse. It was thought that
+the great majority even of Christians would go to hell. At every
+moment, men felt themselves encompassed by evil spirits, and exposed
+to the machinations of sorcerers and witches. No joy of life was
+possible, except, in fortunate moments, to those who retained the
+thoughtlessness of children. The general misery heightened the
+intensity of religious feeling. The life of the good here below was a
+pilgrimage to the heavenly city; nothing of value was possible in the
+sublunary world except the steadfast virtue that would lead, in the
+end, to eternal bliss. The Greeks, in their great days, had found joy
+and beauty in the everyday world. Empedocles, apostrophizing his
+fellow-citizens, says: "Friends, that inhabit the great city looking
+down on the yellow rock of Acragas, up by the citadel, busy in goodly
+works, harbor of honor for the stranger, men unskilled in meanness,
+all hail." In later times, until the Renaissance, men had no such
+simple happiness in the visible world, but turned their hopes to the
+unseen. Acragas is replaced in their love by Jerusalem the Golden.
+When earthly happiness at last returned, the intensity of longing
+for the other world grew gradually less. Men used the same words, but 
+with a less profound sincerity.
 
+In the attempt to make the genesis and significance of Catholic 
+philosophy intelligible, I have found it necessary to devote more
+space to general history than is demanded in connection with either
+ancient or modern philosophy. Catholic philosophy is essentially
+the philosophy of an institution, namely the Catholic Church;
+modern philosophy, even when when it is far from orthodox, is largely
+concerned with problems, especially in ethics and political theory,
+which are derived from Christian views of the moral law and from the
+Catholic doctrines as to the relations of Church and State. In
+Graeco-Roma paganism there is no such dual loyalty as the
+Christian, from the very beginning, has owed to God and Caesar,
+or, in political terms, to Church and State.
 
+The problems raised by this dual loyalty were, for the most part,
+worked out in practice before the philosophers supplied the necessary
+theory. In this process there were two very distinct stages: one
+before the fall of the Western Empire, and one after it. The practice
+of a long line of bishops, culminating in St. Ambrose, supplied the
+basis for St. Augustine's political philosophy. Then came the
+barbarian invasion, followed by a long time of confusion and
+increasing ignorance. Between Boethius and St. Anselm, a period of
+over five centuries, there is only one eminent philosopher, John the
+Scot, and he, as an Irishman, had largely escaped the various
+processes that were moulding the rest of the Western world. But this
+period, in spite of the absence of philosophers, was not one during
+which there was no intellectual development. Chaos raised urgent
+practical problems, which were dealt with by means of institutions and
+modes of thought that dominated scholastic philosophy, and are, to a
+great extent, still important at the present day. These institutions
+and modes of thought were not introduced to the world by theorists,
+but by practical men in the stress of conflict. The moral reform of
+the Church in the eleventh century, which was the immediate prelude to
+the scholastic philosophy, was a reaction against the increasing
+absorption of the Church into the feudal system. To understand the
+scholastics we must understand Hildebrand, and to understand
+Hildebrand we must know something of the evils against which he
+contended. Nor can we ignore the foundations of the Holy Roman Empire
+and its effect upon European thought.
 
-INTRODUCTION 
-
-The problems raised by this dual loyalty were, for the most 
-part, worked out in practice before the philosophers supplied the 
-necessary theory. In this process there were two very distinct 
-stages: one before the fall of the Western Empire, and one after 
-it. The practice of a long line of bishops, culminating in St. 
-Ambrose, supplied the basis for St. Augustine's political philosophy. Then came the barbarian invasion, followed by a long time 
-of confusion and increasing ignorance. Between Boethius and 
-St. Anselm, a period of over five centuries, there is only one 
-eminent philosopher, John the Scot, and he, as an Irishman, had 
-largely escaped the various processes that were moulding the rest 
-of the Western world. But this period, in spite of the absence of 
-philosophers, was not one during which there was no intellectual 
-development. Chaos raised urgent practical problems, which were 
-dealt with by means of institutions and modes of thought that 
-dominated scholastic philosophy, and are, to a great extent, still 
-important at the present day. These institutions and modes of 
-thought were not introduced to the world by theorists, but by 
-practical men in the stress of conflict. The moral reform of the 
-Church in the eleventh century, which was the immediate prelude 
-to the scholastic philosophy, was a reaction against the increasing 
-absorption of the Church into the feudal system. To understand 
-the scholastics we must understand Hil deb rand, and to understand 
-1 ^Mebrand we must know something of the evils against which 
-
-.. Attended. Nor can we ignore the foundation of the Holy 
-mediex .**,. & T ^ i_ 
-
-. , Empire and its effect upon European thought. 
-
-S u ! * i^Js* 5 reasons, the reader will find in the following pages 
-this svntfiC . , ,  t f i  . i 
-
-rf * |piastical and political history of which the relevance to 
-1 he moi f . ., , . , i , . ,. , 
-
-,|ment of philosophic thought may not be immediately 
-
-I . I is the more necessary to relate something of this 
-only rendcf . . . . . J . , . f & ... 
-
-Tl h period concerned is obscure, and is unfamiliar to 
-
-\ . . *^* nt home with both ancient and modern history, 
-out western huru> . . , , , . ~ , 
-
-, . .:  ^phers have had as much influence on philo
-
-when the general level c. , ~ , , . T<1 , ' r , 
-
-i 11 j ^t. r L %h rose, Charlemagne, and Hiidebrand. 
-lull during the fourth century, . ' . / , 6 ' , , . . 
-u \\r * r i *u * u nin fe these men and their times 
-the Western Empire and the estab T r 
-
-. . f * . rr, ,;v adequate treatment of our 
-
-out its former territory. The culm. ^ 
-
-late Roman civilization depended, 
-condition of destitute refugees; the 
-their rural estates. Fresh shocks cor 
-without any sufficient breathing $rt 
-
-125 ] 
-
-
+For these reasons, the reader will find in the following pages much
+ecclesiastical and political history of which the relevance to the
+development of philoosphic thought may not be immediately evident. It
+is the more necessary to relate something of this history as the
+period concerned is obscure, and is unfamiliar to many who are at home
+with both ancient and modern history. Few technical philosophers have
+had as much influence on philosphic thought as St. Ambrose,
+Charlemagne, and Hildebrand. To relate what is essential concerning
+these men and their times is therefore indispenable in any adequate
+treatment of the subject.
 
 # Part 1. The Fathers 
 
@@ -12736,31 +12718,26 @@ cults of the Near East. The most important Jewish elements in
 Christianity appear to me to be the following:
 
 1. A sacred history, beginning with the Creation, leading to a 
-consummation in the future, and justifying the ways of Q . 
-man ' i . f f , *** the unseen. 
+consummation in the future, and justifying the ways of God to man.
 
-2. The existence of a small section of man* e Q^J^ When 
-specially loves. For Jews, this section was the. of , . for thc 
-Christians, the elect. uged tf Mme * V0rd8> but 
+2. The existence of a small section of mankind whom God
+specially loves. For Jews, this section was the Chosen people; for
+Christians, the elect.
 
-3. A new conception of nghteoi 
-giving, for example, was taken o^ and significance O f Catholic 
-Judaism. The importance attache^ h nec lo ^. otc more 
-from Orphism or from onent emanded in ^^n ^ th cithcr 
-practical philanthropy, as a /h Catholjc hilocj phy is essentially 
-of virtue, seems to have cof tution> MIW>V thc Catholic Church; 
+3. A new conception of "righteousness." THe virtue of almsgiving, for
+example, was taken over by Christianity from later Judaism. The
+importance attached to baptism might be derived
+from Orphism or from oriental paan mystery religions, but 
+practical philanthropy, as an element in the Christian conception
+of virtue, seems to have come from the Jews.
 
-4. The Law. Chnstiami^jj; , IS t ar f rom orthodox, is largely 
-instance the Decalogue, wL^feUy in ethics and political theory 
-ritual parts. But in practice ^, an views of the moral law and froin 
-same feelings that the Jew* relations of Church and State. In 
-the doctrine that correct beliere is no such dual loyalty as the 
-action, a doctrine which is esnning, has owed to God and Caesar, 
-origin is the exclusiveness of -h and State. 
-
-
-
-THE RELIGIOUS DEVELOPMENT OP THE JEWS 
+4. The Law. Christians kept part of the Hebrew Law, for
+instance the Decalogue, while they rejected its ceremonial and
+ritual parts. But in practice they attached to the Creed much the
+same feelings that the Jews attached to the Law. This involved 
+the doctrine that correct belief is at least as important as virtuous
+action, a doctrine which is essentially Hellenic. What is Jewish in 
+origin is the exclusiveness of the elect.
 
 5. The Messiah. The Jews believed that the Messiah would 
 bring them temporal prosperity, and victory over their enemies 
@@ -12770,55 +12747,46 @@ the Logos of Greek philosophy; and it was not on earth, but in
 heaven, that the Messiah was to enable his followers to triumph 
 over their enemies. 
 
-6. The Kingdom of Heaven. Other-worldliness is a conception 
-which Jews and Christians, in a sense, share with later Platonism, 
-but it takes, with them, a much more concrete form than with 
-(I reek philosophers. The Greek doctrine which is to be found 
-in much Christian philosophy, but not in popular Christianity 
-was that the sensible world, in space and time, is an illusion, and 
-that, by intellectual and moral discipline, a man can learn to live 
-in the eternal world, which alone is real. The Jewish and Christian 
-doctrine, on the other hand, conceived the Other World as not 
-metaphysically different from this world, but as in the future, when 
-the virtuous would enjoy everlasting bliss and the wicked would 
-suffer everlasting torment. This belief embodied revenge psychology, and was intelligible to all and sundry, as the doctrines 
-of Greek philosophers were not. 
+6. The Kingdom of Heaven. Other-worldliness is a conception which Jews
+and Christians, in a sense, share with later Platonism, but it takes,
+with them, a much more concrete form than with Greek philosophers. The
+Greek doctrine which is to be found in much Christian philosophy, but
+not in popular Christianity was that the sensible world, in space and
+time, is an illusion, and that, by intellectual and moral discipline,
+a man can learn to live in the eternal world, which alone is real. The
+Jewish and Christian doctrine, on the other hand, conceived the Other
+World as not metaphysically different from this world, but as in the
+future, when the virtuous would enjoy everlasting bliss and the wicked
+would suffer everlasting torment. This belief embodied revenge
+psychology, and was intelligible to all and sundry, as the doctrines
+of Greek philosophers were not.
 
-' r o understand the origin of these beliefs, we must take account 
+To understand the origin of these beliefs, we must take account 
+of certain facts in Jewish history, to which we will now turn our 
+attention. 
 
-
-
-..-.. . '" facts in Jewish history, to which we will now turn our 
-Hildebranu 
-
-he contended. , ^ of lhe Israc i ites ^^^ be con fi r med from any 
-Roman Lmpire an>v,, d Testamen t, and it is impossible to know at 
-tor these reasons, * . urelv legendary. David and Solomon 
-much ecclesiastical and polit ' bablv had a real existence, but 
-the development .of ph.losophi, w CQme to somethi ^^ 
-evident. It is the more nect ki doms of Israe , and Judah . 
-history as the period concerned . Q , d Testamem of whom there 
-many who are at home with both of Ittac , who u ken 
-I-ew technical philosophers have had a A^yrf^ finally conquered 
-sopluc thought as St. Ambrose, Cha; nd remoyed . rf 
-
-lo relate what is essential concerning dom of Judah a , one 
-is therefore indispensable in any i tion . The kingdom of Judah 
-8U ' ec ' ower came to an end with the 
-
-.lians and Medes in 606 BC 
-aptured Jerusalem, destroyed 
-t of the population to Babylon. 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+The early history of the Israelites cannot be confirmed from any
+source outside the Old Testament, and it is impossible to know at what
+point it ceases to be purely legendary. David and Solomon may be
+accepted as kings who probably had a real existence, but at the
+earliest points at which we come to something certainly historical
+there are already two kingdoms of Israel and Judah.
+The first person mentioned in the Old  Testamem of whom there 
+is an independent record is Ahab, King of Israel, who is spoken of
+in an Assyrian letter of 853 BC. The Assyrians finally conquered
+the Northern kingdom in 722 BC, and removed a great part of the 
+population. After this time, the kingdom of Judah just survived
+the Assyrians, whose power came to an end with the capture
+of Nineveh by the Babylonians and Medes in 606 BC. But in 586 BC
+Nebudchadrezzar captured Jerusalem, destroyed the Temple, and 
+removed a large part of the population to Babylon.
 The Babylonian kingdom fell in 538 BC, when Babylon was taken 
 by Cyrus, king of the Medes and Persians. Cyrus, in 537 BC, 
 issued an edict allowing the Jews to return to Palestine. Many of 
-them did so, under the leadership of Nehemiah and Ezra; die 
+them did so, under the leadership of Nehemiah and Ezra; the
 Temple was rebuilt, and Jewish orthodoxy began to be crystallized. 
+
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n335)
 
 In the period of the captivity, and for some time before and 
 after this period, Jewish religion went through a very important 
@@ -13412,7 +13380,7 @@ last of them was still employed by William James. All of them,
 until the Renaissance, were accepted by even 1 Christian philosopher. 
 
 Some of Origen's arguments are curious. He says that magicians 
-invoke the "God of Abraham/' often without knowing who it is; 
+invoke the "God of Abraham," often without knowing who it is; 
 but apparently this invocation is specially potent. Names are 
 essential in magic; it is not indifferent whether Coil is called by 
 His Jewish, Egyptian, Babylonian, Greek, or Brahman name. 
@@ -14749,7 +14717,7 @@ He comes next to the wickedness of the heathen gods. For
 example: "Your stage-plays, those spectacles of uncleanness, 
 those licentious vanities, were not first brought up at Rome by 
 the corruptions of men, but by the direct command of your 
-gods/' 1 It would be better to worship a virtuous man, such as 
+gods," 1 It would be better to worship a virtuous man, such as 
 Scipio, than these immoral gods. But as for the sack of Rome, it 
 need not trouble Christians, who have a sanctuary in the "pilgrim 
 city of God." 
@@ -16035,7 +16003,7 @@ wentest forth to plough up the crop of the bearer of these presents.
 . . . Also, after the solemnities of mass thou didst not fear to root 
 up the landmarks of that possession. . . . Seeing that we still 
 spare thy grey hairs, bethink thee at length, old man, and restrain 
-thyself from such levity of .behavior, and perversity of deeds/' 
+thyself from such levity of .behavior, and perversity of deeds," 
 He writes at the same time to the secular authorities of Sardinia 
 on the same subject. The bishop in question next has to be reproved because he makes a charge for conducting funerals; and 
 
@@ -16156,7 +16124,7 @@ Emperor himself. Phocas was of course crowned by the patriarch
 of Constantinople, \vho had no alternative but death. What is 
 more surprising is that Gregory, from the comparatively safe 
 distance of Rome, wrote letters of fulsome adulation to the usurper 
-and his wife. "There is this difference/' he writes, "between the 
+and his wife. "There is this difference," he writes, "between the 
 kings of the nations and the emperors of the republic, that the 
 kings of the nations are lords of slaves, but the emperors of the 
 republic lords of freemen. . . . May Almighty God in every 
@@ -16407,7 +16375,7 @@ assigned him a period of penance in a hair shirt; then he baptized
 him, when he saw a hand from heaven touching him. He was 
 cured of leprosy, and gave up worshipping idols. Then "with all 
 his satraps, the Senate, his nobles and the whole Roman people 
-he thought it good to grant supreme power to the See of Peter/' 
+he thought it good to grant supreme power to the See of Peter," 
 and superiority over Antioch, Alexandria, Jerusalem, and Constantinople. He then built a church in his palace of the Lateran. 
 On the Pope he conferred his crown, tiara, and imperial garments. 
 1 I am quoting t still unpublished book, Th* Firti Europe. 
@@ -16863,7 +16831,7 @@ WESTERN PHILOSOPHICAL THOUGHT
 England from the time of Theodore, archbishop of Canterbury 
 (669-90)9 who was himself a Greek, educated at Athens; it may 
 also have become known, in the North, through Irish missionaries. 
-"During the latter part of the seventh century/' says Montague 
+"During the latter part of the seventh century," says Montague 
 James, "it was in Ireland that the thirst for knowledge was keenest, 
 and the work of teaching was most actively carried on. There the 
 Latin language (and in a less degree the Greek) was studied from 
@@ -18554,7 +18522,7 @@ THE TWELFTH CENTURY
 
 His valuation of logic was, from a modern point of view, 
 excessive. He considered it pre-eminently the Christian science, 
-and made play with its derivation from "Logos." "In the beginning was the Logos/' says St. John's Gospel, and this, he 
+and made play with its derivation from "Logos." "In the beginning was the Logos," says St. John's Gospel, and this, he 
 thought, proves the dignity of Logic. 
 
 His chief importance is in logic and theory of knowledge. His 
@@ -19164,7 +19132,7 @@ passage should be deleted from Jordan's life of the founder.
 The Dominicans were even more active than the Franciscans 
 in the work of the Inquisition. They performed, however, a valuable service to mankind by their devotion to learning. This was 
 no part of St. Dominic's intention; he had decreed that his friars 
-were "not to learn secular sciences or liberal arts except by dispensation/' This rule was abrogated in 1259, after which date 
+were "not to learn secular sciences or liberal arts except by dispensation," This rule was abrogated in 1259, after which date 
 everything was done to make a studious life easy for Dominicans. 
 Manual labour was no part of their duties, and the hours of 
 devotion were shortened to give them more time for study. They 
@@ -19971,7 +19939,7 @@ difficulty in connection with space and time. I have treated the
 
 FRANCISCAN SCHOOLMEN 
 
-question as I sec it, under the heading "Proper Names/' in my 
+question as I sec it, under the heading "Proper Names," in my 
 Inquiry into Meaning and Truth. 
 
 William of Occam is, after St. Thomas, the most important 
@@ -20895,7 +20863,7 @@ in the modern sense, becomes an important political force.
 Socialism, as opposed to democracy based on private property, 
 first acquires governmental power in 1917. This form of government, however, if it spreads, must obvi6usly bring with it a new 
 form of culture; the culture with which we shall be concerned is 
-in the main 'liberal/' that is to say, of the kind most naturally 
+in the main 'liberal," that is to say, of the kind most naturally 
 Associated with commerce. To this there are important exceptions, 
 
 5" 
@@ -21912,7 +21880,7 @@ of transubstantiation; the scholastic sects; popes, cardinals, and
 bishops all are fiercely ridiculed. Particularly fierce is the attack 
 on the monastic orders: they are "brainsick fools," who have very 
 little religion in them, yet are "highly in love with themselves, and 
-fond admirers of their own happiness/' They behave as if all 
+fond admirers of their own happiness." They behave as if all 
 religion consisted in minute punctilio: "The precise number of 
 
 535 
@@ -22811,7 +22779,7 @@ to Kepler wishing they could have a good laugh together at the
 stupidity of "the mob"; the rest of his letter nukes it plain that 
 "the mob" consisted of the professors of philosophy, who tried to 
 conjure away Jupiter's moons, using "logic-chopping arguments 
-as though they were magical incantations/' 
+as though they were magical incantations." 
 
 Galileo, as everyone knows, was condemned by the Inquisition, 
 first privately in 1616, and then publicly in 1633, on which latter 
@@ -23156,7 +23124,7 @@ snow.
 
 Bacon's most important book, The Advancement of Learning > is 
 in many ways remarkably modern. He is commonly regarded as 
-the originator of the saying "Knowledge is power/' and though 
+the originator of the saying "Knowledge is power," and though 
 he may have had predecessors who said the same thing, he said 
 it with new emphasis. The whole basis of his philosophy was 
 practical: to give mankind mastery over the forces of nature by 
@@ -23167,7 +23135,7 @@ matter. But while he thought that reason could show the existence
 of God, he regarded everything else in theology as known only 
 by revelation. Indeed he held that the triumph of faith is greatest 
 when to the unaided reason a dogma appears most absurd. Philosophy, however, sl)pjuld_depend only upon reason. He was thus 
-an advocate of the doctrine of "double truth/' that of reason and 
+an advocate of the doctrine of "double truth," that of reason and 
 that of revelation. This doctrine had been preached by certain 
 Averroists in the thirteenth century, but had been condemned by 
 the Church. The "triumph of faith*' was, for the orthodox, a 
@@ -23249,7 +23217,7 @@ that have to do with the tyranny of words and the difficulty of
 escaping from their influence over our minds. "Idols of the theatre" 
 are those that have to do with received systems of thoucht; of 
 these, naturally, Aristotle and the scholastics afforded him the most 
-noteworthy instances. Lastly there are "idols of the schools/' 
+noteworthy instances. Lastly there are "idols of the schools," 
 which consist in thinking that some blind rule (such as the 
 syllogism) can take the place of judgment in investigation. 
 
@@ -24067,7 +24035,7 @@ These consequences, however, were not at once apparent.
 The theory appeared to have two merits. The first was that it 
 made the soul, in a sense, wholly independent of the body, since 
 it was never acted on by the body. The second was that it allowed 
-the general principle: "one substance cannot act on another/' 
+the general principle: "one substance cannot act on another," 
 There were two substances, mind and matter, and they were so 
 dissimilar that an interaction seemed inconceivable. Geulincx *s 
 theory explained the appearance of interaction while denying it? 
@@ -24313,7 +24281,7 @@ in the widest possible sense. 44 I think" is his ultimate premiss.
 Here the word "I 11 is really illegitimate; he ought to state his 
 ultimate premiss in the form "there are thoughts." The word "I" 
 is grammatically convenient, but does not describe a datum. 
-When he goes on to say "I am a thing which thinks/' he is already 
+When he goes on to say "I am a thing which thinks," he is already 
 using uncritically the apparatus of categories handed down by 
 scholasticism. He nowhere proves that thoughts need a thinker, 
 nor is there reason to believe this except in a grammatical sense. 
@@ -24491,7 +24459,7 @@ of the divine Being. There can be no such personal immortality
 as Christians believe in, but only that impersonal sort that consists 
 in becoming more and more one with God. Finite things are 
 defined by their boundaries, physical or logical, that is to say, by 
-what they are not: "all determination is negation/' There can be 
+what they are not: "all determination is negation." There can be 
 only one Being who is wholly positive, and He must be absolutely 
 infinite. Hence Spinoza is led to a complete and undiluted 
 pantheism. 
@@ -24558,7 +24526,7 @@ is entirely egoistic. "He who conceives that the object of his hate
 is destroyed will feel pleasure." "If we conceive that anyone takes 
 delight in something, which only one person can possess, we 
 shall endeavor to bring it about, thai the man in question shall 
-not gain possession thereof/' But even in this Book there are 
+not gain possession thereof." But even in this Book there are 
 moments when Spinoza abandons the appearance of mathematically demonstrated cynicism, as when he says: "Hatred is 
 
 595 
@@ -24574,31 +24542,31 @@ its character when we realize that what is real and positive in
 us is what unites us to the whole, and not what preserves the 
 appearance of separateness. 
 
-The last two books of the Ethics, entitled respectively "Ot 
-human bondage, or the strength of the emotions" and "Of the 
-power of the understanding, or of human freedom," are the most 
-interesting. We are in bondage in proportion as what happens to 
-us is determined by outside causes, and we are free in proportion 
-as we are self-determined. Spinoza, like Socrates and Plato, 
-believes that all wrong action is due to intellectual error: the 
-man who adequately understands his own circumstances will act 
-wisely, and will even be happy in the face of what to another 
-would be misfortune. He makes no appeal to unselfishness; he 
-holds that self-seeking, in some sense, and more particularly selfpreservation, govern all human behavior. "No virtue can be conceived as prior to this endeavor to preserve one's own being/' 
-But his conception of what a wise man will choose as the goal of 
-his self-seeking is different from that of the ordinary egoist: "The 
-mind's highest good is the knowledge of God, and the mind's 
-highest virtue is to know God." Emotions are called "passions" 
-when they spring from inadequate ideas; passions in different 
-men may conflict, but men who live in obedience to reason will 
-agree together. Pleasure in itself is good, but hope and fear are 
-bad, and so are humility and repentance: "he who repents of an 
-action is doubly wretched or infirm." Spinoza regards time as 
-unreal, and therefore all emotions which have to do essentially 
-with an event as future or as past are contrary to reason. "In so 
-far as the mind conceives a thing under the dictate of reason, 
-it is affected equally, whether the idea be of a thing present, past, 
-or future/ 9 
+The last two books of the Ethics, entitled respectively "Ot human
+bondage, or the strength of the emotions" and "Of the power of the
+understanding, or of human freedom," are the most interesting. We are
+in bondage in proportion as what happens to us is determined by
+outside causes, and we are free in proportion as we are
+self-determined. Spinoza, like Socrates and Plato, believes that all
+wrong action is due to intellectual error: the man who adequately
+understands his own circumstances will act wisely, and will even be
+happy in the face of what to another would be misfortune. He makes no
+appeal to unselfishness; he holds that self-seeking, in some sense,
+and more particularly self-preservation, govern all human behavior.
+"No virtue can be conceived as prior to this endeavor to preserve
+one's own being." But his conception of what a wise man will choose as
+the goal of his self-seeking is different from that of the ordinary
+egoist: "The mind's highest good is the knowledge of God, and the
+mind's highest virtue is to know God." Emotions are called "passions"
+when they spring from inadequate ideas; passions in different men may
+conflict, but men who live in obedience to reason will agree together.
+Pleasure in itself is good, but hope and fear are bad, and so are
+humility and repentance: "he who repents of an action is doubly
+wretched or infirm." Spinoza regards time as unreal, and therefore all
+emotions which have to do essentially with an event as future or as
+past are contrary to reason. "In so far as the mind conceives a thing
+under the dictate of reason, it is affected equally, whether the idea
+be of a thing present, past, or future."9
 
 This is a hard saying, but it is of the essence of Spinoza's 
 system, and we shall do well to dwell upon it for a moment. In 
@@ -24676,7 +24644,7 @@ we form a clear and distinct idea of it." Understanding that all
 things are necessary helps the mind to acquire power over the 
 emotions. "He who clearly and distinctly understands himself 
 and his emotions, loves God, and so much the more as he more 
-understands himself and his emotions.** This proposition introduces us to the "intellectual love of God/' in which wisdom 
+understands himself and his emotions.** This proposition introduces us to the "intellectual love of God," in which wisdom 
 consists. The intellectual love of God is a union of thought and 
 emotion: it consists, I think one may say, in true thought combined 
 with joy in the apprehension of truth. Ail joy in true thought is 
@@ -24717,7 +24685,7 @@ himself and his emotions loves God, and so much the more in
 proportion as he understands himself and his emotions"; V, n 
 states: "In proportion as a mental image is referred to more 
 objects, so is it more frequent, or more often vivid, and occupies 
-the mind more/' 
+the mind more." 
 
 The "proof" quoted above might be expressed as follows: 
 Every increase in the understanding of what happens to us consists in referring events to the idea of God, since, in truth, everything is part of God. This understanding of everything as part 
@@ -24730,7 +24698,7 @@ of what must inevitably happen as we acquire understanding.
 
 We are told that no one can hate God, but, on the other hand, 
 "he who loves God cannot endeavor that God should love him 
-in return/' Goethe, who admired Spinoza without even beginning 
+in return." Goethe, who admired Spinoza without even beginning 
 to understand him, thought this proposition an instance of self-abnegation. It is nothing of the sort, but a logical consequence 
 of Spinoza's metaphysic. He does not say that a man ought not to 
 want Cod to love him; he says that a man who loves God cannot 
@@ -25431,7 +25399,7 @@ logical characteristic, persist through time, unless destroyed by
 God's omnipotence (which, one gathers, never happens). Every 
 true proposition is either general, like "all men are mortal,'* 
 in which case it states that one predicate implies another, or 
-particular, like "Socrates is mortal/' in which case the predicate 
+particular, like "Socrates is mortal," in which case the predicate 
 is contained in the subject, and the quality denoted by the predicate is part of the notion of the substance denoted by the subject. 
 Whatever happens to Socrates can be asserted in a sentence in 
 which "Socrates" is the subject and the words describing the 
@@ -25560,7 +25528,7 @@ that does not exist struggles to exist, but not all possibles can
 exist, because they are not all "compossible." It may be possible 
 that A should exist, and also possible that B should exist, but not 
 possible that both A and B should exist; in that case, A and B 
-are not "compossible/' Two or more things are only "compossible" 
+are not "compossible." Two or more things are only "compossible" 
 when it is possible for all of them to exist. Leibniz seems to have 
 imagined a sort of war in the Limbo inhabited by essences all 
 trying to exist; in this war, groups of compossibles combine, and 
@@ -26155,7 +26123,7 @@ the whole system of liberal maxims. Although he is a deeply
 religious man, a devout believer in Christianity who accepts 
 revelation as a source of knowledge, he nevertheless hedges round 
 professed revelations with rational safeguards. On one occasion 
-he says: "The bare testimony of revelation is the highest certainty/' 
+he says: "The bare testimony of revelation is the highest certainty," 
 but on another he says: "Revelation must be judged by reason/ 9 
 Thus in the end reason remains supreme. 
 
@@ -26170,17 +26138,17 @@ character. Love of truth, which Locke considers essential, is a
 very different thing from love of some particular doctrine which 
 is proclaimed as the truth. One unerring mark of love of truth, he 
 says, is "not entertaining any proposition with greater assurance 
-than the proofs it is built upon will warrant/' Forwardness to 
+than the proofs it is built upon will warrant." Forwardness to 
 dictate, he says, shows failure of love of truth. "Enthusiasm 
 laying by reason, would set up revelation without it; whereby in 
 effect it takes away both reason and revelation, and substitutes in 
-the room of it the ungrounded fancies of a man's own brain/' 
+the room of it the ungrounded fancies of a man's own brain."
 Men who suffer from melancholy or conceit are likely to have 
-"persuasions of immediate intercourse with the Deity/' Hence 
+"persuasions of immediate intercourse with the Deity." Hence 
 odd actions and opinions acquire Divine sanction, which flatters 
-"men's laziness, ignorance, and vanity/' He concludes the chapter 
+"men's laziness, ignorance, and vanity." He concludes the chapter 
 with the maxim already quoted, that "revelation must be judged 
-of by reason/' 
+of by reason."
 
 What Locke means by "reason" is to be gathered from his whole 
 book. There is, it is true, a chapter called "Of Reason," but this is 
@@ -26966,7 +26934,7 @@ The advancement of private persons will be the advantage of the
 
 pubpc-" 
 
-Except for the words "by the light of nature and reason/' this 
+Except for the words "by the light of nature and reason," this 
 might have been written in the nineteenth century. 
 
 In Locke's theory of government, 1 repeat, there is little that 
@@ -27221,7 +27189,7 @@ government:
 "The great and chief end of men uniting into commonwealths, 
 and putting themselves under government, is the preservation of 
 their property; to which in the state of nature there are many 
-things wanting/' 
+things wanting."
 
 The whole of this theory of the state of nature and natural law 
 is in one sense clear but in another very puzzling. It is clear what 
@@ -27385,7 +27353,7 @@ the community in the execution of such laws, and in the defense
 LOCKE'S POLITICAL PHILOSOPHY 
 
 of the commonwealth from foreign injury, and all this only for 
-the public good/' 
+the public good."
 
 Government, we are told, is a remedy for the inconveniences 
 that arise, in the state of nature, from the fact that, in that state, 
@@ -27648,7 +27616,7 @@ and serve the common need. The unpardonable sin is that of the
 speculator or middleman, who snatches private gain by the 
 exploitation of public necessities. The true descendant of the 
 doctrines of Aquinas is the labour theory of value. The last of the 
-schoolmen was Karl Marx/' 
+schoolmen was Karl Marx."
 
 The labour theory of value has two aspects, one ethical, the 
 other economic. That is to say, it may assert that the value of a 
@@ -28116,7 +28084,7 @@ questions, their political vi* ws tended naturally to have the same
 character. They fought shy of large programmes all cut out of 
 one block, and preferred to consider each question on its merits. 
 In politics, as in philosophy, they were tentative and experimental. Their opponents, on the other hand, who thought they 
-could "grasp this sorry scheme of things entire/' were much 
+could "grasp this sorry scheme of things entire," were much 
 more willing to "shatter it to bits and then remould it nearer to 
 the heart's desire." They might do this as revolutionaries, or as 
 men who wished to increase the authority of the powers that be; 
@@ -28502,7 +28470,7 @@ In regard to tastes, the argument from pleasure and pain is
 repeated: Sweetness is a pleasure and bitterness a pain, therefore 
 both are mental. It is also urged that a thing that tastes sweet 
 when I am well may taste bitter when I am ill. Very similar arguments are used about odours: since they are pleasant or unpleasant, 
-"they cannot exist in any but a perceiving substance or mind/' 
+"they cannot exist in any but a perceiving substance or mind."
 Berkeley assumes, here and everywhere, that what does not inhere 
 in matter must inhere in a mental substance, and that nothing 
 can be both mental and material. 
@@ -28836,7 +28804,7 @@ first book, to which I shall confine myself.
 He begins with the distinction between "impressions' 1 and 
 "ideas.** These are two kinds of perceptions, of which impressions 
 are those that have more force and violence. "By ideas I mean the 
-faint images of these in thinking and reasoning/' Ideas, at least 
+faint images of these in thinking and reasoning." Ideas, at least 
 when simple, are like impressions, but fainter. "Every simple idea 
 has a simple impression, which resembles it; and every simple 
 impression a correspondent idea." "All our simple ideas in their 
@@ -29809,7 +29777,7 @@ WESTERN PHILOSOPHICAL THOUGHT
 as the fundamental principle of ethics. As regards sentiment, there 
 has to be a distasteful compromise between the search for isolation 
 and the necessities of passion and economics. D. H. Lawrence's 
-story, "The Man Who Loved Islands/' has a hero who disdained 
+story, "The Man Who Loved Islands," has a hero who disdained 
 such compromise to a gradually increasing extent and at last died 
 of hunger and cold, but in the enjoyment of complete isolation; 
 but this degree of consistency has not been achieved by the writers 
@@ -30089,7 +30057,7 @@ from privileges authorized by convention.
 The origin of civiJ society and of the consequent social inequalities is to be found in private property. "The first man who, having 
 enclosed a piece of land, bethought himself of saying 'this is mine,' 
 and found people simple enough to believe htm, was the real 
-founder of civil society/' He goes on to say that a deplorable 
+founder of civil society." He goes on to say that a deplorable 
 revolution introduced metallurgy and agriculture; grain if the 
 symbol of our misfortune. Europe is the unhappiest Continent, 
 because it has the most grain and the most iron. To undo the 
@@ -30221,7 +30189,7 @@ beyond what I have seen any example of; but it still gives him
 a more acute feeling of pain than of pleasure. He is like a man who 
 was stripped not only of his clothes, but of his skin, and turned 
 out in this situation to combat with the rude and boisterous 
-elements/' 
+elements."
 
 This is the kindest summary of his character that is in any 
 degree compatible with truth. 
@@ -30635,7 +30603,7 @@ away from a man who is set in authority over others the sense of
 justice and reason." 
 
 Thus in spite of the infallibility of the general will, which is 
-"always constant, unalterable, and pure/' all the old problems of 
+"always constant, unalterable, and pure," all the old problems of 
 eluding tyranny remain. What Rousseau has to say on these 
 problems is either a surreptitious repetition of Montesquieu, or 
 an insistence on the supremacy of the legislature, which, if democratic, is identical with what he calls the Sovereign. The broad 
@@ -30877,7 +30845,7 @@ His principle that every man is to be regarded as an end in himself
 is a form of the doctrine of the Rights of Man; and his love of 
 freedom is shown in his saying (about children as well as adults) 
 that "there can be nothing more 4feadful than that the actions of 
-a man should be subject to the will of another/' * 
+a man should be subject to the will of another." * 
 
 Kant's early works are more concerned with science than with 
 philosophy. After the earthquake of Lisbon he wrote on the theory 
@@ -31255,7 +31223,7 @@ not belong to the object as it is in itself. Kant, like Berkeley and
 Hume, though in not quite the same way, goes further, and makes 
 the primary qualities also subjective. Kant does not at most times 
 pnestion that our sensations have causes, which he calls "things-in-themselves" or "noumena" What appears to us in perception, 
-which he calls a "phenomenon/' consists of two parts: that due 
+which he calls a "phenomenon," consists of two parts: that due 
 to the object, which he calls the "sensation," and that due to our 
 subjective apparatus, which, he says, causes the manifold to be 
 ordered in certain relations. This latter part he calls the form of 
@@ -31439,7 +31407,7 @@ maintain that space is in fact not infinite, but goes round and
 round, like the surface of the globe. 
 
 The transcendental (or epistemological) argument, which is 
-best stated in the Prolegomena, is more definite than the metaphysical arguments, and is also more definitely refutable. "Geometry/' as we now know, is a name covering two different studies. 
+best stated in the Prolegomena, is more definite than the metaphysical arguments, and is also more definitely refutable. "Geometry," as we now know, is a name covering two different studies. 
 On the one hand, there is pure geometry, which deduces consequences from axioms, without inquiring whether the axioms are 
 "true"; this contains nothing that does not follow from logic, 
 and is not "synthetic," and has no need of figures such as are 
@@ -31711,7 +31679,7 @@ of making reasonings and acquiring moral ideas, from which it
 follows that men can no longer be divided into rulers and subjects, 
 liars and dupes. "These principles, for which the generous Sidney 
 gave his life and to which Locke attached the authority of his 
-name, were afterwards developed more precisely by Rousseau/' 
+name, were afterwards developed more precisely by Rousseau." 
 Locke, he says, first showed the limits of human knowledge. His 
 "method soon became that of all philosophers, and it is by applying 
 it to morals, politics, and economics, that they have succeeded 
@@ -31932,7 +31900,7 @@ the effect was more or less indirect. Men who produce philosophical theories are
 machinery. The romantics noticed and hated the ugliness that 
 industrialism was producing in places hitherto beautiful, and the 
 vulgarity (as they considered it) of those who had made money 
-in "trade/' This led them into an opposition to the middle class 
+in "trade." This led them into an opposition to the middle class 
 which sometimes brought them into something like an alliance 
 with the champions of the proletariat. Engels praised Carlyle, not 
 perceiving that what Carlyle desired was not the emancipation of 
@@ -32436,7 +32404,7 @@ the final embodiment of the Absolute Idea, beyond which no
 further development would be possible. But this is not Hegel's 
 view. On the contrary, he says that America is the land of the 
 future, "where, in the ages that lie before us, the burden of the 
-world's history shall reveal itself perhaps [he adds characteristically] in a contest between North and South America/' He seems 
+world's history shall reveal itself perhaps [he adds characteristically] in a contest between North and South America." He seems 
 to think that everything important takes the form of war. If it 
 were suggested to him that the attribution of America to world 
 history might be the development of a society without extreme 
@@ -32869,7 +32837,7 @@ boy naturally rejoiced in his title and his Abbey, and was willing
 to take on the character of his ancestors in gratitude for their 
 lands. And if, in Decent years, their bellicosity had led them into 
 trouble, he learnt that in former centuries it had brought them 
-renown. One of his earliest poems/'On Leaving Newstead Abbey/' 
+renown. One of his earliest poems "On Leaving Newstead Abbey," 
 relates his emotions at this time, which are of admiration for hi* 
 
 775 
@@ -32981,7 +32949,7 @@ WESTERN PHILOSOPHICAL THOUGHT
 Still sways their souls with that commanding art 
 That dazzles, leads, yet chills the vulgar heart. 
 
-And this same hero "hated man too much to feel remorse/' A 
+And this same hero "hated man too much to feel remorse." A 
 foot-note assures us that the Corsair is true to human -nature, since 
 similar traits were exhibited by Gensertc, King of the Vandals, 
 by Ezzelino the Ghibelline tyrant, and by a certain Louisiana 
@@ -33007,7 +32975,7 @@ more seemly than abdication. At this moment, he sought consolation in the virtue
 made this effort no longer necessary. In France, when Byron died, 
 "It was remarked in many newspapers that the two greatest men 
 of the century, Napoleon and Byron, had disappeared almost at 
-the same time/' 1 Carlyle, who, at the time, considered Byron "the 
+the same time."1 Carlyle, who, at the time, considered Byron "the 
 noblest spirit in Europe," and felt as if he had "lost a brother," 
 came afterwards to prefer Goethe, but still coupled Byron with 
 Napoleon: 
@@ -33379,7 +33347,7 @@ pessimism, and his doctrine that will is superior to knowledge. His
 pessimism made it possible for men to take to philosophy without 
 having to persuade themselves t&at all evil can be explained away, 
 and in this way, as an antidote, it was useful. From a scientific 
-1 "The old woman dies, the burden departs/' 
+1 "The old woman dies, the burden departs."
 
 786 
 
@@ -33452,14 +33420,7 @@ severely criticizes the romantics. Consciously his outlook was
 Hellenic, but with the Orphic component omitted. He admired the 
 pre*Socratics, except Pythagoras. He ha a close affinity to 
 Hcraditu*. Aristotle'* magnanimous man IB very like what 
-Nietzsche calls the "noble man/' but in the main he regards the 
-
-788 
-
-
-
-NIETZSCHE 
-
+Nietzsche calls the "noble man," but in the main he regards the 
 Greek philosophers from Socrates onwards as inferior to their 
 predecessors. He cannot forgive Socrates for his humble origin; 
 he calls him a "roturier," and accuses him of corrupting the noble 
@@ -33821,16 +33782,7 @@ The next question is: How are the superior few defined? In
 practice, they have usually beer a conquering race or a hereditary 
 aristocracy and aristocracies have usually been, at least in theory, 
 descendants of conquering races. I think Nietzsche would accept 
-this definition. "No morality is possible without good birth/' he 
-
-796 
-
-
-
-NIETZSCHE 
-
-
-
+this definition. "No morality is possible without good birth," he 
 tells us. He says that the noble caste is always at first barbarian, 
 but that every elevation of Man is due to aristocratic society. 
 
@@ -33874,16 +33826,9 @@ word "desirable," is this: "If men will read my works, a certain
 percentage of them will come to tfiare my desires as regards th* 
 organization of society; these men, inspired by the energy and 
 determination which my philosophy will give them, can preserve 
-and restore aristocracy, with themselves as aristocrats or (like mef 
-
-797 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+and restore aristocracy, with themselves as aristocrats or (like the
 sycophants of aristocracy. In this way they will achieve a fuller 
-life than they can have as servants of the people/' 
+life than they can have as servants of the people."
 
 There is another element in Nietzsche, which is closely akin to 
 the objection urged by "rugged individualists" against trade-unions. In a fight of all against all, the victor is likely <o possess 
@@ -35147,7 +35092,7 @@ a very difficult conception. I do not fully understand it myself, and
 therefore I cannot hope to explain it with all the lucidity which it 
 doubtless deserves. 
 
-"Pure duration/' we are told, "is the form which our conscious 
+"Pure duration," we are told, "is the form which our conscious 
 states assume when our ego lets itself live, when it refrains from 
 separating its present state from its former states." It forms the 
 past and the present into one organic whole, where there is mutual 
@@ -35201,24 +35146,26 @@ indeed the contrary would be nearer the truth if we mean matter
 as grasped in concrete perception, which always occupies a certain 
 duration. 
 
-44 Memory must be, in principle, a power absolutely independent 
+"Memory must be, in principle, a power absolutely independent 
 of matter. If, then, spirit is a reality, it is here, in the phenomena 
 of memory, that we may come into touch with it experimentally." 
 
-At the opposite end from pure memory Bergson places pure 
-perception, in regard to which he adopts an ultra-realist position. 
-"In pure perception," he says, "we are actually placed outside 
-ourselves, we touch the reality of the object in an immediate 
-intuition." So completely does he identify perception with its 
-object that he almost refuses to call it mental at all. "Pure perception," he says, "which is the lowest degree of mind mind without memory is really pan of matter, as we understand matter/' 
-Pure perception is constituted by dawning action, its actuality lies 
-in its activity. It is in this way that the brain becomes relevant to 
-perception, for the brain is not an instrument of action. The 
-function of the brain is to limit our mental life to what is practically 
-useful. But for the brain, one gathers, everything would be perceived, but in fact we only perceive what interests us. "The body, 
-always turned towards action, has for its essential function to limit, 
-with a view to action, the life of the spirit." It is, in fact, an 
-instrument of choice. 
+At the opposite end from pure memory Bergson places pure perception,
+in regard to which he adopts an ultra-realist position. "In pure
+perception," he says, "we are actually placed outside ourselves, we
+touch the reality of the object in an immediate intuition." So
+completely does he identify perception with its object that he almost
+refuses to call it mental at all. "Pure perception," he says, "which
+is the lowest degree of mind mind without memory is really pan of
+matter, as we understand matter." Pure perception is constituted by
+dawning action, its actuality lies in its activity. It is in this way
+that the brain becomes relevant to perception, for the brain is not an
+instrument of action. The function of the brain is to limit our mental
+life to what is practically useful. But for the brain, one gathers,
+everything would be perceived, but in fact we only perceive what
+interests us. "The body, always turned towards action, has for its
+essential function to limit, with a view to action, the life of the
+spirit." It is, in fact, an instrument of choice.
 
 We must now return to the subject of instinct or intuition, as 
 opposed to intellect. It was necessary first to give some account 
@@ -35236,24 +35183,24 @@ it his been thrust out of the center by being tow useful in action
 than intellect, but it has deeper uses which make it desirable to 
 bring it back into greater prominence. Bergson wishes to make 
 intellect "turn inwards on itself, snd awaken the potentialities of 
-intuition which still slumber within it/' The relation between 
+intuition which still slumber within it." The relation between 
 instinct and intellect is compared to that between sight and touch. 
 Intellect, we are told, will not give knowledge of things at a distance; indeed the function of science is said to be to explain sll 
 perceptions in terms of touch. 
 
-"Instinct alone/' he says, "is knowledge at a distance* It has the 
-same relation to intelligence that vision has to touch/' We may 
-observe in passing that, as appears in many passages, Bcrgson u 
+"Instinct alone," he says, "is knowledge at a distance* It has the 
+same relation to intelligence that vision has to touch." We may 
+observe in passing that, as appears in many passages, Bcrgson is 
 a strong visualizer, whose thought is always conducted by means 
 of visual images. 
 
 The essential characteristic of intuition is that it Joes not divide 
 the world into separate things, a* the intellect docs; although 
-Bergson does not use these words, *e might datcnbt it su synthetic rather than analytic. It apprehends a multiplicity, but a 
-multiplicity of interpenetrating processes, not of *patul!v c*tcrtul 
+Bergson does not use these words, He might datcnbt it su synthetic rather than analytic. It apprehends a multiplicity, but a 
+multiplicity of interpenetrating processes, not of patul!v ctcrtul 
 bodies. There are in truth no thingi " things ami utr arc only 
 views, taken by our mind, of becoming. Thrrc arc no thtn#*, there 
-are only actions/' This view of the world, which appear* difficult 
+are only actions." This view of the world, which appear* difficult 
 and unnatural to intellect, is easy and natural to intuition. Mcmojy 
 affords an instance of what is meant, for in memory the pan live* 
 on into the present and interpenetrates it. Apart from mmd, the 
@@ -35264,20 +35211,15 @@ memory, with its correlative desire, that makes the past and the
 Intuition alone can understand this mingling of past and future: 
 to the intellect they remain external, spatially external as it were, 
 to one another. Under the guidance of intuition, we perceive that 
-"form is only a snapshot view of a transition/' and the philosopher 
-"will see the material world mete back into a single flux/' 
+"form is only a snapshot view of a transition," and the philosopher 
+"will see the material world mete back into a single flux," 
 
 Closely connected with the merits of intuition are Bcrgaon's 
-doctrine of freedom and his praise of action. "In reality/' he says, 
+doctrine of freedom and his praise of action. "In reality," he says, 
 "a living being is a center of action. It represents a certain sum 
 of contingency entering into the* world, that is to say, a certain 
-quantity of possible action/' The arguments against free will 
+quantity of possible action." The arguments against free will 
 depend partly upon assuming that the intensity of psychical states 
-
-
-
-BERG80N 
-
 is a quantity, capable, at least in theory, of numerical measurement; this view Bergson undertakes to refute in the first chapter 
 of Time and Free Will. Partly the determinist depends, we are 
 told, upon a confusion between true duration and mathematical 
@@ -35536,7 +35478,7 @@ past is that of which the action is past? the words "no longer"
 are words expressive of the past; to a person who did not have 
 the ordiiury notion of the past as something outside the present, 
 these words would have no meaning. Thus his definition is circular. What he says is, in effect, "the past is that of which the 
-action is in the past/' As a definition, this cannot be regarded as 
+action is in the past." As a definition, this cannot be regarded as 
 4 happy effort. And the same applies to the present. The present, 
 we are told, is "that which it acting" (his italics). But the word 
 "is" introduces just that idea of. the present which was to be 
@@ -35554,7 +35496,7 @@ Again the definition is circular. An earlier passage on the same
 page will ^illustrate the fallacy further. "That which constitutes 
 our pure perception," he says, "is our dawning action. . . . The 
 actuality of our perception thus lies in its activity, in the movements which prolong it, and not in its greater intensity: the past is 
-only idea, the present is ideo-motor/' This passage makes it quite 
+only idea, the present is ideo-motor." This passage makes it quite 
 clear that, when Bergson speaks of the past, he does not mean the 
 past, but our present memory of the past. The past when it existed 
 was just as active as the present is now; if Bergson 's account were 
@@ -35608,7 +35550,7 @@ regate of images, and
 
 
 
-ftfemd to the eventual action of one particular image, my body/' 
+ftfemd to the eventual action of one particular image, my body."
 It will be observed that matter and the perception of matter, 
 according to him, consist of the very same things. The brain, he 
 aay* is like the rest of the material universe, and is therefore an 
@@ -36402,7 +36344,7 @@ for "truth" if it has certain kinds of effects. This* divergence is
 connected with a difference of outlook on the world. The past 
 cannot be affected by what we do, and therefore, if truth is determined by what has happened, it is independent of present or 
 future volitions; it represents, in logical form, the limitations on 
-human power. But if truth, or rather "warranted assertability/' 
+human power. But if truth, or rather "warranted assertability,"
 depends upon the future, then, in so far as it is in our power to 
 alter the future, it is in our power to alter what should be asserted. 
 This enlarges the sense of human power and freedom. Did Caesar 
@@ -36435,7 +36377,7 @@ To my regret and surprise, this statement, which I had supposed completely innoc
 "Mr. Russell's confirmed habit of connecting the pragmatic theory 
 of knowing with obnoxious aspects of American industrialism . . . 
 is much as if I were to link his philosophy to the interests of the 
-English landed aristocracy/' 
+English landed aristocracy."
 
 For my part. I am accustomed to having my opinions explained 
 (especially by Communists) as due to my connection with the 
@@ -36478,7 +36420,7 @@ $55
 
 WESTERN PHILOSOPHICAL THOUGHT 
 
-The Italian pragmatist Papini urges us to substitute the "Imitation of God" for the "Imitation of Christ/' 
+The Italian pragmatist Papini urges us to substitute the "Imitation of God" for the "Imitation of Christ."
 
 In all this I feel a grave danger, the danger of what might be 
 called cosmic impiety. The concept of "truth" as something dependent upon facts largely outside human control has been one of the 
@@ -36584,7 +36526,7 @@ pure matiiematics from logic was set forth in detail in Prindpia
 Mathematica, by Whitehead and myself. 
 
 It gradually became clear that a great part of philosophy can be 
-reduced to something that may be called "syntax/' though the 
+reduced to something that may be called "syntax," though the 
 word has to be used in a somewhat wider sense than has hitherto 
 been customary. Some men, notably Carnap, have advanced the 
 theory that all philosophical problems are really syntactical, and 
@@ -36596,7 +36538,7 @@ to traditional problems is very great.
 
 I will illustrate its utility by a brief explanation of what is called 
 the theory of descriptions. By a "description" I mean a phrase 
-such as "The present President of the United States/' in which 
+such as "The present President of the United States," in which 
 a person or thing is designated, not by name, but by some property 
 which is supposed or known to be peculiar to him or it. Such 
 phrases had given a lot of trouble. Suppose I say "The golden 
@@ -36621,7 +36563,7 @@ Scott." Or, more fully:
 "There is an entity c such that the statement '* wrote Waverty 
 is true if x is c and false otherwise; moreover c is Scott." . 
 
-The first part of this, before the word "moreover/' is defined 
+The first part of this, before the word "moreover," is defined 
 as meaning: "The author of Waverley exists (or existed or will 
 exist)." Thus "The golden mountain does not exist" means: 
 
@@ -36632,7 +36574,7 @@ $59
 WESTERN PHILOSOPHICAL THOUGHT 
 
 "There is no entity c such that '* is golden and mountainous' 
-is true when * is c, but not otherwise/' 
+is true when * is c, but not otherwise."
 
 With this definition the puzzle as to what is meant when we say 
 "The golden mountain does not exist" disappears. 
@@ -36664,21 +36606,14 @@ What 19 important to the philosopher in the theory of relativity
 is the substitution of space-time for space and time. Common 
 sense thinks of the physical world as composed of "things" which 
 persist through a certain period of time and move in space. Philosophy and physics developed the notion of "thing" into that of 
-"material substance/' and thought of material substance as consisting of prrtsdes, each very small, and each persisting throughout 
+"material substance," and thought of material substance as consisting of prrtsdes, each very small, and each persisting throughout 
 all time. Einstein substituted events for particles; each event had 
-to each other a relation called "interval/' which could be analyzed 
+to each other a relation called "interval" which could be analyzed 
 in various ways into a time-element and a space-element. The 
 cfeotce between these various ways was arbitrary, and no one of 
 them was theoretically preferable to any other. Given two events 
 A and B, in different regions, it might happen that stcording to 
 one convention they were simultaneous, according to another A 
-
-ftfo 
-
-
-
-THE PHILOSOPHY OF LOGICAL ANALYSIS 
-
 was earlier than B, and according to yet another B was earlier than 
 A. No physical facts correspond to these different conventions. 
 
