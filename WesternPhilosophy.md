@@ -12786,223 +12786,288 @@ issued an edict allowing the Jews to return to Palestine. Many of
 them did so, under the leadership of Nehemiah and Ezra; the
 Temple was rebuilt, and Jewish orthodoxy began to be crystallized. 
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n335)
+In the period of the captivity, and for some time before and after
+this period, Jewish religion went through a very important
+development. Originally, there appears to have been not very much
+difference, from a religious point of view, between the Israelites and
+surrounding tribes. Yahweh was, at first, only a tribal god who
+favored the children of Israel, but it was not denied that there were
+other gods, and their worship was habitual.  When the first
+Commandment says "Thou shall have none other gods but me," it is
+saying something which was an innovation in the time immediately
+preceding the captivity. This is made evident by various texts in the
+earlier prophets. It was the prophets at this time who first taught
+that the worship of heathen gods was sin. To win the victory in the
+constant wars of that time, they proclaimed, the favor of Yahweh was
+essential; and Yahweh would withdraw his favor if other gods were also
+honored.  Jeremiah and Ezekiel, especially, seem to have invented the
+idea that all religions except one are false, and that the Lord
+punishes idolatry.
 
-In the period of the captivity, and for some time before and 
-after this period, Jewish religion went through a very important 
-development. Originally, there appears to have been not very 
-much difference, from a religious point of view, between the 
-Israelites and surrounding tribes. Yahweh was, at first, only a 
-tribal god who favored the children of Israel, but it was not 
-denied that there were other gods, and their worship was habitual. 
-When the first Commandment says "Thou shall have none other 
-gods but me," it is saying something which was an innovation 
-in the time immediately preceding the captivity. This is made 
-evident by various texts in the earlier prophets. It was the 
-prophets at this time who first taught that the worship of heathen 
-gods was sin. To win the victory in the constant wars of that time, 
-they proclaimed, the favor of Yahweh was essential; and Yahweh 
-would withdraw his favor if other gods were also honored. 
-Jeremiah and Ezekiel, especially, seem to have invented the idea 
-that all religions except one are false, and that the Lord punishes 
-idolatry. 
+Some quotations will illustrate their teachings, and the prevalence of
+the heathen practices against which they protested.  "Seest Thou not
+what they do in the cities of Judah and in the streets of Jerusalem?
+The children gather wood, and the fathers kindle the fire, and the
+women knead their dough, to make cakes to the queen of heaven
+[Ishtar], and pour out drink offerings unto other gods, that they may
+provoke me to anger."[^135] The Lord is angry about it. "And they have
+built the high places of Tophet, which is in the valley of the son of
+Hinnom, to burn their sons and their daughters in the fire; which I
+commanded them not, neither came it into my heart."[^136]
 
-Some quotations will illustrate their teachings, and the prevalence of the heathen practices against which they protested. 
-"Seest Thou not what they do in the cities of Judah and in the 
-streets of Jerusalem? The children gather wood, and the fathers 
-kindle the fire, and the women knead their dough, to make cakes 
-to the queen of heaven [Ishtar], and pour out drink offerings unto 
-other gods, that they may provoke me to anger." 1 The Ix>rd is 
-angry about it. "And they have built the high places of Tophct, 
-which is in the valley of the son of Hinnom, to burn their sons 
-and their daughters in the fire; which I commanded them not, 
-neither came it into my heart." 2 
+[^135]: Jeremiah vii, 17-18.
+[^136]: _Ibid_. vii, 31.
 
-There is a very interesting passage in Jeremiah in which he 
-denounces the Jews in Kgypt for their idolatry. He himself had 
-lived among them for a time. The prophet tells the Jewish refugees 
-in Egypt that Yahweh will destroy them all because their wives 
-have burnt incense to other gods. But they refuse to listen to him, 
+There is a very interesting passage in Jeremiah in which he denounces
+the Jews in Egypt for their idolatry. He himself had lived among them
+for a time. The prophet tells the Jewish refugees in Egypt that Yahweh
+will destroy them all because their wives have burnt incense to other
+gods. But they refuse to listen to him, saying: "We will certainly do
+whatsoever thing goeth forth out of our own mouth, to burn incense
+unto the queen of heaven, and to pour out drink offerings unto her, as
+we have done, we and our fathers, our kings and our princes, in the
+cities of Judah, and in the streets of Jerusalem; for then had we
+plenty of victuals, and were well, and saw no evil." But Jeremiah
+assures them that Yahweh noticed these idolatrous practices, and that
+misfortune has come because of them. "Behold, I have sworn by my great
+name, saith the Lord, that my name shall no more be named in the mouth
+of any man of Judah in all the land of Egypt....  I will watch over
+them for evil, and not for good; and all the men of Judah that are in
+the land of Egypt shall be consumed by the sword and by the famine,
+until there be an end of them."[^137]
 
-1 Jeremiah vii, 17-18. * Jbid. t vii, 31. 
+[^137]: Jeremiah xliv, ii-end.
 
-330 
-
-
-
-THE RELIGIOUS DEVELOPMENT OF THE JEWS 
-
-saying: "We will certainly do whatsoever thing goeth forth out 
-of our own mouth, to burn incense unto the queen of heaven, and 
-to pour out drink offerings unto her, as we have done, we and our 
-fathers, our kings and our princes, in the cities of Judah, and in 
-the streets of Jerusalem; for then had we plenty of victuals, and 
-were well, and saw no evil." But Jeremiah assures them that 
-Yahweh noticed these idolatrous practices, and that misfortune 
-has come because of them. "Behold, I have sworn by my great 
-name, saith the Lord, that my name shall no more be named in 
-the mouth of any man of Judah in all the land of Egypt. . . . 
-I will watch over them for evil, and not for good; and all the 
-men of Judah that are in the land of Egypt shall be consumed by 
-the sword and by the famine, until there be an end of them." 1 
-
-Iv/ckiel is equally shocked by the idolatrous practices of the 
-Jews. The Ix>rd in a vision shows him women at the north gate of 
+Ezekiel is equally shocked by the idolatrous practices of the 
+Jews. The Lord in a vision shows him women at the north gate of 
 the temple weeping for Tammuz (a Babylonian deity); then He 
 shows him "greater abominations," five and twenty men at the 
 door of the temple worshipping the sun. The Lord declares: 
 "Therefore will I also deal in fury: mine eye shall not spare, 
 neither will I have pity: and though they cry in mine ears with a 
-loud voice, yet will I not hear them." 2 
+loud voice, yet will I not hear them."[^138]
 
-The idea that all religions but one are wicked, and that the 
-Lord punishes idolatry, was apparently invented by these prophets. 
-The prophets, on the whole, were fiercely nationalistic, and looked 
-forward to the day when the Ix>rd would utterly destroy the 
-gentiles. 
+[^138]:  Ezekiel vii, ii-cnd.
 
-The captivity was taken to justify the denunciations of the 
-prophets. If Yahweh was all-powerful, and the Jews were his 
-Chosen People, their sufferings could only be explained by their 
-wickedness. The psychology is that of paternal correction: the 
-Jews are to be purified by punishment. Under the influence of this 
-belief, they developed, in exile, an orthodoxy much more rigid and 
-much more nationally exclusive than that which had prevailed while 
-they were independent. The Jews who remained behind and were 
-not transplanted to Babylon did not undergo this development 
-to anything like the same extent. When Ezra and Nehemiah came 
-back to Jerusalem after the captivity, they were shocked to find 
-that mixed marriages had been common, and they dissolved all 
-such marriages. 3 
+The idea that all religions but one are wicked, and that the Lord
+punishes idolatry, was apparently invented by these prophets.  The
+prophets, on the whole, were fiercely nationalistic, and looked
+forward to the day when the Lord would utterly destroy the gentiles.
 
-1 Jeremiah xliv, ii-cnd. ' Kzckiel vii, ii-cnd. * Ezra ix-x, 5. 
+The captivity was taken to justify the denunciations of the
+prophets. If Yahweh was all-powerful, and the Jews were his Chosen
+People, their sufferings could only be explained by their
+wickedness. The psychology is that of paternal correction: the Jews
+are to be purified by punishment. Under the influence of this belief,
+they developed, in exile, an orthodoxy much more rigid and much more
+nationally exclusive than that which had prevailed while they were
+independent. The Jews who remained behind and were not transplanted to
+Babylon did not undergo this development to anything like the same
+extent. When Ezra and Nehemiah came back to Jerusalem after the
+captivity, they were shocked to find that mixed marriages had been
+common, and they dissolved all such marriages.[^139]
 
-33' 
+[^139]: Ezra ix-x, 5.
 
+The Jews were distinguished from the other nations of antiquity by
+their stubborn national pride. All the others, when conquered,
+acquiesced inwardly as well as outwardly; the Jews alone retained the
+belief in their own pre-eminence, and the conviction that their
+misfortunes were due to God's anger, because they had failed to
+preserve the purity of their faith and ritual. The historical books of
+the Old Testament, which were mostly compiled after the captivity,
+give a misleading impression, since they suggest that the idolatrous
+practices against which the prophets protested were a falling-off from
+earlier strictness, whereas in fact the earlier strictness had never
+existed. The prophets were innovators to a much greater extent than
+appears in the Bible when read unhistorically.
 
+Some things which were afterwards characteristic of Jewish religion
+were developed, though in part from previously existing sources,
+during the captivity. Owing to the destruction of the Temple, where
+alone sacrifices could be offered, the Jewis ritual perforce became
+non-sacrificial. Synagogues began at this time, with readings from
+such portions of the Scriptures as already existed. The importance of
+the Sabbath was first emphasized at this time, and so was circumcism
+as the mark of the Jew. As we have already seen, it was only during
+the exile that marriage with gentiles came to be forbidden. There was
+a growth of every form of exclusiveness, "I am the Lord your God,
+which have separated you from other people."[^140] "Ye shall be holy,
+for I the Lord your God am holy."[^141] The Law is a product of this
+period. It was one of the chief forces in preserving national unity.
 
-WESTERN PHILOSOPHICAL THOUGHT 
+[^140]: Leviticus xx, 24.
+[^141]: _Ibid._ xix, 2.
 
-in our version of the Apocrypha. The morality taught is very 
-mundane. Reputation among neighbors is highly prized. Honesty 
-is the best policy, because it is useful to have Yahweh on your 
-side. Almsgiving is recommended. The only sign of Greek influence 
-is in the praise of medicine. 
+What we have as the Book of Isaiah is the work of two different
+prophets, one before the exile and one after. The second of these, who
+is called by Biblical students Deutero-Isaiah, is the most remarkable
+of the prophets. He is the first who reports the Lord as saying "There
+is no God but I." He believes in the resurrection of the body, perhaps
+as a result of Persian influence. His prophecies of the Messiah were,
+later, the chief Old Testament texts used to show that the prophets
+foresaw the coming of Christ.
 
-Slaves must not be treated too kindly. "Fodder, a wand, and 
-burdens, are for the ass: and bread, correction, and work, for a 
-servant. ... Set him to work, as is fit for him: if he be not 
-obedient, put on more heavy fetters"(xxiii, 24, 28). At the same 
-time, remember that you have paid a price for him, and that if 
-he runs away you will lose your money; this sets a limit to profitable severity (ibid., 30, 31). Daughters are a great source of 
-anxiety; apparently in the writer's day they were much addicted to 
-immorality (xlii, 9-11). He has a low opinion of women: "From 
-garments cometh a moth, and from women wickedness" (ibid., 13). 
-It is a mistake to be cheerful with your children; the right course 
-is to "bow down their neck from their youth" (vii. 23, 24). 
+In Christian arguments with both pagans and Jews, these texts from
+Deutero-Isaiah played a very important part, and for this reason I
+shall quote the most noteworthy of them. All nations are to be
+converted in the end: "They shall beat their swords into ploughshares,
+and their spears into pruning hooks: national shall not lift up sword
+against nation, neither shall they learn war any more" (Is. ii, 4):
+"Behold a virgin shall conceive and bear a son, and shall call his
+name Immanuel."[^142] (As to this text there was a controversy between
+Jews and Christians; the Jews said that the correct translation is "a
+young woman shall conceive," but the Christians thought the Jews were
+lying.) "The people that walked in darkness have seen a great light;
+they that dwell in the land of the shadow of death, upon them hath the
+light shined.... For unto us a child is born, unto us a son is given:
+and the government shall be upon his shoulder: and his name shall be
+called Wonderful, Counsellor, the mighty God, the everlasting Father,
+the Prince of Peace."[^143] The most apprantly prophetic of these
+passages is the fity-third chapter, which contains the familiar texts:
+"He is despised and rejected of men; a man of sorrows and acquainted
+with grief.... Surely he hath borne our griefs, and carried our
+sorrows.... But he was wounded for our transgressions, he was bruised
+for our iniquities: the chastisement of our peace was upon him; and
+with his stripes we are healed.... He was oppressed, and he was
+afflicted, yet he opened not his mouth: he is brought as a lamb to the
+slaughter, and as a sheep before the shearers is dumb, so he openeth
+not his mouth." The inclusion of the gentiles in the ultimate
+salvation is explicit: "And the gentiles shall come to thy light, and
+kings to the brightness of thy rising."[^144]
 
-Altogether, like the elder Cato, he represents the morality of 
-the virtuous business man in a very unattractive li^ht. 
+[^142]: Isaiah vii, 14.
+[^143]: _Ibid._, x, 2, 6.
+[^144]: _Ibid._, lx, 3.
 
-This tranquil existence ot comfortable self-righteousness was rudely
-interrupted by the Scleucid king Amiochus IV, who was determined to
+After Ezra and Nehemiah, the Jews for a while disappear from
+history. The Jewish State survived as a theocracy, but its territory
+was very small---only the region of ten to fifteen miles around
+Jerusalem, according to E. Bevan.[^145] After Alexander, it became a
+disputed territory between the Ptolemies and Seleucids. This, however,
+seldom involved fighting in actual Jewish territory, and left the
+Jews, for a long time, to the free exercise of their religion.
+
+[^145]: _Jerusalem under the High Priests_, p. 12.
+
+Their moral maxims, at this time, are set forth in Ecclesiasticus,
+probably written about 200 BC. Until recently, this book was only
+known in a Greek version; this is the reason for its being banished to
+the Apocrypha. But a Hebrew manuscript has lately been discovered, in
+some respects different from the Greek text translated in our version
+of the Apocrypha. The morality taught is very mundane. Reputation
+among neighbors is highly prized. Honesty is the best policy, because
+it is useful to have Yahweh on your side. Almsgiving is
+recommended. The only sign of Greek influence is in the praise of
+medicine.
+
+Slaves must not be treated too kindly. "Fodder, a wand, and burdens,
+are for the ass: and bread, correction, and work, for a
+servant. ... Set him to work, as is fit for him: if he be not
+obedient, put on more heavy fetters"(xxiii, 24, 28). At the same time,
+remember that you have paid a price for him, and that if he runs away
+you will lose your money; this sets a limit to profitable severity
+(_ibid._, 30, 31). Daughters are a great source of anxiety; apparently
+in the writer's day they were much addicted to immorality (xlii,
+9--11). He has a low opinion of women: "From garments cometh a moth,
+and from women wickedness" (_ibid._, 13).  It is a mistake to be
+cheerful with your children; the right course is to "bow down their
+neck from their youth" (vii. 23, 24).
+
+Altogether, like the elder Cato, he represents the morality of the
+virtuous business man in a very unattractive light.
+
+This tranquil existence of comfortable self-righteousness was rudely
+interrupted by the Seleucid king Amiochus IV, who was determined to
 hellenize all his dominions. In 175 BC he established a gymnasium in
-Jerusalem, and taught young men to ucar Greek hats and practice
+Jerusalem, and taught young men to wear Greek hats and practice
 athletics. In this he was helped by a hellenizing Jew named Jason,
 whom he made high priest. The priestly aristocracy had become lax, and
 had felt the attraction of Greek civilization; but they were
 vehemently opposed by a party called the "Hasidim" (meaning "Holy"),
-who were strong among the rural population. 1 When, in 170 BC,
-Antiochus became Involved in war with ligypt, the Jews rebelled.
+who were strong among the rural population.[^146] When, in 170 BC,
+Antiochus became involved in war with Egypt, the Jews rebelled.
 Thereupon Antiochus took the holy vessels from the Temple, and placed
 in it the image of the God. He identified Yahweh with Zeus, following
-a practice which had been successful ever)' where else.* He resolved
-to extirpate the Jewish religion, and to stop circumcision and the
-observance of the laws relating to food. To all this Jerusalem
+a practice which had been successful every where else.[^147] He
+resolved to extirpate the Jewish religion, and to stop circumcision
+and the observance of the laws relating to food. To all this Jerusalem
 submitted, but outside Jerusalem the Jews resisted with the utmost
 stubbornness.
 
-1 From them, probably, developed the sect of the Essenes, whose 
-doctrines seem to have influenced primitive Christianity. Sec Ocstcrlcy 
-and Robinson, Ilutury of Israel, Vol. II, p. 323 II. The Pharisee* also 
-descended from them. 
+[^146]: From them, probably, developed the sect of the Essenes, whose doctrines seem to have influenced primitive Christianity. Sec Ocasterley and Robinson, _History of Israel_, Vol. II, p. 323 ff. The Pharisees also descended from them. 
+[^147]: Some Alexandrian Jews did not object to this identification. See _Letter of Aristeas_, 15, 16. 
 
-9 Some Alexandrian Jew* did not object to this identification. See 
-Letter uf Aris teas t 15, 16. 
+The history of this period is told in the First Book of Maccabees.
+The first chapter tells how Antiochus decreed that all the inhabitants
+of his kingdom should be one people, and abandon their separate
+laws. All the heathen obeyed, and many of the Israelites, although the
+king commanded that they should profane the sabbath, sacrifice swine's
+flesh, and leave their children uncircumcised. All who disobeyed were
+to suffer death. Many, nevertheless, resisted. "They put to death
+certain women, that had caused their children to be circumcised. And
+they hanged the infants about their necks, and rifled their houses,
+and slew them that had circumcised them. Howbeit many in Israel were
+fully resolved and confirmed in themselves not to eat any unclean
+thing. Wherefore they chose rather to die, that they might not be
+defiled with meats, and that they might not profane the holy covenant:
+so then they died."[^148]
 
-The history of this period is told in the First Book of Maccabees. 
-The first chapter tells how Antiochus decreed that all the inhabitants of his kingdom should be one people, and abandon their 
-separate laws. All the heathen obeyed, and many of the Israelites, 
-although the king commanded that they should profane the 
-sabbath, sacrifice swine's flesh, and leave their children uncircumcised. All who disobeyed were to suffer death. Many, nevertheless, resisted. "They put to death certain women, that had caused 
-their children to be circumcised. And they hanged the infants 
-about their necks, and rifled their houses, and slew them that had 
-circumcised them. Howbeit many in Israel were fully resolved 
-and confirmed in themselves not to eat any unclean thing. Wherefore they chose rather to die, that they might not be defiled with 
-meats, and that they might not profane the holy covenant: so then 
-they died." 1 
+[^148]: I Maccabees i, 60--3.
 
-It was at this time that the doctrine of immortality came to be 
-widely believed among the Jews. It had been thought that virtue 
-would be rewarded here on earth; but persecution, which fell 
-upon the most virtuous, made it evident that this was not the case. 
-In order to safeguard divine justice, therefore, it was necessary 
-to believe in rewards and punishments hereafter. This doctrine 
-was not universally accepted among the Jews; in the time of 
-Christ, the Sadducees still rejected it. But by that time they 
-were a small party, and in later times all Jews believed in immortality. 
+It was at this time that the doctrine of immortality came to be widely
+believed among the Jews. It had been thought that virtue would be
+rewarded here on earth; but persecution, which fell upon the most
+virtuous, made it evident that this was not the case.  In order to
+safeguard divine justice, therefore, it was necessary to believe in
+rewards and punishments hereafter. This doctrine was not universally
+accepted among the Jews; in the time of Christ, the Sadducees still
+rejected it. But by that time they were a small party, and in later
+times all Jews believed in immortality.
 
-The revolt against Antiochus was led by Judas Maccabaeus, an 
-able military commander, who first recaptured Jerusalem (164 BC), 
-and then embarked upon aggression. Sometimes he killed all the 
-males, sometimes he circumcised them by force. His brother 
-Jonathan was made high priest, was allowed to occupy Jerusalem 
-with a garrison, and conquered part of Samaria, acquiring Joppa 
-and Akra. He negotiated with Rome, and was successful in securing 
-complete autonomy. His family were high priests until Herod, 
-and are known as the I lasmonean dynasts. 
+The revolt against Antiochus was led by Judas Maccabaeus, an able
+military commander, who first recaptured Jerusalem (164 BC), and then
+embarked upon aggression. Sometimes he killed all the males, sometimes
+he circumcised them by force. His brother Jonathan was made high
+priest, was allowed to occupy Jerusalem with a garrison, and conquered
+part of Samaria, acquiring Joppa and Akra. He negotiated with Rome,
+and was successful in securing complete autonomy. His family were high
+priests until Herod, and are known as the Hasmonean dynasts.
 
-In enduring and resisting persecution the Jews of this time 
-showed immense heroism, although in defense of things that do 
-1 I Maccabees i, 60-3. 
-
-335 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-The New Testament writers are familiar with it; St. Jude considers it to be actually by Enoch. Early Christian Fathers, for 
-instance Clement of Alexandria and Tertullian, treated it as 
-canonical, but Jerome and Augustine rejected it. It fell, consequently, into oblivion, and was lost until, early in the nineteenth 
-century, three manuscripts of it, in Ethiopic, were found in 
-Abyssinia. Since then, manuscripts of parts of it have been found 
-in Greek and Latin versions. It appears to have been originally 
-written partly in Hebrew, partly in Aramaic. Its authors were 
-members of the Hasidim, and their successors the Pharisees. It 
-denounces kings and princes, meaning the Hasmonean dynasty 
-and the Sadducees. It influenced New Testament doctrine, 
-particularly as regards the Messiah, Sheol (hell), and demonology. 
+In enduring and resisting persecution the Jews of this time showed
+immense heroism, although in defense of things that do The New
+Testament writers are familiar with it; St. Jude considers it to be
+actually by Enoch. Early Christian Fathers, for instance Clement of
+Alexandria and Tertullian, treated it as canonical, but Jerome and
+Augustine rejected it. It fell, consequently, into oblivion, and was
+lost until, early in the nineteenth century, three manuscripts of it,
+in Ethiopic, were found in Abyssinia. Since then, manuscripts of parts
+of it have been found in Greek and Latin versions. It appears to have
+been originally written partly in Hebrew, partly in Aramaic. Its
+authors were members of the Hasidim, and their successors the
+Pharisees. It denounces kings and princes, meaning the Hasmonean
+dynasty and the Sadducees. It influenced New Testament doctrine,
+particularly as regards the Messiah, Sheol (hell), and demonology.
 
 The book consists mainly of "parables," which are more cosmic 
 than those of the New Testament. There are visions of heaven 
 and hell, of the Last Judgment, and so on; one is reminded of the 
-first two Books of Paradise Lost where the literary quality is good, 
+first two Books of _Paradise Lost_ where the literary quality is good, 
 and of Blake's Prophetic Books where it is inferior. 
 
-There is an expansion of Genesis vi, 2, 4, which is curious and 
-Promethean. The angels taught men metallurgy, and were punished 
-for revealing ''eternal secrets." They were also cannibals. The 
-angels that had sinned became pagan gods, and their women 
-became sirens; but at the last, they were punished with everlajtin^ 
-torments. 
+There is an expansion of Genesis vi, 2, 4, which is curious and
+Promethean. The angels taught men metallurgy, and were punished for
+revealing "eternal secrets." They were also cannibals. The angels that
+had sinned became pagan gods, and their women became sirens; but at
+the last, they were punished with everlasting torments.
 
-There are descriptions of heaven and hell which have considerable literary merit. The Last Judgipent is performed by "the Son 
-of Man, who hath righteousness" and who sits on the throne of 
-His glory. Some of the gentiles, at the last, will repent and be 
-forgiven; but most gentiles, and all hellenizing Jews, will suffer 
-eternal damnation, for the righteous will pray for vengeance, and 
-their prayer will be granted. 
+There are descriptions of heaven and hell which have considerable
+literary merit. The Last Judgement is performed by "the Son of Man,
+who hath righteousness" and who sits on the throne of His glory. Some
+of the gentiles, at the last, will repent and be forgiven; but most
+gentiles, and all hellenizing Jews, will suffer eternal damnation, for
+the righteous will pray for vengeance, and their prayer will be
+granted.
 
 There is a section on astronomy, where we learn that the sun 
 and moon have chariots driven by the wind, that the year consists 
@@ -13014,13 +13079,6 @@ archangels.
 Next comes sacred history. Up to the Maccabees, this pursues 
 the course known from the Bible in its earlier portions, and from 
 history in the later parts. Then the author goes on into the future: 
-
-338 
-
-
-
-THE RELIGIOUS DEVELOPMENT OF THE JEWS 
-
 the New Jerusalem, the conversion of the remnant of the gentiles, 
 the resurrection of the righteous, and the Messiah. 
 
@@ -13051,31 +13109,24 @@ Scribes and Pharisees. The Christians endeavored to practice
 Christian humility; the Jews, in general, did not. 
 
 There are, however, important exceptions among orthodox Jews 
-just before the lime of Christ. Take, for instance, "The Testaments 
-ill" the Twelve Patriarchs/ 1 written between 109 and 107 BC by 
+just before the time of Christ. Take, for instance, "The Testaments 
+of the Twelve Patriarchs," written between 109 and 107 BC by 
 a Pharisee who admired John Hyrcanus, a high priest of the 
-Ihusmonean dynasty. This book, in the form in which we have it, 
+Hasmonean dynasty. This book, in the form in which we have it, 
 contains Christian interpolations, but these are all concerned with 
 dogma. When they are excised, the ethical teaching remains closely 
-similar to that of the ( jnspels. As the Rev. Dr. R. H. Charles says: 
+similar to that of the Gospels. As the Rev. Dr. R. H. Charles says: 
 "The Sermon on the Mount reflects in several instances the spirit 
 and even reproduces the very phrases of our text: many passages 
-in tlir (iospcls exhibit traces of the same, and St. Paul seems to 
-have used the book as a vade mecuin" (op. '/., pp. 291-2). We 
-lind in this hook such preempts as the following: 
+in their Gospels exhibit traces of the same, and St. Paul seems to 
+have used the book as a vade mecum" (_op. cit._, pp. 291-2). We 
+find in this book such preempts as the following: 
 
 "Love ye one another from the heart; and if a man sin against 
-thec, speak peaceably to him, and in thy soul hold not guile; and 
-
-339 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+thee, speak peaceably to him, and in thy soul hold not guile; and 
 if he repent and confess, forgive him. But if he deny it, do not 
 get into a passion with him, lest catching the poison from thee 
-he take to swearing, and so then sin doubly. . . . And if he be 
+he take to swearing, and so then sin doubly.... And if he be 
 shameless and persist in wrong-doing, even so forgive him from 
 the heart, and leave to God the avenging." 
 
@@ -13088,43 +13139,38 @@ with this passage. Again we find:
 true heart." 
 
 "I love the Lord; likewise also every man with all my heart." 
-These are to be compared with Matthew xxii, 37-39. There is a 
+These are to be compared with Matthew xxii, 37--39. There is a 
 reprobation of all hatred in "The Testaments of the Twelve 
 Patriarchs"; for instance: 
 
 "Anger is blindness, and docs not suffer one to see the face of 
 any man with truth." 
 
-"Hatred, therefore, is evil; for it constantly matcth with lying." 
+"Hatred, therefore, is evil; for it constantly mateth with lying." 
 The author of this book, as might be expected, holds that not only 
 the Jews, but all the gentiles, will be saved. 
 
-Christians have learnt from the Gospels to think ill of Pharisees, 
-yet the author of this book was a Pharisee, and he taught, as we 
-have seen, those very ethical maxims which we think of as most 
-distinctive of Christ's preaching. The explanation, however, is 
-not difficult. In the first place, he must have been, even in his own 
-day, an exceptional Pharisee; the more usual doctrine was, no 
-doubt, that of the Book of Enoch. In the second place, we know 
-that all movements tend to ossify; who could infer the principles 
-of Jefferson from those of the Daughters of the American Revolution? In the third place, we know, as regards the Pharisees in 
-particular, that their devotion to the Law, as the absolute and 
-final truth, soon put an end to all fresh and living thought and 
-feeling among them. As Dr. Charles says: 
+Christians have learnt from the Gospels to think ill of Pharisees, yet
+the author of this book was a Pharisee, and he taught, as we have
+seen, those very ethical maxims which we think of as most distinctive
+of Christ's preaching. The explanation, however, is not difficult. In
+the first place, he must have been, even in his own day, an
+exceptional Pharisee; the more usual doctrine was, no doubt, that of
+the Book of Enoch. In the second place, we know that all movements
+tend to ossify; who could infer the principles of Jefferson from those
+of the Daughters of the American Revolution? In the third place, we
+know, as regards the Pharisees in particular, that their devotion to
+the Law, as the absolute and final truth, soon put an end to all fresh
+and living thought and feeling among them. As Dr. Charles says:
 
-"When Pharisaism, breaking with the ancient ideals of its party, 
-committed itself to political interests and movements, and concurrently therewith surrendered itself more and more wholly to 
-the study of the letter of the Law, it soon ceased to offer scope for 
-the development of such a lofty system of ethics as the Testaments 
-[of the Patriarchs] attest, and so the true successors of the early 
-Hasids and their teaching quitted Judaism and found their natural 
-home in the bosom of primitive Christianity." 
-
-340 
-
-
-
-THE RELIGIOUS DEVELOPMENT OF THE JEWS 
+"When Pharisaism, breaking with the ancient ideals of its party,
+committed itself to political interests and movements, and
+concurrently therewith surrendered itself more and more wholly to the
+study of the letter of the Law, it soon ceased to offer scope for the
+development of such a lofty system of ethics as the Testaments
+[of the Patriarchs] attest, and so the true successors of the early
+Hasids and their teaching quitted Judaism and found their natural home
+in the bosom of primitive Christianity."
 
 After a period of rule by the High Priests, Mark Antony made 
 his friend Herod King of the Jews. Herod was a gay adventurer, 
@@ -13142,7 +13188,7 @@ it was rumored that he was dying, the Pharisees pulled down the
 eagle, but he, in revenge, caused a number of them to be put to 
 death. He died in 4 BC, and soon after his death the Romans 
 abolished the kingship, putting Judea under a procurator. Pontius 
-Pilate, who became procurator in A.U. 26, was tactless, and was 
+Pilate, who became procurator in AD 26, was tactless, and was 
 soon retired. 
 
 In AD 66, the Jews, led by the party of the Zealots, rebelled 
@@ -13165,12 +13211,62 @@ the result was the Septuagint. The Pentateuch was translated in
 the middle of the third century BC; the other parts somewhat 
 later. 
 
-Legends arose about the Septuagint, so called because it was 
-the work of seventy translators. It was said that each of the 
-seventy translated the whole independently, and that when the 
-versions were compared they were found to be identical down to 
+Legends arose about the Septuagint, so called because it was the work
+of seventy translators. It was said that each of the seventy
+translated the whole independently, and that when the versions were
+compared they were found to be identical down to the smallest detail,
+having all been divinely inspired. Nevertheless, later scholarship
+showed that the Septuagint was gravely defective. The Jews, after the
+rise of Christianity, made little use of it, but reverted to reading
+the Old Testament in Hebrew. The early Christians, on the contrary,
+few of whom knew Hebrew, depended upon the Septuagint, or upon
+translations from it into Latin. A better text was produced by the
+labors of Origen in the third century, but those who only knew latin
+had very defective versions until Jerome, in the fifth century,
+produced the Vulgate. This was, at first received with much criticism,
+because he had been helped by Jews in establishing the text, and many
+Christians thought that Jews had deliberately falsified the prophets
+in order that they should not seem to foretell Christ. Gradually,
+however, the work of St. Jerome was accepted, and it remains to this
+day authoritative in the Catholic Church.
 
+In every important city of antiquity there came to be considerable
+colonies of Jews, who shared with the representatives of other Eastern
+religions as an influence upon those who were not content either with
+scepticism or with the official religions of Grecce and Rome. Many
+converts were made to Judaism, not only in the Empire, but also in
+South Russia. It was probably to Jewish and semi-Jewish circles that
+Christianity first appealed. Orthodox Judaism, however, became more
+orthodox and more narrow after the fall of Jerusalem, just as it had
+done after the earlier fall due to Nebuchadrezzr. After the first
+century, Christianity also crystallized, and the relations of Judaism
+and Christianity were wholly hostile and external; as we shall see,
+Christianity powerfully stimulated anti-Semitism. Throughout the
+Middle Ages, Jews had no part in the culture of Christian countries,
+and were too severely persecuted to be able to make contributions to
+civilization, beyond supplying capital for the building of cathedrals
+and such enterprises. It was only among the Mohammedans, at that
+period, that the Jews were treated humanely, and were able to pursue
+philosophy and enlightened speculation.
 
+Throughtout the Middle Ages, the Mohammedans were more civilized and
+more humane than the Christians. Christians persecuted Jews,
+especially at times of religious excitement; the Crusades were
+associated with appalling pogroms. In Mohammedan countries, on the
+contrary, Jews at most times were not in any way ill
+treated. Especially in Moorish Spain, they contributed to learning;
+Maimonides (1135--1024), who was born at Cordova, is regarded by some
+as the source of much of Spinoza's philosphy. When the Christians
+reconquered Spain, it was largely the Jews who transmitted to them the
+learning of the Moors. Learned Jews, who knew Hebrew, Greek, and
+Arabic, and were acquainted with the philosophy of Aristotle, imparted
+their knowledge to less learned schoolmen. They transmitted also less
+desirable things, such as alchemy and astrology.
+
+After the Middle Ages, the Jews still contributed largely to
+civilization as individuals, but no longer as a race.
+
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n343)
 
 ## Chapter II CHRISTIANITY DURING THE FIRST FOUR CENTURIES 
 
@@ -23235,7 +23331,7 @@ although Harvey was his medical attendant. It is true that Harvey
 did not publish his discover}' of the circulation of the blood until 
 after Bacon's death, but one would have supposed that Bacon 
 would have been aware of his researches. Harvey had no very high 
-opinion of him, saying "he writes philosophy like a Ix>rd Chancellor." No doubt Bacon could have done better if he had been 
+opinion of him, saying "he writes philosophy like a Lord Chancellor." No doubt Bacon could have done better if he had been 
 less concerned with worldly success. 
 
 Bacon's inductive method is faulty through insufficient emphasis 
