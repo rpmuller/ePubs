@@ -12788,50 +12788,43 @@ Temple was rebuilt, and Jewish orthodoxy began to be crystallized.
 
 [stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n335)
 
-In the period of the captivity, and for some time before and 
-after this period, Jewish religion went through a very important 
-development. Originally, there appears to have been not very 
-much difference, from a religious point of view, between the 
-Israelites and surrounding tribes. Yahweh was, at first, only a 
-tribal god who favored the children of Israel, but it was not 
-denied that there were other gods, and their worship was habitual. 
-When the first Commandment says "Thou shall have none other 
-gods but me," it is saying something which was an innovation 
-in the time immediately preceding the captivity. This is made 
-evident by various texts in the earlier prophets. It was the 
-prophets at this time who first taught that the worship of heathen 
-gods was sin. To win the victory in the constant wars of that time, 
-they proclaimed, the favor of Yahweh was essential; and Yahweh 
-would withdraw his favor if other gods were also honored. 
-Jeremiah and Ezekiel, especially, seem to have invented the idea 
-that all religions except one are false, and that the Lord punishes 
-idolatry. 
+In the period of the captivity, and for some time before and after
+this period, Jewish religion went through a very important
+development. Originally, there appears to have been not very much
+difference, from a religious point of view, between the Israelites and
+surrounding tribes. Yahweh was, at first, only a tribal god who
+favored the children of Israel, but it was not denied that there were
+other gods, and their worship was habitual. When the first Commandment
+says "Thou shall have none other gods but me," it is saying something
+which was an innovation in the time immediately preceding the
+captivity. This is made evident by various texts in the earlier
+prophets. It was the prophets at this time who first taught that the
+worship of heathen gods was sin. To win the victory in the constant
+wars of that time, they proclaimed, the favor of Yahweh was essential;
+and Yahweh would withdraw his favor if other gods were also honored.
+Jeremiah and Ezekiel, especially, seem to have invented the idea that
+all religions except one are false, and that the Lord punishes
+idolatry.
 
-Some quotations will illustrate their teachings, and the prevalence of the heathen practices against which they protested. 
-"Seest Thou not what they do in the cities of Judah and in the 
-streets of Jerusalem? The children gather wood, and the fathers 
-kindle the fire, and the women knead their dough, to make cakes 
-to the queen of heaven [Ishtar], and pour out drink offerings unto 
-other gods, that they may provoke me to anger." 1 The Ix>rd is 
-angry about it. "And they have built the high places of Tophct, 
-which is in the valley of the son of Hinnom, to burn their sons 
-and their daughters in the fire; which I commanded them not, 
-neither came it into my heart." 2 
+Some quotations will illustrate their teachings, and the prevalence of
+the heathen practices against which they protested. "Seest Thou not
+what they do in the cities of Judah and in the streets of Jerusalem?
+The children gather wood, and the fathers kindle the fire, and the
+women knead their dough, to make cakes to the queen of heaven
+[Ishtar], and pour out drink offerings unto other gods, that they may
+provoke me to anger."[^135] The Lord is angry about it. "And they have
+built the high places of Tophct, which is in the valley of the son of
+Hinnom, to burn their sons and their daughters in the fire; which I
+commanded them not, neither came it into my heart."[^136]
+
+[^135]: Jeremiah vii, 17--18. 
+[^136]: _Ibid._ vii, 31. 
 
 There is a very interesting passage in Jeremiah in which he 
-denounces the Jews in Kgypt for their idolatry. He himself had 
+denounces the Jews in Egypt for their idolatry. He himself had 
 lived among them for a time. The prophet tells the Jewish refugees 
 in Egypt that Yahweh will destroy them all because their wives 
 have burnt incense to other gods. But they refuse to listen to him, 
-
-1 Jeremiah vii, 17-18. * Jbid. t vii, 31. 
-
-330 
-
-
-
-THE RELIGIOUS DEVELOPMENT OF THE JEWS 
-
 saying: "We will certainly do whatsoever thing goeth forth out 
 of our own mouth, to burn incense unto the queen of heaven, and 
 to pour out drink offerings unto her, as we have done, we and our 
@@ -12841,24 +12834,28 @@ were well, and saw no evil." But Jeremiah assures them that
 Yahweh noticed these idolatrous practices, and that misfortune 
 has come because of them. "Behold, I have sworn by my great 
 name, saith the Lord, that my name shall no more be named in 
-the mouth of any man of Judah in all the land of Egypt. . . . 
+the mouth of any man of Judah in all the land of Egypt.... 
 I will watch over them for evil, and not for good; and all the 
 men of Judah that are in the land of Egypt shall be consumed by 
-the sword and by the famine, until there be an end of them." 1 
+the sword and by the famine, until there be an end of them."[^137]
 
-Iv/ckiel is equally shocked by the idolatrous practices of the 
-Jews. The Ix>rd in a vision shows him women at the north gate of 
+[^137]: Jeremiah xliv, ii-end.
+
+Ezckiel is equally shocked by the idolatrous practices of the 
+Jews. The Lord in a vision shows him women at the north gate of 
 the temple weeping for Tammuz (a Babylonian deity); then He 
 shows him "greater abominations," five and twenty men at the 
 door of the temple worshipping the sun. The Lord declares: 
 "Therefore will I also deal in fury: mine eye shall not spare, 
 neither will I have pity: and though they cry in mine ears with a 
-loud voice, yet will I not hear them." 2 
+loud voice, yet will I not hear them."[^138]
+
+[^138]: Ezekiel vii, ii-end.
 
 The idea that all religions but one are wicked, and that the 
 Lord punishes idolatry, was apparently invented by these prophets. 
 The prophets, on the whole, were fiercely nationalistic, and looked 
-forward to the day when the Ix>rd would utterly destroy the 
+forward to the day when the Lord would utterly destroy the 
 gentiles. 
 
 The captivity was taken to justify the denunciations of the 
@@ -12873,15 +12870,48 @@ not transplanted to Babylon did not undergo this development
 to anything like the same extent. When Ezra and Nehemiah came 
 back to Jerusalem after the captivity, they were shocked to find 
 that mixed marriages had been common, and they dissolved all 
-such marriages. 3 
+such marriages.[^139]
 
-1 Jeremiah xliv, ii-cnd. ' Kzckiel vii, ii-cnd. * Ezra ix-x, 5. 
+[^139]: Ezra ix-x, 5. 
 
-33' 
+The Jews were distinguished from the other nations of antiquity by
+their stubborn national pride. All the others, when conquered,
+acquiesced inwardly as well as outwardly; the Jews alone retained the
+belief in their own pre-eminence, and the conviction that their
+misfortunes were due to God's anger, because they had failed to
+preserve the purity of their faith and ritual. The historical books of
+the Old Testament, which were mostly compiled after the captivity,
+give a misleading impression, since they suggest that the idolatrous
+practices against which the prophets protested were a falling-off from
+earlier strictness, whereas in fact the earlier strictness had never
+existed. The prophets were innovators to a much greater extent than
+appears in the Bible read unhistorically.
 
+Some things which were afterwards characteristic of Jewish religion
+were developed, though in part from previously existing sources,
+during the captivity. Owing to the destruction of the Temple, where
+alone sacrifices could be offered, the Jewish ritual perforce became
+non-sacrificial. Synagogues began at this time, with readings from
+such portions of the Scriptures as already existed. The importance of
+the Sabbath wsa first emphasized at this time, and so was circumcision
+as the mark of the Jew. As we have already seen, it was only during
+the exile that marriage with gentiles came to be forbidden. There was
+a growth of every form of exclusiveness, "I am the Lord your God,
+which have separated you from other people."[^140] "Ye shall be holy,
+for I the Lord your God am holy."[^141] The Law is a product of this
+period. It was one of the chief forces in preserving national unity.
 
+[^140]: Leviticus xx, 24.
+[^141]: _Ibid._, xix, 2.
 
-WESTERN PHILOSOPHICAL THOUGHT 
+What we have as the Book of Isaiah is the work of two different
+prophets, one before the exile and one after. The second of these, who
+is called by Biblical students Deutero-Isaiah, is the most remarkable
+of the prophets. He is the first who reports the Lord as saying "There
+is no God but I." He believes in the resurrection of the body, perhaps
+as a result of Persian influence. His prophecies of the Messiah were,
+later, the chief Old Testament texts used to show that the prophets
+foresaw the coming of Christ.
 
 in our version of the Apocrypha. The morality taught is very 
 mundane. Reputation among neighbors is highly prized. Honesty 
@@ -23235,7 +23265,7 @@ although Harvey was his medical attendant. It is true that Harvey
 did not publish his discover}' of the circulation of the blood until 
 after Bacon's death, but one would have supposed that Bacon 
 would have been aware of his researches. Harvey had no very high 
-opinion of him, saying "he writes philosophy like a Ix>rd Chancellor." No doubt Bacon could have done better if he had been 
+opinion of him, saying "he writes philosophy like a Lord Chancellor." No doubt Bacon could have done better if he had been 
 less concerned with worldly success. 
 
 Bacon's inductive method is faulty through insufficient emphasis 
