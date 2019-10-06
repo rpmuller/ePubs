@@ -13233,7 +13233,7 @@ day authoritative in the Catholic Church.
 In every important city of antiquity there came to be considerable
 colonies of Jews, who shared with the representatives of other Eastern
 religions as an influence upon those who were not content either with
-scepticism or with the official religions of Grecce and Rome. Many
+skepticism or with the official religions of Grecce and Rome. Many
 converts were made to Judaism, not only in the Empire, but also in
 South Russia. It was probably to Jewish and semi-Jewish circles that
 Christianity first appealed. Orthodox Judaism, however, became more
@@ -13249,7 +13249,7 @@ and such enterprises. It was only among the Mohammedans, at that
 period, that the Jews were treated humanely, and were able to pursue
 philosophy and enlightened speculation.
 
-Throughtout the Middle Ages, the Mohammedans were more civilized and
+Throughout the Middle Ages, the Mohammedans were more civilized and
 more humane than the Christians. Christians persecuted Jews,
 especially at times of religious excitement; the Crusades were
 associated with appalling pogroms. In Mohammedan countries, on the
@@ -13265,3 +13265,771 @@ desirable things, such as alchemy and astrology.
 
 After the Middle Ages, the Jews still contributed largely to
 civilization as individuals, but no longer as a race.
+
+## Chapter II CHRISTIANITY DURING THE FIRST FOUR CENTURIES 
+
+Christianity, at first, was preached by Jews to Jews, as a reformed
+Judaism. St. James, and to a lesser extent St. Peter, wished it to
+remain no more than this, and they might have prevailed but for St.
+Paul, who was determined to admit gentiles without demanding
+circumcision or submission to the Mosaic Law. The contention between
+the two factions is related in the Acts of the Apostles, from a
+Pauline point of view. The communities of Christians that St. Paul
+established in many places, were, no doubt, composed partly of
+converts from among the Jews, partly of gentiles seeking a new
+religion. The certainties of Judaism made it attractive in that age of
+dissolving faiths, but circumcision was an obstacle to the conversion
+of men. The ritual laws in regard to food were also inconvenient.
+These two obstacles, even if there had been no others, would have made
+it almost impossible for the Hebrew religion to become universal.
+Christianity, owing to St. Paul, retained what was attractive in the
+doctrines of the Jews, without the features that gentiles found
+hardest to assimilate.
+
+The view that the Jews were the Chosen People remained, however,
+obnoxious to Greek pride. This view was radically rejected by the
+Gnostics. They, or at least some of them, held that the sensible world
+had been created by an inferior deity named laldabaoth, the rebellious
+son of Sophia (heavenly wisdom). He, they said, is the Yahweh of the
+Old Testament, while the serpent, so far from being wicked, was
+engaged in warning Eve against his deceptions. For a long time, the
+supreme deity allowed Ialdabaoth free play; at last lie sent His Son
+to inhabit temporarily the body of the man Jesus, and to liberate the
+world from the false teaching of Moses. Those who held this view, or
+something like it, combined it, as a rule, with a Platonic philosophy;
+Plotinus, as we saw, found some difficulty in refuting it. Gnosticism
+afforded a half-way house between philosophic paganism and
+Christianity, for, while it honored Christ, it thought ill of the
+Jews. The same was true, later, of Manichaeism, through which St.
+Augustine came to the Catholic Faith. Manichaeism combined Christian
+and Zoroastrian elements, teaching that evil is a positive principle,
+embodied in matter, while the good principle is embodied in spirit. It
+condemned meat-eating, and all sex, even in marriage. Such
+intermediate doctrines helped much in the gradual conversion of
+cultivated men of Greek speech; but the New Testament warns true
+believers against them: "O Timothy, keep that which is committed to
+thy trust, avoiding profane and vain babblings, and oppositions of
+science [Gnosis] falsely so called: which some professing have erred
+concerning the faith."[^149]
+
+[^149]: I Timothy vi, 20, 21.
+
+Gnostics and Manichaeans continued to flourish until the government
+became Christian. After that time they were led to conceal their
+beliefs, but they still had a subterranean influence. One of the
+doctrines of a certain sect of Gnostics was adopted by Mohammed. They
+taught that Jesus was a mere man, and that the Son of God descended
+upon him at the baptism, and abandoned him at the time of the Passion.
+In support of this view they appealed to the text: "My God, my God,
+why hast thou forsaken me?"[^150] a text which, it must be confessed,
+Christians have always found difficult. The Gnostics considered it
+unworthy of the Son of God to be born, to be an infant, and, above
+all, to die on the cross; they said that these things had befallen the
+man Jesus, but not the divine Son of God. Mohammed, who recognized
+Jesus as a prophet, though not as divine, had a strong class feeling
+that prophets ought not to come to a bad end. He therefore adopted the
+view of the Docetics (a Gnostic sect), according to which it was a
+mere phantom that hung upon the cross, upon which, impotently and
+ignorantly, Jews and Romans wreaked their ineffectual vengeance. In
+this way, something of Gnosticism passed over into the orthodox
+doctrine of Islam.
+
+[^150]: Mark xxv, 34. 
+
+The attitude of Christians to contemporary Jews early became hostile.
+The received view was that God had spoken to the patriarchs and
+prophets, who were holy men, and had foretold the coming of Christ;
+but when Christ came, the Jews failed to recognize Him, and were
+thenceforth to be accounted wicked. Moreover Christ had abrogated the
+Mosaic Law, substituting the two commandments to love God and our
+neighbor; this, also, the Jews perversely failed to recognize. As soon
+as the State became Christian, anti-Semitism, in its medieval form,
+began, nominally as a manifestation of Christian zeal. How far the
+economic motives, by which it was inflamed in later times, operated in
+the Christian Empire, it seems impossible to ascertain.
+
+In proportion as Christianity became hellenized, it became
+theological. Jewish theology was always simple. Yahweh developed from
+a tribal deity into the sole omnipotent God who created heaven and
+earth; divine justice, when it was seen not to confer earthly
+prosperity upon the virtuous, was transferred to heaven, which
+entailed belief in immortality. But throughout its evolution the
+Jewish creed involved nothing complicated and metaphysical; it had no
+mysteries, and every Jew could understand it.
+
+This Jewish simplicity, on the whole, still characterizes the synoptic
+Gospels (Matthew, Mark, and Luke), but has already disappeared in St.
+John, where Christ is identified with the Platonic-Stoic Logos. It is
+less Christ the Man than Christ 'the theological figure that interests
+the fourth evangelist. This is still more true of the Fathers; you mil
+find, in their writings, many more allusions to St. John than to the
+other three gospels put together. The Pauline epistles also contain
+much theology, especially as regards salvation; at the same time they
+show a considerable acquaintance with Greek culture a quotation from
+Menander, an allusion to Epimenides the Cretan who said that all
+Cretans are liars, and so on. Nevertheless St. Paul[^151] says: "Beware
+lest any man spoil you through philosophy and vain deceit."
+
+[^151]: Or rather the author of an Epistle attributed to St. Paul---Colossians ii,8. 
+
+
+The synthesis of Greek philosophy and Hebrew scriptures 
+remained more or less haphazard and fragmentary until the time 
+of Origen (AD 185--254). Origen, like Philo, lived in Alexandria, 
+which, owing to commerce and the university, was, from its 
+foundation to its fall, the chief center of learned syncretism. Like 
+his contemporary Plotinus, he was a pupil of Ammonius Saccas, 
+whom many regard as the founder of Neoplatonisrn. His doctrines, 
+as set forth in his work _De Principtis_, have much affinity to those 
+of Plotinus more, in fact, than is compatible with orthodoxy. 
+
+There is, Origen says, nothing wholly incorporeal except God 
+Father, Son, and Holy Ghost. The stars are living rational beings, 
+to whom God has given souls that were already in existence. The 
+sun, he thinks, can sin. The souls of men, as Plato taught, come 
+to them at birth from elsewhere, having existed ever since the 
+Creation. _Nous_ and soul are distinguished more or less as in 
+Plotinus. When _Nous_ falls away, it becomes soul; soul, when 
+virtuous, becomes _Nous_. Ultimately all spirits will become wholly 
+submissive to Christ, and will then be bodiless. Even the devil 
+will be saved at the last. 
+
+Origen, in spite of being recognized as one of the Fathers, was, 
+in later times, condemned as having maintained four heresies: 
+1 . The pre-existence of souls, as taught by Plato. 
+2. That the human nature of Christ, and not only His divine nature,
+   existed before the Incarnation.
+3. That, at the resurrection, our bodies will be transformed into
+   absolutely ethereal bodies.
+4. That all men, and even devils, shall be saved at the last. 
+St. Jerome, who had expressed a somewhat unguarded admiration of
+Origen for his work in establishing the text of the Old Testament,
+found it prudent, subsequently, to expend much time and vehemence in
+repudiating his theological errors.
+
+Origen's aberrations were not only theological; in his youth he was
+guilty of an irreparable error through a too literal interpretation of
+the text: "There be eunuchs, which have made themselves eunuchs for
+the kingdom of heaven's sake."[^152] This method of escaping the
+temptations of the flesh, which Origen rashly adopted, had been
+condemned by the Church; moreover it made him ineligible for holy
+orders, although some ecclesiastics seem to have thought otherwise,
+thereby giving rise to unedifying controversies.
+
+[^152]: Matthew xix, 12. 
+
+Origen's longest work is a book entitled _Against Celsus_. Celsus was
+the author of a book (now lost) against Christianity, and Origen set
+to work to answer him point by point. Celsus begins by objecting to
+Christians because they belong to illegal associations; this Origen
+does not deny, but claims to be a virtue, like tyrannicide. He then
+comes to what is no doubt the real basis for the dislike of
+Christianity: Christianity, says Celsus, comes from the Jews, who are
+barbarians; and only Greeks can extract sense out of the teachings of
+barbarians. Origen replies that anyone coming from Greek philosophy to
+the Gospels would conclude that they arc true, and supply a
+demonstration satisfying to the Greek intellect. But, further, "The
+Gospel has a demonstration of its own, more divine than any
+established by Grecian dialectics. And this diviner method is called
+by the apostle the 'manifestation of the Spirit and of power'; of 'the
+Spirit' on account of the prophecies, which are sufficient to produce
+faith in any one who reads them, especially in those things which
+relate to Christ; and of 'power/ because of the signs and wonders
+which we must believe to have been performed, both on many other
+grounds, and on this, that traces of them are still preserved among
+those who regulate their lives by the precepts of the Gospel."[^153]
+
+[^153]: Origen, _Contra Celsum_, Book I, chap. ii. 
+
+This passage is interesting, as showing already the twofold argument
+for belief which is characteristic of Christian philosophy. On the one
+hand, pure reason, rightly exercised, suffices to establish the
+essentials of the Christian faith, more especially God, immortality,
+and free will. But on the other hand the Scriptures prove not only
+these bare essentials, but much more; and the divine inspiration of
+the Scriptures is proved by the fact that the prophets foretold the
+coming of the Messiah, by the miracles, and by the beneficent effects
+of belief on the lives of the faithful. Some of these arguments are
+now considered out of date, but the last of them was still employed by
+William James. All of them, until the Renaissance, were accepted by
+every Christian philosopher.
+
+Some of Origen's arguments are curious. He says that magicians 
+invoke the "God of Abraham," often without knowing who it is; 
+but apparently this invocation is specially potent. Names are 
+essential in magic; it is not indifferent whether Coil is called by 
+His Jewish, Egyptian, Babylonian, Greek, or Brahman name. 
+Magic formulae lose their efficacy when translated. One is led to 
+suppose that the magicians of the time used formulae from all 
+known religions, but if Origen is right, those derived from Hebrew 
+sources were the most effective. The argument is the more curious 
+as he points out that Moses forbade sorcery.[^154]
+
+[^154]: _Ibid._, Book I, chap. xxvi. 
+
+Christians, we are told, should not take part in the government of the
+State, but only of the "divine nation, " i.e., the Church.[^155] This
+doctrine, of course, was somewhat modified after the time of
+Constantine, but something of it survived. It is implicit in St.
+Augustine's City of God. It led churchmen, at the time of the fall of
+the Western Empire, to look on passively at secular disasters, while
+they exercised their very great talents in Church discipline,
+theological controversy, and the spread of monasticism. Some trace of
+it still exists: most people regard politics as "worldly" and unworthy
+of any really holy man.
+
+[^155]: _Ibid._, Book VIII, chap. lxxv .
+
+Church government developed slowly during the first three centuries,
+and rapidly after the conversion of Constantino. Bishops were
+popularly elected; gradually they acquired considerable power over
+Christians in their own dioceses, but before Constant ine there was
+hardly any form of central government over the whole Church. The power
+of bishops in great cities was enhanced by the practice of almsgiving:
+the offerings of the faithful were administered by the bishop, who
+could give or withhold charity to the poor. There came thus to be a
+mob of the destitute, ready to do the bishop's will. When the State
+became Christian, the bishops were given judicial and administrative
+functions. There came also to be a central government, at least in
+matters of doctrine. Constantine was annoyed by the quarrel between
+Catholics and Arians; having thrown in his lot with the Christians he
+wanted them to be a united party. For the purpose of healing
+dissensions, he caused the convening of the oecumenical Council of
+Nicara, which drew up the Nicene Creed,[^156] and, so far as the Arian
+controversy was concerned, determined for all lime the standard of
+orthodoxy. Other later controversies were similarly decided by
+oecummical councils, until the division between East and West and the
+Eastern refusal to admit the authority of the Pope made them
+impossible.
+
+[^156]: Not exactly in its present form, which was decided upon in 362. 
+
+The Pope, though officially the most important individual in 
+the Church, had no authority over the Church as a whole until a 
+much later period. The gradual growth of the papal power is a 
+very interesting subject, which I shall deal with in later chapters. 
+
+The growth of Christianity before Constantine, as well as the 
+motives of his conversion, has been variously explained by various 
+authors. Gibbon[^157] assigns live causes: 
+
+[^157]: _The Decline and Full of the Ruman Empire_, chap. xv. 
+
+> I. The inflexible, and, if we may use the expression, the intolerant
+> zeal of the Christians, derived, it is true, from the Jewish
+> religion, but purified from the narrow and unsocial spirit which,
+> instead of inviting, had deterred the Gentiles from embracing the
+> law of Moses.
+>
+> II. The doctrine of a future life, improved by every additional
+> circumstance which could give weight and efficacy to that important
+> truth.
+>
+> III. The miraculous powers ascribed to the primitive Church. 
+>
+> IV. The pure and austere morals of the Christians. 
+>
+> V. The union and discipline of the Christian republic, which
+> gradually formed an independent and increasing State in the heart of
+> the Roman empire.
+
+Broadly speaking, this analysis may be accepted, but with some
+comments. The first cause the inflexibility and intolerance derived
+from the Jews may be wholly accepted. We have seen in our own day the
+advantages of intolerance in propaganda. The Christians, for the most
+part, believed that they alone would go to heaven, and that the most
+awful punishments would, in the next world, fall upon the heathen. The
+other religions which competed for favor during the third century had
+not this threatening character. The worshippers of the Great Mother,
+for example, while they had a ceremony---the Taurobolium---which was
+analogous to baptism, did not teach that those who omitted it would go
+to hell. It may be remarked, incidentally, that the Taurobolium was
+expensive: a bull had to be killed, and its blood allowed to trickle
+over the convert. A rite of this sort is aristocratic, and cannot be
+the basis of a religion which is to embrace the great bulk of the
+population, rich and poor, free and slave. In such respects,
+Christianity had an advantage over all its rivals.
+
+As regards the doctrine of a future life, in the West it was first
+taught by the Orphics and thence adopted by Greek philosophers. The
+Hebrew prophets, some of them, taught the resurrection of the body,
+but it seems to have been from the Greeks that the Jews learnt to
+believe in the resurrection of the spirit.[^158] The doctrine of
+immortality, in Greece, had a popular form in Orphism and a learned
+form in Platonism. The latter, being based upon difficult arguments,
+could not become widely popular; the Orphic form, however, probably
+had a great influence on the general opinions of later antiquity, not
+only among pagans, but also among Jews and Christians. Elements of
+mystery religions, both Orphic and Asiatic, enter largely into
+Christian theology; in all of them, the central myth is that of the
+dying god who rises again.[^159] I think, therefore, that the doctrine
+of immortality must have had less to do with the spread of
+Christianity than Gibbon thought.
+[^158]: See Oesterley and Robinson, _Hebrew Religion_. 
+[^159]: See Angus, _The Mystery Religions and Christianity_. 
+
+Miracles certainly played a very large part in Christian propaganda.
+But miracles, in later antiquity, were very common, and were not the
+prerogative of any one religion. It is not altogether easy to see why,
+in this competition, the Christian miracles came to be more widely
+believed than those of other sects. I think Gibbon omits one very
+important matter, namely the possession of a Sacred Book. The miracles
+to which Christians appealed had begun in a remote antiquity, among a
+nation which the ancients felt to be mysterious; there was a
+consistent history, from the Creation onwards, according to which
+Providence had always worked wonders, first for the Jews, then for the
+Christians. To a modern historical student it is obvious that the
+early history of the Israelites is in the main legendary, but not so
+to the ancients. They believed in the Homeric account of the siege of
+Troy, in Romulus and Remus, and so on; why, asks Origen, should you
+accept these traditions and reject those of the Jews? To this argument
+there was no logical answer. It was therefore natural to accept Old
+Testament miracles, and, when they had been admitted, those of more
+recent date became credible, especially in view of the Christian
+interpretation of the prophets.
+
+The morals of the Christians, before Constantine, were undoubtedly
+very superior to those of average pagans. The Christians were
+persecuted at times, and were almost always at a disadvantage in
+competition with pagans. They believed firmly that virtue would be
+rewarded in heaven and sin punished in hell. Their sexual ethics had a
+strictness that was rare in antiquity. Pliny, whose official duty it
+was to persecute them, testifies to their high moral character. After
+the conversion of Constantine, there were, of course, time-servers
+among Christians; but prominent ecclesiastics, with some exceptions,
+continued to be men of inflexible moral principles. I think Gibbon is
+right in attributing great importance to this high moral level as one
+of the causes of the spread of Christianity.
+
+Gibbon puts last "the union and discipline of the Christian republic."
+I think that, from a political point of view, this was the most
+important of his five causes. In the modern world, we are accustomed
+to political organization; every politician has to reckon with the
+Catholic vote, but it is balanced by the vote of other organized
+groups. A Catholic candidate for the American Presidency is at a
+disadvantage, because of Protestant prejudice. But, if there were no
+such thing as Protestant prejudice, a Catholic candidate would stand a
+better chance than any other. This seems to have been Constantino's
+calculation. The support of the Christians, as a single organized
+bloc, was to be obtained by favoring them. Whatever dislike of the
+Christians existed was unorganized and politically ineffective.
+Probably Rostovtseff is right in holding that a large part of the army
+was Christian, and that this was what most influenced Constantine.
+However that may be, the Christians, while still a minority, had a
+kind of organization which was then new, though now common, and which
+gave them all the political influence of a pressure group to which no
+other pressure groups are opposed. This was the natural consequence of
+their virtual monopoly of zeal, and their zeal was an inheritance from
+the Jews.
+
+Unfortunately, as soon as the Christians acquired political power,
+they turned their zeal against each other. There had been heresies,
+not a few, before Constantine, but the orthodox had had no means of
+punishing them. When the State became Christian, great prizes, in the
+shape of power and wealth, became open to ecclesiastics; there were
+disputed elections, and theological quarrels were also quarrels for
+worldly advantages. Constantine himself preserved a certain degree of
+neutrality in the disputes of theologians, but after his death (337)
+his successors (except for Julian the Apostate) were, in a greater or
+less degree, favorable to the Arians, until the accession of
+Theodosius in 379.
+
+The hero of this period is Athanasius (ca. 297--373), who was
+throughout his long life the most intrepid champion of Nicene
+orthodoxy.
+
+The period from Constantine to the Council of Chalceclon (451) is
+peculiar owing to the political importance of theology. Two questions
+successively agitated the Christian world: first, the nature of the
+Trinity, and then the doctrine of the Incarnation. Only the first of
+these was to the fore in the time of Athanasius. Anus, a cultivated
+Alexandrian priest, maintained that the Son is not the equal of the
+Father, but created by Him. At an earlier period, this view might not
+have aroused much antagonism, but in the fourth century most
+theologians rejected it. The view which finally prevailed was that the
+Father and the Son were equal, and of the same substance; they were,
+however, distinct Persons. The view that they were not distinct, but
+only different aspects of one Being, was the Sabellian heresy, called
+after its founder Sabellius. Orthodoxy thus had to tread a narrow
+line: those who unduly emphasized the distinctness of the Father and
+the Son were in danger of Arianism, and those who unduly emphasized
+their oneness were in danger of Sabellianism.
+
+The doctrines of Arius were condemned by the Council of Nicaea (325)
+by an overwhelming majority. But various modifications were suggested
+by various theologians, and favored by Emperors. Athanasius, who was
+Bishop of Alexandria from 328 till his death, was constantly in exile
+because of his zeal for Nicene orthodoxy. He had immense popularity in
+Egypt, which, throughout the controversy, followed him unwaveringly.
+It is curious that, in the course of theological controversy, national
+(or at least regional) feeling, which had seemed extinct since the
+Roman conquest, revived. Constantinople and Asia inclined to Arianism;
+Egypt was fanatically Athanasian; the West steadfastly adhered to the
+decrees of the Council of Nicaea. After the Arian controversy was
+ended, new controversies, of a more or less kindred sort, arose, in
+which Egypt became heretical in one direction and Syria in another.
+These heresies, which were persecuted by the orthodox, impaired the
+unity of the Eastern Empire, and facilitated the Mohammedan conquest.
+The separatist movements, in themselves, are not surprising, but it is
+curious that they should have been associated with vefy subtle and
+abstruse theological questions.
+
+The Emperors, from 335 to 378, favored more or less Arian opinions as
+far as they dared, except for Julian the Apostate (361-363), who, as a
+pagan, was neutral as regards the internal disputes of the Christians.
+At last, in 379, the Emperor Theodosius gave his full support to the
+Catholics, and their victory throughout the Empire was complete. St.
+Ambrose, St. Jerome, and St. Augustine, whom we shall consider in the
+next chapter, lived most of their lives during this period of Catholic
+triumph. It was succeeded, however, in the West, by another Arian
+domination, that of the Goths and Vandals, who, between them,
+conquered most of the Western Empire. Their power lasted for about a
+century, at the end of which it was destroyed by Justinian, the
+Lombards, and the Franks, of whom Justinian and the Franks, and
+ultimately the Lombards also, were orthodox. Thus at last the Catholic
+faith achieved definitive success.
+
+## Chapter III THREE DOCTORS OF THE CHURCH 
+
+Four men are called the Doctors of the Western Church: St. Ambrose,
+St. Jerome, St. Augustine, and Pope Gregory the Great. Of these the
+first three were contemporaries, while the fourth belonged to a later
+date. I shall, in this chapter, give some account of the life and
+times of the first three, reserving for a later chapter an account of
+the doctrines of St. Augustine, who is, for us, the most important of
+the three.
+
+Ambrose, Jerome, and Augustine all flourished during the brief period
+between the victory of the Catholic Church in the Roman Empire and the
+barbarian invasion. All three were young during the reign of Julian
+the Apostate; Jerome lived ten years after the sack of Rome by the
+Goths under Alaric; Augustine lived till the irruption of the Vandals
+into Africa, and died while they were besieging Hippo, of which he was
+bishop. Immediately after their time, the masters of Italy, Spain, and
+Africa were not only barbarians, but Arian heretics. Civilization
+declined for centuries, and it was not until nearly a thousand years
+later that Christendom again produced men who were their equals in
+learning and culture. Throughout the dark ages and the medieval
+period, their authority was revered; they, more than any other men,
+fixed the mould into which the Church was shaped. Speaking broadly,
+St. Ambrose determined the ecclesiastical conception of the relation
+of Church and State; St. Jerome gave the Western Church its Latin
+Bible and a great part of the impetus to monasticism; while St.
+Augustine fixed the theology of the Church until the Reformation, and,
+later, a great part of the doctrines of Luther and Calvin. Few men
+have surpassed these three in influence on the course of history. The
+independence of the Church in relation to the secular State, as
+successfully maintained by St. Ambrose, was a new and revolutionary
+doctrine, which prevailed until the Reformation; when Hobbes combated
+it in the seventeenth century, it was against St. Ambrose that he
+chiefly argued. St. Augustine was in the forefront of theological
+controversy during the sixteenth and seventeenth centuries,
+Protestants and Jansenists being for him, and orthodox Catholics
+against him.
+
+The capital of the Western Empire, at the end of the fourth century,
+was Milan, of which Ambrose was bishop. His duties brought him
+constantly into relations with the emperors, to whom he spoke
+habitually as an equal, sometimes as a superior. His dealings with the
+imperial court illustrate a general contrast characteristic of the
+times: while the State was feeble, incompetent, governed by
+unprincipled self-seekers, and totally without any policy beyond that
+of momentary expedients, the Church was vigorous, able, guided by men
+prepared to sacrifice everything personal in its interests, and with a
+policy so far-sighted that it brought victory for the next thousand
+years. It is true that these merits were offset by fanaticism and
+superstition, but without these no reforming movement could, at that
+time, have succeeded.
+
+St. Ambrose had every opportunity to seek success in the service of
+the State. His father, also named Ambrose, was a high official prefect
+of the Gauls. The Saint was born, probably, at Treves, a frontier
+garrison town, where the Roman legions were stationed to keep the
+Germans at bay. At the age of thirteen he was taken to Rome, where he
+had a good education, including a thorough grounding in Greek. When he
+grew up he took to the law, in which he was very successful; and at
+the age of thirty he was made governor of Liguria and Aemilia.
+Nevertheless, four years later he turned his back on secular
+government, and by popular acclaim became bishop of Milan, in
+opposition to an Arian candidate. He gave all his worldly goods to the
+poor, and devoted the whole of the rest of his life to the service of
+the Church, sometimes at great personal risk. This choice was
+certainly not dictated by worldly motives, but, if it had been, it
+would have been wise. In the State, even if he had become Emperor, he
+could at that time have found no such scope for his administrative
+statesmanship as he found in the discharge of his episcopal duties.
+
+During the first nine years of Ambrose's episcopate, the Emperor of
+the West was Gratian, who was Catholic, virtuous, and careless. He was
+so devoted to the chase that he neglected the government, and in the
+end was assassinated. He was succeeded, throughout most of the Western
+Empire, by a usurper named Maximus; but in Italy the succession passed
+to Gratian's younger brother Valentinian II, who was still a boy. At
+first, the imperial power was exercised by his mother, Justina, widow
+of the Emperor Valentinian I; but as she was an Arian, conflicts
+between her and St. Ambrose were inevitable.
+
+All the three Saints with whom we are concerned in this chapter wrote
+innumerable letters, of which many are preserved; the consequence is
+that we know more about them than about any of the pagan philosophers,
+and more than about all but a few of the ecclesiastics of the Middle
+Ages. St. Augustine wrote letters to all and sundry, mostly on
+doctrine or Church discipline; St. Jerome's letters are mainly
+addressed to ladies, giving advice on how to preserve virginity; but
+St. Ambrose's most important and interesting letters are to Emperors,
+telling them in what respects they have fallen short of their duty,
+or, on occasion, congratulating them on having performed it.
+
+The first public question with which Ambrose had to deal was 
+that of the altar and statue of Victory in Rome. Paganism lingered 
+longer among the senatorial families of the capital than it did 
+elsewhere; the official religion was in the hands of an aristocratic 
+priesthood, and was bound up with the imperial pride of the 
+conquerors of the world. The statue of Victory in the Senate 
+House had been removed by Constantius, the son of Constantine, 
+and restored by Julian the Apostate. The Emperor Gratian again 
+removed the statue, whereupon a deputation of the Senate, headed 
+by Symmachus, prefect of the City, asked for its renewed 
+restoration. 
+
+Symmachus, who also played a part in the life of Augustine, was a
+distinguished member of a distinguished family rich, aristocratic,
+cultivated, and pagan. He was banished from Rome by Gratian in 382 for
+his protest against the removal of the statue of Victory, but not for
+long, as he was prefect of the City in 384. He was the grandfather of
+the Symmachus who was the father-in-law of Boethius, and who was
+prominent in the reign of Theodoric.
+
+The Christian senators objected, and by the help of Ambrose and the
+Pope (Damasus) their view was made to prevail with the Emperor. After
+the death of Gratian, Symmachus and the pagan senators petitioned the
+new Emperor, Valentinian II, in A.o. 384. In rebuttal of this renewed
+attempt, Ambrose wrote to the Emperor, setting forth the thesis that,
+as all Romans owed military service to their sovereign, so he (the
+Emperor) owed service to Almighty God.[^160] "Let no one," he says,
+"take advantage of your youth; if he be a heathen who demands this, it
+is not right that he should bind your mind with the bonds of his own
+superstition; but by his zeal he ought to teach and admonish you how
+to be zealous for the true faith, since he defends vain things with
+all the passion of truth." To be compelled to swear at the altar of an
+idol, he says, is, to a Christian, persecution. "If it were a civil
+cause the right of reply would be reserved for the opposing party; it
+is a religious cause, and I the bishop make a claim.... Certainly if
+anything else is decreed, we bishops cannot constantly suffer it and
+take no notice; you indeed may come to the Church, but will find
+either no priest there, or one who will resist you."[^161]
+
+[^160]: This thesis seems to anticipate the outlook of feudalism.
+[^161]: Epistle xvii.
+
+The next epistle points out that the endowments of the Church serve
+purposes never served by the wealth of heathen temples. "The
+possessions of the Church are the maintenance of the poor. Let them
+count up how many captives the temples have ransomed, what food they
+have contributed for the poor, to what exiles they have supplied the
+means of living." This was a telling argument, and one which was quite
+justified by Christian practice.
+
+St. Ambrose won his point, but a subsequent usurper, Eugenius, who
+favored the heathen, restored the altar and statue. It was only after
+the defeat of Eugenius by Theodosius in 394 that the question was
+finally decided in favor of the Christians.
+
+The bishop was, at first, on very friendly terms with the imperial
+court, and was employed on a diplomatic mission to the usurper
+Maximus, who, it was feared, might invade Italy. Out before long a
+grave matter of controversy arose. The Empress Justina, as an Arian,
+requested that one church in Milan might be ceded to the Arians, but
+Ambrose refused. The people sided with him, and thronged the basilica
+in great crowds. Gothic soldiers, who were Arians, were sent to take
+possession, but fraternized with the people. "The Counts and
+Tribunes," he says in a spirited letter to his sister,[^162] "came and
+urged me to cause the basilica to be quickly surrendered, saying that
+the Emperor was exercising his rights since everything was under his
+power. I answered that if he asked of me what was mine, that is, my
+land, my money, or whatever of this kind was my own, I would not
+refuse it, although all that I have belonged to the poor, but that
+those things which are God's are not subject to the imperial power.
+'If my patrimony is required, enter upon it; if my body, I will go at
+once. Do you wish to cast me into chains, or to give me to death? It
+will be a pleasure to me. I will not defend myself with throngs of
+people, nor will I cling to the altars and entreat for my life, but
+will more gladly be slain myself for the altars.' I was indeed struck
+with horror when I learnt that armed men had been sent to take
+possession of the basilica, lest while the people were defending the
+basilica, there might be some slaughter which would tend to the injury
+of the whole city. I prayed that I might not survive the destruction
+of so great a city, or it might be of the whole of Italy."
+
+[^162]: _Ibid_. xx. 
+
+These fears were not exaggerated, as the Gothic soldiery were liable
+to break out into savagery, as they did twenty-five years later in the
+sack of Rome.
+
+Ambrose's strength lay in the support of the people. He was accused of
+inciting them, but replied that "it was in my power not to excite
+them, but in God's hands to quiet them." None of the Arians, he says,
+dared to go forth, as there was not one Arian among the citizens. He
+was formally commanded to surrender the basilica, and the soldiers
+were ordered to use violence if necessary. But in the end they refused
+to use violence, and the Emperor was compelled to give way. A great
+battle had been won in the contest for ecclesiastical independence;
+Ambrose had demonstrated that there were matters in which the State
+must yield to the Church, and had thereby established a new principle
+which retains its importance to the present day.
+
+His next conflict was with the Emperor Theodosius. A synagogue had
+been burnt, and the Count of the East reported that this had been done
+at the instigation of die local bishop. The Emperor ordered that the
+actual incendiaries should be punished, and that the guilty bishop
+should rebuild the synagogue. St. Ambrose neither admits nor denies
+the bishop's complicity, but is indignant that the Emperor should seem
+to side with Jews against Christians. Suppose the bishop refuses to
+obey? He will then have to become a martyr if he persists, or an
+apostate if he gives way. Suppose the Count decides to rebuild the
+synagogue himself at the expense of the Christians? In that case the
+Emperor will have an apostate Count, and Christian money will be taken
+to support unbelief. "Shall, then, a place be made for the unbelief of
+the Jews out of the spoils of the Church, and shall the patrimony,
+which by the favor of Christ has been gained for Christians, be
+transferred to the treasuries of unbelievers?" He continues: "But
+perhaps the cause of discipline moves you, O Emperor. Which, then, is
+of greater importance, the show of discipline or the cause of
+religion? It is needful that judgment should yield to religion. Have
+you not heard, O Emperor, how, when Julian commanded that the Temple
+of Jerusalem should be restored, those who were clearing the rubbish
+were consumed by fire?"
+
+It is clear that, in the Saint's opinion, the destruction of
+synagogues should not be punished in any way. This is an example of
+the manner in which, as soon as it acquired power, the Church began to
+stimulate anti-Semitism.
+
+The next conflict between Emperor and Saint was more honorable to the
+latter. In AD 390, when Theodosius was in Milan, a mob in Thessalonica
+murdered the captain of the garrison. Theodosius, on receiving the
+news, was seized with ungovernable fury, and ordered an abominable
+revenge. When the people were assembled in the circus, the soldiers
+fell upon them, and massacred at least seven thousand of them in an
+indiscriminate slaughter. Hereupon Ambrose, who had endeavored in
+advance to restrain the Emperor, but in vain, wrote him a letter full
+of splendid courage, on a purely moral issue, involving, for once, no
+question of theology or the power of the Church:
+
+> There was that done in the city of the Thessalonians of which no
+> similar record exists, which I was not able to prevent happening;
+> which, indeed, I had before said would be most atrocious when I so
+> often petitioned against it.
+
+David repeatedly sinned, and confessed his sin with penitence.[^163]
+Will Theodosius do likewise? Ambrose decides that "I dare not 
+offer the sacrifice if you intend to be present. Is that which is not 
+allowed after shedding the blood of one innocent person, allowed 
+after shedding the blood of many? I do not think so.
+
+[^163]: This allusion to the Books of Samuel begins a line of biblical argument against kings which persisted throughout the Middle Ages, and even in the conflict of the Puritans with the Stuarts. It appears for instance in Milton.
+
+
+The Emperor repented, and, divested of the purple, did public penance
+in the cathedral of Milan. From that time until his death in 395, he
+had no friction with Ambrose.
+
+Ambrose, while he was eminent as a statesman, was, in other respects,
+merely typical of his age. He wrote, like other ecclesiastical
+authors, a treatise in praise of virginity, and another deprecating
+the remarriage of widows. When he had decided on the site for his new
+cathedral, two skeletons (revealed in a vision, it was said) were
+conveniently discovered on the spot, were found to work miracles, and
+were declared by him to be those of two martyrs. Other miracles are
+related in his letters, with all the credulity characteristic of his
+times. He was inferior to Jerome as a scholar, and to Augustine as a
+philosopher. But as a statesman, who skillfully and courageously
+consolidated the power of the Church, he stands out as a man of the
+first rank.
+
+Jerome is chiefly notable as the translator who produced the Vulgate,
+which remains to this day the official Catholic version of the Bible.
+Until his day the Western Church relied, as regards the Old Testament,
+chiefly on translations from the Septuagint, which, in important ways,
+differed from the Hebrew original. Christians, as we have seen, were
+given to maintaining that the Jews, since the rise of Christianity,
+had falsified the Hebrew text where it seemed to predict the Messiah.
+This was a view which sound scholarship showed to be untenable, and
+which Jerome firmly rejected. He accepted the help of rabbis, given
+secretly for fear of the Jews. In defending himself against Christian
+criticism he said: "Let him who would challenge aught in this
+translation ask the Jews." Because of his acceptance of the Hebrew
+text in the form which the Jews regarded as correct, his version had,
+at first, a largely hostile reception; but it won its way, partly
+because St. Augustine on the whole supported it. It was a great
+achievement, involving considerable textual criticism.
+
+Jerome was born in 345 five years after Ambrose not far from Aquileia,
+at a town called Stridon, which was destroyed by the Goths in 377. His
+family were well-to-do, but not rich. In 363 he went to Rome, where he
+studied rhetoric and sinned. After travelling in Gaul, he settled in
+Aquileia, and become an ascetic. The next five years he spent as a
+hermit in the Syrian wilderness. "His life while in the desert was one
+of rigorous penance, of tears and groans alternating with spiritual
+ecstasy, and of temptations from haunting memories of Roman life; he
+lived in a cell or cavern; he earned his daily bread, and was clad in
+sackcloth."[^164] After this period, he travelled to Constantinople,
+and lived in Rome for three years, where he became the friend and
+adviser of Pope Damasus, with whose encouragement he undertook his
+translation of the Bible. St. Jerome was a man of many quarrels. He
+quarrelled with St. Augustine about the somewhat questionable behavior
+of St. Peter as related by St. Paul in Galatians ii; he broke with his
+friend Rufinus over Origen; and he was so vehement against Pelagius
+that his monastery was attacked by a Pelagian mob. After the death of
+Damasus, he seems to have quarrelled with the new Pope; he had, while
+in Rome, become acquainted with various ladies who were both
+aristocratic and pious, some of whom he persuaded to adopt the ascetic
+life. The new Pope, in common with many other people in Rome, disliked
+this. For this reason among others, Jerome left Rome for Bethlehem,
+where he remained from 386 till his death in 420.
+
+[^164]: _Select Library of Nicene and Post-Nicene Fathers_, Vol. VI, p. 17. 
+
+
+Among his distinguished female converts, two were especially notable:
+the widow Paula and her daughter Eustochium. Both these ladies
+accompanied him on his circuitous journey to Bethlehem. They were of
+the highest nobility, and one cannot but feel a flavour of snobbery in
+the Saint's attitude to them. When Paula died and was buried at
+Bethlehem, Jerome composed an epitaph for her tomb:
+
+> Within this tomb a child of Scipio lies, 
+> A daughter of the far-famed Pauline house, 
+> A scion of the Gracchi, of the stock 
+> Of Agamemnon's self, illustrious: 
+> Here rests the lady Paula, well-beloved 
+> Of both her parents, with Eustochium 
+> For daughter; she the first of Roman dames 
+> Who hardship chose and Bethlehem for Christ.[^165]
+
+[^165]: _Select Library of Nicene and Post-Nicene Fathers_, Vol. VI, p. 212.
+
+Some of Jerome's letters to Eustochium are curious. He gives 
+her advice on the preservation of virginity, very detailed and frank; 
+he explains the exact anatomical meaning of certain euphemisms 
+in the Old Testament; and he employs a kind of erode mysticism 
+in praising the joys of conventual life. A nun is the Bride of 
+Christ; this marriage is celebrated in the Song of Solomon. In a 
+long letter written at the time when she took the vows, he gives 
+a remarkable message to her mother: "Are you angry with her 
+because she chooses to be a king's [Christ's] wife and not a soldier's? She has conferred on you a high privilege; you are now 
+the mother-in-law of God."[^166]
+
+[^166]: _Ibid._, p. 30. 
+
+To Eustochium herself, in the same letter (xxii), he says: 
+
+> Ever let the privacy of your chamber guard you; ever let the
+> Bridegroom sport with you within. Do you pray? You speak to the
+> Bridegroom. Do you read? He speaks to you. When sleep overtakes you
+> He will come behind and put His hand through the hole of the door,
+> and your heart shall be moved for Him; and you will awake and rise
+> up and say: 'I am sick of love.' Then He will reply: 'A garden
+> enclosed is my sister, my spouse; a spring shut up, a fountain
+> sealed.'
