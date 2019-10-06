@@ -13266,128 +13266,121 @@ desirable things, such as alchemy and astrology.
 After the Middle Ages, the Jews still contributed largely to
 civilization as individuals, but no longer as a race.
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n343)
-
 ## Chapter II CHRISTIANITY DURING THE FIRST FOUR CENTURIES 
 
-Christianity, at first, was preached by Jews to Jews, as 
-a reformed Judaism. St. James, and to a lesser extent St. 
-Peter, wished it to remain no more than this, and they 
-might have prevailed but for St. Paul, who was determined to 
-admit gentiles without demanding circumcision or submission to 
-the Mosaic Law. The contention between the two factions is 
-related in the Acts of the Apostles, from a Pauline point of view. 
-The communities of Christians that St. Paul established in many 
-places, were, no doubt, composed partly of converts from among 
-the Jews, partly of gentiles seeking a new religion. The certainties 
-of Judaism made it attractive in that age of dissolving faiths, but 
-circumcision was an obstacle to the conversion of men. The ritual 
-laws in regard to food were also inconvenient. These two obstacles, 
-even if there had been no others, would have made it almost impossible for the Hebrew religion to become universal. Christianity, 
-owing to St. Paul, retained what was attractive in the doctrines of 
-the Jews, without the features that gentiles found hardest to 
-assimilate. 
+Christianity, at first, was preached by Jews to Jews, as a reformed
+Judaism. St. James, and to a lesser extent St. Peter, wished it to
+remain no more than this, and they might have prevailed but for St.
+Paul, who was determined to admit gentiles without demanding
+circumcision or submission to the Mosaic Law. The contention between
+the two factions is related in the Acts of the Apostles, from a
+Pauline point of view. The communities of Christians that St. Paul
+established in many places, were, no doubt, composed partly of
+converts from among the Jews, partly of gentiles seeking a new
+religion. The certainties of Judaism made it attractive in that age of
+dissolving faiths, but circumcision was an obstacle to the conversion
+of men. The ritual laws in regard to food were also inconvenient.
+These two obstacles, even if there had been no others, would have made
+it almost impossible for the Hebrew religion to become universal.
+Christianity, owing to St. Paul, retained what was attractive in the
+doctrines of the Jews, without the features that gentiles found
+hardest to assimilate.
 
-The view that the Jews were the Chosen People remained, however, obnoxious to Greek pride. This view was radically rejected 
-by the Gnostics. They, or at least some of them, held that the 
-sensible world had been created by an inferior deity named 
-laldabaoth, the rebellious son of Sophia (heavenly wisdom). He, 
-they said, is the Yahweh of the Old Testament, while the serpent, 
-so far from being wicked, was engaged in warning Eve against 
-his deceptions. For a long time, the supreme deity allowed laldabaoth free play; at last lie sent His Son to inhabit temporarily 
-the body of the man Jesus, and to liberate the world from the false 
-teaching of Moses. Those who held this view, or something like 
-it, combined it, as a rule, with a Platonic philosophy; Plotinus, 
-as we saw, found some difficulty in refuting it. Gnosticism afforded 
-a half-way house between philosophic paganism and Christianity, 
-for, while it honored Christ, it thought ill of the Jews. The 
-same was true, later, of Manichaeism, through which St. Augustine 
+The view that the Jews were the Chosen People remained, however,
+obnoxious to Greek pride. This view was radically rejected by the
+Gnostics. They, or at least some of them, held that the sensible world
+had been created by an inferior deity named laldabaoth, the rebellious
+son of Sophia (heavenly wisdom). He, they said, is the Yahweh of the
+Old Testament, while the serpent, so far from being wicked, was
+engaged in warning Eve against his deceptions. For a long time, the
+supreme deity allowed Ialdabaoth free play; at last lie sent His Son
+to inhabit temporarily the body of the man Jesus, and to liberate the
+world from the false teaching of Moses. Those who held this view, or
+something like it, combined it, as a rule, with a Platonic philosophy;
+Plotinus, as we saw, found some difficulty in refuting it. Gnosticism
+afforded a half-way house between philosophic paganism and
+Christianity, for, while it honored Christ, it thought ill of the
+Jews. The same was true, later, of Manichaeism, through which St.
+Augustine came to the Catholic Faith. Manichaeism combined Christian
+and Zoroastrian elements, teaching that evil is a positive principle,
+embodied in matter, while the good principle is embodied in spirit. It
+condemned meat-eating, and all sex, even in marriage. Such
+intermediate doctrines helped much in the gradual conversion of
+cultivated men of Greek speech; but the New Testament warns true
+believers against them: "O Timothy, keep that which is committed to
+thy trust, avoiding profane and vain babblings, and oppositions of
+science [Gnosis] falsely so called: which some professing have erred
+concerning the faith."[^149]
 
-344 
+[^149]: I Timothy vi, 20, 21.
 
+Gnostics and Manichaeans continued to flourish until the government
+became Christian. After that time they were led to conceal their
+beliefs, but they still had a subterranean influence. One of the
+doctrines of a certain sect of Gnostics was adopted by Mohammed. They
+taught that Jesus was a mere man, and that the Son of God descended
+upon him at the baptism, and abandoned him at the time of the Passion.
+In support of this view they appealed to the text: "My God, my God,
+why hast thou forsaken me?"[^150] a text which, it must be confessed,
+Christians have always found difficult. The Gnostics considered it
+unworthy of the Son of God to be born, to be an infant, and, above
+all, to die on the cross; they said that these things had befallen the
+man Jesus, but not the divine Son of God. Mohammed, who recognized
+Jesus as a prophet, though not as divine, had a strong class feeling
+that prophets ought not to come to a bad end. He therefore adopted the
+view of the Docetics (a Gnostic sect), according to which it was a
+mere phantom that hung upon the cross, upon which, impotently and
+ignorantly, Jews and Romans wreaked their ineffectual vengeance. In
+this way, something of Gnosticism passed over into the orthodox
+doctrine of Islam.
 
+[^150]: Mark xxv, 34. 
 
-CHRISTIANITY DURING THE FIRST FOUR CENTURIES 
+The attitude of Christians to contemporary Jews early became hostile.
+The received view was that God had spoken to the patriarchs and
+prophets, who were holy men, and had foretold the coming of Christ;
+but when Christ came, the Jews failed to recognize Him, and were
+thenceforth to be accounted wicked. Moreover Christ had abrogated the
+Mosaic Law, substituting the two commandments to love God and our
+neighbor; this, also, the Jews perversely failed to recognize. As soon
+as the State became Christian, anti-Semitism, in its medieval form,
+began, nominally as a manifestation of Christian zeal. How far the
+economic motives, by which it was inflamed in later times, operated in
+the Christian Empire, it seems impossible to ascertain.
 
-came to the Catholic Faith. Manichseism combined Christian and 
-Zoroastrian elements, teaching that evil is a positive principle, 
-embodied in matter, while the good principle is embodied in 
-spirit. It condemned meat-eating, and all sex, even in marriage. 
-Such intermediate doctrines helped much in the gradual conversion of cultivated men of Greek speech; but the New Testament warns true believers against them: "O Timothy, keep that 
-which is committed to thy trust, avoiding profane and vain 
-babblings, and oppositions of science [Gnosis] falsely so called: 
-which some professing have erred concerning the faith." 1 
+In proportion as Christianity became hellenized, it became
+theological. Jewish theology was always simple. Yahweh developed from
+a tribal deity into the sole omnipotent God who created heaven and
+earth; divine justice, when it was seen not to confer earthly
+prosperity upon the virtuous, was transferred to heaven, which
+entailed belief in immortality. But throughout its evolution the
+Jewish creed involved nothing complicated and metaphysical; it had no
+mysteries, and every Jew could understand it.
 
-Gnostics and Manichaeans continued to flourish until the government became Christian. After that time they were led to conceal 
-their beliefs, but they still had a subterranean influence. One of the 
-doctrines of a certain sect of Gnostics was adopted by Mohammed. 
-They taught that Jesus was a mere man, and that the Son of God 
-descended upon him at the baptism, and abandoned him at the 
-time of the Passion. In support of this view they appealed to 
-the text: "My God, my God, why hast thou forsaken me?" 2 
-a text which, it must be confessed, Christians have always found 
-difficult. The Gnostics considered it unworthy of the Son of God 
-to be born, to be an infant, and, above all, to die on the cross; 
-they said that these things had befallen the man Jesus, but not 
-the divine Son of God. Mohammed, who recognized Jesus as a 
-prophet, though not as divine, had a strong class feeling that 
-prophets ought not to come to a bad end. He therefore adopted 
-the view of the Docetics (a Gnostic sect), according to which it 
-was a mere phantom that hung upon the cross, upon which, 
-impotently and ignorantly, Jews and Romans wreaked their 
-ineffectual vengeance. In this way, something of Gnosticism 
-passed over into the orthodox doctrine of Islam. 
+This Jewish simplicity, on the whole, still characterizes the synoptic
+Gospels (Matthew, Mark, and Luke), but has already disappeared in St.
+John, where Christ is identified with the Platonic-Stoic Logos. It is
+less Christ the Man than Christ 'the theological figure that interests
+the fourth evangelist. This is still more true of the Fathers; you mil
+find, in their writings, many more allusions to St. John than to the
+other three gospels put together. The Pauline epistles also contain
+much theology, especially as regards salvation; at the same time they
+show a considerable acquaintance with Greek culture a quotation from
+Menander, an allusion to Epimenides the Cretan who said that all
+Cretans are liars, and so on. Nevertheless St. Paul[^151] says: "Beware
+lest any man spoil you through philosophy and vain deceit."
 
-The attitude of Christians to contemporary Jews early became 
-hostile. The received view was that God had spoken to the patriarchs and prophets, who were holy men, and had foretold the 
-coming of Christ; but when Christ came, the Jews failed to 
-recognize Him, and were thenceforth to be accounted wicked. 
-Moreover Christ had abrogated the Mosaic Law, substituting the 
-two commandments to love God and our neighbor; this, also, 
-the Jews perversely failed to recognize. As soon as the State 
-became Christian, anti-Semitism, in its medieval form, began, 
+[^151]: Or rather the author of an Epistle attributed to St. Paul---Colossians ii,8. 
 
-1 I Timothy vi, ao, ai. ' Mark xxv, 34. 
-
-345 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-nominally as a manifestation of Christian zeal. How far the 
-economic motives, by which it was inflamed in later times, operated 
-in the Christian Empire, it seems impossible to ascertain. 
-
-In proportion as Christianity became hellenized, it became theological. Jewish theology was always simple. Yahweh developed 
-from a tribal deity into the sole omnipotent God who created 
-heaven and earth; divine justice, when it was seen not to confer 
-earthly prosperity upon the virtuous, was transferred to heaven, 
-which entailed belief in immortality. But throughout its evolution 
-the Jewish creed involved nothing complicated and metaphysical; 
-it had no mysteries, and every Jew could understand it. 
-
-This Jewish simplicity, on the whole, still characterizes the 
-synoptic Gospels (Matthew, Mark, and Luke), but has already 
-disappeared in St. John, where Christ is identified with the 
-Platonic-Stoic Logos. It is less Christ the Man than Christ 'the 
-theological figure that interests the fourth evangelist. This is still 
-more true of the Fathers; you mil find, in their writings, many 
-more allusions to St. John than to the other three gospels put 
-together. The Pauline epistles also contain much theology, especially as regards salvation; at the same time they show a considerable acquaintance with Greek culture a quotation from 
-Menander, an allusion to Epimenides the Cretan who said that 
-all Cretans are liars, and so on. Nevertheless St. Paul 1 says: 
-"Beware lest any man spoil you through philosophy and vain 
-deceit." 
 
 The synthesis of Greek philosophy and Hebrew scriptures 
 remained more or less haphazard and fragmentary until the time 
-of Origen (AD 185-254). Origen, like Philo, lived in Alexandria, 
+of Origen (AD 185--254). Origen, like Philo, lived in Alexandria, 
 which, owing to commerce and the university, was, from its 
 foundation to its fall, the chief center of learned syncretism. Like 
 his contemporary Plotinus, he was a pupil of Ammonius Saccas, 
 whom many regard as the founder of Neoplatonisrn. His doctrines, 
-as set forth in his work De Principtis, have much affinity to those 
+as set forth in his work _De Principtis_, have much affinity to those 
 of Plotinus more, in fact, than is compatible with orthodoxy. 
 
 There is, Origen says, nothing wholly incorporeal except God 
@@ -13395,85 +13388,73 @@ Father, Son, and Holy Ghost. The stars are living rational beings,
 to whom God has given souls that were already in existence. The 
 sun, he thinks, can sin. The souls of men, as Plato taught, come 
 to them at birth from elsewhere, having existed ever since the 
-1 Or rather the author of an Epistle attributed to St. Paul Coiosaians ii,8. 
-
-34 6 
-
-
-
-CHRISTIANITY DURING THE FIRST FOUR CENTURIES 
-
-Creation. Nous and soul are distinguished more or less as in 
-Plotinus. When Nous falls away, it becomes soul; soul, when 
-virtuous, becomes Nous. Ultimately all spirits will become wholly 
+Creation. _Nous_ and soul are distinguished more or less as in 
+Plotinus. When _Nous_ falls away, it becomes soul; soul, when 
+virtuous, becomes _Nous_. Ultimately all spirits will become wholly 
 submissive to Christ, and will then be bodiless. Even the devil 
 will be saved at the last. 
 
 Origen, in spite of being recognized as one of the Fathers, was, 
 in later times, condemned as having maintained four heresies: 
-
 1 . The pre-existence of souls, as taught by Plato. 
-
-2. That the human nature of Christ, and not only His divine 
-nature, existed before the Incarnation. 
-
-3. That, at the resurrection, our bodies will be transformed 
-into absolutely ethereal bodies. 
-
+2. That the human nature of Christ, and not only His divine nature,
+   existed before the Incarnation.
+3. That, at the resurrection, our bodies will be transformed into
+   absolutely ethereal bodies.
 4. That all men, and even devils, shall be saved at the last. 
-
 St. Jerome, who had expressed a somewhat unguarded admiration of
 Origen for his work in establishing the text of the Old Testament,
 found it prudent, subsequently, to expend much time and vehemence in
 repudiating his theological errors.
 
-Origen 's aberrations were not only theological; in his youth he 
-was guilty of an irreparable error through a too literal interpretation of the text: "There be eunuchs, which have made themselves 
-eunuchs for the kingdom of heaven's sake." 1 This method of 
-escaping the temptations of the flesh, which Origen rashly adopted, 
-had been condemned by the Church; moreover it made him 
-ineligible for holy orders, although some ecclesiastics seem to have 
-thought otherwise, thereby giving rise to unedifying controversies. 
+Origen's aberrations were not only theological; in his youth he was
+guilty of an irreparable error through a too literal interpretation of
+the text: "There be eunuchs, which have made themselves eunuchs for
+the kingdom of heaven's sake."[^152] This method of escaping the
+temptations of the flesh, which Origen rashly adopted, had been
+condemned by the Church; moreover it made him ineligible for holy
+orders, although some ecclesiastics seem to have thought otherwise,
+thereby giving rise to unedifying controversies.
 
-Origen *s longest work is a book entitled Against Celsus. Celsus 
-was the author of a book (now lost) against Christianity, and 
-Origen set to work to answer him point by point. Celsus begins 
-by objecting to Christians because they belong to illegal associations; this Origen does not deny, but claims to be a virtue, like 
-tyrannicide. He then comes to what is no doubt the real basis for 
-the dislike of Christianity: Christianity, says Celsus, comes from 
-the Jews, who are barbarians; and only Greeks can extract sense 
-out of the teachings of barbarians. Origen replies that anyone 
-coming from Greek philosophy to the Gospels would conclude 
-that they arc true, and supply a demonstration satisfying to the 
-Greek intellect. But, further, "The Gospel has a demonstration 
-of its own, more divine than any established by Grecian dialectics. 
-And this diviner method is called by the apostle the 'manifestation 
-1 Matthew xix, 12. 
+[^152]: Matthew xix, 12. 
 
-347 
+Origen's longest work is a book entitled _Against Celsus_. Celsus was
+the author of a book (now lost) against Christianity, and Origen set
+to work to answer him point by point. Celsus begins by objecting to
+Christians because they belong to illegal associations; this Origen
+does not deny, but claims to be a virtue, like tyrannicide. He then
+comes to what is no doubt the real basis for the dislike of
+Christianity: Christianity, says Celsus, comes from the Jews, who are
+barbarians; and only Greeks can extract sense out of the teachings of
+barbarians. Origen replies that anyone coming from Greek philosophy to
+the Gospels would conclude that they arc true, and supply a
+demonstration satisfying to the Greek intellect. But, further, "The
+Gospel has a demonstration of its own, more divine than any
+established by Grecian dialectics. And this diviner method is called
+by the apostle the 'manifestation of the Spirit and of power'; of 'the
+Spirit' on account of the prophecies, which are sufficient to produce
+faith in any one who reads them, especially in those things which
+relate to Christ; and of 'power/ because of the signs and wonders
+which we must believe to have been performed, both on many other
+grounds, and on this, that traces of them are still preserved among
+those who regulate their lives by the precepts of the Gospel."[^153]
 
+[^153]: 1 Origen, _Contra Celsum_, Book I, chap. ii. 
 
+This passage is interesting, as showing already the twofold argument
+for belief which is characteristic of Christian philosophy. On the one
+hand, pure reason, rightly exercised, suffices to establish the
+essentials of the Christian faith, more especially God, immortality,
+and free will. But on the other hand the Scriptures prove not only
+these bare essentials, but much more; and the divine inspiration of
+the Scriptures is proved by the fact that the prophets foretold the
+coming of the Messiah, by the miracles, and by the beneficent effects
+of belief on the lives of the faithful. Some of these arguments are
+now considered out of date, but the last of them was still employed by
+William James. All of them, until the Renaissance, were accepted by
+every Christian philosopher.
 
-WBSTERN PHILOSOPHICAL THOUGHT 
-
-of the Spirit and of power'; of 'the Spirit/ on account of the 
-prophecies, which are sufficient to produce faith in any one who 
-reads them, especially in those things which relate to Christ; and 
-of 'power/ because of the signs and wonders which we must 
-believe to have been performed, both on many other grounds, and 
-on this, that traces of them are still preserved among those who 
-regulate their lives by the precepts of the Gospel." 1 
-
-This passage is interesting, as showing already the twofold argument for belief which is characteristic of Christian philosophy. 
-On the one hand, pure reason, rightly exercised, suffices to establish 
-the essentials of the Christian faith, more especially God, immortality, and free will. But on the other hand the Scriptures 
-prove not only these bare essentials, but much more; and the 
-divine inspiration of the Scriptures is proved by the fact that the 
-prophets foretold the coming of the Messiah, by the miracles, 
-and by the beneficent effects of belief on the lives of the faithful. 
-Some of these arguments are now considered out of date, but the 
-last of them was still employed by William James. All of them, 
-until the Renaissance, were accepted by even 1 Christian philosopher. 
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n343)
 
 Some of Origen's arguments are curious. He says that magicians 
 invoke the "God of Abraham," often without knowing who it is; 
@@ -13494,7 +13475,7 @@ Augustine's City of God. It led churchmen, at the time of the
 fall of the Western Empire, to look on passively at secular disasters, 
 while they exercised their very great talents in Church discipline, 
 
-1 Origen, Contra Celsum, Book I, chap. ti. 
+
 1 Ibid., Book I, chap. xxvi. 
 ., Book VIII, chap. bcxv 
 
@@ -18083,7 +18064,7 @@ founder of a religion much more than was given even by Avicenna. He holds that t
 independently of revelation, a view also held by Thomas Aquinas. 
 As regards immortality, he seems to have adhered closely to 
 Aristotle, maintaining that the soul is not immortal, but intellect 
-(nous) is. This, however, does not secure personal immortality, 
+(_nous_) is. This, however, does not secure personal immortality, 
 since intellect is one and the same when manifested in different 
 persons. This view, naturally, was combated by Christian 
 philosophers. 
