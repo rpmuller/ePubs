@@ -12897,7 +12897,7 @@ for I the Lord your God am holy."[^141] The Law is a product of this
 period. It was one of the chief forces in preserving national unity.
 
 [^140]: Leviticus xx, 24.
-[^141]: _Ibid._ xix, 2.
+[^141]: _Ibid._, xix, 2.
 
 What we have as the Book of Isaiah is the work of two different
 prophets, one before the exile and one after. The second of these, who
