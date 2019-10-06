@@ -105,3 +105,18 @@ Name of pre-Hellenistic mystical religion; Orphism
 Name of secret Orphic rituals; Mysteries of Dionysius
 "Everything is full of gods"; Thales
 Meno's paradox; If you know what you're looking for, inquiry is unnecessary. If you know what you're looking for, inquiry is impossible.
+"One swallow does not make a summer"; Aristotle
+"The unexamined life is not worth living"; Socrates
+"Whereof one cannot speak, thereof one must be silent"; Wittgenstein
+"Entities should not be multiplied unnecessarily"; William of Ockham
+"He who thinks great thoughts, often makes great errors"; Heidegger
+"There is but one truly serious philosophical problem, and that is suicide"; Camus
+"To be is to be perceived"; Berkeley
+Categorical imperative; Kant
+"If God did not exist, it would be necessary to invent Him"; Voltaire
+"We are what we repeatedly do. Excellence, then, is not an act but a habit"; Aristotle
+"Science is what you know. Philosophy is what you don't know."; Bertrand Russell
+"Freedom is secured not by the fulfilling of one's desires, but by the removal of desire"; Epictetus
+"The brave man is he who overcomes not only his enemies but his pleasures"; Democritus
+"We are too weak to discover the truth by reason alone"; St Augustine
+"The mind is furnished with ideas by experience alone"; Locke

@@ -13270,7 +13270,7 @@ civilization as individuals, but no longer as a race.
 
 ## Chapter II CHRISTIANITY DURING THE FIRST FOUR CENTURIES 
 
-CHRISTIANITY, at first, was preached by Jews to Jews, as 
+Christianity, at first, was preached by Jews to Jews, as 
 a reformed Judaism. St. James, and to a lesser extent St. 
 Peter, wished it to remain no more than this, and they 
 might have prevailed but for St. Paul, who was determined to 
