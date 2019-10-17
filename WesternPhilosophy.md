@@ -14034,22 +14034,23 @@ To Eustochium herself, in the same letter (xxii), he says:
 > enclosed is my sister, my spouse; a spring shut up, a fountain
 > sealed.'
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n361)
+In the same letter he relates how, after cutting himself off from
+relations and friends, "and---harder still---from the dainty food to
+which I had been accustomed," he still could not bear to be parted
+from his library, and took it with him to the desert. "And so,
+miserable man that I was, I would fast only that I might afterwards
+read Cicero." After days and nights of remorse, he would fall again,
+and read Plautus. After such indulgence, the style of the prophets
+seemed "rude and repellent." At last, during a fever, he dreamed that,
+at the Last Judgment, Christ asked him who he was, and he replied that
+he was a Christian. The answer came: "Thou liest, thou art a follower
+of Cicero and not of Christ."  Thereupon he was ordered to be
+scourged. At length Jerome, in his dream, cried out: "Lord, if ever
+again I possess worldly books, or if ever again I read such, I have
+denied Thee." This, he adds, "was no sleep or idle dream."[^167]
 
-In the same letter he relates how, after cutting himself off from 
-relations and friends, u and harder still from the dainty food 
-to which I had been accustomed," he still could not bear to be 
-parted from his library, and took it with him to the desert. "And 
-so, miserable man that I was, I would fast only that I might afterwards read Cicero." After days and nights of remorse, he would 
-fall again, and read Plautus. After such indulgence, the style of 
-the prophets seemed "rude and repellent." At last, during a fever, 
-he dreamed that, at the Last Judgment, Christ asked him who 
-he was, and he replied that he was a Christian. The answer came: 
-"Thou liest, thou art a follower of Cicero and not of Christ." 
-Thereupon he was ordered to be scourged. At length Jerome, in 
-his dream, cried out: "Lord, if ever again I possess worldly books, 
-or if ever again I read such, I have denied Thee." This, he adds, 
-"was no sleep or idle dream." 1 
+[^167]: This hostility to pagan literature persisted in the Church until the eleventh century, except in Ireland, where the Olympian gods had never been worshipped, and were therefore not feared by the Church.
+
 
 After this, for some years, his letters contain few classical quotations. But after a certain time he lapses again into verses from 
 Virgil, Horace, and even Ovid. They seem, however, to be from 
@@ -14058,79 +14059,61 @@ again.
 
 Jerome's letters express the feelings produced by the fall of the 
 Roman Empire more vividly than any others known to me. In 
-396 he writes: 2 
+396 he writes:[^168]
 
-"I shudder when I think of the catastrophes of our time. For 
-twenty years and more the blood of Romans has been shed daily 
-between Constantinople and the Julian Alps. Scythia, Thrace, 
-Macedonia, Dacia, Thessaly, Achaia, Epirus, Dalmatia, the 
+[^168]: Letter lx. 
 
-* This hostility to pagan literature persisted in the Church until the 
-eleventh century, except in Ireland, where the Olympian gods had never 
-been worshipped, and were therefore not feared by the Church. 
-
-1 Utter be. 
-
-, ' 362 
-
-
-
-THREE DOCTORS OF THE CHURCH 
-
-Pannonias each and all of these have been sacked and pillaged 
-and plundered by Goths and Sarmatians, Quad! and Alans, Huns 
-and Vandals and Marchmen. . . . The Roman world is falling: yet 
-we hold up our heads instead of bowing them. What courage, 
-think you, have the Corinthians now, or the Athenians or the 
-Lacedaemonians or the Arcadians, or any of the Greeks over whom 
-the barbarians bear sway? I have mentioned only a few cities, but 
-these once the capitals of no mean States " 
+> I shudder when I think of the catastrophes of our time. For twenty
+> years and more the blood of Romans has been shed daily between
+> Constantinople and the Julian Alps. Scythia, Thrace, Macedonia,
+> Dacia, Thessaly, Achaia, Epirus, Dalmatia, the Pannonias each and
+> all of these have been sacked and pillaged and plundered by Goths
+> and Sarmatians, Quad! and Alans, Huns and Vandals and
+> Marchmen. . . . The Roman world is falling: yet we hold up our heads
+> instead of bowing them. What courage, think you, have the
+> Corinthians now, or the Athenians or the Lacedaemonians or the
+> Arcadians, or any of the Greeks over whom the barbarians bear sway?
+> I have mentioned only a few cities, but these once the capitals of
+> no mean States.
 
 He goes on to relate the ravages of the Huns in the East, and 
 ends with the reflection: "To treat such themes as they deserve, 
 Thucydides and Sallust would be as good as dumb." 
 
-Seventeen years* later, three years after the sack of Rome, he 
-writes: 1 
+Seventeen years later, three years after the sack of Rome, he 
+writes:[^169]
 
-"The world sinks into ruin: yes! but shameful to say our sins 
-still live and flourish. The renowned city, the capital of the Roman 
-Kmpire, is swallowed up in one tremendous fire; and there is no 
-part of the earth where Romans are not in exile. Churches once 
-held sacred are now but heaps of dust and ashes; and yet we have 
-our minds set on the desire of gain. We live as though we were 
-going to die to-morrow; yet we build as though we were going 
-to live always in this world. Our walls shine with gold, our ceilings 
-also and the capitals of our pillars; yet Christ dies before our doors 
-naked and hungry in the person of His poor." 
+[^169]: Letter cxxviii. 
 
-This passage occurs incidentally in a letter to a friend who has 
-decided to devote his daughter to perpetual virginity, and most 
-of it is concerned with the rules to be observed in the education 
-of girls so dedicated. It is strange that, with all Jerome's deep 
-feeling about the fall of the ancient world, he thinks the preservation of virginity more important than victory over the Huns and 
-Vandals and Goths. Never once do his thoughts turn to any 
-possible measure of practical statesmanship; never once does he 
-point out the evils of the fiscal system, or of reliance on an army 
-composed of barbarians. The same is true of Ambrose and of 
-Augustine; Ambrose, it is true, was a statesman, but only on behalf 
-of the Church. It is no wonder that the Empire fell into ruin when 
-all the best and most vigorous minds of the age were so compl 
-remote from secular concerns. On the other hand, if 
-inevitable, the Christian outlook was admirably fitted^ 
-fortitude, and to enable them to preserve their 
+> The world sinks into ruin: yes! but shameful to say our sins still
+> live and flourish. The renowned city, the capital of the Roman
+> Empire, is swallowed up in one tremendous fire; and there is no part
+> of the earth where Romans are not in exile. Churches once held
+> sacred are now but heaps of dust and ashes; and yet we have our
+> minds set on the desire of gain. We live as though we were going to
+> die to-morrow; yet we build as though we were going to live always
+> in this world. Our walls shine with gold, our ceilings also and the
+> capitals of our pillars; yet Christ dies before our doors naked and
+> hungry in the person of His poor.
 
-1 Letter cxxviii. 
-
-363 
-
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-when earthly hopes seemed vain. The expression of this point of 
-view, in The City of God, was the supreme merit of St. Augustine. 
+This passage occurs incidentally in a letter to a friend who has
+decided to devote his daughter to perpetual virginity, and most of it
+is concerned with the rules to be observed in the education of girls
+so dedicated. It is strange that, with all Jerome's deep feeling about
+the fall of the ancient world, he thinks the preservation of virginity
+more important than victory over the Huns and Vandals and Goths. Never
+once do his thoughts turn to any possible measure of practical
+statesmanship; never once does he point out the evils of the fiscal
+system, or of reliance on an army composed of barbarians. The same is
+true of Ambrose and of Augustine; Ambrose, it is true, was a
+statesman, but only on behalf of the Church. It is no wonder that the
+Empire fell into ruin when all the best and most vigorous minds of the
+age were so completely remote from secular concerns. On the other
+hand, if ruin was inevitable, the Christian outlook was admirably
+fitted to give men fortitude, and to enable them to preserve their
+religious hopes when earthly hopes seemed vain. The expression of this
+point of view, in _The City of God_, was the supreme merit of St
+Augustine.
 
 Of St. Augustine I shall speak, in this chapter, only as a man; 
 as a theologian and philosopher, I shall consider him in the next 
@@ -14139,63 +14122,62 @@ chapter.
 He was born in 354, nine years after Jerome, and fourteen years 
 after Ambrose; he was a native of Africa, where he passed much 
 the greater part of his life. His mother was a Christian, but his 
-father was not. After a period as a Manicluean, he became a 
+father was not. After a period as a Manichean, he became a 
 Catholic, and was baptized by Ambrose in Milan. He became 
 bishop of Hippo, not far from Carthage, about the year 396. There 
 he remained until his death in 430. 
 
-Of his early life we know much more than in the case of most 
-ecclesiastics, because he has told of it in his Confessions. This book 
-has had famous imitators, particularly Rousseau and Tolstoy, but 
-I do not think it had any comparable predecessors. St. Augustine 
-is in some ways similar to Tolstoy, to whom, however, he is 
-superior in intellect. He was a passionate man, in youth very far 
-from a pattern of virtue, but driven by an inner impulse to search 
-for truth and righteousness. Like Tolstoy, he was obsessed, in his 
-later years, by a sense of sin, which made his life stern and his 
-philosophy inhuman. He combated heresies vigorously, but some 
-of his views, when repeated by Jansenius in the seventeenth century, were pronounced heretical. Until the Protestants took up 
-his opinions, however, the Catholic Church had never impugned 
-their orthodox)*. 
+Of his early life we know much more than in the case of most
+ecclesiastics, because he has told of it in his _Confessions_. This
+book has had famous imitators, particularly Rousseau and Tolstoy, but
+I do not think it had any comparable predecessors. St. Augustine is in
+some ways similar to Tolstoy, to whom, however, he is superior in
+intellect. He was a passionate man, in youth very far from a pattern
+of virtue, but driven by an inner impulse to search for truth and
+righteousness. Like Tolstoy, he was obsessed, in his later years, by a
+sense of sin, which made his life stern and his philosophy inhuman. He
+combated heresies vigorously, but some of his views, when repeated by
+Jansenius in the seventeenth century, were pronounced heretical. Until
+the Protestants took up his opinions, however, the Catholic Church had
+never impugned their orthodoxy.
 
-One of the first incidents of his life related in the Confessions 
-occurred in his boyhood, and did not, in itself, greatly distinguish 
-him from other boys. It appears that, with some companions of 
-his own age, he despoiled a neighbor's pear tree, although he was 
-not hungry, and his parents had better pears at home. He continued throughout his life to consider this an act of almost incredible wickedness. It would not have been so bad if he had been 
-hungry, or had had no other means of getting pears; but, as it was, 
-the act was one of pure mischief, inspired by the love of wickedness for its own sake. It is this that makes it so unspeakably 
-black. He beseeches God to forgive him: 
+One of the first incidents of his life related in the Confessions
+occurred in his boyhood, and did not, in itself, greatly distinguish
+him from other boys. It appears that, with some companions of his own
+age, he despoiled a neighbor's pear tree, although he was not hungry,
+and his parents had better pears at home. He continued throughout his
+life to consider this an act of almost incredible wickedness. It would
+not have been so bad if he had been hungry, or had had no other means
+of getting pears; but, as it was, the act was one of pure mischief,
+inspired by the love of wickedness for its own sake. It is this that
+makes it so unspeakably black. He beseeches God to forgive him:
 
-"Behold my heart, O God, behold my heart, which Thou hadst 
-pity upon in the bottom of the abyss. Now, behold, let my heart 
-tell Thee, what it sought there, that I should be gratuitously 
+> Behold my heart, O God, behold my heart, which Thou hadst pity upon
+> in the bottom of the abyss. Now, behold, let my heart tell Thee,
+> what it sought there, that I should be gratuitously wicked, having
+> no temptation to that evil deed, but the evil deed itself. It was
+> foul, and I loved it; I loved to perish, I loved mine own fault, not
+> that for the sake of which I committed the fault, but my fault
+> itself I loved. Foul soul, falling from the firmament to expulsion
+> from Thy presence; not seeking aught through the shame, but the
+> shame itself!"[^170]
 
-364 
+[^170]: _Confessions_, Book II, chap. iv.
 
+He goes on like this for seven chapters, and all about some pears
+plucked from a tree in a boyish prank. To a modern mind, this seems
+morbid;[^171] but in his own age it seemed right and a mark of
+holiness. The sense of sin, which was very strong in his day, came to
+the Jews as a way of reconciling self-importance with outward
+defeat. Yahweh was omnipotent, and Yahweh was specially interested in
+the Jews; why, then, did they not prosper? Because they were wicked:
+they were idolaters, they married gentiles, they failed to observe the
+Law. God's purposes were centered on the Jews, but, since
+righteousness is the greatest of goods, and is achieved through
+tribulation, they must first be chastised, and must recognize their
+chastisement as a mark of God's paternal love.
 
-
-THREE DOCTORS OF THE CHURCH 
-
-wicked, having no temptation to that evil deed, but the evil deed 
-itself. It was foul, and I loved it; I loved to perish, I loved mine 
-own fault, not that for the sake of which I committed the fault, 
-but my fault itself I loved. Foul soul, falling from the firmament 
-to expulsion from Thy presence; not seeking aught through the 
-shame, but the shame itself I" 1 
-
-Me goes on like this for seven chapters, and all about some pears 
-plucked from a tree in a boyish prank. To a modern mind, this 
-seems morbid; 2 but in his own age it seemed right and a mark 
-of holiness. The sense of sin, which was very strong in his day, 
-came to the Jews as a way of reconciling self-importance with 
-outward defeat. Yahweh was omnipotent, and Yahweh was specially 
-interested in the Jews; why, then, did they not prosper? Because 
-they were wicked: they were idolaters, they married gentiles, they 
-failed to observe the Law. God's purposes were centered on the 
-Jews, but, since righteousness is the greatest of goods, and is 
-achieved through tribulation, they must first be chastised, and 
-must recognize their chastisement as a mark of God's paternal love. 
+[^171]: I must exempt Mahatma Gandhi, whose autobiography contains passages closely similar to the above.
 
 Christians put the Church in place of the Chosen People, but except in
 one respect this made little difference to the psychology of sin. The
@@ -14222,9 +14204,6 @@ God. But no one will be saved unless he has been baptized, and thereby
 become a member of the Church; this makes the Church an intermediary
 between the soul and God.
 
-1 I must except Mahatma Gnndhi, whoso autobiography contains 
-passages closely similar to the above. 
-
 Sin is what is essential to the direct relation, since it explains 
 how a beneficent Deity can cause men to suffer, and how, in spite 
 of this, individual souls can be what is of most importance in the 
@@ -14232,22 +14211,24 @@ created world. It is therefore not surprising that the theology
 upon which the Reformation relied should be due to a man whose 
 sense of sin was abnormal. 
 
-So much for the pears. Let us now see what the Confessions have 
-to say on some other subjects. 
+So much for the pears. Let us now see what the _Confessions_ have to say
+on some other subjects.
 
-Augustine relates how he learnt Latin, painlessly, at his mother's 
-knee, but hated Greek, which they tried to teach him at school, 
-because he was "urged vehemently with cruel threats and punishments." To the end of his life, his knowledge of Greek remained 
-slight. One might have supposed that he would go on, from this 
-contrast, to draw a moral in favor of gentle methods in education. 
-What he says, however, is: 
+Augustine relates how he learnt Latin, painlessly, at his mother's
+knee, but hated Greek, which they tried to teach him at school,
+because he was "urged vehemently with cruel threats and punishments."
+To the end of his life, his knowledge of Greek remained slight. One
+might have supposed that he would go on, from this contrast, to draw a
+moral in favor of gentle methods in education.  What he says, however,
+is:
 
-"It is quite clear, then, that a free curiosity has more power to 
-make us learn these things than a terrifying obligation. Only this 
-obligation restrains the waverings of that freedom by Thy laws, 
-O my God, Thy laws, from the master's rod to the martyr's trials, 
-for Thy laws have the effect of mingling for us certain wholesome 
-bitters, which recall us to Thee away from that pernicious blithesomeness, by means of which we depart from Thee." 
+> It is quite clear, then, that a free curiosity has more power to
+> make us learn these things than a terrifying obligation. Only this
+> obligation restrains the waverings of that freedom by Thy laws, O my
+> God, Thy laws, from the master's rod to the martyr's trials, for Thy
+> laws have the effect of mingling for us certain wholesome bitters,
+> which recall us to Thee away from that pernicious blithesomeness, by
+> means of which we depart from Thee.
 
 The schoolmaster's blows, though they failed to make him know 
 Greek, cured him of being perniciously blithesome, and were, on 
@@ -14261,82 +14242,78 @@ breast are full of sin gluttony, jealousy, and other horrible vices.
 When he reached adolescence, the lusts of the flesh overcame 
 him. "Where was I, and how far was I exiled from the delights of 
 Thy house, in that sixteenth year of the age of my flesh, when the 
-
-
-
-THREE DOCTORS OF THE CHURCH 
-
 madness of lust which hath license through man's viciousness, 
 though forbidden by Thy laws, took the rule over me, and I 
-resigned myself wholly to it?" 1 
+resigned myself wholly to it?"[^172]
 
-His father took no pains to prevent this evil, but confined himself to giving help in Augustine's studies. His mother, St. Monica, 
-on the contrary, exhorted him to chastity, but in vain. And even 
-she did not, at that time, suggest marriage, "lest my prospects 
-might be embarrassed by the clog of a wife." 
+[^172]: Confusions, Book II, chap. ii.
 
-At the age of sixteen he went to Carthage, "where there seethed 
-all around me a cauldron of lawless loves. I loved not yet, yet I 
-loved to love, and out of a deep-seated want, I hated myself for 
-wanting not. I sought what I might love, in love with loving, and 
-I hated safety. ... To love then, and to be beloved, was sweet to 
-me; but more, when I obtained to* enjoy the person I loved. I 
-defiled, therefore, the spring of friendship with the filth of concupiscence, and I beclouded its brightness with the hell of lustfulness." 2 These words describe his relation to a mistress whom 
-he loved faithfully for many years, 3 and by whom he had a son, 
-whom he also loved, and to whom, after his conversion, he gave 
-much care in religious education. 
+His father took no pains to prevent this evil, but confined himself to
+giving help in Augustine's studies. His mother, St. Monica, on the
+contrary, exhorted him to chastity, but in vain. And even she did not,
+at that time, suggest marriage, "lest my prospects might be
+embarrassed by the clog of a wife."
 
-The time came when he and his mother thought he ought to 
-begin to think of marrying. He became engaged to a girl of whom 
-she approved, and it was held necessary that he should break with 
-his mistress. "My mistress," he says, "being torn from my side 
-as a hindrance to my marriage, my heart which clave unto her was 
-torn and wounded and bleeding. And she returned to Africa 
-[Augustine was at this time in Milan], vowing unto Thee never 
-to know any other man, leaving with me my son by her." 4 As, 
-however, the marriage could not take place for two years, owing 
-to the girl's youth, he took meanwhile another mistress, less official 
-and less acknowledged. His conscience increasingly troubled him, 
-and he used to pray: "Give me chastity and continence, only not 
-yet." 6 At last, before the time had come for his marriage, religion 
-won a complete victory, and he dedicated the rest of his life to 
-celibacy. 
+At the age of sixteen he went to Carthage, "where there seethed all
+around me a cauldron of lawless loves. I loved not yet, yet I loved to
+love, and out of a deep-seated want, I hated myself for wanting not. I
+sought what I might love, in love with loving, and I hated
+safety. ... To love then, and to be beloved, was sweet to me; but
+more, when I obtained to* enjoy the person I loved. I defiled,
+therefore, the spring of friendship with the filth of concupiscence,
+and I beclouded its brightness with the hell of lustfulness."[^173]
+These words describe his relation to a mistress whom he loved
+faithfully for many years,[^174] and by whom he had a son, whom he
+also loved, and to whom, after his conversion, he gave much care in
+religious education.
+
+[^173]: _Ibid._, Book III, chap. i.
+[^174]: _Ibid._, Book IV, chap. ii.
+
+The time came when he and his mother thought he ought to begin to
+think of marrying. He became engaged to a girl of whom she approved,
+and it was held necessary that he should break with his mistress. "My
+mistress," he says, "being torn from my side as a hindrance to my
+marriage, my heart which clave unto her was torn and wounded and
+bleeding. And she returned to Africa
+[Augustine was at this time in Milan], vowing unto Thee never to know
+any other man, leaving with me my son by her."[^175] As, however, the
+marriage could not take place for two years, owing to the girl's
+youth, he took meanwhile another mistress, less official and less
+acknowledged. His conscience increasingly troubled him, and he used to
+pray: "Give me chastity and continence, only not yet."[^176] At last,
+before the time had come for his marriage, religion won a complete
+victory, and he dedicated the rest of his life to celibacy.
+
+[^175]: Ibid., Book VI, chap. xv.
+[^176]: Ibid., Book VII, chap. xii.
 
 To return to an earlier time: in his nineteenth year, having 
 achieved proficiency in rhetoric, he was recalled to philosophy by 
-
-1 Confusions, Book II, chap. ii. * Ibid,, Book III, chap. i. 
-
-8 Ibid., Book IV, chap. ii. ' Ibid., Book VI, chap. xv. 
-
-' Ibid., Book VIII, chap. vii. 
-
-367 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Cicero, He tried reading the Bible, but found it lacking in 
-Ciceronian dignity. It was at this time that he became a Mwiichaean, 
+Ciceronian dignity. It was at this time that he became a Manichaean, 
 which grieved his mother. By profession he was a teacher of 
 rhetoric. He was addicted to astrology, to which, in later life, he 
 was averse, because it teaches that "the inevitable cause of thy 
-sin is in the sky." 1 He read philosophy, so far as it could be read 
-in Latin; he mentions particularly Aristotle's Ten Categories > 
+sin is in the sky."[^177] He read philosophy, so far as it could be read 
+in Latin; he mentions particularly Aristotle's _Ten Categories_ 
 which, he says, he understood without the help of a teacher. "And 
 what did it profit me, that I, the vilest slave of evil passions, read 
 by myself all the books of so-called 'liberal' arts, and understood 
 whatever I could read? . . . For I had my back to the light, and 
 my face to the things enlightened; whence my face . . . itself was 
-not enlightened." 8 At this time he believed that God was a vast 
+not enlightened."[^178] At this time he believed that God was a vast 
 and bright body, and he himself a part of that body. One could 
 wish that he had told in detail the tenets of the Manichaeans, 
 instead of merely saying they were erroneous. 
 
+[^177]: _Confessions_, Book IV, chap. iii. 
+[^178]: _Ibid._, Book IV, chap. xvi. 
+
+
 It is interesting that St. Augustine's first reasons for rejecting 
-the doctrines of Manichanis were scientific. He remembered so 
-he tells us 8 what he had learned of astronomy from the writings 
+the doctrines of Manichanis were scientific. He remembered---so 
+he tells us[^179] what he had learned of astronomy from the writiangs 
 of the best astronomers, "and I compared them with the sayings 
 of Manichaeus, who in his crazy folly has written much and 
 copiously upon these subjects; but none of his reasoning of the 
@@ -14350,76 +14327,68 @@ to the faith, but only become so when delivered with an air of
 authority as known through divine inspiration. One wonders what 
 he would have thought if he had lived in the time of Galileo. 
 
-In the hope of resolving his doubts, a Manich&an bishop named 
+[^179]: Book V, chap, iii .
+
+In the hope of resolving his doubts, a Manichean bishop named 
 Faustus, reputed the most learned member of the sect, met him 
 and reasoned with him. But "I found him first utterly ignorant 
 of liberal sciences, save grammar, and that but in an ordinary 
 way. But because he had read some of Tully's Orations, a very 
 few books of Seneca, some things of the poets, and such few 
-volumes of his own sect, as were written in I<atin and in logical 
-
-1 Cottfesricns, Book IV, chap. iii. 
-
-1 IMd. t Book IV, chap. xvi. * /*, Book V, chap, iii 
-
-368 
-
-
-
-THREE DOCTORS OF THE CHURCH 
-
+volumes of his own sect, as were written in Latin and in logical 
 order, and was daily practiced in speaking, he acquired a certain 
 eloquence, which proved the more pleasing and seductive, because 
 under the control of his good sense, and with a certain natural 
-grace." 1 
+grace."[^180]
 
-He found Faustus quite unable to solve his astronomical difficulties. The books of the Manichecans, he tells us, "are full of 
-lengthy fables, of the heaven, and stars, sun, and moon," which 
-do not agree with what has been discovered by astronomers; but 
-when he questioned Faustus on these matters, Faustus frankly 
-confessed his ignorance. "Even for this I liked him the better. 
-For the modesty of a candid mind is even more attractive than 
-the knowledge of those things which I desired; and such I found 
-him, in all the more difficult and subtle questions." 2 
+[^180]: _Confessions_, Book V, chap. vi. 
 
-This sentiment is surprisingly liberal; one would not have expected it in that age. Nor is it quite in harmony with St. Augustine's later attitude towards heretics. 
 
-At this time he decided to go to Rome, not, he says, because 
-there the income of a teacher was higher than at Carthage, but 
-because he had heard that classes were more orderly. At Carthage, 
-the disorders perpetrated by students were such that teaching was 
-almost impossible; but at Rome, while there was less disorder, 
-students fraudulently evaded payment. 
+He found Faustus quite unable to solve his astronomical
+difficulties. The books of the Manichecans, he tells us, "are full of
+lengthy fables, of the heaven, and stars, sun, and moon," which do not
+agree with what has been discovered by astronomers; but when he
+questioned Faustus on these matters, Faustus frankly confessed his
+ignorance. "Even for this I liked him the better.  For the modesty of
+a candid mind is even more attractive than the knowledge of those
+things which I desired; and such I found him, in all the more
+difficult and subtle questions."[^181]
+
+[^181]: _Ibid._, Book II, chap. vii. 
+
+This sentiment is surprisingly liberal; one would not have expected it
+in that age. Nor is it quite in harmony with St. Augustine's later
+attitude towards heretics.
+
+At this time he decided to go to Rome, not, he says, because there the
+income of a teacher was higher than at Carthage, but because he had
+heard that classes were more orderly. At Carthage, the disorders
+perpetrated by students were such that teaching was almost impossible;
+but at Rome, while there was less disorder, students fraudulently
+evaded payment.
 
 In Rome, he still associated with the Manichaeans, but with less 
 conviction of their tightness. He began to think that the Academics 
-were right in holding that men ought to doubt everything. 3 He 
+were right in holding that men ought to doubt everything.[^182] He 
 still, however, agreed with the Manichseans in thinking "that it 
 is not we ourselves that sin, but that some other nature (what, I 
 know not) sins in us," and he believed Evil to be some kind of 
 substance. This makes it clear that, before as after his conversion, 
-the question of sin pre-occupied him. 
+the question of sin preoccupied him. 
 
-After about a year in Rome, he was sent to Milan by the Prefect 
-Symmachus, in response to a request from that city for a teacher 
-of rhetoric. At Milan he became acquainted with Ambrose, "known 
-to the whole world as among the best of men." He came to love 
-Ambrose for his kindness, and to prefer the Catholic doctrine to 
-that of the Manichseans; hut for a while he was held back by the 
-skepticism he had learnt from the Academics, "to which philosophers notwithstanding, because they were without the saving name 
+[^182]: Book V, chap. x. 
 
-1 Confessions, Bcx>k V, chap. vi. 
+After about a year in Rome, he was sent to Milan by the Prefect
+Symmachus, in response to a request from that city for a teacher of
+rhetoric. At Milan he became acquainted with Ambrose, "known to the
+whole world as among the best of men." He came to love Ambrose for his
+kindness, and to prefer the Catholic doctrine to that of the
+Manichseans; hut for a while he was held back by the skepticism he had
+learnt from the Academics, "to which philosophers notwithstanding,
+because they were without the saving name of Christ, I utterly refused
+to commit the care of my sick soul."[^183]
 
-d., Book II, chap. vii. 8 /</., Book V, chap. x. 
-
-369 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-of Christ, I utterly refused to commit the care of my sick 
-soul." 1 
+[^183]: _Confessions_, Book V. chap. xiv.
 
 In Milan he was joined by his mother, who had a powerful 
 influence in hastening the last steps to his conversion. She was a 
@@ -14427,7 +14396,7 @@ very earnest Catholic, and he writes of her always in a tone of
 reverence. She was the more important to him at this time, because 
 Ambrose was too busy to converse with him privately. 
 
-There is a very interesting chapter 9 in which he compares the 
+There is a very interesting chapter[^184] in which he compares the 
 Platonic philosophy with Christian doctrine. The Lord, he says, 
 at this time provided him with "certain books of the Platonists, 
 translated from Greek into Latin. And therein I read, not indeed 
@@ -14440,7 +14409,7 @@ the life was the light of men, and the light shineth in the darkness,
 and the darkness comprehended it not. And that the soul of man, 
 though it 'bears witness to the light,' yet itself 'is not that light,' 
 but God, the Word of God, 'is that true light that lighteth every 
-man that cometh into the world. 1 And that 'He was in the world, 
+man that cometh into the world.' And that 'He was in the world, 
 and the world was made by Him, and the world knew Him not. 9 
 But that 'He came unto His own, and His own received Him not; 
 but as many as received Him, to them gave He power to become 
@@ -14448,7 +14417,9 @@ the sons of God, even to them that believe on His Name': this I
 read not there." He also did not read there that "the Word was 
 made flesh, and dwelt among us"; nor that "He humbled Himself, 
 and became obedient unto death, even the death of the Cross"; 
-nor that "at the name of Jesus every knee should bow." 
+nor that "at the name of Jesus every knee should bow."
+
+[^184]: _Ibid_, Book VII, chap. ix. 
 
 Broadly speaking, he found in the Platonists the metaphysical 
 doctrine of the Logos, but not the doctrine of the Incarnation and 
@@ -14460,17 +14431,9 @@ recent historical event, as Christianity was.
 
 As against the Manichaeans, who were dualists, Augustine came 
 to believe that evil originates not from some substance, but from 
-pcrvcrseness of will. 
+perverseness of will. 
 
-1 Confetti. Book V. chap. tiv. Ibid.. Book VII, chap. is. 
-
-370 
-
-
-
-THREE DOCTORS OF THE CHURCH 
-
-He found especial comfort in the writings of St. Paul. 1 
+He found especial comfort in the writings of St. Paul.[^185]
 At length, after passionate inward struggles, he was converted 
 (386); he gave up his professorship, his mistress, and his bride, and, 
 after a brief period of meditation in retirement, was baptized by 
@@ -14480,17 +14443,12 @@ life, fully occupied with his episcopal duties and with controversial
 writings against various heresies, Donatist, Manichaean, and 
 Pelagian. 
 
-1 Confessions, Book VII, chap. xxi. 
-
-
-
-37* 
-
+[^185]: _Confessions_, Book VII, chap. xxi. 
 
 
 ## Chapter IV ST. AUGUSTINE'S PHILOSOPHY AND THEOLOGY 
 
-ST. AUGUSTINE was a very voluminous writer, mainly on 
+St. Augustine was a very voluminous writer, mainly on 
 theological subjects. Some of his controversial writing was 
 topical, and lost interest through its very success; but some 
 of it, especially what is concerned with the Pelagians, remained 
@@ -14500,22 +14458,19 @@ important, either intrinsically or historically. I shall consider:
 
 First: his pure philosophy, particularly his theory of time; 
 Second: his philosophy of history, as developed in The City 
-of God.
-Third: his theory of salvation, as propounded ajrainst the 
+of God. Third: his theory of salvation, as propounded against the Pelagians. 
 
-Pelagians. 
+### Pure Philosophy
 
-1. PURE PHILOSOPHY 
-
-St. Augustine, at most times, docs not occupy himself with pure 
-philosophy, but when he does he shows very great ability'. He is 
-the first of a long line whose purely speculative views are influenced 
-by the necessity of agreeing with Scripture. This cannot be said of 
-earlier Christian philosophers, e.g., Origen; in Origen, Christianity 
-and Platonism lie side by side, and do not interpenetrate. In St. 
-Augustine, on the other hand, original thinking in pure philosophy 
-is stimulated by the fact that Platonism, in certain respects, is not 
-in harmony with Genesis. 
+St. Augustine, at most times, docs not occupy himself with pure
+philosophy, but when he does he shows very great ability. He is the
+first of a long line whose purely speculative views are influenced by
+the necessity of agreeing with Scripture. This cannot be said of
+earlier Christian philosophers, e.g., Origen; in Origen, Christianity
+and Platonism lie side by side, and do not interpenetrate. In St.
+Augustine, on the other hand, original thinking in pure philosophy is
+stimulated by the fact that Platonism, in certain respects, is not in
+harmony with Genesis.
 
 The best purely philosophical work in St. Augustine's writings 
 is the eleventh book of the Confessions. Popular editions of the 
@@ -14527,13 +14482,6 @@ Augustine maintains against the Manicha-ans, it should have
 occurred as soon as possible. So he imagines an objector arguing. 
 
 The first point to realize, if his answer is to be understood, is that 
-
-37* 
-
-
-
-ST. AUGUSTINE'S PHILOSOPHY AND THEOLOGY 
-
 creation out of nothing, which was taught in the Old Testament, 
 was an idea wholly foreign to Greek philosophy. When Plato speaks 
 of creation, he imagines a primitive matter to which God gives 
@@ -14545,16 +14493,17 @@ must, that the world was created not from any certain matter,
 but from nothing. God created substance, not only order and 
 arrangement. 
 
-The Greek view, that creation out of nothing is impossible, has 
-recurred at intervals in Christian times, and has led to pantheism. 
-Pantheism holds that God and the world are not distinct, and that 
-everything in the world is part of God. This view is developed most 
-fully in Spinoza, but is one to which almost all mystics arc attracted. 
-It has thus happened, throughout the Christian centuries, that 
-mystics have had difficulty in remaining orthodox, since they find 
-it hard to believe that the world is outside God. Augustine, however, feels no difficulty on this point; Genesis is explicit, and that 
-is enough for him. His view on this matter is essential to his theory 
-of time. 
+The Greek view, that creation out of nothing is impossible, has
+recurred at intervals in Christian times, and has led to pantheism.
+Pantheism holds that God and the world are not distinct, and that
+everything in the world is part of God. This view is developed most
+fully in Spinoza, but is one to which almost all mystics arc
+attracted.  It has thus happened, throughout the Christian centuries,
+that mystics have had difficulty in remaining orthodox, since they
+find it hard to believe that the world is outside God. Augustine,
+however, feels no difficulty on this point; Genesis is explicit, and
+that is enough for him. His view on this matter is essential to his
+theory of time.
 
 Why was the world not created sooner? Because there was no 
 "sooner." Time was created when the world was created. God is 
@@ -14566,28 +14515,23 @@ in time, whereas He stands eternally outside the stream of time.
 This leads St. Augustine to a very admirable relativistic theory 
 of time. 
 
-"What, then, is time?" lie asks. "If no one asks of me, I know; if 
-I wish to explain to him who asks, I know not." Various difficulties 
-perplex him. Neither past nor future, he says, but only the present, 
-really li; the present is only a moment, and time can only be 
-measured while it is passing. Nevertheless, there really is time past 
-and future. We seem here to be led into contradictions. The only 
-way Augustine can find to avoid these contradictions is to say that 
-past and future can only be thought of as present: "past" must 
-be identified with memory, and "future" with expectation, 
-memory and expectation being both present facts. There are, he 
+"What, then, is time?" lie asks. "If no one asks of me, I know; if I
+wish to explain to him who asks, I know not." Various difficulties
+perplex him. Neither past nor future, he says, but only the present,
+really li; the present is only a moment, and time can only be measured
+while it is passing. Nevertheless, there really is time past and
+future. We seem here to be led into contradictions. The only way
+Augustine can find to avoid these contradictions is to say that past
+and future can only be thought of as present: "past" must be
+identified with memory, and "future" with expectation, memory and
+expectation being both present facts. There are, he says, three times:
+"a present of things past, a present of things present, and a present
+of things future." "The present of things past is memory; the present
+of things present is sight; and the present of things future is
+expectation." 1 To say that there are three times, past, present, and
+future, is a loose way of speaking.
 
-373 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-says, three times: "a present of things past, a present of things 
-present, and a present of things future." "The present of things 
-past is memory; the present of things present is sight; and the 
-present of things future is expectation." 1 To say that there are 
-three times, past, present, and future, is a loose way of speaking. 
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n370)
 
 He realizes that he has not really solved all difficulties by this 
 theory. "My soul yearns to know this most entangled enigma," he 
