@@ -21,167 +21,144 @@ Where passing I leave off, and fathom more.
 ## APOLOGIA PRO LEBRO SUO 
 ## I 
 
-My publishers have ashed me to use the occasion given by a 
-new edition of _The Story of Philosophy_ to discuss the general 
-question of "outlines," and to consider some of the shortcomings of the volume. 
-I am glad of this opportunity to acknowledge these, and to express with the weakness of mere 
-words the gratitude that I must always feel for the generosity 
-with which, despite so many defects, the American public has 
-received this book. 
+My publishers have ashed me to use the occasion given by a new edition
+of _The Story of Philosophy_ to discuss the general question of
+"outlines," and to consider some of the shortcomings of the volume.  I
+am glad of this opportunity to acknowledge these, and to express with
+the weakness of mere words the gratitude that I must always feel for
+the generosity with which, despite so many defects, the American
+public has received this book.
 
-The "outlines" came because a million voices called for them. 
-Human knowledge had become unmanageably vast; every science had begotten a dozen more, each subtler than the rest; 
-the telescope revealed stars and systems beyond the mind of 
-man to number or to name; geology spoke in terms of millions 
-of years, where men before had thought in terms of thousands; 
-physics found a universe in the atom, and biology found a 
-microcosm in the cell; physiology discovered inexhaustible 
-mystery in every organ, and psychology in every dream; anthropology reconstructed the unsuspected antiquity of man, 
-archeology unearthed buried cities and forgotten states, history proved all history false, and painted a canvas which only 
-a Spengler or an Eduard Meyer could vision as a whole; 
-theology crumbled, and political theory cracked; invention 
-complicated life and war, and economic creeds overturned 
-governments and inflamed the world; philosophy itself, which 
-had once summoned all sciences to its aid in making a coherent 
-image of the world and an allwring picture of the good, found 
-its task of coordination too stupendous for its courage, ran 
-away from all these battlefronts of truth, and hid itself in recondite and narrow lanes, 
-timidly secure from the issues and responsibilities of life. Human knowledge had become too great 
-for the human mind. 
+The "outlines" came because a million voices called for them.  Human
+knowledge had become unmanageably vast; every science had begotten a
+dozen more, each subtler than the rest; the telescope revealed stars
+and systems beyond the mind of man to number or to name; geology spoke
+in terms of millions of years, where men before had thought in terms
+of thousands; physics found a universe in the atom, and biology found
+a microcosm in the cell; physiology discovered inexhaustible mystery
+in every organ, and psychology in every dream; anthropology
+reconstructed the unsuspected antiquity of man, archeology unearthed
+buried cities and forgotten states, history proved all history false,
+and painted a canvas which only a Spengler or an Eduard Meyer could
+vision as a whole; theology crumbled, and political theory cracked;
+invention complicated life and war, and economic creeds overturned
+governments and inflamed the world; philosophy itself, which had once
+summoned all sciences to its aid in making a coherent image of the
+world and an allwring picture of the good, found its task of
+coordination too stupendous for its courage, ran away from all these
+battlefronts of truth, and hid itself in recondite and narrow lanes,
+timidly secure from the issues and responsibilities of life. Human
+knowledge had become too great for the human mind.
 
-All that remained was the scientific specialist, who knew "more and more about less and less," and the philosophical 
-speculator, who knew less and less about more and more. The 
-specialist put on blinders in order to shut out from his vision 
-all the world but one little spot, to which he glued his nose. 
-Perspective was lost. "Facts" replaced understanding; and 
-knowledge, split into a thousand isolated fragments, no longer 
-generated wisdom. Every science, and every branch of philosophy, developed a technical terminology intelligible only to 
-its exclusive devotees; as men learned more about the world, 
-they found themselves ever less capable of expressing to their 
-educated fellow-men what it was that they had learned. The 
-gap between life and knowledge grew wider and wider; those 
-who governed could not Understand those who thought, and 
-those who .wanted to know could not understand those who 
-knew. In the midst of unprecedented learning popular ignorance 
-flourished, and chose its exemplars to rule the great cities 
-of the world; in the midst of sciences endowed and enthroned as 
-never bef ore, new religions were born every day, and old supers 
-stitions recaptured the ground they had lost. The common 
-rhari found himself forced to choose between a scientific priest 
-hood mumbling unintelligible pessimism , and a theological 
-priesthood mumbling incredible hopes.
+All that remained was the scientific specialist, who knew "more and
+more about less and less," and the philosophical speculator, who knew
+less and less about more and more. The specialist put on blinders in
+order to shut out from his vision all the world but one little spot,
+to which he glued his nose.  Perspective was lost. "Facts" replaced
+understanding; and knowledge, split into a thousand isolated
+fragments, no longer generated wisdom. Every science, and every branch
+of philosophy, developed a technical terminology intelligible only to
+its exclusive devotees; as men learned more about the world, they
+found themselves ever less capable of expressing to their educated
+fellow-men what it was that they had learned. The gap between life and
+knowledge grew wider and wider; those who governed could not
+Understand those who thought, and those who .wanted to know could not
+understand those who knew. In the midst of unprecedented learning
+popular ignorance flourished, and chose its exemplars to rule the
+great cities of the world; in the midst of sciences endowed and
+enthroned as never bef ore, new religions were born every day, and old
+supers stitions recaptured the ground they had lost. The common rhari
+found himself forced to choose between a scientific priest hood
+mumbling unintelligible pessimism , and a theological priesthood
+mumbling incredible hopes.
+
+In this situation the function of the professional teacher was
+clear. It should have been to mediate between the specialist arid the
+nation; to learn the specialist's language, as the specialist had
+learned nature's, in order to break down the barriers between
+knowledge and need, and find for new truths old terms that all
+literate people might understand. For if knowledge became too great
+for communication, it would degenerate into scholasticism, and the
+weak acceptance of authority; mankind would slip into a new age of
+faith, worship big at a respectful distance its new priests; and
+civilization, which had hoped to raise itself upon education
+disseminated far and wide, would be left precariously based upon a
+technical erudition that had become the monopoly of an esoteric class
+monastically isolated from the world by the high birth rate of
+terminology. No wonder that all the world applauded when James Harvey
+Robinson sounded the call for the removal of these barriers and the
+humanization of modern knowledge.
 
 [Stopped Here]()
 
-In this situation the function of the professional teacher was 
-clear. It should have been to mediate between the specialist 
-arid the nation; to learn the specialist's language, as the spe- 
-cialist had learned .nature's, in order to break' down tjhe baf-, 
-riers between knowledge and heed, and -find for new truths old 
-terms that all literate people might understand. For if 
-knowledge became too great for communication, it would de- 
-generate into scholasticism, and the weak acceptance of au- 
-thority; mankind would slip into a new age of faith, worship- 
+The first "outlines" the first efforts at the humanization of
+knowledge, were Plato’s Dialogues. The pundits possibly know that the
+Master wrote two sets of works---one in technical language for his
+students at the Academy; the other a group of popular dialogues
+designed to hire the average literate Athenian into philosophy's "dear
+delight." It did not seem to Plato any insult to philosophy that it
+should be transformed into literature, realized as drama, and
+beautified with style; nor any derogation to its dignity that it
+should apply itself; even intelligibly, to living problems of morality
+and the state.  By the humor of history, his technical works were
+lost, and his popular works remain. By the irony of history it is
+these popular dialogues that have given Plato his reputation in the
+schools.
 
+For us, however, the career of the outline begins with
+H. G. Wells. The historians did not quite know what to do with The
+Outline of History; Professor Schapiro described it as full of errors,
+and a liberal education. It was full of errors , as any book of large
+scope is bound to be; but it was an astonishing and stimulating
+performance for one mind. The journalistic genius of Mr. Wells had
+tied the volumes up with the movement towards international peace, and
+had entered them as an important team in the "race between education
+and catastrophe." No one wanted catastrophe, and every one bought the
+book. History became popular, and historians became alarmed . Now it
+would be necessary for them to write as interestingly as H.G. Wells.
 
-PREFACE TO THE SECOND EDITION vii 
-
-big at a respectful distance its new priests; and civilization , 
-which had hoped to raise itself upon education disseminated 
-far and wide< would he left precariously based upon a technical 
-erudition that had become the monopoly of an esoteric class 
-monastically isolated from the world by the high birth rate of 
-terminology. No wonder that all the world applauded when 
-James Harvey Robinson sounded the call for the removal of 
-these barriers and the humanization of modern knowledge. 
-
-n 
-
-» The first "outlines” the first efforts at the humanization of 
-knowledge, were Plato’s Dialogues. The pundits possibly 
-know that the Master wrote two sets of works— -one in technical 
-language for his students at the Academy; the other a group 
-of popular dialogues designed to hire the average literate 
-Athenian into philosophy's "dear delight." It did not seem 
-to Plato any insult to philosophy that it should be transformed 
-into literature, realized as drama, and beautified with style; 
-nor any derogation to its dignity that it should apply itself ; 
-even intelligibly, to living problems of morality and the state. 
-By the humor of history, his technical works were lost, and. his 
-popular works remain. By the irony of history it is these 
-popular dialogues that have given Plato his reputation in the 
-schools. 
-
-For us, however, the career of the outline begins with 
-H. G. Wells. The historians did not quite know what to do 
-with The Outline of History ; Professor Schapiro described it 
-as full of errors, and a liberal education. It was full of errors , 
-as any book of large scope is bound to be; but it was an 
-astonishing and stimulating performance for one mind. The 
-journalistic genius of Mr. Wells had tied the volumes up with 
-the movement towards international peace, and had entered 
-them as an important team in the "race between education and 
-catastrophe.” No one wanted catastrophe, and every one 
-bought the book. History became popular, and historians be - 
-
-
-
-Tin PREFACE TO THE SECOND EDITION 
-
-came alarmed . Now it would be necessary for them to write 
-as interestingly as H.G. Wells. 
-
-Strange to say, two of them did. Professor Breasted, of 
-Chicago and Egypt, revised and improved cm old text-book , 
-and Professor Robinson did the same ; an enterprising pub- 
-lishing firm gathered their work into two handsome volumes, 
-gave them a captivating title - — The Human Adventure — and 
-issued the best outline of dll, a masterpiece of exposition as 
-authoritative as a German and as clear as a Gaul. Nothing 
-in their field has equaled those volumes to date. 
+Strange to say, two of them did. Professor Breasted, of Chicago and
+Egypt, revised and improved cm old text-book , and Professor Robinson
+did the same; an enterprising publishing firm gathered their work
+into two handsome volumes, gave them a captivating title---The Human
+Adventure---and issued the best outline of all, a masterpiece of
+exposition as authoritative as a German and as clear as a
+Gaul. Nothing in their field has equaled those volumes to date.
 
 Meanwhile Hendrik Willem van Loon had romped over the 
 Same ground with a pen in one hand, a pencil in the other, and a 
 twinkle in his eyes. He cared nothing for dignity, and loved 
 a joke surpassing well; he went laughing down the centuries, 
 and pointed his moral with drawings and smiles. Adults 
-bought The Story of Mankind for their children, and sur- 
-reptitiously read it themselves. The world was becoming 
+bought The Story of Mankind for their children, and surreptitiously read it themselves. The world was becoming 
 Scandalously informed about history. 
 
 The appetite of the layman grew by what it fed on. There 
-were in America millions of men and women who had been un- 
-able to go to college, and who thirsted for the findings of his- 
-tory and science; even those who had gone through college 
+were in America millions of men and women who had been unable to go to college, and who thirsted for the findings of history and science; even those who had gone through college 
 showed a moderate hunger for knowledge. When John Macy 
 published The Story of the World’s Literature thousands 
-welcomed it as a genial and illuminating survey of a fascinat- 
-ing field. And when The Story of Philosophy appeared it 
+welcomed it as a genial and illuminating survey of a fascinating field. And when The Story of Philosophy appeared it 
 had the good fortune to catch this wave of curiosity on the 
 rise, and to be lifted to an undreamed-of popularity. Readers 
-were astonished to find that philosophy was interesting be- 
-cause it was, literally, a matter of life and death. They passed 
+were astonished to find that philosophy was interesting because it was, literally, a matter of life and death. They passed 
 along the word to their friends, and soon it became the fashion 
 to praise, to buy, even, occasionally, to read, this book that had 
 been written for a few. All in all it was such a success as no 
 author who has known it once can ever hope to know again. 
 
-Then came the flood. Outline followed outline, “story’* fol- 
-lowed “stdry”; science and art, religion and law, had their 
+Then came the flood. Outline followed outline, "story’* followed "stdry"; science and art, religion and law, had their 
 
 
 PREFACE TO THE SECOND EDITION m 
 
-Sforiographers, and Bekker’s slight essay was avidly; trans- 
-formed into The Story of Religion. Onp author produced in 
-qne volume' am outline of all knowledge, thereby making Wells , 
-van Loon , Macy, Slosson, Breasted and the rest, superfluous. 
-The; public appetite was quickly, satiated; critics and profes- 
-sors complained of superficiality and haste, and an undertow 
+Sforiographers, and Bekker’s slight essay was avidly; transformed into The Story of Religion. Onp author produced in 
+qne volume' am outline of all knowledge, thereby making Wells, 
+van Loon, Macy, Slosson, Breasted and the rest, superfluous. 
+The; public appetite was quickly, satiated; critics and professors complained of superficiality and haste, and an undertow 
 of resentment set in, which reached every outline from the last, 
 to the first. As quickly as it had come, the fashion changed;, 
 ito one dared any longer say a word for the humanization of 
-knowledge ; the denunciation of outlines was now the easy road 
+knowledge; the denunciation of outlines was now the easy road 
 tai critical repute; it became the style to speak with a delicate 
 superiority of my non-fiction book that could be understood. 
 The snob movement in literature begm. 
@@ -203,7 +180,7 @@ than in most histories of. philosophy, regardless of their length,
 dndit w true that the very first page frankly announced: 
 
 
-This book is not a complete history of philosophy , It is 
+This book is not a complete history of philosophy, It is 
 an. attempt to humanize knowledge by centering the story of 
 speculative thought around cert am. dominant personalities. 
 Cerfain lesser figures have been ojnitted in order that, those 
@@ -213,13 +190,13 @@ selected might have the space required to make them live.
 
 Nevertheless the incompleteness remained. The worst sin of 
 dOr— though the critics do not seem to have noticed it— was the 
-omission of Chinese and Hindu philosophy. Even a “sfiorit f* 
+omission of Chinese and Hindu philosophy. Even a "sfiorit f* 
 
 
 
 x PREFACE TO THE SECOND EDITION 
 
-of philosophy that begins with Socrates , and has nothing to 
+of philosophy that begins with Socrates, and has nothing to 
 say about Lao-tze and Confucius, Mencius and Chwang-tze, 
 Buddha and Shankara, is provincially incomplete:. 1 As for 
 the word Story, which Juts since been so abused with use, it was 
@@ -248,10 +225,10 @@ ophy; and today even the (Germans are recovering from, 'tiC
 Hear Keyserling: "Philosophy is' Essentially the completion of 
 science in the synthesis of wisdom. . . . Epistemology, phe- 
 nomenology, logic, etc., certainly are important branches of 
-science.” (Prec&dy) tJiey dre branches of science, like chem- 
+science." (Prec&dy) tJiey dre branches of science, like chem- 
 istry or anatomy.) "But it was an unmitigated evil that as 
 the result of this, the sense, for the, living synthesis should have 
-disappeared.” (Creative Understanding, New York, 1929, 
+disappeared." (Creative Understanding, New York, 1929, 
 p. 125.) This from a German — a Daniel come to judgment. 
 And Spengler describes the earlier Chinese philosophers, down 
 
@@ -261,10 +238,10 @@ omission . v - " V ‘ v ' : '
 
 PREFACE TO THE SECOND EDITION xi 
 
-to Confucius, as “ statesmen , regents, lawgivers, like Pythagoras 
+to Confucius, as " statesmen, regents, lawgivers, like Pythagoras 
 and Parmenides, like Hobbes and Leibniz . . . . They were 
 sturdy philosophers for whom epistemology was the knowledge 
-of the important relations of actual life.” (Decline of the 
+of the important relations of actual life." (Decline of the 
 West, vol. i, p. 1$.) Doubtless now that epistemology is dy- 
 ing in Germany, it will be exported to America, as a fit return 
 for the gift of democracy. 
@@ -276,7 +253,7 @@ fucius is a philosopher, for he says nothing about metaphysics,
 and less about epistemology; he is as positivistic as Spencer or 
 Comte; his concern is always for morels and the state. Worse 
 than that, he is disreputably intelligible; and nothing could be 
-so damaging to a philosopher. But we “modems” have be- 
+so damaging to a philosopher. But we "modems" have be- 
 come so accustomed to windy verbiage in philosophy that when 
 philosophy is presented without the verbiage we can with dif- 
 ficulty recognize it. One must pay a penalty for having a 
@@ -298,14 +275,14 @@ that by reading it they would become philosophers overnight,
 or that they would be saved the trouble, or pleasure, of reading 
 the philosophers themselves. God knows there is no short-cut 
 to knowledge; after forty years of seeking her one finds 
-“Truth” still veiled, and what she shows of herself most dis- 
+"Truth" still veiled, and what she shows of herself most dis- 
 concerting. Instead of aiming to be a substitute for philoso « 
 
 
 sdi PREFACE TO THE SECOND EDITION 
 
 pherSy the Story explicitly offered itself as an introduction and 
-an invitation ; it quoted the philosophers lavishly , so that the 
+an invitation; it quoted the philosophers lavishly, so that the 
 taste for them might linger when the hook was closed; time and 
 again it prodded the reader to the original texts (e. g., on pp. 
 
@@ -320,15 +297,15 @@ fluous. Do not think to find its core by running over it
 < tdpidly . : . . Read the hook not all at once, hut in small * 
 portions at many sittings. And having finished it, consider 
 that you have hut begun to understand it. Read then some 
-commentary, like Pollock's Spinoza, or Martineau's Study , 
-of Spinoza, or, better, both Finally, read the Ethics again ; 
+commentary, like Pollock's Spinoza, or Martineau's Study, 
+of Spinoza, or, better, both Finally, read the Ethics again; 
 it will be a new book to you. When you have finished it a 
 second time you will remain forever a lover of philosophy* 
 
 It is comforting to learn that the sales of the philosophical 
 classics increased some two hundred per cent, after the publica- 
 tidfo of the Story. Many publishers have issued new editions, 
-particularly of Plato, Spinoza, Voltaire , Schopeiihaiier whit 
+particularly of Plato, Spinoza, Voltaire, Schopeiihaiier whit 
 Nietzsche. A high official of the New York Public Libftirfi, 
 icho asks to be rMmmed, reports that 
 
@@ -350,431 +327,23 @@ PREFACE TO THE SECOND EDITION xiii
 
 have only themselves to blame if their exclusiveness and their 
 barbarous terminology have led the world to seek in books, in 
-lectures , and in adult education , the instruction which they 
+lectures, and in adult education, the instruction which they 
 themselves have failed to give. Let them be grateful that their 
 haltmg efforts are aided by amateurs who love life enough to 
 let it humanize their teaching. Perhaps each kind of teacher 
 can be of aid to the other: the cautious scholar to check our 
-enthusiasm with accuracy , and the enthusiast to pour warmth 
+enthusiasm with accuracy, and the enthusiast to pour warmth 
 and blood into the fruits of scholarship. Between us we might 
-build up in America an audience fit to listen to geniuses , cmd 
+build up in America an audience fit to listen to geniuses, cmd 
 therefore ready to produce them. We are all imperfect teach- 
 ers, but we may be forgiven if we have advanced the matter a 
-little , and have done our best. We armou/nce the prologue , 
+little, and have done our best. We armou/nce the prologue, 
 and retire; after us better players will come. 
 
-THE STORY OF PHILOSOPHY has been translated into German , French, 
+THE STORY OF PHILOSOPHY has been translated into German, French, 
 Swedish, Danish, Jugo-Slavian, Chinese, Japanese and Hungarian. The Amer- 
 Soan edition alone has sold 548,826 copies. 
 
-
-
-
-TABLE OF CONTENTS 
-
-
-PAGB 
-
-Preface to the Second Edition A • v 
-
-Introduction: On The Uses of Philosophy m m 0 . « 1 
-
-CHAPTER I 
-PLATO 
-
-I. The Context of Plato 7 
-
-II. Socrates . . . . . . . . ... ... II 
-
-III. The Preparation of Plato’ . . . . . • ; , ., ..,19 
-
-IV. The Ethical Problem . ." . . . . . . ! . . 23 
-
-V. The Political Problem ..... . • . . . 26 
-
-VI. The Psychological Problem ..... ... 29 
-
-VII. The Psychological Solution 31 
-
-VIII. The Political Solution 40 
-
-IX. The Ethical Solution ... . . . . . • ... .. 47 
-
-X. Criticism • . ... • • • . ... .. • • • 4P 
-
-
-CHAPTER II 
-
-ARISTOTLE AND GREEK SCIENCE 
-
-I. The Historical Background ..... . . • 58 
-
-II. The Work of Aristotle . ... . . . . . • 62 
-
-III. The Foundation of Logic . . . ... . . . 67 
-
-IV. The Organization of Science . 72 
-
-1. Greek Science before Aristotle . . . . . . 72 
-
-2. Aristotle as a Naturalist 75 
-
-3. The Foundation of Biology . . . . . . . 7 0 
-
-V. Metaphysics and the Nature of God . . . . . . 80 
-
-VI. Psychology and the Nature of Art . . . . . . 82 
-
-VII. Ethics and the Nature of Happiness 85 
-
-VIII. Politics 90 
-
-1. Communism and Conservatism 90 
-
-2. Marriage and Education 94 
-
-3. Democracy and Aristocracy . . . . . . . 98 
-
-IX. Criticism ... 101 
-
-X. Later Life and Death 105 
-
-
-
-TABLE OF CONTENTS 
-
-
-FAQB 
-
-CHAPTER III 
-FRANCIS BACON v 
-
-I, From Aristotle to the Renais ance 107 
-
-II. The Political Career of Francis Bacon 117 
-
-III. The Essays 122 
-
-IV. The Great Reconstruction . 131 
-
-1. The Advancement of Learning . % - 133 
-
-2. The New Organon ... . . . . . . „ 141 
-
-3. The Utopia of Science . * . ... ... 148 
-
-V. Criticism ...... . • • * . . . . 152 
-
-VI. Epilogue .... .... . • • . . . 158 
-
-
-CllAPTER IV 
-SPINOZA 
-
-I. Historical and Biographical ..••••.. 161 
-
-1. The Odyssey of the Jews 161 
-
-2. The Education of Spinoza 164 
-
-3. Excommunication 167 
-
-4. Retirement and De&th . . . . ... . . . . 170 
-
-II. The Treatise on Religion and the State 178 
-
-III. The Improvement of the Intellect . • . ... .182 
-
-IV. The Ethics ............. 185 
-
-1. Nature and God . 187 
-
-2. Matter and Mind 193 
-
-3. Intelligence and Morals . .197 
-
-4. Religion and Immortality . . • • >• # . 205 
-
-V. The Political Treatise 208 
-
-VI, The Influence of Spinoza 215 
-
-
-TABLE OF CONTENTS 
-
-
-PAQB 
-
-CHAPTER V 
-
-VOLTAIRE AND THE FRENCH ENLIGHTENMENT 
-
-
-L Paris: (Edipe . . . . . . . • ? • . .218 
-
-II. London: The Letters on the English * . . . . . 226 
-
-III. Cirey: The Romances . . . • . . • • . . 228 
-
-IV. Potsdam and Frederick . . . . . . . . . 235 
-
-V. Les .Delices: The Essjay on Morals 240 
-
-VI. Ferney: Candide . . ... . . . . . . 244 
-
-VII. The Encyclopedia and the Philosophic Dictionary . .251 
-
-VIII. Ecrasez, I’Infame „ . . . . • . • • . . 257 
-
-IX. Voltaire and Rousseau . . . . . . . . . . 266 
-
-X. Denouement ^ <• . • 272 
-
-
-CHAPTER VI 
-
-
-IMMANUEL KANT AND GERMAN IDEALISM 
-
-
-I. Roads to Kant 
-
-1 . From Voltaire to Kant . 
-
-2. From Locke to Kant . 
-
-3. From Rousseau to Kant 
-
-II. Kant Himself 
-
-III. The Critique of Pure Reason . 
-
-1. Transcendental Esthetic 
-
-2. Transcendental Analytic 
-
-3. Transcendental Dialectic 
-
-IV. The Critique of Practical Reason . 
-
-V. On Religion and Reason . 
-
-VI. On Politics and Eternal Peace . 
-
-VII. Criticism and Estimate . . . 
-
-VIII. A Note on Hegel . . . .. * 
-
-
-276 
-
-277 
-
-279 
-
-282 
-
-285 
-
-289 
-
-291 
-
-295 
-
-296 
-300 
-303 
-307 
-311 
-317 
-
-
-i»5 l »l t#J 
-
-
-TABLE OF CONTENTS 
-
-
-PAQ3 
-
-CHAPTER VII 
-SCHOPENHAUER 
-
-I. The Age 326 
-
-IL The Man , . . ..... ... . * . 328 
-
-III. The World as Idea . . . . . ... . . . 335 
-
-IV. The World as Will . ... . 338 
-
-1. The Will to Live . ... . . . . . 338 
-
-2. The Will to Reproduce . . . . . ; . . * 345 
-
-V. The World as Evil . . . . . . . , . 351 
-
-VI. The Wisdom of Life . . • • . . * 358 
-
-1. Philosophy . . . • • • • . . . . . 358 
-
-2. Genius . .* ^ . . . . . . . / ' . . 363 
-
-8. Art 365 
-
-4. Religion 367 
-
-VII. The Wisdom of Death .••••••••• 369 
-
-VIII. Criticism 373 
-
-
-CHAPTER VIII 
-HERBERT SPENCER 
-
-I. Comte and Darwin 381 
-
-II. The Development of Spencer . 385 
-
-III. First Principles . . . . 395 
-
-1. The Unknowable • . . • • • • • • . 395 
-
-2. Evolution . . . 397 
-
-IV* Biology : The Evolution of Life . . . • . . . 402 
-
-V. Psychology: The Evolution of Mind . . . . . . 405 
-
-VI. Sociology: The Evolution of Society .... . . 408 
-
-VII. Ethics: The Evolution of Morals . . . . . . .417 
-
-VIII. Criticism ......•••••••. 425 
-
-1. First Principles 425 
-
-2. Biology and Psychology . 428 
-
-3. Sociology and Ethics •••••>.••• 429 
-
-IX. Conclusion 431 
-
-
-TABLE of contents 
-
-
-PAG.fi 
-
-CHAPTER IX 
-FRIEDRICH NIETZSCHE 
-
-I, The Lineage of Nietzsche .. . ....... . . 435 
-
-II. Youth. .. . . . . . . . ..... .437 
-
-III. Nietzsche and Wagner . . . ... . . . . 441 
-
-IV. The. Song of Zarathustra . ...... . . . 448 
-
-V. Hero-morality ., .. .. . . . > • . • . . . 454 
-
-VI. The Superman ..... . . *i . # . . 461 
-
-VII. Decadence . . - . * . . . . . . > . - .. . . . 465 
-
-VIII. Aristocracy* . < . . - . . . . - . . . . . . 469 
-
-IX. Criticism ... mm . . . 476 
-
-X. Finale . * . . - . . . . • ' . . . 484 
-
-
-' CHAPTER X 
-
-CONTEMPORARY EUROPEAN PHILOSOPHERS 
-
-: : I; Henri Bergson .' . .' .' .* . . .* .' . . . 487 
-
-; 1. The Revolt against Materialism . .* .* .* .* . 487 
-
-" ' 2. Mind and Brain .• .' . • . . . .* .' . . . 490 
-
-> ' ° 3. Creative* Evolution . * . •* . . * .* . . . . 497 
-
-4. Criticism 503 
-
-II. Benedetto Croce 507 
-
-1. The Man 507 
-
-2. The Philosophy of the Spirit 510 
-
-3. What is Beauty? 514 
-
-4. Criticism 516 
-
-III. Bertrand Russell 518 
-
-1. The Logician . . .518 
-
-2. The Reformer . . . . 523 
-
-3. Epilogue ... ... i.j • • . 526 
-
-
-
-TABLE OP CONTENTS 
-
-
-paob 
-
-CHAPTER XI 
-
-CONTEMPORARY AMERICAN PHILOSOPHERS 
-
-Introduction . .. . . ........ 530 
-
-L George Santayana . . . . • • • • . . . 532 
-
-1. Biographical . . . . . . . ... • • 532 
-
-2. Scepticism and Animal Faith • . • . . . . 534 
-
-3. Reason in Science . . . . . . . • • • 586 
-
-4. Reason in Religion . . • • . . . • . . 540 
-
-5. Reason in Society ....... • 544 
-
-6. Comment . • . . . .... . . . . 550 
-
-II. William, J^mes .... ....... . . . 553 
-
-1. Perscmal .... . . . ... . * , 553 
-
-2. Pragmatism 555 
-
-8. Pluralism • • • 55 8 
-
-4. Comment ... 564 
-
-III. John Dewey 565 
-
-1. Education 565 
-
-2. Instrumentalism 566 
-
-3. Science and Politics . • . . . . . . • • 571 
-
-Conclusion • . • • • • • • • • . . « . ^ • 576 
-
-Index . . . ••..••••••• • » • 570 
-
-Glossary .......•••••••*• 587 
-
-Bibliography . . • • ■ ■ * » 691 
 
 
 TO THE READER 
@@ -823,26 +392,26 @@ mirages of metaphysics, which every student feels until the
 coarse necessities of physical existence drag him from the 
 heights of thought into the mart of economic strife and gain. 
 Most of us have known some golden days in the June of life 
-when philosophy was in fact what Plato calls it, “that dear de- 
-light” ; when the love of a modestly elusive Truth: seemed more 
+when philosophy was in fact what Plato calls it, "that dear de- 
+light" ; when the love of a modestly elusive Truth: seemed more 
 glorious, incomparably, than the lust for the ways of the flesh 
 and the dross of the world. And there is always some wistful 
-remnant in us of that early wooing of wisdom. “Life has 
-meaning,” we feel with Browning — “to find its meaning is my 
-meat and drink.” So much of our lives is meaningless, a self- 
+remnant in us of that early wooing of wisdom. "Life has 
+meaning," we feel with Browning — "to find its meaning is my 
+meat and drink." So much of our lives is meaningless, a self- 
 cancelling vacillation and futility ; we strive with the chaos 
 about us and within; but we would believe all the while that 
 there is something vital and significant in us; could #e but 
-decipher our own souls. We want to understand ; “life mealis 
+decipher our own souls. We want to understand ; "life mealis 
 for us constantly to transform into light and flame all that 
-we are or meet with” ; 1 we are like Mitya ini The ’Brother a 
-Karamazov — “one of : those who don’t : want ; millions, but an 
-answer to their questions” ; we want to seize the value and per- 
+we are or meet with" ; 1 we are like Mitya ini The ’Brother a 
+Karamazov — "one of : those who don’t : want ; millions, but an 
+answer to their questions" ; we want to seize the value and per- 
 spective of passing things, and so to pull ourselves up out of 
 the maelstrom of daily circumstance. We want to know that 
 the little things are little, add the big things big, before it is 
 too late; we want to see things now as they will seem forever— 
-“in the light of eternity.” We want to learn to laugh in the 
+"in the light of eternity." We want to learn to laugh in the 
 face of the inevitable, to smile even at the looming of death. 
 We want to be whole, to coordinate our energies by criticizing 
 and harmonizing our desires; for coordinated energy’ is the 
@@ -855,29 +424,29 @@ i Nietzsche, The Joyful Wisdom, pref.
 INTRODUCTION 
 
 
-9 , 
+9, 
 
 last word in ethics and politics, and perhaps in logic and meta- 
-physics too. “To be a philosopher,” said Thoreau, “is not 
+physics too. "To be a philosopher," said Thoreau, "is not 
 merely to have subtle thoughts, nor even to found a school, 
 but so to love wisdom as tp live, according to its dictates, a 
-life of simplicity, independence, magnanimity, and trust.” 
+life of simplicity, independence, magnanimity, and trust." 
 We may be sure that if we can but find wisdom, all things else 
-will be added unto us. “Seek ye first the good things of the 
-mind,” Bacon admonishes us, “and the rest, will either be sup- 
-plied or its loss will not be felt .” 1 Truth will not make us. 
+will be added unto us. "Seek ye first the good things of the 
+mind," Bacon admonishes us, "and the rest, will either be sup- 
+plied or its loss will not be felt ." 1 Truth will not make us. 
 rich, but it will make ua free. 
 
 Some ungentle reader will check us here by informing us 
 that philosophy is as useless as chess, as obscure as ignorance, 
-and as stagnant as content. “There is nothing so absurd,” 
-said Cicero, “but that it may be found in the books of the 
-philosophers.” Doubtless some philosophers have had all 
+and as stagnant as content. "There is nothing so absurd," 
+said Cicero, "but that it may be found in the books of the 
+philosophers." Doubtless some philosophers have had all 
 sorts of wisdom except comrnon sense; and many a philosophic 
 flight has been due to the elevating power of thin air. Let us 
 resolve, on this voyage of ours, to put in only at the ports of 
 light, to keep out: of the muddy streams of metaphysics and the 
-‘knany-sounding seas” of theological dispute. But is philos-. 
+‘knany-sounding seas" of theological dispute. But is philos-. 
 ophy stagnant? Science seems always to advance, while phi- 
 losophy seems always to lose ground. Yet this is only because 
 philosophy accepts the hard 'and hazardous task of dealing 
@@ -957,9 +526,9 @@ are the dramatis ■_ personae .of ; political philosophy. And
 lastly, metaphysics (which gets into so much trouble because 
 it is not, like the other forms of philosophy, an attempt tc 
 coordinate the real in the light of the ideal); is the study of 
-the “ultimate reality” of- all things : of the real and final nature 
-nf “matter” (ontology), of “mind”, (philosophical psychol- 
-ogy), and of the interrelation of “mind” and “matter” in the 
+the "ultimate reality" of- all things : of the real and final nature 
+nf "matter" (ontology), of "mind", (philosophical psychol- 
+ogy), and of the interrelation of "mind" and "matter" in the 
 processes of perception and knowledge (epistemology). 
 
 . These are the parts of philosophy ; but so dismembered it 
@@ -969,11 +538,11 @@ form of genius; we shall, study not merely philosophies, but
 philosophers; we shall spend our time with the saints and. mar- 
 tyrs of thought, letting their radiant spirit play about us until 
 perhaps we too, in some measure, shall partake of what Leon- 
-ardo called “the noblest pleasure, the joy of understanding.” 
+ardo called "the noblest pleasure, the joy of understanding." 
 Each of these philosophers has some lesson for us, if we ap- 
-proach him properly. “Do you know,” asks Emerson, “the 
+proach him properly. "Do you know," asks Emerson, "the 
 secret of the true scholar? In every man there is something 
-wherein I may learn of him; and in that I am his pupil.” 
+wherein I may learn of him; and in that I am his pupil." 
 Well, surely we may take this attitude to the master minds of 
 history without hurt to our pride ! And we may flatter our- 
 
@@ -1000,12 +569,12 @@ meant when he said that philosophy is the highest music.
 
 So let us listen to these men, ready to forgive them their 
 passing errors, and eager to learn the lessons which they are so 
-eager to teach. “Do you then be reasonable,” said old Soc- 
-rates to Crito, “and do not mind whether the teachers of phi- 
+eager to teach. "Do you then be reasonable," said old Soc- 
+rates to Crito, "and do not mind whether the teachers of phi- 
 losophy are good or bad, but think only of Philosophy herself. 
 Try to examine her well and truly ; and if she be evil, seek to 
 turn away all men from her; but if she be what I believe she 
-is, then follow her and serve her, and be of good cheer.” 
+is, then follow her and serve her, and be of good cheer." 
 
 
 
@@ -1026,7 +595,7 @@ Minor, quiet and apathetic now, but throbbing, in pre-Platonic
 days, with industry, commerce and speculation. To the west, 
 across the Ionian, Italy stands, like a leaning tower in the sea, 
 and Sicily and Spain, each in those days with thriving Greek 
-colonies; and at the end, the “Pillars of Hercules” (which we 
+colonies; and at the end, the "Pillars of Hercules" (which we 
 call Gibraltar), that soriibre portal through which not inany 
 an ancient mariner dared to pass. And on the north those 
 still untamed and half-barbaric regions, then named Thessaly 
@@ -1055,7 +624,7 @@ THE STORY OF PHILOSOPHY
 
 
 or two cities, and around them, stretching up the mountain- 
-slopes, an agricultural hinterland: such were the “city-states’* 
+slopes, an agricultural hinterland: such were the "city-states’* 
 of Euboea, and Locris, and JStolia, and Phocis, and Boeotia, 
 and Achaea, and Argolis, and Elis, and Arcadia, and Messenia, 
 and Laconia — with its Sparta, and Attica — with its Athens. 
@@ -1105,10 +674,10 @@ The growth of wealth brought the leisure and security which
 are the prerequisite of research arid speculation; men now 
 asked the stars not only for guidance oil the sCas but as well 
 for an answer to the riddles of the universe ; the first Greek phi- 
-losophers were astronomers. “Proud of their achievements,” 
-says Aristotle, 1 “men pushed farther afield after the Persian 
+losophers were astronomers. "Proud of their achievements," 
+says Aristotle, 1 "men pushed farther afield after the Persian 
 wars; they took all knowledge for their province, and sought 
-ever wider studies.” Men grew bold enough to attempt nat- 
+ever wider studies." Men grew bold enough to attempt nat- 
 ural explanations of processes arid events before -attributed to 
 supernatural agencies and powers ; m agic and ritual slowly 
 gave way to science and control ; and philosophy begari; 
@@ -1117,7 +686,7 @@ At first this philosophy was physical; it looked out upon
 the material World and asked what was the final and* irreducible 
 constituent of things. The natural termination of this line of 
 thought was the materialism 6f Democritus (460-360 b .- c. ) - — 
-“in reality there is nothing but atoms and space.” > This was 
+"in reality there is nothing but atoms and space." > This was 
 one of the main streams of Greek speculation ; it passed Under- 
 ground for a time in Plato’s day, but emerged in Epicurus 
 (342— 270), and became a torrent of eloquence in Lucretius 
@@ -1176,9 +745,9 @@ oligarchic leaders were exiled ; but wbeu at last Athens sur-
 rendered, one of the peace conditions imposed by Sparta was, 
 the recall of these exiled aristocrats. They had hardly re- 
 turned when, with Critias at their head, they declared a rich 
-man’s revolution against the , “democratic’’ party that had 
+man’s revolution against the, "democratic’’ party that had 
 ruled during the disastrous war. ’ The. revolution, failed^ and 
-C citias was killed on the field of battle, , , . 
+C citias was killed on the field of battle,,, . 
 
 Now Critias was a pupil qf. Socrates, and an uncle of 
 Plata 
@@ -1255,12 +824,12 @@ the life of Alcibiades in battle; and he could drink like a
 gentleman — without fear and without excess. But no doubt 
 ihey liked best in him the modesty of his wisdom : he did not 
 daim to have wisdom, but only to seek it lovingly ; he was 
-visdom’s amateur , not its professional. It was said that the 
+visdom’s amateur, not its professional. It was said that the 
 oracle at Delphi, with unusual good sense, had pronounced him 
 the wisest of the Greeks; and he had interpreted this as an 
 approval of the agnosticism which was the starting-point of 
-his philosophy — -“One thing only I know, and that is that I 
-know nothing.” Philosophy begins when one learns to doubt 
+his philosophy — -"One thing only I know, and that is that I 
+know nothing." Philosophy begins when one learns to doubt 
 • — particularly to doubt one’s cherished beliefs, one’s dogmas 
 and one’s axioms. Who knows how these cherished beliefs be- 
 came certainties with us, and whether some secret wish did 
@@ -1296,7 +865,7 @@ so easily settle the problems of life and death? What do you
 mean by honor, virtue, morality, patriotism? What do 
 you mean by your self? It was with such moral and psycho- 
 logical questions that Socrates loved to deal. Some who suf- 
-fered from this “Socratic method,” this demand for accurate 
+fered from this "Socratic method," this demand for accurate 
 definitions, and clear thinking, and exact analysis, objected 
 that he asked more than he answered, and left men’s minds 
 more confused than before. Nevertheless he bequeathed to 
@@ -1336,7 +905,7 @@ had he tried to restore the ancient polytheistic faith ; if he had
 led his band of emancipated souls to the temples and the sacred 
 groves, and bade them sacrifice again to the gods of their 
 fathers. But he felt that that was a hopeless and suicidal 
-policy, a progress backward, into and not “over the tombs.” 
+policy, a progress backward, into and not "over the tombs." 
 He had his own religious faith: he believed in one God, and 
 hoped in his modest way that death would not quite destroy 
 him ; 1 but he knew that a lasting moral code could not be 
@@ -1346,7 +915,7 @@ as valid for the atheist as for the pietist, then theologies might
 come and go without loosening the moral cement that makes of 
 wilful individuals the peaceful citizens of a community. 
 
-If, for example, good meant intelligent , and virtue meant 
+If, for example, good meant intelligent, and virtue meant 
 ! wisdom ; if men could be taught to see clearly their real inter- 
 ests, to see afar the distant results of their deeds, to criticize 
 and coordinate their desires out of a self-cancelling chaos into 
@@ -1367,8 +936,8 @@ But if the government itself is a chaos and an absurdity,
 if it rules without helping, and commands without leading, — 
 
 iCf. Voltaire’s story of the two Athenians conversing about Socrates: 
-“That is the atheist who says there is only one God.” Philosophical Dictiofa 
-ary, art. “Socrates,** 
+"That is the atheist who says there is only one God." Philosophical Dictiofa 
+ary, art. "Socrates,** 
 
 
 PLATO 
@@ -1387,9 +956,9 @@ leisure and in desolation. Is it not a base superstition that
 mere numbers will give wisdom? On the contrary is it not 
 universally seen that men in crowds are more foolish and more 
 violent and more cruel than men separate and alone? Is it 
-not shameful that men should be ruled by orators, who “go 
+not shameful that men should be ruled by orators, who "go 
 ringing on in long harangues, like brazen pots which, when 
-struck, continue to sound till a hand is put upon them”? 1 
+struck, continue to sound till a hand is put upon them"? 1 
 Surely the management of a state is a matter for which men 
 cannot be too intelligent, a matter that needs the unhindered 
 thought of the finest minds. How can a society be saved, or 
@@ -1410,7 +979,7 @@ Then the revolution came, and men fought for it and
 i Plato’s Protagoras, sect. 329. 
 
 * In The Clouds (423 b. c.) Aristophanes had made great fun of Socrates 
-and his “Thinking-shop,” where one learned the art of proving one’s self 
+and his "Thinking-shop," where one learned the art of proving one’s self 
 right, however wrong. Phidippides beats his father on the ground that his 
 father used to beat him, and every debt should be repaid. The satire seems 
 to have been good-natured enough: we find Aristophanes frequently in the 
@@ -1442,7 +1011,7 @@ j die.
 
 it down in prose more beautiful than poetry. We are priv- 
 ileged to read for ourselves that simple and courageous (if 
-not legendary) “apology,” or defence, in which the first martyr 
+not legendary) "apology," or defence, in which the first martyr 
 of philosophy proclaimed the rights and necessity of free 
 thought, upheld his value to the state, and refused to beg 
 for mercy from the crowd whom he had always contemned. 
@@ -1457,9 +1026,9 @@ friends came to his prison and offered him an easy escape;
 they had bribed all the officials who stood between him and 
 liberty. He refused. He was seventy years old now (399 
 b. c.) ; perhaps he thought it was time for him to die, and that 
-he could never again die so usefully. “Be of good cheer,” he 
-told his sorrowing friends, “and say that you are burying my 
-body only.” “When he had spoken these words,” says Plato, 
+he could never again die so usefully. "Be of good cheer," he 
+told his sorrowing friends, "and say that you are burying my 
+body only." "When he had spoken these words," says Plato, 
 in one of the great passages of the world’s literature, 1 
 
 he arose and went into the bath-chamber with Crito, who 
@@ -1470,7 +1039,7 @@ lives as orphans. ... Now the hour of sunset was near, for a
 good deal of time had passed while he was within. When he 
 
 
-iPhaedo, sections 116 - 118 , tr. Jowett 
+iPhaedo, sections 116 - 118, tr. Jowett 
 
 
 PLATO 
@@ -1481,46 +1050,46 @@ PLATO
 
 came out, he sat down with us again, • . • but not much was 
 said. Soon the jailer . . . entered and stood by him, say- 
-ing: “To you, Socrates, whom I know to be the noblest and 
+ing: "To you, Socrates, whom I know to be the noblest and 
 gentlest and best of all who ever came to this place, I will 
 not impute the angry feelings of other men, who rage and 
 swear at me when, in obedience to the authorities, I bid them 
 drink the poison — indeed I am sure that you will not be 
 angry with me ; for others, as you are aware, and not I, are 
 the guilty cause. And so fare you well, and try to bear 
-lightly what must needs be; you know my errand.” Then 
+lightly what must needs be; you know my errand." Then 
 bursting into tears he turned away and went out. 
 
-Socrates looked at him and said: “I return your good 
-wishes, and will do as you bid.” Then turning to us, he said, 
-“How charming the man is ; since I have been in prison he 
+Socrates looked at him and said: "I return your good 
+wishes, and will do as you bid." Then turning to us, he said, 
+"How charming the man is ; since I have been in prison he 
 has always been coming to see me, and now see how gener- 
 ously he sorrows for me. But we must do as he says, Crito; 
 let the cup be brought, if the poison is prepared ; if not, let 
-the attendant prepare some.” 
+the attendant prepare some." 
 
-“Yet,” said Crito, “the sun is still upon the hill-tops, and 
+"Yet," said Crito, "the sun is still upon the hill-tops, and 
 many a one has taken the draught late; and after the an- 
 nouncement has been made to him he has eaten and drunk, 
 and indulged in sensual delights; do not hasten then, there 
-is still time.” 
+is still time." 
 
-Socrates said : “Yes, Crito, and they of whom you speak 
+Socrates said : "Yes, Crito, and they of whom you speak 
 are right in doing thus, for they think that they will gain by 
 the delay; but I am right in not doing thus, for I do not 
 think that I should gain anything by drinking the poison a 
 little later; I should be sparing and saving a life which is 
 already gone ; I could only laugh at myself for this. Please 
-then to do as I say, and not to refuse me.” 
+then to do as I say, and not to refuse me." 
 
 Crito, when he heard this, made a sign to the servant ; and 
 the servant went in, and remained for some time, and then 
 returned with the jailer carrying the cup of poison. Soc- 
-rates said: “You, my good friend, who are experienced in 
-these matters, shall give me directions how I am to proceed.” 
-The man answered: “You have only to walk about until 
+rates said: "You, my good friend, who are experienced in 
+these matters, shall give me directions how I am to proceed." 
+The man answered: "You have only to walk about until 
 your legs are heavy, and then to lie down, and the poison will 
-act.” At the same time he handed the cup to Socrates, who 
+act." At the same time he handed the cup to Socrates, who 
 in the easiest and gentlest manner, without the least fear or 
 
 
@@ -1531,13 +1100,13 @@ THE STORY OF PHILOSOPHY
 
 
 change of color or feature, looking at the man with all his 
-eyes, as his manner was, took the cup and said : “What do 
+eyes, as his manner was, took the cup and said : "What do 
 you say about making a libation out of this cup to any god? 
-May I, or not?” The man answered: “We only prepare, 
-Socrates, just so much as we deem enough.” “I under- 
-stand,” he said; “yet I may and must pray to the gods to 
+May I, or not?" The man answered: "We only prepare, 
+Socrates, just so much as we deem enough." "I under- 
+stand," he said; "yet I may and must pray to the gods to 
 prosper my journey from this to that other world — may this 
-then, which is my prayer, be granted to me.” Then, holding 
+then, which is my prayer, be granted to me." Then, holding 
 the cup to his lips, quite readily and cheerfully he drank the 
 poison. 
 
@@ -1552,24 +1121,24 @@ for Crito, when he found himself unable to restrain his tears,
 had got up and moved away, and I followed; and at that 
 moment Apollodorus, who had been weeping all the time, 
 broke out into a loud cry which made cowards of us all. 
-Socrates alone retained his calmness : “What is this strange 
-outcry?” he said. “I sent away the women mainly in order 
+Socrates alone retained his calmness : "What is this strange 
+outcry?" he said. "I sent away the women mainly in order 
 that they might not offend in this way, for I have heard that 
 a man should die in peace. Be quiet, then, and have pa- 
-tience.” When we heard that, we were ashamed, and re- 
+tience." When we heard that, we were ashamed, and re- 
 strained our tears ; and he walked about until, as he said, his 
 legs began to fail, and then he lay on bis back, according to 
 the directions, and the man who gave him the poison now 
 and then looked at his feet and legs; and after a while he 
 pressed his foot hard and asked him if he could feel ; and he 
-said, “No” ; and then his leg, and so upwards and upwards, 
+said, "No" ; and then his leg, and so upwards and upwards, 
 and showed us that he was cold and stiff. And then Soc- 
-rates felt them himself, and said, “When the poison reaches 
-the heart, that will be the end.” He was beginning to grow 
+rates felt them himself, and said, "When the poison reaches 
+the heart, that will be the end." He was beginning to grow 
 cold about the groin, when he uncovered his face (for he had 
 covered himself up) and said, — they were his last words, — 
-“Crito, I owe a cock to Asclepius ; will you remember to pay 
-like debt?” “The debt shall be paid,” said Crito; “is there 
+"Crito, I owe a cock to Asclepius ; will you remember to pay 
+like debt?" "The debt shall be paid," said Crito; "is there 
 
 
 PLATO 
@@ -1578,7 +1147,7 @@ PLATO
 19 
 
 
-anything else?” There was no answer to this question; but 
+anything else?" There was no answer to this question; but 
 in a minute or two a movement was heard, and the attendant 
 uncovered him; his eyes were set, and Crito closed his eyes 
 and mouth. 
@@ -1596,16 +1165,16 @@ it is said, because of the breadth of his shoulders ; he had ex-
 celled as a soldier, and had twice won prizes at the Isthmian 
 games. Philosophers are not apt to develop out of such an 
 adolescence. But Plato’s subtle soul had found a new joy in 
-the “dialectic” game of Socrates; it was a delight to behold 
+the "dialectic" game of Socrates; it was a delight to behold 
 the master deflating dogmas and puncturing presumptions 
 with the sharp point of his questions ; Plato entered into this 
 sport as he had in a coarser kind of wrestling ; and under the 
-guidance of the old “gad-fly” (as Socrates called himself) he 
+guidance of the old "gad-fly" (as Socrates called himself) he 
 passed from mere debate to careful analysis and fruitful dis- 
 cussion. He became a very passionate lover of wisdom, and of 
-his teacher. “I thank God,” he used to say, “that I was born 
+his teacher. "I thank God," he used to say, "that I was born 
 Greek and not barbarian, freeman and not slave, man and not 
-woman ; but above all, that I was born in the age of Socrates.” 
+woman ; but above all, that I was born in the age of Socrates." 
 
 He was twenty-eight when the master died ; and this tragic 
 end of a quiet life left its mark on every phase of the pupil’s 
@@ -1672,11 +1241,11 @@ PLATO
 
 so brilliant a garb; and surely never since. Even in transla- 
 tion this style shines and sparkles and leaps and bubbles over. 
-“Plato,” says one of his lovers, Shelley, “exhibits the rare 
+"Plato," says one of his lovers, Shelley, "exhibits the rare 
 union of close and subtle logic with the Pythian enthusiasm 
 of poetry, melted by the splendor and harmony of his periods 
 into one irresistible stream of musical impressions, which hurry 
-the persuasions onward as in a breathless career.” 1 It was 
+the persuasions onward as in a breathless career." 1 It was 
 not for nothing that the young philosopher had begun as a 
 dramatist. 
 
@@ -1687,8 +1256,8 @@ the author speaks, nor in which form; whether he is literal
 or speaks in metaphor, whether he jests or is in earnest. His 
 love of jest and irony and myth leaves us at times baffled ; al- 
 most we could say of him that he did not teach except it. par- 
-ables. “Shall I, as an older person, speak to you, as younger 
-men, in apologue or myth?” asks his Protagoras . 2 These dia- 
+ables. "Shall I, as an older person, speak to you, as younger 
+men, in apologue or myth?" asks his Protagoras . 2 These dia- 
 logues, we are told, were written by Plato for the general 
 reading public of his day : by their conversational method, 
 their lively war of pros and cons, and their gradual develop- 
@@ -1707,7 +1276,7 @@ minds unused to philosophic fare.
 
 Let us confess, too, that Plato has in sufficient abundance 
 
-i Quoted by Barker, Greek Political Theory , London, 1918, p. 5. 
+i Quoted by Barker, Greek Political Theory, London, 1918, p. 5. 
 
 t Protagoras, 320. 
 
@@ -1726,15 +1295,15 @@ the priests (who go about preaching hell and offering re-
 demption from it for a consideration— cf. The Republic, 3 64s), 
 but he himself is a priest, a theologian, a preacher, a super- 
 moralist, a Savonarola denouncing art and inviting vanities 
-to the fire. He acknowledges, Shakespeare-like, that “com- 
-parisons are slippery” ( Sophist , 231), but he slips out of one 
+to the fire. He acknowledges, Shakespeare-like, that "com- 
+parisons are slippery" ( Sophist, 231), but he slips out of one 
 into another and another and another ; he condemns the Soph- 
 ists as phrase-mongering disputants, but he himself is not 
 above chopping logic like a sophomore. Faguet parodies him: 
-“The whole is greater than the part? — Surely. — And the part 
+"The whole is greater than the part? — Surely. — And the part 
 is less than the whole? — Yes. — : . . . Therefore, clearly, phi- 
 losophers should rule the state? — What is that? — It is evident; 
-let us go over it again.” 1 
+let us go over it again." 1 
 
 But this is the worst that we can say of him ; and after it is 
 said, the Dialogues remain one of the priceless treasures of the 
@@ -1748,13 +1317,13 @@ eugenics, Nietzschean problems of morality and aristocracy,
 Rousseauian problems of return to nature and libertarian ed- 
 ucation, Bergsonian Sian vital and Freudian psychoanalysis 
 — everything is here. It is a feast for the elite, served by 
-an unstinting host. “Plato is philosophy, and philosophy 
-Plato,” says Emerson ; and awards to The Republic the word# 
+an unstinting host. "Plato is philosophy, and philosophy 
+Plato," says Emerson ; and awards to The Republic the word# 
 
-1 Pour qu’on Use Platon , Paris, 1905, p. 4. 
+1 Pour qu’on Use Platon, Paris, 1905, p. 4. 
 
 2 The most important of the dialogues are: The Apology of Socrates^ 
-Crito , Phcedo , The Symposium , Phadrus, Gorgias , Parmenides , and The 
+Crito, Phcedo, The Symposium, Phadrus, Gorgias, Parmenides, and The 
 Statesman . The most important parts of The Republic (references are te 
 marginally-numbered sections, not to pages) are 327-32, 336-77, 384-5, 392* 
 426, 433-5, 441-76, 481-3, 512-20, 572-94. The best edition is Jowett’s; the 
@@ -1764,8 +1333,8 @@ unless otherwise stated.
 
 PLATO 23 
 
-of Omar about the Koran: “Burn the libraries, for their value 
-is in this book.” 1 
+of Omar about the Koran: "Burn the libraries, for their value 
+is in this book." 1 
 
 Let us study The Republic. 
 
@@ -1777,8 +1346,8 @@ tus, brothers of Plato; and Thrasymachus, a gruff and ex-
 citable Sophist. Socrates, who serves as the mouthpiece of 
 Plato in the dialogue, asks Cephalus : 
 
-“What do you consider to be the greatest blessing which 
-you have reaped from wealth?” 
+"What do you consider to be the greatest blessing which 
+you have reaped from wealth?" 
 
 Cephalus answers that wealth is a blessing to him chiefly 
 because it enables him to be generous and honest and just. 
@@ -1788,20 +1357,20 @@ war. For nothing is so difficult as definition, nor anything so
 severe a test and exercise of mental clarity and skill. Socrates 
 finds it a simple matter to destroy one after another the def- 
 initions offered him; until at. last Thrasymachus, less patient 
-than the rest, breaks out “with a roar” : 
+than the rest, breaks out "with a roar" : 
 
-“What folly has possessed you, Socrates? And why do 
+"What folly has possessed you, Socrates? And why do 
 you others all drop down at one another’s feet in this silly 
 way? I say that if you want to know what justice is, you 
 should answer and not ask, and shouldn’t pride yourself on 
 refuting others. . . . For there are many who can ask but 
-cannot answer” (336). 
+cannot answer" (336). 
 
 Socrates is not frightened; he continues to ask rather than 
 answer; and after a minute of parry and thrust he provokes 
 the unwary Thrasymachus to commit himself to a definition: 
 
-“Listen, then,” says the angry Sophist, “I proclaim that 
+"Listen, then," says the angry Sophist, "I proclaim that 
 might is right, and justice is the interest of the stronger. 
 
 . . „ The different forms of government make laws, demo- 
@@ -1827,16 +1396,16 @@ and made slaves of them, then, instead of swindler and thief
 he is called happy and blessed by all. For injustice is cen- 
 sured because those who censure it are afraid of suffering, 
 and not from any scruple they might have of doing injustice 
-themselves” (338-44). 
+themselves" (338-44). 
 
 This, of course, is the doctrine which our own day more or 
-less correctly associates with the name of Nietzsche. “Verily 
+less correctly associates with the name of Nietzsche. "Verily 
 I laughed many a time over the weaklings who thought them- 
-selves good because they had lame paws.” 1 Stirner expressed 
-*,he idea briefly when he said that “a handful of might is better 
-than a bagful of right.” Perhaps nowhere in the history of 
+selves good because they had lame paws." 1 Stirner expressed 
+*,he idea briefly when he said that "a handful of might is better 
+than a bagful of right." Perhaps nowhere in the history of 
 philosophy is the doctrine better formulated than by Plato 
-himself in another dialogue, Gorgias , (483 f), where the Soph- 
+himself in another dialogue, Gorgias, (483 f), where the Soph- 
 ist Callicles denounces morality as an invention of the weak to 
 neutralize the strength of the strong. 
 
@@ -1866,7 +1435,7 @@ m
 
 and therefore they blame such persons, because they are 
 ashamed of their own inability, which they desire to conceal ; 
-and hence they call intemperance base. . . , They enslave 
+and hence they call intemperance base. . ., They enslave 
 the nobler natures, and they praise justice only because they 
 are cowards. 
 
@@ -1874,16 +1443,16 @@ This justice is a morality not for men but for foot-men
 (i oude gar andros alV andrapodou tinos) ; it is a slave-morality, 
 not a hero-morality; the real virtues of a man are courage 
 ( andreia ) and intelligence (.phronesis) - 1 
-Perhaps this hard “immoralism” reflects the development 
+Perhaps this hard "immoralism" reflects the development 
 of imperialism in the foreign policy of Athens, and its ruthless 
-treatment of weaker states . 2 “Your empire,” said Pericles in 
-the oration which Thucydides invents for him, “is based oil 
-your own strength rather than the good will of your subjects.” 
+treatment of weaker states . 2 "Your empire," said Pericles in 
+the oration which Thucydides invents for him, "is based oil 
+your own strength rather than the good will of your subjects." 
 And the same historian reports the Athenian envoys coercing 
-Melos into joining Athens in the war against Sparta: “You 
+Melos into joining Athens in the war against Sparta: "You 
 know as well as we do that right, as the world goes, is only in 
 question for equals in power; the strong do what they can, 
-and the weak suffer what they must.” 3 We have here the 
+and the weak suffer what they must." 3 We have here the 
 fundamental problem of ethics, the crux of the theory of moral 
 conduct. What is justice? — shall we seek righteousness, or 
 shall we seek power? — is it better to be good, or to be strong? 
@@ -1955,7 +1524,7 @@ peace to a good old age, and bequeath a similar life to their
 children after them (372). 
 
 Observe here the passing reference to the control of popu- 
-lation (by infanticide, presumably) , to vegetarianism, and to 
+lation (by infanticide, presumably), to vegetarianism, and to 
 
 
 
@@ -1964,11 +1533,11 @@ PLATO
 
 n 
 
-A “return to nature,” to the primitive simplicity which Hebrew 
+A "return to nature," to the primitive simplicity which Hebrew 
 legend pictures in the Garden of Eden. The whole has the 
-sound of Diogenes the “Cynic,” who, as the epithet implied, 
-thought we should “turn and live with the animals, they are 
-so placid and self-contained” ; and for a moment we are likely 
+sound of Diogenes the "Cynic," who, as the epithet implied, 
+thought we should "turn and live with the animals, they are 
+so placid and self-contained" ; and for a moment we are likely 
 to classify Plato with St. Simon and Fourier and William 
 Morris and Tolstoi. But he is a little more sceptical than 
 these men of kindly faith ; he passes quietly on to the question, 
@@ -1983,14 +1552,14 @@ and pine for what they have not ; and they seldom desire any-
 thing unless it belongs to others. The result is the encroach- 
 ment of one group upon the territory of another, the rivalry 
 of groups for the resources of the soil, and then war. Trade 
-and finance develop, and bring new class-divisions. “Any 
+and finance develop, and bring new class-divisions. "Any 
 ordinary city is in fact two cities, one the city of the poor, the 
 other of the rich, each at war with the other; and in either 
 division there are smaller ones — you would make a great 
-mistake if you treated them as single states” (423). A mer- 
+mistake if you treated them as single states" (423). A mer- 
 cantile bourgeoisie arises, whose members seek social position 
-through wealth and conspicuous consumption : “they will 
-spend large sums of money on their wives” (548). These 
+through wealth and conspicuous consumption : "they will 
+spend large sums of money on their wives" (548). These 
 changes in the distribution of wealth produce political 
 changes: as the wealth of the merchant over-reaches that of 
 the land-owner, aristocracy gives way to a plutocratic oligar- 
@@ -2015,28 +1584,28 @@ it may seem to arise from little causes and petty whims; but
 though it may spring from slight occasions it is the precipitate 
 result of grave and accumulated wrongs; when a body is 
 weakened by neglected ills, the merest exposure may bring 
-serious disease (556). “Then democracy comes: the poor 
+serious disease (556). "Then democracy comes: the poor 
 overcome their opponents, slaughtering some and banishing 
 the rest ; and give to the people an equal share of freedom and 
-power” (557). 
+power" (557). 
 
 But even democracy ruins itself by excess — of democracy. 
 Its basic principle is the equal right of all to hold office and 
 determine public policy. This is at first glance a delightful 
 arrangement; it becomes disastrous because the people are 
 not properly equipped by education to select the best rulers 
-and the wisest courses (688). “As to the people they have 
+and the wisest courses (688). "As to the people they have 
 no understanding, and only repeat what their rulers are 
-pleased to tell them” ( Protagoras , 317) ; to get a doctrine ac- 
+pleased to tell them" ( Protagoras, 317) ; to get a doctrine ac- 
 cepted or rejected it is only necessary to have it praised or 
 ridiculed in a popular play (a hit, no doubt, at Aristophanes, 
 whose comedies attacked almost every new idea). Mob-rule 
 is a rough sea for the ship of state to ride; every wind of 
 oratory stirs up the waters and deflects the course. The up- 
 shot of such a democracy is tyranny or autocracy ; the crowd 
-to loves flattery, it is so “hungry for honey,” that at last the 
+to loves flattery, it is so "hungry for honey," that at last the 
 Wiliest and most unscrupulous flatterer, calling himself the 
-“protector of the people” rises to supreme power (565). 
+"protector of the people" rises to supreme power (565). 
 (Consider the history of Rome.) 
 
 The more Plato thinks of it, the more astounded he is at 
@@ -2069,13 +1638,13 @@ VI. THE PSYCHOLOGICAL PROBLEM
 
 But behind these political problems lies the nature of man ; 
 to understand politics, we must, unfortunately, understand 
-psychology. “Like man, like state” (575) ; “governments 
-vary as the characters of men vary ; . . , states are made out 
-of the human natures which are in them” (544) ; the state is 
+psychology. "Like man, like state" (575) ; "governments 
+vary as the characters of men vary ; . ., states are made out 
+of the human natures which are in them" (544) ; the state is 
 what it is because its citizens are what they are. Therefore 
 we need not expect to have better states until we have better 
 men; till then all changes will leave every essential thing 
-unchanged. “How charming people are! — always doctoring, 
+unchanged. "How charming people are! — always doctoring, 
 increasing and complicating their disorders, fancying they will 
 be cured by some nostrum which somebody advises them to 
 try, never getting better, but always growing worse. . . . 
@@ -2083,7 +1652,7 @@ Are they not as good as a play, trying their hand at legisla-
 tion, and imagining that by reforms they will make an end 
 to the dishonesties and rascalities of mankind — not knowing 
 that in reality they are cutting away at the heads of a 
-hydra?” (4<25). 
+hydra?" (4<25). 
 
 Let us examine for a moment the human material with which 
 political philosophy must deal. 
@@ -2112,7 +1681,7 @@ who rate their gains always as naught compared with their
 ever-receding goals: these are the men who dominate and 
 manipulate industry. But there are others who are temples 
 of feeling and courage, who care not so much what they 
-fight for, as for victory “in and for itself”; they are pug- 
+fight for, as for victory "in and for itself"; they are pug- 
 nacious rather than acquisitive ; their pride is in power rather 
 than in possession, their joy is on the battle-field rather 
 than in the mart : these are the men who make the armies and 
@@ -2133,24 +1702,24 @@ losophy would be nourished and protected, and they would
 rule. Unguided by knowledge, the people are a multitude 
 without order, like desires in disarray; the people need the 
 guidance of philosophers as desires need the enlightenment of 
-knowledge. “Ruin, comes when the trader, whose heart is< 
+knowledge. "Ruin, comes when the trader, whose heart is< 
 
 
 PLATO 
 
 
-lifted up by wealth, becomes ruler” (434) ; or when the general 
+lifted up by wealth, becomes ruler" (434) ; or when the general 
 uses his army to establish a military dictatorship. The pro- 
 ducer is at his best in the economic field, the warrior is at his 
 best in battle ; they are both at their worst in public office ; and 
 in their crude hands politics submerges statesmanship. For 
 statesmanship is a science and an art ; one must have lived for 
 it and been long prepared. Only a philosopher-king is fit 
-to guide a nation. “Until philosophers are kings, or the 
+to guide a nation. "Until philosophers are kings, or the 
 kings and princes of this world have the spirit and power of 
 philosophy, and wisdom and political leadership meet in the 
 same man, . . . cities will never cease from ill, nor the 
-human race” (473). 
+human race" (473). 
 
 This is the key-stone of the arch of Plato’s thought. 
 
@@ -2159,10 +1728,10 @@ vn. THE PSYCHOLOGICAL SOLUTION
 
 Well, then, what is to be done? 
 
-We must begin by “sending out into the country all the 
+We must begin by "sending out into the country all the 
 inhabitants of the city who are more than ten years old, and 
 by taking possession of the children, who will thus be pro- 
-tected from the habits of their parents” (540). We cannot 
+tected from the habits of their parents" (540). We cannot 
 build Utopia with young people corrupted at every turn by 
 the example of their elders. We must start, so far as we can, 
 with a clean slate. It is quite possible that some enlightened 
@@ -2178,7 +1747,7 @@ For the first ten years of life, education shall be pre-
 dominantly physical ; every school is to have a gymnasium and 
 a playground; play and sport are to be the entire curriculum; 
 and in this first decade such health will be stored up as will 
-make all medicine unnecessary. “To require the help ' 
+make all medicine unnecessary. "To require the help ' 
 
 
 
@@ -2193,7 +1762,7 @@ filled themselves like pools with waters and winds, . . .
 flatulence and catarrh — is not this a disgrace? . . . Our 
 present system of medicine may be said to educate diseases/’ 
 to draw them out into a long existence, rather than to cure 
-them. But this is an absurdity of the idle rich. “When a 
+them. But this is an absurdity of the idle rich. "When a 
 carpenter is ill he asks the physician for a rough and ready 
 remedy— an "emetic, or a purge, or cautery, or the knife. 
 And if anyone tells him that he must go through a course of 
@@ -2203,30 +1772,30 @@ that he sees no good in a life that is spent in nursing his dis-
 ease to the neglect of his ordinary calling ; and therefore, say- 
 ing good-bye to this sort of physicians, he resumes his cus- 
 tomary diet, and either gets well and lives and does his busi- 
-ness, or, if his constitution fails, he dies and has done with it” 
+ness, or, if his constitution fails, he dies and has done with it" 
 (405-6). We cannot afford to have a nation of malingerers 
 and invalids ; Utopia must begin in the body of man. 
 
 But mere athletics and gymnastics would make a man too 
-one-sided. “How shall we find a gentle nature which has also 
+one-sided. "How shall we find a gentle nature which has also 
 great courage? — for they seem to be inconsistent with each 
-other” (375). We do not want a nation of prize-fighters 
+other" (375). We do not want a nation of prize-fighters 
 and weight-lifters. Perhaps music will solve our problem: 
 through music the soul learns harmony and rhythm, and even 
-a disposition to justice; for “can he who is harmoniously con- 
+a disposition to justice; for "can he who is harmoniously con- 
 stituted ever be unjust? Is not this, Glaucon, why musical 
 training is so powerful, because rhythm and harmony find 
 their way into the secret places of the soul, bearing grace in 
-their movements and making the soul graceful?” (401 ; 
+their movements and making the soul graceful?" (401 ; 
 Protagoras, 326). Music moulds character, and therefore 
-shares in determining social and political issues. “Damon 
+shares in determining social and political issues. "Damon 
 tells me — and I can quite believe it — that when modes of music 
-change, the fundamental laws of the state change with them.” 1 
+change, the fundamental laws of the state change with them." 1 
 
 Music is valuable not only because it brings refinement of 
 
-i Cf. Daniel O’Connell: “Let me write the songs of a nation, and I care 
-not who makes its laws.” 
+i Cf. Daniel O’Connell: "Let me write the songs of a nation, and I care 
+not who makes its laws." 
 
 
 PLATO 
@@ -2234,20 +1803,20 @@ PLATO
 
 feeling and character, but also because it preserves and re- 
 stores health. There are some diseases which can be treated 
-only through the mind ( Charmides , 157) : so the Corybantic 
+only through the mind ( Charmides, 157) : so the Corybantic 
 priest treated hysterical women with wild pipe music, which 
 excited them to dance and dance till they fell to the ground 
 exhausted, and went to . sleep ; when they awoke they were 
 cured. The unconscious sources of human thought are 
 touched and soothed by such methods ; and ft is in these 
 substrata of behavior and feeling that genius sinks its roots. 
-“No man when conscious attains to true or inspired intuition, 
+"No man when conscious attains to true or inspired intuition, 
 but rather when the power of intellect is fettered in sleep or 
-by disease or dementia” ; the prophet ( mantike ) or genius is 
-akin to the madman ( manike ) ( Phcedrus , 244). 
+by disease or dementia" ; the prophet ( mantike ) or genius is 
+akin to the madman ( manike ) ( Phcedrus, 244). 
 
-Plato passes on to a remarkable anticipation of “psycho- 
-analysis.” Our political psychology is perplexed, he argues, 
+Plato passes on to a remarkable anticipation of "psycho- 
+analysis." Our political psychology is perplexed, he argues, 
 because we have not adequately studied the various appetites 
 or instincts of man. Dreams may give us a clue to some of 
 the subtle and more elusive of these dispositions. 
@@ -2255,17 +1824,17 @@ the subtle and more elusive of these dispositions.
 Certain of the unnecessary pleasures and instincts are 
 deemed to be unlawful ; every man appears to have them, but 
 in some persons they are subjected to the control of law and 
-reason [“sublimated”], and the better desires prevailing 
+reason ["sublimated"], and the better desires prevailing 
 over them, they are either wholly suppressed, or reduced in 
 strength and number; while in other persons these desires 
 are stronger and more abundant. I mean particularly those 
 desires which are awake when the reasoning and taming and 
-ruling power [“censor”] of the personality is asleep; the 
+ruling power ["censor"] of the personality is asleep; the 
 wild beast in our nature, gorged with meat and drink, starts 
 up and walks about naked, and surfeits at his will ; and there 
 is no conceivable folly or crime, however shameless or un- 
-natural — not excepting incest or parricide [“(Edipus com- 
-plex”] — of which such a nature may not be guilty. . . . 
+natural — not excepting incest or parricide ["(Edipus com- 
+plex"] — of which such a nature may not be guilty. . . . 
 But when a man’s pulse is healthy and temperate, and he 
 goes to sleep cool and rational, . . . having indulged his 
 appetites neither too much nor too little, but just enough to 
@@ -2285,8 +1854,8 @@ peers out in sleep (571-2).
 Music and measure lend grace and health to the soul 
 and to the body; but again, too much music is as dangerous 
 as too much athletics. To be merely an athlete is to be nearly 
-a savage; and to be merely a musician is to be “melted and 
-softened beyond what is good” (410). The two must be com- 
+a savage; and to be merely a musician is to be "melted and 
+softened beyond what is good" (410). The two must be com- 
 bined; and after sixteen the individual practice of music 
 must be abandoned, though choral singing, like communal 
 games, will go on throughout life. Nor is music to be merely 
@@ -2331,7 +1900,7 @@ have a religion.
 
 Plato believes that a nation cannot be strong unless it be- 
 lieves in God. A mere cosmic force, or first cause, or elan 
-vital , that was not a person, could hardly inspire hope, or 
+vital, that was not a person, could hardly inspire hope, or 
 devotion, or sacrifice; it could not offer comfort to the hearts 
 of the distressed, nor courage to embattled souls. But a liv- 
 ing God can do all this, and can stir or frighten the self- 
@@ -2356,8 +1925,8 @@ and test of what they have learned in all their years of equal
 education. Then will come a ruthless weeding out ; the Great 
 Elimination, we might call it. That test will be no mere 
 academic examination; it will be practical as well as theo- 
-retical: “there shall also be toils and pains and conflicts pre- 
-scribed for them” (413). Every kind of ability will have a 
+retical: "there shall also be toils and pains and conflicts pre- 
+scribed for them" (413). Every kind of ability will have a 
 chance to show itself, and every sort of stupidity will be 
 hunted out into the light. Those who fail will be assigned 
 to the economic work of the nation; they will be business 
@@ -2396,7 +1965,7 @@ fallen are God-decreed and irrevocable — not all their tears
 shall wipe out one word of it. We shall tell them the myth 
 of the metals: 
 
-“Citizens, you are brothers, yet God has framed you dif- 
+"Citizens, you are brothers, yet God has framed you dif- 
 ferently. Some of you have the power of command; and 
 these he has made of gold, wherefore they have the greatest 
 honor ; others of silver, to be auxiliaries ; others again, who 
@@ -2420,21 +1989,21 @@ PLATO
 or an artisan, just as there may be others sprung from the 
 artisan class who are raised to honor, and become guardians 
 and auxiliaries. For an oracle says that when a man of 
-brass or iron guards the state, it will be destroyed” (415). 
+brass or iron guards the state, it will be destroyed" (415). 
 
-Perhaps with this “royal fable” we shall secure a fairly 
+Perhaps with this "royal fable" we shall secure a fairly 
 general consent to the furtherance of our plan. 
 
 But now what of the lucky remnant that ride these succes- 
 sive waves of selection? 
 
 They are taught philosophy. They have now reached the 
-age of thirty; it would not have been wise to let them “taste 
+age of thirty; it would not have been wise to let them "taste 
 the dear delight too early; . . . for young men, when they 
 first get the taste of philosophy in their mouths, argue for 
 amusement, and are always contradicting and refuting, . . . 
 like puppy-dogs who delight to tear and pull at all who come 
-near them” (539). This dear delight, philosophy, means two 
+near them" (539). This dear delight, philosophy, means two 
 things chiefly: to think clearly, which is metaphysics; and to 
 rule wisely, which is politics. First then, our young Elite 
 must learn to think clearly. For that purpose they shall 
@@ -2444,11 +2013,11 @@ But this famous doctrine of Ideas, embellished and ob-
 scured by the fancy and poetry of Plato, is a discouraging 
 maze to the modern student, and must have offered another 
 severe test to the survivors of many siftings. The Idea of a 
-thing might be the “general idea” of the class to which it 
+thing might be the "general idea" of the class to which it 
 belongs (the Idea of John, or Dick, or Harry, is Man) ; or 
 it might be the law or laws according to which the thing 
 operates (the Idea of John would be the reduction of all his 
-behavior to “natural laws”) ; or it might be the perfect pur- 
+behavior to "natural laws") ; or it might be the perfect pur- 
 pose and ideal towards which the thing and its class may 
 develop (the Idea of John is the John of Utopia). Very 
 probably the Idea is all of these — idea, law and ideal. Be- 
@@ -2456,7 +2025,7 @@ hind the surface phenomena and particulars which greet our
 senses, are generalizations, regularities, and directions of 
 development, unperceived by sensation but conceived by 
 reason and thought. These ideas, laws and ideals are more 
-permanent — and therefore more “real” — than the sense- 
+permanent — and therefore more "real" — than the sense- 
 
 
 38 
@@ -2486,20 +2055,20 @@ he will see these laws upholding the bridge; if the laws were
 violated the bridge would collapse into the stream beneath; 
 the laws are the God that holds up the bridge in the hollow 
 of his hand. Aristotle hints something of this when he says 
-that by Ideas Plato meant what Pythagoras meant by “num- 
-ber” when he taught that this is a world of numbers (meaning 
+that by Ideas Plato meant what Pythagoras meant by "num- 
+ber" when he taught that this is a world of numbers (meaning 
 presumably that the world is ruled by mathematical con- 
 stancies and regularities). Plutarch tells us that according 
-to Plato “God always geometrizes” ; or, as Spinoza puts the 
+to Plato "God always geometrizes" ; or, as Spinoza puts the 
 same thought, God and the universal laws of structure and 
 operation are one and the same reality. To Plato, as to 
 Bertrand Russell, mathematics is therefore the indispensable 
 prelude to philosophy, and its highest form; over the doors 
-of his Academy Plato placed, Dantesquely, these words, “Let 
-no man ignorant of geometry enter here.” 1 
+of his Academy Plato placed, Dantesquely, these words, "Let 
+no man ignorant of geometry enter here." 1 
 
 i The details of the argument for the interpretation here given of the doc- 
-trine of Ideas may be followed in D. G. Ritchie’s Plato , Edinburgh, 1902, es- 
+trine of Ideas may be followed in D. G. Ritchie’s Plato, Edinburgh, 1902, es- 
 pecially pp. 49 and 85. 
 
 
@@ -2545,7 +2114,7 @@ the human race?
 Alas! not yet. Their education is still unfinished. Fot 
 after all it has been, in the main, a theoretical education; 
 something else is heeded. Let these Ph.D.’s pass down now 
-from the heights of philosophy into the “cave” of the world 
+from the heights of philosophy into the "cave" of the world 
 tff men and things ; generalizations and abstractions are worth* 
 
 
@@ -2581,14 +2150,14 @@ education; not the rotation of every Tom, Dick and Harry
 in public office. Every man shall have an equal chance to 
 make himself fit for the complex tasks of administration; but 
 only those who have proved their mettle (or, in our myth, 
-their metal) , and have emerged from all tests with the 
+their metal), and have emerged from all tests with the 
 insignia of skill, shall be eligible to rule. Public officials shall 
 be chosen not by votes, nor by secret cliques pulling the unseen 
 wires of democratic pretense, but by their own ability as 
 demonstrated in the fundamental democracy of an equal race. 
 Nor shall any man hold office without specific training, nor 
 hold high office till he has first filled a lower office well 
-( Gorgias , 514-5). 
+( Gorgias, 514-5). 
 
 Is this aristocracy? Well, we need not be afraid of the 
 word, if the reality is good which it betokens : words are wise 
@@ -2622,10 +2191,10 @@ to talent wherever it is born. This is a democracy of the
 schools — a hundredfold more honest and more effective than a 
 democracy of the polls. 
 
-And so, “setting aside every other business, the guardians 
+And so, "setting aside every other business, the guardians 
 will dedicate themselves wholly to the maintenance of free- 
 dom in the state, making this their craft and engaging in no 
-work which does not bear upon this end” (395). They shall 
+work which does not bear upon this end" (395). They shall 
 be legislature and executive and court in one; even the laws 
 shall not bind them to a dogma in the face of altered cir- 
 cumstance; the rule of the guardians shall be a flexible in- 
@@ -2635,7 +2204,7 @@ But how can men of fifty have a flexible intelligence?
 Will they not be mentally plaster-casted by routine? 
 Adeimantus (echoing, no doubt, some hot brotherly debate in 
 Plato’s home) objects that philosophers are dolts or rogues,^ 
-who would rule either foolishly, or selfishly, or both. “The 
+who would rule either foolishly, or selfishly, or both. "The 
 votaries of philosophy who carry on the study not only in 
 youth with a view to education, but as the pursuit of their 
 maturer years- — these men for the most part grow into very 
@@ -2648,7 +2217,7 @@ THE STORY OF PHILOSOPHY
 strange beings, not to say utter scoundrels; and the result 
 with those who may be considered the best of them is, that 
 they are made useless to the world by the very study which 
-you extol” (487). This is a fair enough description of some 
+you extol" (487). This is a fair enough description of some 
 be-spectacled modern philosophers ; but Plato answers that he 
 has guarded against this difficulty by giving his philosophers 
 the training of life as well as the erudition of the schools; 
@@ -2657,9 +2226,9 @@ merely men of thought — men seasoned to high purposes and
 noble temper by long experience and trial. By philosophy 
 Plato means an active culture, wisdom that mixes with the 
 concrete busy-ness of life; he does not mean a closeted and 
-impractical metaphysician ; Plato “is the man who least 
+impractical metaphysician ; Plato "is the man who least 
 resembles Kant, which is (with all respect) a considerable 
-merit.” 1 
+merit." 1 
 
 So much for incompetence ; as for rascality we may provide 
 against that by establishing among the guardians a system 
@@ -2713,7 +2282,7 @@ much of the world’s goods, and no more; they will be like
 physicians establishing, and themselves accepting, a dietary 
 for a nation. They will eat together, like consecrated men; 
 they will sleep together in single barracks, like soldiers sworn 
-to simplicity. “Friends should have all things in common, 
+to simplicity. "Friends should have all things in common, 
 as Pythagoras used to say ( Laws 807). So the authority 
 of the guardians will be sterilized, and their power made 
 poisonless; their sole reward will be honor and the sense of 
@@ -2722,7 +2291,7 @@ beginning have deliberately consented to so materially limited
 a career; and such men as at the end of their stern training 
 will have learned to value the high repute of the statesman 
 above the crass emoluments of the office-seeking politicians or 
-the “economic man.” At their coming the battles of party 
+the "economic man." At their coming the battles of party 
 politics will be no more. 
 
 But what will their wives say to all this? Will they be 
@@ -2776,7 +2345,7 @@ and from breeding only from the best in each generation,
 why should we not apply similar principles to the matings 
 of mankind? (459). For it is not enough to educate the 
 child properly; he must be properly born, of select and healthy 
-ancestry; “education should begin before birth” (Laws, 789). 
+ancestry; "education should begin before birth" (Laws, 789). 
 
 
 
@@ -2794,20 +2363,20 @@ thirty-five are to be taxed into felicity (Laws, 771). Off-
 spring born of unlicensed matings, or deformed, are to be 
 exposed and left to die. Before and after the ages specified 
 for procreation, mating is to be free, on condition that the 
-foetus be aborted. “We grant this permission with strict or- 
+foetus be aborted. "We grant this permission with strict or- 
 ders to the parties to do all in their power to prevent any 
 embryo from seeing the light ; and if any should force its way 
 to birth, they must understand that the offspring of such a 
 union cannot be maintained, and they must make their ar- 
-rangements accordingly” (461). The marriage of relatives 
-is prohibited, as inducing degeneration (310). “The best of 
+rangements accordingly" (461). The marriage of relatives 
+is prohibited, as inducing degeneration (310). "The best of 
 either sex should be united with the best as often as possible, 
 and the inferior with the inferior ; and they are to rear the off- 
 spring of the one sort but not that of the other; for this is 
 the only way of keeping the flock in prime condition. . . . Our 
 braver and better youth, beside their other honors and rewards, 
 are to be permitted a greater variety of mates ; for such fathers 
-ought to have as many sons as possible” (459-60). 
+ought to have as many sons as possible" (459-60). 
 
 But our eugenic society must be protected not only from 
 disease and deterioration within, but from enemies without. 
@@ -2819,8 +2388,8 @@ orderly prosperity of our Utopia as an invitation to raid and
 rapine. Hence, while deploring the necessity, we shall have, 
 in our intermediate class, a sufficient number of well-trained 
 soldiers, living a hard and simple life like the guardians, on 
-& stated modicum of goods supplied by their “maintainers 
-And fore-fathers,” the people. At the same time every pre« 
+& stated modicum of goods supplied by their "maintainers 
+And fore-fathers," the people. At the same time every pre« 
 caution must be taken to avoid the occasions of war. The 
 
 
@@ -2833,25 +2402,25 @@ THE STORY OF PHILOSOPHY
 
 primary occasion is overpopulation (373) ; the second is 
 foreign trade, with the inevitable disputes that interrupt it. 
-Indeed, competitive trade is really a form of war; “peace is 
-only a name” ( Laws , 622). It will be well then to situate 
+Indeed, competitive trade is really a form of war; "peace is 
+only a name" ( Laws, 622). It will be well then to situate 
 our ideal state considerably inland, so that it shall be shut 
-out from any high development of foreign commerce. “The 
+out from any high development of foreign commerce. "The 
 Bea fills a country with merchandise and money-making and 
 bargaining ; it breeds in men’s minds habits of financial greed 
 and faithlessness, alike in its internal and in its foreign rela- 
-tions” (Laws, 704—7). Foreign trade requires a large navy to 
-protect it; and navalism is as bad as militarism. “In every 
+tions" (Laws, 704—7). Foreign trade requires a large navy to 
+protect it; and navalism is as bad as militarism. "In every 
 case the guilt of war is confined to a few persons, and the many 
-are friends” (471). The most frequent wars are precisely 
+are friends" (471). The most frequent wars are precisely 
 the vilest — civil wars, wars of Greek against Greek; let the 
 Greeks form a pan-Hellenic league of nations, uniting lest 
-“the whole Greek race some day fall under the yoke of bar- 
-barian peoples” (469). 
+"the whole Greek race some day fall under the yoke of bar- 
+barian peoples" (469). 
 
 So our political structure will be topped with a small class 
 of guardians ; it will be protected by a large class of soldiers 
-and “auxiliaries”; and it will rest on the broad base of a 
+and "auxiliaries"; and it will rest on the broad base of a 
 commercial, industrial, and agricultural population. This 
 last or economic class will retain private property, private 
 mates, and private families. But trade and industry will be 
@@ -2893,10 +2462,10 @@ at last to answer the question with which we began — What
 is justice? There are only three things worth while in this 
 world — justice, beauty and truth; and perhaps none of them 
 can be defined. Four hundred years after Plato a Roman 
-procurator of Judea asked, helplessly, “What is truth?” — and 
+procurator of Judea asked, helplessly, "What is truth?" — and 
 philosophers have not yet answered, nor told us what is beauty. 
-But for justice Plato ventures a definition. “Justice,” he 
-says, “is the having and doing what is one’s own” (433). 
+But for justice Plato ventures a definition. "Justice," he 
+says, "is the having and doing what is one’s own" (433). 
 
 This has a disappointing sound; after so much delay we 
 expected an infallible revelation. What does the definition 
@@ -2958,8 +2527,8 @@ instrument back to its place and its pitch and its natural
 note. The Corsican lieutenant may try to rule Europe with 
 a ceremonious despotism fitted better to an ancient monarchy 
 than to a dynasty bom overnight ; but he ends on a prison-rock 
-in the sea, ruefully recognizing that he is “the slave of the Na- 
-ture of Things.” Injustice will out. 
+in the sea, ruefully recognizing that he is "the slave of the Na- 
+ture of Things." Injustice will out. 
 
 
 PLATO 
@@ -3036,12 +2605,12 @@ added to the awe in which lay sinners held them, and to the
 readiness of these sinners to bare their lives in the confessional. 
 
 Much of the politics of Catholicism was derived from Plato’s 
-“royal lies,” or influenced by them: the ideas of heaven, pur- 
+"royal lies," or influenced by them: the ideas of heaven, pur- 
 gatory, and hell, in their medieval form, are traceable to the 
 last book of the Republic; the cosmology of scholasticism 
 comes largely from the Timceus; the doctrine of realism (the 
 objective reality of general ideas) was an interpretation of 
-the doctrine of Ideas; even the educational “quadrivium” 
+the doctrine of Ideas; even the educational "quadrivium" 
 (arithmetic, geometry, astronomy and music) was modeled on 
 the curriculum outlined in Plato. With this body of doctrine 
 the people of Europe were ruled with hardly any resort to 
@@ -3097,8 +2666,8 @@ making an impossible advance on realities which his eyes had
 seen. 
 
 Yet critics from Aristotle’s day to ours have found in the 
-Republic many an opening for objection and doubt. “These 
-things and many others,” says the Stagyrite, with cynical 
+Republic many an opening for objection and doubt. "These 
+things and many others," says the Stagyrite, with cynical 
 
 
 
@@ -3108,8 +2677,8 @@ m
 THE STORY OF PHILOSOPHY' 
 
 
-brevity, “have been invented several times over in the course of 
-ages.” It is very pretty to plan a society in which all men will 
+brevity, "have been invented several times over in the course of 
+ages." It is very pretty to plan a society in which all men will 
 be brothers ; but to extend such a term to all our male contem- 
 poraries is to water out of it all warmth and significance. 
 So with common property: it would mean a dilution of respon- 
@@ -3118,12 +2687,12 @@ take care of anything. And finally, argues the great con-
 servative, communism would fling people into an intolerable 
 continuity of contact ; it would leave no room for privacy or in- 
 dividuality ; and it would presume such virtues of patience and 
-cooperation as only a saintly minority possess. “We must 
+cooperation as only a saintly minority possess. "We must 
 neither assume a standard of virtue which is above ordinary 
 persons, nor an education which is exceptionally favored by 
 nature and circumstance ; but we must have regard to the life 
 which the majority can share, and to the forms of government 
-to which states in general can attain.” 
+to which states in general can attain." 
 
 So far Plato’s greatest (and most jealous) pupil; and most 
 of the criticisms of later date strike the same chord. Plato 
@@ -3301,19 +2870,19 @@ He admits that he has described an ideal difficult of attain-
 ment ; he answers that there is nevertheless a value in painting 
 these pictures of our desire; man’s significance is that he can 
 image a better world, and will some part of it at least into 
-reality; man is an animal that makes Utopias. “We look be- 
-fore and after and pine for what is not.” Nor is it all without 
+reality; man is an animal that makes Utopias. "We look be- 
+fore and after and pine for what is not." Nor is it all without 
 result : many a dream has grown limbs and walked, or grown 
 wings and flown, like the dream of Icarus that men might 
 fly. After all, even if we have but drawn a picture, it may 
 serve as goal and model of our movement and behavior ; when 
 sufficient of us see the picture and follow its gleam, Utopia 
-will find its way upon the map. Meanwhile “in heaven there 
+will find its way upon the map. Meanwhile "in heaven there 
 is laid up a pattern of such a city, and he who desires may 
 behold it, and beholding, govern himself accordingly. But 
 whether there really is or ever will be such a city on earth, 
-. , . he will act according to the laws of that city, and no 
-other” (592). The good man will apply even in the imper- 
+., . he will act according to the laws of that city, and no 
+other" (592). The good man will apply even in the imper- 
 fect state, the perfect law. 
 
 Nevertheless, with all these concessions to doubt, the Master 
@@ -3350,7 +2919,7 @@ at peace in his Academe, walking from group to group of his
 students and giving them problems and tasks on which they 
 were to make research and, when he came to them again, give 
 report and answer. La Rochefoucauld said that ‘‘few knotf 
-how to grow old.” Plato knew: to learn like Solon and to 
+how to grow old." Plato knew: to learn like Solon and to 
 teach like Socrates; to guide the eager young, and find the 
 intellectual love of comrades. For his students loved him as 
 he loved them; he was their friend as well as their philosopher 
@@ -3402,7 +2971,7 @@ Under Plato he studied eight — or twenty — years ; and in-
 deed the pervasive Platonism of Aristotle’s speculations — even 
 of those most anti-Platonic — suggests the longer period. One 
 
-iGrote, Aristotle , London, 1872, p. 4; Zeller, Aristotle and the Earlier Peri* 
+iGrote, Aristotle, London, 1872, p. 4; Zeller, Aristotle and the Earlier Peri* 
 patetics, London, 1897, vol. i, pp. 6 f. 
 
 58 
@@ -3430,17 +2999,17 @@ Aristotle had spent money lavishly in the collection of books
 after Euripides, to gather together a library ; and the founda- 
 tion of the principles of library classification was among his 
 many contributions to scholarship. Therefore Plato spoke 
-of Aristotle’s home as “the house of the reader,” and seems to 
+of Aristotle’s home as "the house of the reader," and seems to 
 have meant the sincerest compliment; but some ancient gossip 
 will have it that the Master intended a sly but vigorous dig 
 at a certain book-wormishness in Aristotle. A more authentic 
 quarrel seems to have arisen towards the end of Plato’s life. 
-Our ambitious youth apparently developed an “CEdipus com- 
-plex” against his spiritual father for the favors and affections 
+Our ambitious youth apparently developed an "CEdipus com- 
+plex" against his spiritual father for the favors and affections 
 of philosophy, and began to hint that wisdom would not die 
 with Plato ; while the old sage spoke of his pupil as a foal that 
 kicks his mother after draining her dry . 1 The learned Zel- 
-ler , 2 in whose pages Aristotle almost achieves the Nirvana of 
+ler, 2 in whose pages Aristotle almost achieves the Nirvana of 
 respectability, would have us reject these stories ; but we may 
 presume that where there is still so much smoke there was 
 once a flame. 
@@ -3518,15 +3087,15 @@ teen ; passionate, epileptic, almost alcoholic ; it was his pastime
 to tame horses untamable by men. The efforts of the philos- 
 opher to cool the fires of this budding volcano were not of much 
 nvail; Alexander had better success with Bucephalus than 
-Aristotle with Alexander. “For a while,” says Plutarch, 
-“Alexander loved and cherished Aristotle no less than as if 
+Aristotle with Alexander. "For a while," says Plutarch, 
+"Alexander loved and cherished Aristotle no less than as if 
 he had been his own father ; saying that though he had received 
-life from the one, the other had taught him the art of living.” 
-(“Life,” says a fine Greek adage, “is the gift of nature; but 
-beautiful living is the gift of wisdom.”) “For my part,” said 
-Alexander in a letter to Aristotle, “I had rather excel in the 
+life from the one, the other had taught him the art of living." 
+("Life," says a fine Greek adage, "is the gift of nature; but 
+beautiful living is the gift of wisdom.") "For my part," said 
+Alexander in a letter to Aristotle, "I had rather excel in the 
 knowledge of what is good than in the extent of my power and 
-dominion.” But this was probably no more than a royal- 
+dominion." But this was probably no more than a royal- 
 youthful compliment; beneath the enthusiastic tyro of philos- 
 ophy was the fiery son of a barbarian princess and an untamed 
 king; the restraints of reason were too delicate to hold these 
@@ -3556,7 +3125,7 @@ THE STOKY OF PHILOSOPHY
 imperial Athens made subjection — even to a brilliant world- 
 conquering despot — intolerable; and the bitter eloquence of 
 Demosthenes kept the Assembly always on the edge of revolt 
-against the “Macedonian party” that held the reins of city 
+against the "Macedonian party" that held the reins of city 
 power. Now when Aristotle, after another period of travel, 
 returned to Athens in the year 334 b. c., he very naturally 
 associated with this Macedonian group, and took no pains to 
@@ -3631,7 +3200,7 @@ research on a proportionately lavish scale!
 
 Yet we should do Aristotle injustice if we were to ignore 
 
-1 Hiet. Nat., viii, 16; in Lewes, Aristotle , a Chapter from the History of 
+1 Hiet. Nat., viii, 16; in Lewes, Aristotle, a Chapter from the History of 
 Science, London, 1864, p. 15. 
 
 2 Grant, Aristotle, Edinburgh, 1877, p. 18. 
@@ -3649,7 +3218,7 @@ THE STORY OF PHILOSOPHY
 
 the almost fatal limitations of equipment which accompanied 
 these unprecedented resources and facilities. He was com- 
-pelled “to fix time without a watch, to compare degrees of heat 
+pelled "to fix time without a watch, to compare degrees of heat 
 without a thermometer, to observe the heavens without a tele- 
 scope, and the weather without a barometer. ... Of all our 
 mathematical, optical and physical instruments he possessed 
@@ -3661,7 +3230,7 @@ of matter, the law of gravitation, electrical phenomena, the
 conditions of chemical combination, pressure of air and its 
 effects, the nature of light, heat, combustion, etc., in short, all 
 the facts on which the physical theories of modern science are 
-based were wholly, or almost wholly, undiscovered.” 1 
+based were wholly, or almost wholly, undiscovered." 1 
 
 See, here, how inventions make history: for lack of a tele- 
 scope Aristotle’s astronomy is a tissue of childish romance; 
@@ -3704,18 +3273,18 @@ Aristotle’s writings ran into the hundreds. Some ancient
 authors credit him with four hundred volumes, others with a 
 thousand. What remains is but a part, and yet it is a library 
 in itself — conceive the scope and grandeur of the whole. 
-There are, first, the Logical works: “Categories,” “Topics,” 
-“Prior” and “Posterior Analytics,” “Propositions,” and “So- 
-phistical Refutation”; these works were collected and edited 
+There are, first, the Logical works: "Categories," "Topics," 
+"Prior" and "Posterior Analytics," "Propositions," and "So- 
+phistical Refutation"; these works were collected and edited 
 by the later Peripatetics under the general title of Aristotle’s 
-“Organon,” — that is, the organ or instrument of correct think- 
-ing. Secondly, there are the Scientific works: “Physics,” 
-“On the Heavens,” “Growth and Decay,” “Meteorology,” 
-“Natural History,” “On the Soul,” “The Parts of Animals,” 
-“The Movements of Animals,” and “The Generation of Ani- 
-mals.” There are, thirdly, the Esthetic works: “Rhetoric” 
-and “Poetics.” And fourthly come the more strictly Philo- 
-sophical works : “Ethics,” “Politics,” and “Metaphysics.” 1 
+"Organon," — that is, the organ or instrument of correct think- 
+ing. Secondly, there are the Scientific works: "Physics," 
+"On the Heavens," "Growth and Decay," "Meteorology," 
+"Natural History," "On the Soul," "The Parts of Animals," 
+"The Movements of Animals," and "The Generation of Ani- 
+mals." There are, thirdly, the Esthetic works: "Rhetoric" 
+and "Poetics." And fourthly come the more strictly Philo- 
+sophical works : "Ethics," "Politics," and "Metaphysics." 1 
 
 Here, evidently, is the Encyclopedia Britannica of Greece: 
 every problem under the sun and about it finds a place; no 
@@ -3732,7 +3301,7 @@ Naturally, in a mind of such scientific turn, poesy was lack-
 ing. We must not expect of Aristotle such literary brilliance 
 
 a This Is the chronological order, so far as known (Zeller, I, 156 f). Our dis- 
-cussion will follow this order except in the case of the “Metaphysics.” 
+cussion will follow this order except in the case of the "Metaphysics." 
 
 
 66 
@@ -3796,9 +3365,9 @@ m. THE FOUNDATION OF LOGIC
 
 The first great distinction of Aristotle is that almost with' 
 out predecessors, almost entirely by his own hard thinking, he 
-created a new science — Logic. Renan 8 speaks of “the ill 
+created a new science — Logic. Renan 8 speaks of "the ill 
 training of every mind that has not, directly or indirectly, 
-come under Greek discipline” ; but in truth the Greek intellect 
+come under Greek discipline" ; but in truth the Greek intellect 
 itself was undisciplined ami chaotic till the ruthless formulas 
 of Aristotle provided a ready method for the test and correc- 
 tion of thought. Even Plato (if a lover may so far presume) 
@@ -3810,8 +3379,8 @@ not of that future which his thought would build. The polit-
 ical and economic decay of Greece brought a weakening of the 
 Hellenic mind and character after Aristotle; but when a new 
 race, after a millennium of barbaric darkness, found again the 
-leisure and ability for speculation, it was Aristotle’s “Or- 
-ganon” of logic, translated by Boethius (4*70-525 a. d.), that 
+leisure and ability for speculation, it was Aristotle’s "Or- 
+ganon" of logic, translated by Boethius (4*70-525 a. d.), that 
 became the very mould of medieval thought, the strict mother 
 of that scholastic philosophy which, though rendered sterile 
 by encircling dogmas, nevertheless trained the intellect of ado- 
@@ -3821,7 +3390,7 @@ by encircling dogmas, nevertheless trained the intellect of ado-
 2 The reader who wishes to go to the philosopher himself will find the Me- 
 teorology an interesting example of Aristotle’s scientific work; he will derive 
 much practical instruction from the Rhetoric; and he will find Aristotle at his 
-best in books i— ii of the Ethics , and books i-iv of the Politics . The best 
+best in books i— ii of the Ethics, and books i-iv of the Politics . The best 
 translation of the Ethics is Welldon’s; of the Politics, Jowett’s. Sir Alexan- 
 der Grant’s Aristotle is a simple book; Zeller’s Aristotle (vols. iii-iv in his 
 Greek Philosophy ), is scholarly but dry; Gomperz’s Greek Thinkers (vol. iv) . 
@@ -3856,8 +3425,8 @@ dull as logic, and nothing is so important.
 There was a hint of this new science in Socrates* maddening 
 insistence on definitions, and in Plato’s constant refining of 
 every concept. Aristotle’s little treatise on Definitions shows 
-how his logic found nourishment at this source. “If you wish 
-to converse with me,” said Voltaire, “define your terms.” 
+how his logic found nourishment at this source. "If you wish 
+to converse with me," said Voltaire, "define your terms." 
 How many a debate would have been deflated into a paragraph 
 if the disputants had dared to define their terms! This is 
 the alpha and omega of logic, the heart and soul of it, that 
@@ -3872,7 +3441,7 @@ to a class or group whose general characteristics are also its
 own — so man is, first of all, an animal; and secondly, it in- 
 dicates wherein the object differs from all the other members 
 in its class — so man, in the Aristotelian system, is a rational 
-animal, his “specific difference” is that unlike all other ani- 
+animal, his "specific difference" is that unlike all other ani- 
 mals he is rational (here is the origin of a pretty legend). 
 Aristotle drops an object into the ocean of its class, then takes 
 
@@ -3890,9 +3459,9 @@ jects that resemble it so much and are so different.
 
 Passing out from this rear line of logic we come into the 
 great battle-field on which Aristotle fought out with Plato the 
-dread question of “universals”; it was the first conflict in a 
+dread question of "universals"; it was the first conflict in a 
 war which was to last till our own day, and make all medieval 
-Europe ring with the clash of “realists” and “nominalists.” 1 
+Europe ring with the clash of "realists" and "nominalists." 1 
 A universal, to Aristotle, is any common noun, any name capa- 
 ble of universal application to the members of a class : so ani- 
 mal, man, book, tree, are universals. But these universals are 
@@ -3912,17 +3481,17 @@ little wavelet in a ceaseless surf; men come and go, but man
 goes on forever. Aristotle’s is a matter-of-fact mind ; as Wil- 
 liam James would say, a tough, not a tender, mind; he sees 
 the root of endless mysticism and scholarly nonsense in this 
-Platonic “realism”; and he attacks it with all the vigor of a 
+Platonic "realism"; and he attacks it with all the vigor of a 
 first polemic. As Brutus loved not Caesar less but Rome 
 more, so Aristotle says, Amicus Plato, sed magis arnica veritas 
-— “Dear is Plato, but dearer still is truth.” 
+— "Dear is Plato, but dearer still is truth." 
 
 A hostile commentator might remark that Aristotle (like 
 Nietzsche) criticizes Plato so keenly because he is conscious 
 of having borrowed from him generously; no man is a hero 
 
-lit was in reference to this debate that Friedrich Schlegel said, “Every 
-man is bom either a Platonist or an Aristotelian” (in Benn, i, 291). 
+lit was in reference to this debate that Friedrich Schlegel said, "Every 
+man is bom either a Platonist or an Aristotelian" (in Benn, i, 291). 
 
 
 
@@ -3941,8 +3510,8 @@ and facts to theories and ideas, from particulars to general-
 ities, from science to scholasticism; at last Plato became so 
 devoted to generalities that they began to determine his partic- 
 ulars, so devoted to ideas that they began to define or select 
-his facts. Aristotle preaches a return to things, to the “un- 
-withered face of nature” and reality ; he had a lusty preference 
+his facts. Aristotle preaches a return to things, to the "un- 
+withered face of nature" and reality ; he had a lusty preference 
 for the concrete particular, for the flesh and blood individual. 
 But Plato so loved the general and universal that in the Re- 
 public he destroyed the individual to make a perfect state. 
@@ -3967,7 +3536,7 @@ There is a heavy trace of this in the most characteristic
 and original of Aristotle’s contributions to philosophy — the 
 doctrine of the syllogism. A syllogism is a trio of proposi- 
 tions of which the third (the conclusion) follows from the 
-conceded truth of the other two (the “major” and “minor’* 
+conceded truth of the other two (the "major" and "minor’* 
 premisses). E. g., man is a rational animal; but Socrates is a 
 
 
@@ -3984,7 +3553,7 @@ thing are equal to each other; if A is B, and C is A, then C
 is B. As in the mathematical case the conclusion is reached 
 by canceling from both premisses their common term, A; so 
 in our syllogism the conclusion is reached by canceling from 
-both premisses their common term “man,” and combining 
+both premisses their common term "man," and combining 
 what remains. The difficulty, as logicians have pointed out 
 from the days of Pyrrho to those of Stuart Mill, lies in this, 
 that the major premiss of the syllogism takes for granted 
@@ -3992,27 +3561,27 @@ precisely the point to be proved; for if Socrates is not rational
 (and no one questions that he is a man) it is not uni- 
 versally true that man is a rational animal. Aristotle would 
 reply, no doubt, that where an individual is found to have a 
-large number of qualities characteristic of a class (“Socrates 
-is a man”), a strong presumption is established that the in* 
+large number of qualities characteristic of a class ("Socrates 
+is a man"), a strong presumption is established that the in* 
 dividual has the other qualities characteristic of the class 
-(“rationality”). But apparently the syllogism is not a 
+("rationality"). But apparently the syllogism is not a 
 mechanism for the discovery of truth so much as for the clari- 
 fication of exposition and thought. 
 
 All this, like the many other items of the Organon, has its 
-value : “Aristotle has discovered and formulated every canon of 
+value : "Aristotle has discovered and formulated every canon of 
 theoretical consistency, and every artifice of dialectical debate, 
 with an industry and acuteness which cannot be too highly 
 extolled; and his labors in this direction have perhaps con- 
 tributed more than any other single writer to the intellectual 
-stimulation of after ages.” 1 But no man ever lived who could 
+stimulation of after ages." 1 But no man ever lived who could 
 lift logic to a lofty strain: a guide to correct reasoning is as 
 elevating as a manual of etiquette ; we may use it, but it hardly 
 spurs us to nobility. Not even the bravest philosopher would 
 sing to a book of logic underneath the bough. One always 
 feels towards logic as Virgil bade Dante feel towards those who 
 had been damned because of their colorless neutrality: No& 
-i Benn , i, 307. 
+i Benn, i, 307. 
 
 
 
@@ -4022,19 +3591,19 @@ i Benn , i, 307.
 THE STORY OF PHILOSOPHY 
 
 
-ragionam di lor , ma guar da e passa 1 — “Let us think no more 
-about them, but look once and pass on.” 
+ragionam di lor, ma guar da e passa 1 — "Let us think no more 
+about them, but look once and pass on." 
 
 IV. THE ORGANIZATION OF SCIENCE 
 
 1. Greek Science Before Aristotle 
 
-“Socrates,” says Renan, 2 “gave philosophy to mankind, 
+"Socrates," says Renan, 2 "gave philosophy to mankind, 
 and Aristotle gave it science. There was philosophy before 
 Socrates, and science before Aristotle ; and since Socrates and 
 since Aristotle, philosophy and science have made immense ad- 
 vances. Rut all has been built upon the foundation which 
-they laid.” Before Aristotle, science was in embryo ; with him 
+they laid." Before Aristotle, science was in embryo ; with him 
 it was born. 
 
 Earlier civilizations than the Greek had made attempts at 
@@ -4047,8 +3616,8 @@ gods. Apparently it was the Ionian Greeks who first dared
 to give natural explanations of cosmic complexities and mys- 
 terious events: they sought in physics the natural causes of 
 particular incidents, and in philosophy a natural theory of 
-the whole. Thales (640-550 b. c.), the “Father of Philos- 
-ophy,” was primarily an astronomer, who astonished the na- 
+the whole. Thales (640-550 b. c.), the "Father of Philos- 
+ophy," was primarily an astronomer, who astonished the na- 
 tives of Miletus by informing them that the sun and stars 
 (which they were wont to worship as gods) were merely balls 
 of fire. His pupil Anaximander (610-540 b. c.), the first 
@@ -4059,7 +3628,7 @@ that astronomic history periodically repeated itself in the evo-
 lution and dissolution of an infinite number of worlds ; that 
 the earth was at rest in space by a balance of internal impul- 
 
-1 Inferno , iii, 60. 
+1 Inferno, iii, 60. 
 
 2 Life of Jesus, ch. 28. 
 
@@ -4101,11 +3670,11 @@ lier concerns. All things forever flow and change, he said;
 even in the stillest matter there is unseen flux and movement. 
 Cosmic history runs in repetitious cycles, each beginning and 
 ending in fire (here is one source of the Stoic and Christian 
-doctrine of last judgment and hell). “Through strife,” says 
-Heraclitus, “all things arise and pass away. . . . War is the 
+doctrine of last judgment and hell). "Through strife," says 
+Heraclitus, "all things arise and pass away. . . . War is the 
 father and king of all: some he has made gods, and some men; 
-some slaves, and some free.” Where there is no strife there is 
-decay : “the mixture which is not shaken decomposes.” In tViia 
+some slaves, and some free." Where there is no strife there is 
+decay : "the mixture which is not shaken decomposes." In tViia 
 
 
 74 
@@ -4115,9 +3684,9 @@ THE STORY OF PHILOSOPHY
 
 
 flux of change and struggle and selection, only one thing it 
-constant, and that is law. “This order, the same for all 
+constant, and that is law. "This order, the same for all 
 things, no one of gods or men has made; but it always was, 
-and is, and shall be.” Empedocles (fl. 445 b. c., in Sicily) de- 
+and is, and shall be." Empedocles (fl. 445 b. c., in Sicily) de- 
 veloped to a further stage the idea of evolution. 1 Organs arise 
 not by design but by selection. Nature makes many trials 
 and experiments with organisms, combining organs variously; 
@@ -4128,9 +3697,9 @@ are more and more intricately and successfully adapted to
 their surroundings. Finally, in Leucippus (fl. 445 b. c.) and 
 Democritus (460-360), master and pupil in Thracian Abdera, 
 we get the last stage of pre-Aristotelian science — materialistic, 
-deterministic atomism. “Everything,” said Leucippus, “is 
-driven by necessity.” “In reality,” said Democritus, “there 
-are only atoms and the void.” Perception is due to the ex- 
+deterministic atomism. "Everything," said Leucippus, "is 
+driven by necessity." "In reality," said Democritus, "there 
+are only atoms and the void." Perception is due to the ex- 
 pulsion of atoms from the object upon the sense organ 
 There is or have been or will be an infinite number of worlds; 
 at every moment planets are colliding and dying, and new 
@@ -4171,22 +3740,22 @@ science.
 
 2. Aristotle as a Naturalist 
 
-If we begin here chronologically, with his Physics , we shall 
+If we begin here chronologically, with his Physics, we shall 
 be disappointed ; for we find that this treatise is really a meta- 
 physics, an abstruse analysis of matter, motion, space, time, 
-infinity, cause, and other such “ultimate concepts.” One of 
-the more lively passages is an attack on Democritus’ “void”: 
+infinity, cause, and other such "ultimate concepts." One of 
+the more lively passages is an attack on Democritus’ "void": 
 there can be no void or vacuum in nature, says Aristotle, for 
 in a vacuum all bodies would fall with equal velocity; this 
-being impossible, “the supposed void turns out to have nothing 
-in it” — an instance at once of Aristotle’s very occasional hu- 
+being impossible, "the supposed void turns out to have nothing 
+in it" — an instance at once of Aristotle’s very occasional hu- 
 mor, his addiction to unproved assumptions, and his tendency 
 to disparage his predecessors in philosophy. It was the habit 
 of our philosopher to preface his works with historical sketches 
 of previous contributions to the subject in hand, and to add to 
-every contribution an annihilating refutation. “Aristotle, 
-after the Ottoman manner,” says Bacon, “thought he could not 
-reign secure without putting all his brethren to death.” 1 But 
+every contribution an annihilating refutation. "Aristotle, 
+after the Ottoman manner," says Bacon, "thought he could not 
+reign secure without putting all his brethren to death." 1 But 
 to this fratricidal mania we owe much of our knowledge of pre- 
 Socratic thought. 
 
@@ -4199,7 +3768,7 @@ speculations strike illuminating fire. This is a cyclic world,
 says our philosopher : the sun forever evaporates the sea, dries 
 up rivers and springs, and transforms at last the boundless 
 
-1 Advancement or Learning , bk. iii, ch. 4. 
+1 Advancement or Learning, bk. iii, ch. 4. 
 
 
 76 
@@ -4210,7 +3779,7 @@ THE STORY OF PHILOSOPHY
 ocean into the barest rock ; while conversely the uplifted mois- 
 ture, gathered into clouds, falls and renews the rivers and the 
 seas. Everywhere change goes on, imperceptibly but effec- 
-tively. Egypt is “the work of the Nile,” the product of its 
+tively. Egypt is "the work of the Nile," the product of its 
 deposits through a thousand centuries. Here the sea en- 
 croaches upon the land, there the land reaches out timidly into 
 the sea; new continents and new oceans rise, old oceans and 
@@ -4222,9 +3791,9 @@ civilization and even of life ; great catastrophes have period-
 ically denuded the earth and reduced man again to his first 
 beginnings; like Sisyphus, civilization has repeatedly neared 
 its zenith only to fall back into barbarism and begin da capo 
-its upward travail. Hence the almost “eternal recurrence,” 
+its upward travail. Hence the almost "eternal recurrence," 
 in civilization after civilization, of the same inventions and dis- 
-coveries, the same “dark ages” of slow economic and cultural 
+coveries, the same "dark ages" of slow economic and cultural 
 accumulation, the same rebirths of learning and science and 
 art. No doubt some popular myths are vague traditions sur- 
 viving from earlier cultures. So the story of man runs in a 
@@ -4241,7 +3810,7 @@ spects, whether in structure, or mode of life, or reproduction
 and rearing, or sensation and feeling, there are minute grada- 
 tions and progressions from the lowest organisms to the high- 
 est. 1 At the bottom of the scale we can scarcely divide the 
-living from the “dead”; “nature makes so gradual a transi- 
+living from the "dead"; "nature makes so gradual a transi- 
 tion from the inanim ate to the animate kingdom that the bound- 
 iHist. Animalvwm, viii. 
 
@@ -4286,13 +3855,13 @@ fertilize the ovum as to provide the embryo with the heritable
 qualities of the male parent, and so permit the offspring to 
 be a vigorous variant, a new admixture of two ancestral lines. 
 
-1 De Anvma , ii, 2. 
+1 De Anvma, ii, 2. 
 
 2 De Partibus Anvmalmm, i, 7; ii, 10. 
 
 *Ibid, iv,5-6. 
 
-4 De Anima , ii, 4. 
+4 De Anima, ii, 4. 
 
 *De Part, An,, iv. 10. 
 
@@ -4319,16 +3888,16 @@ Greek before or after him. He perceives that birds and rep-
 tiles are near allied in structure; that the monkey is in form 
 intermediate between quadrupeds and man ; and once he boldly 
 declares that man belongs in one group of animals with the 
-viviparous quadrupeds (our “mammals ”). 2 He remarks that 
+viviparous quadrupeds (our "mammals "). 2 He remarks that 
 the soul in infancy is scarcely distinguishable from the soul 
 of animals . 8 He makes the illuminating observation that diet 
-often determines the mode of life; “for of beasts some are gre- 
+often determines the mode of life; "for of beasts some are gre- 
 garious, and others solitary — they live in the way which is 
-best adapted to . . . obtain the food of their choice.” 4 He 
+best adapted to . . . obtain the food of their choice." 4 He 
 anticipates Von Baer’s famous law that characters common to 
 the genus (like eyes and ears) appear in the developing or- 
 ganism before characters peculiar to its species (like the 
-“formula” of the teeth), or to its individual self (like the final 
+"formula" of the teeth), or to its individual self (like the final 
 color of the eyes) ; 5 and he reaches out across two thousand 
 years to anticipate Spencer’s generalization that individuation 
 varies inversely as genesis — that is, that the more highly de- 
@@ -4340,10 +3909,10 @@ be, the smaller will be the number of its offspring . 8 He no-
 * Hist. An. i, 6; & & 
 a Ibid., viii, 1. 
 
-4 Politic 8 , 1, 8 . 
+4 Politic 8, 1, 8 . 
 a Hist. An. i, 6; ii, 8. 
 
-&De Generation# Animalmm , ii, 13. 
+&De Generation# Animalmm, ii, 13. 
 
 
 ARISTOTLE 
@@ -4358,13 +3927,13 @@ tions which, temporarily rejected by later biologists, have been
 confirmed by modern research — of fishes that make nests, for 
 example, and sharks that boast of a placenta. 
 
-And finally he establishes the science of embryology. “He 
-who sees things grow from their beginning,” he writes, “will 
-have the finest view of them.” Hippocrates (b. 460 b. c.), 
+And finally he establishes the science of embryology. "He 
+who sees things grow from their beginning," he writes, "will 
+have the finest view of them." Hippocrates (b. 460 b. c.), 
 greatest of Greek physicians, had given a fine example of the 
 experimental method, by breaking a hen’s eggs at various 
 stages of incubation; and had applied the results of these 
-studies in his treatise “On the Origin of the Child.” Aristotle 
+studies in his treatise "On the Origin of the Child." Aristotle 
 followed this lead and performed experiments that enabled 
 him to give a description of the development of the chick 
 which even today arouses the admiration of embryologists. 1 
@@ -4385,7 +3954,7 @@ logical works, they form the greatest monument ever raised to
 the science by any one man. When we consider that before 
 Aristotle there had been, so far as we know, no biology be- 
 
-1 De Part , An., iii, 4. 
+1 De Part, An., iii, 4. 
 
 2 Lewes, 112. 
 
@@ -4455,9 +4024,9 @@ destined to become not a duck but a chick ; the acorn becomes
 not a willow but an oak. This does not mean for Aristotle 
 that there is an external providence designing earthly struc- 
 tures and events; rather the design is internal, and arises 
-from the type and function of the thing. “Divine Provi- 
+from the type and function of the thing. "Divine Provi- 
 dence coincides completely for Aristotle with the operation of 
-natural causes.” 2 
+natural causes." 2 
 
 Yet there is a God, though not perhaps the simple and 
 human god conceived by the forgivable anthropomorphism of 
@@ -4475,8 +4044,8 @@ a prime mover unmoved ( prirtmm mobile immotum), a being
 incorporeal, indivisible, spaceless, sexless, passionless, change- 
 less, perfect and eternal. God does not create, but he moves, 
 the world; and he moves it not as a mechanical force but as 
-the total motive of all operations in the world; “God moves 
-the world as the beloved object moves the lover.” 8 He is the 
+the total motive of all operations in the world; "God moves 
+the world as the beloved object moves the lover." 8 He is the 
 final cause of nature, the drive and purpose of things, the 
 form of the world; the principle of its life, the sum of its 
 vital processes and powers, the inherent goal of its growth, 
@@ -4498,7 +4067,7 @@ THE STOKY OF PHILOSOPHY
 
 the energizing entelechy of the whole. He is pure energy ; 1 
 the Scholastic Actus Purus — activity per se ; perhaps the 
-mystic “Force” of modern physics and philosophy. He is 
+mystic "Force" of modern physics and philosophy. He is 
 not so much a person as a magnetic power . 2 
 
 Yet, with his usual inconsistency, Aristotle represents God 
@@ -4510,8 +4079,8 @@ fore he does nothing. His only occupation is to contemplate
 the essence of things ; and since he himself is the essence of all 
 things, the form of all forms, his sole employment is the 
 contemplation of himself . 8 Poor Aristotelian God! — he is a 
-roi faineant , a do-nothing king ; “the king reigns, but he does 
-not rule.” No wonder the British like Aristotle ; his God is ob- 
+roi faineant, a do-nothing king ; "the king reigns, but he does 
+not rule." No wonder the British like Aristotle ; his God is ob- 
 viously copied from their king. 
 
 Or from Aristotle himself. Our philosopher so loved con- 
@@ -4526,18 +4095,18 @@ VI. PSYCHOLOGY AND THE NATURE OF ART
 
 Aristotle’s psychology is marred with similar obscurity and 
 vacillation. There are many interesting passages: the power 
-of habit is emphasized, and is for the first time called “second 
-nature”; and the laws of association, though not developed, 
+of habit is emphasized, and is for the first time called "second 
+nature"; and the laws of association, though not developed, 
 find here a definite formulation. But both the crucial prob- 
 lems of philosophical psychology — the freedom of the will and 
 the immortality of the soul — are left in haze and doubt. 
-Aristotle talks at times like a determinist — “We cannot di“ 
+Aristotle talks at times like a determinist — "We cannot di" 
 
 ilbid., xii, 8. 
 
 2 Grant, 173. 
 
-8 Meta, xii, 8; Ethics , x, Bo 
+8 Meta, xii, 8; Ethics, x, Bo 
 
 
 ARISTOTLE 
@@ -4546,7 +4115,7 @@ ARISTOTLE
 83 
 
 
-rectly will to be different from what we are”; but he goes on 
+rectly will to be different from what we are"; but he goes on 
 to argue, against determinism, that we can choose what we 
 shall be, by choosing now the environment that shall mould us ; 
 so we are free in the sense that we mould our own characters 
@@ -4571,18 +4140,18 @@ sum of the powers of the body, cannot exist without it; the
 two are as form and wax, separable only in thought, but in 
 reality one organic whole ; the soul is not put into the body like 
 the quick-silver inserted by Daedalus into the images of 
-Venus to make “stand-ups” of them. A personal and partic- 
+Venus to make "stand-ups" of them. A personal and partic- 
 ular soul can exist only in its own body. Nevertheless the 
 soul is not material, as Democritus would have it ; nor does it 
 all die. Part of the rational power of the human soul is 
 passive: it is bound up with memory, and dies with the body 
-that bore the memory; but the “active reason,” the pure 
+that bore the memory; but the "active reason," the pure 
 power of thought, is independent of memory and is untouched 
 with decay. The active reason is the universal as distin- 
 guished from the individual element in man; what survives 
 is not the personality, with its transitory affections and de- 
 
-1 Ethics , iii, 7. 
+1 Ethics, iii, 7. 
 
 2 De Animar) ii* 
 
@@ -4595,7 +4164,7 @@ THE STORY OF PHILOSOPHY
 
 sires, but mind in its most abstract and impersonal form . 1 
 In short, Aristotle destroys the soul in order to give it im- 
-mortality ; the immortal soul is “pure thought,” undefiled with 
+mortality ; the immortal soul is "pure thought," undefiled with 
 reality, just as Aristotle’s God is pure activity, undefiled 
 with action. Let him who can, be comforted with this 
 theology. One wonders sometimes whether this metaphysical 
@@ -4630,11 +4199,11 @@ the pressure of social restraints, and liable to sudden issue
 
 *De Anima, ii, 4; i, 4; iii, 5. 
 
-2 Poetics , i, 1447. 
+2 Poetics, i, 1447. 
 
 s Aristotle gives only one sentence to unity of time; and does not mention 
-unity of place ; so that the “three unities” commonly foisted upon him are later 
-inventions (Norwood, Greek Tragedy , p. 42, note). 
+unity of place ; so that the "three unities" commonly foisted upon him are later 
+inventions (Norwood, Greek Tragedy, p. 42, note). 
 
 
 ARISTOTLE 
@@ -4645,8 +4214,8 @@ ARISTOTLE
 
 in unsocial and destructive action, are touched off and sluiced 
 away in the harmless form of theatrical excitement ; so tragedy, 
-“through pity and fear, effects the proper purgation of these 
-emotions .” 1 Aristotle misses certain features of tragedy 
+"through pity and fear, effects the proper purgation of these 
+emotions ." 1 Aristotle misses certain features of tragedy 
 (e. g., the conflict of principles and personalities) ; but in this 
 theory of catharsis he has made a suggestion endlessly fertile 
 in the understanding of the almost mystic power of art. It 
@@ -4667,20 +4236,20 @@ find happiness and fulfilment?
 
 He is realistically simple in his ethics. His scientific train- 
 ing keeps him from the preachment of superhuman ideals 
-and empty counsels of perfection. “In Aristotle,” says 
-Santayana, “the conception of human nature is perfectly 
+and empty counsels of perfection. "In Aristotle," says 
+Santayana, "the conception of human nature is perfectly 
 sound ; every ideal has a natural basis, and everything natural 
-has an ideal development.” Aristotle begins by frankly 
+has an ideal development." Aristotle begins by frankly 
 recognizing that the aim of life is not goodness for its own 
-sake, but happiness. “For we choose happiness for itself, 
+sake, but happiness. "For we choose happiness for itself, 
 and never with a view to anything further ; whereas we choose 
 honor, pleasure, intellect . . . because we believe that through 
-them we shall be made happy.” 2 But he realizes that to call 
+them we shall be made happy." 2 But he realizes that to call 
 happiness the supreme good is a mere truism; what is wanted 
 is some clearer account of the nature of happiness, and the 
 wav to it. He hopes to find this way by asking wherein man 
 
-i Poetics , vi, 14*49. 
+i Poetics, vi, 14*49. 
 
 * Ethics, if 7. 
 
@@ -4702,7 +4271,7 @@ give him fulfilment and happiness.
 
 The chief condition of happiness, then, barring certain 
 physical pre-requisites, is the life of reason — the specific glory 
-and power of man. Virtue, or rather excellence , 1 will depend 
+and power of man. Virtue, or rather excellence, 1 will depend 
 on clear judgment, self-control, symmetry of desire, artistry 
 of means; it is not the possession of the simple man, nor the 
 gift of innocent intent, but the achievement of experience in 
@@ -4718,8 +4287,8 @@ pride is modesty; between secrecy and loquacity, honesty; be-
 tween moroseness and buffoonery, good humor ; between 
 quarrelsomeness and flattery, friendship; between Hamlet’s 
 indecisiveness and Quixote’s impulsiveness is self-control . 2 
-“Right,” then, in ethics or conduct, is not different from 
-“right” in mathematics or engineering; it means correct, fit, 
+"Right," then, in ethics or conduct, is not different from 
+"right" in mathematics or engineering; it means correct, fit, 
 what works best to the best result. 
 
 The golden mean, however, is not, like the mathematical 
@@ -4745,32 +4314,32 @@ it fluctuates with the collateral circumstances of each situa-
 tion, and discovers itself only to mature and flexible reason. 
 Excellence is an art won by training and habituation : we do 
 not act rightly because we have virtue or excellence, but we 
-rather have these because we have acted rightly ; “these virtues 
-are formed in man by his doing the actions ” ; 1 we are what we 
+rather have these because we have acted rightly ; "these virtues 
+are formed in man by his doing the actions " ; 1 we are what we 
 repeatedly do. Excellence, then, is not an act but a habit: 
-“the good of man is a working of the soul in the way of 
+"the good of man is a working of the soul in the way of 
 excellence in a complete life; . . . for as it is not one swal- 
 low or one fine day that makes a spring, so it is not one day 
-or a short time that makes a man blessed and happy.” 2 * 
+or a short time that makes a man blessed and happy." 2 * 
 
-Youth is the age of extremes: “if the young commit a 
-fault it is always on the side of excess and exaggeration.” 
+Youth is the age of extremes: "if the young commit a 
+fault it is always on the side of excess and exaggeration." 
 The great difficulty of youth (and of many of youth’s elders) 
 is to get out of one extreme without falling into its opposite. 
 For one extreme easily passes into the other, whether through 
-“over-correction” or elsewise : insincerity doth protest too 
+"over-correction" or elsewise : insincerity doth protest too 
 much, and humility hovers on the precipice of conceit . 8 
 Those who are consciously at one extreme will give the name 
 of virtue not to the mean but to the opposite extreme. Some- 
 times this is well; for if we are conscious of erring in one 
-extreme “we should aim at the other, and so we may reach the 
+extreme "we should aim at the other, and so we may reach the 
 middle position, ... as men do in straightening bent 
-timber.” 4 Rut unconscious extremists look upon the golden 
-mean as the greatest vice; they “expel towards each other 
+timber." 4 Rut unconscious extremists look upon the golden 
+mean as the greatest vice; they "expel towards each other 
 the man in the middle position; the brave man is called rash 
 by the coward, and cowardly by the rash man, and in other 
-cases accordingly ” ; 5 so in modern politics the “liberal” is 
-called “conservative” and “radical” by the radical and the 
+cases accordingly " ; 5 so in modern politics the "liberal" is 
+called "conservative" and "radical" by the radical and the 
 conservative. 
 
 It is obvious that this doctrine of the mean is the formula- 
@@ -4779,8 +4348,8 @@ It is obvious that this doctrine of the mean is the formula-
 
 2 Ibid., i, 7. 
 
-» “The vanity of Antisthenes” the Cynic, said Plato, “peeps out through the 
-holes in his cloak.” 
+» "The vanity of Antisthenes" the Cynic, said Plato, "peeps out through the 
+holes in his cloak." 
 
 4 Ethics, ii, 9. 
 
@@ -4799,8 +4368,8 @@ system of Greek philosophy, Plato had had it in mind when
 he called virtue harmonious action ; Socrates when he identified 
 virtue*with knowledge. The Seven Wise Men had established 
 the tradition by engraving, on the temple of Apollo at Delphi, 
-the motto meden agan , — nothing in excess. Perhaps, as 
-Nietzsche claims , 1 all these were attempts of the Greeks to 
+the motto meden agan, — nothing in excess. Perhaps, as 
+Nietzsche claims, 1 all these were attempts of the Greeks to 
 check their own violence and impulsiveness of character ; more 
 truly, they reflected the Greek feeling that passions are not 
 of themselves vices, but the raw material of both vice and 
@@ -4815,26 +4384,26 @@ and greed which is the source of aristocratic ease and charm.
 The noblest of these external aids to happiness is friendship. 
 Indeed, friendship is more necessary to the happy than to 
 the unhappy ; for happiness is multiplied by being shared. 
-It is more important than justice : for “when men are friends, 
+It is more important than justice : for "when men are friends, 
 justice is unnecessary; but when men are just, friendship is 
-still a boon.” “A friend is one soul in two bodies.” Yet 
-friendship implies few friends rather than many; “he who 
-has many friends has no friend” ; and “to be a friend to many 
-people in the way of perfect friendship is impossible.” Fine 
+still a boon." "A friend is one soul in two bodies." Yet 
+friendship implies few friends rather than many; "he who 
+has many friends has no friend" ; and "to be a friend to many 
+people in the way of perfect friendship is impossible." Fine 
 friendship requires duration rather than fitful intensity ; and 
 this implies stability of character; it is to altered character 
 that we must attribute the dissolving kaleidoscope of friend- 
 ship. And friendship requires equality; for gratitude gives 
-it at best a slippery basis. “Benefactors are commonly held 
+it at best a slippery basis. "Benefactors are commonly held 
 
 1 The Birth of Tragedy . 
 
-2 Cf. a sociological formulation of the same idea: “Values are never abso~ 
+2 Cf. a sociological formulation of the same idea: "Values are never abso~ 
 lute, but only relative. ... A certain quality in human nature is deemed to 
 be less abundant than it ought to be; therefore we place a value upon it, 
 and . . . encourage and cultivate it. As a result of this valuation we call it 
 a virtue; but if the same quality should become superabundant we should call 
-it a vice and try to repress it.” — Carver, Essays in Social Justice. 
+it a vice and try to repress it." — Carver, Essays in Social Justice. 
 
 
 ARISTOTLE 
@@ -4848,7 +4417,7 @@ these for them. The account of the matter which satisfies
 most persons is that the one are debtors and the others 
 creditors, . . . and that the debtors wish their creditors out 
 of the way, while the creditors are anxious that their debtors 
-should be preserved.” Aristotle rejects this interpretation; 
+should be preserved." Aristotle rejects this interpretation; 
 he prefers to believe that the greater tenderness of the bene- 
 factor is to be explained on the analogy of the artist’s affection 
 for his work, or the mother’s for her child. We love that 
@@ -4863,12 +4432,12 @@ itch that we may scratch. Nor can a political career be the
 way; for therein we walk subject to the whims of the people; 
 and nothing is so fickle as the crowd. No, happiness must 
 be a pleasure of the mind; and we may trust it only when it 
-comes from the pursuit or the capture of truth. “The opera- 
+comes from the pursuit or the capture of truth. "The opera- 
 tion of the intellect . . . aims at no end beyond itself, and finds 
 in itself the pleasure which stimulates it to further operation ; 
 and since the attributes of self-sufficiency, unweariedness, and 
 capacity for rest, . . . plainly belong to this occupation, in 
-it must lie perfect happiness.” 2 
+it must lie perfect happiness." 2 
 
 Aristotle’s ideal man, however, is no mere metaphysician. 
 
@@ -4942,21 +4511,21 @@ ARISTOTLE
 
 political extravaganzas. Radicalism is a luxury of stability ; 
 we may dare to change things only when things lie steady 
-under our hands. And in general, says Aristotle, “the habit 
+under our hands. And in general, says Aristotle, "the habit 
 of lightly changing the laws is an evil ; and when the advantage 
 of change is small, some defects whether in the law or in the 
 ruler had better be met with philosophic toleration. The 
 citizen will gain less by the change than he will lose by ac- 
-quiring the habit of disobedience.” 1 The power of the law 
+quiring the habit of disobedience." 1 The power of the law 
 to secure observance, and therefore to maintain political 
-stability, rests very largely on custom; and “to pass lightly 
+stability, rests very largely on custom; and "to pass lightly 
 from old laws to new ones is a certain means of weakening 
-the inmost essence of all law whatever.” 2 “Let us not dis- 
+the inmost essence of all law whatever." 2 "Let us not dis- 
 regard the experience of ages: surely, in the multitude of 
 years, these things, if they were good, would not have re- 
-mained unknown.” 3 
+mained unknown." 3 
 
-“These things,” of course, means chiefly Plato’s commu- 
+"These things," of course, means chiefly Plato’s commu- 
 nistic republic. Aristotle fights the realism of Plato about 
 universals, and the idealism of Plato about government. He 
 finds many dark spots in the picture painted by the Master. 
@@ -4966,12 +4535,12 @@ conservative though he is, Aristotle values individual quality,
 privacy, and liberty above social efficiency and power. He 
 would not care to call every contemporary brother or sister, 
 nor every elder person father or mother; if all are your 
-brothers, none is; and “how much better it is to be the real 
-cousin of somebody than to be a son after Plato’s fashion !” 4 
-In a state having women and children in common, “love will 
+brothers, none is; and "how much better it is to be the real 
+cousin of somebody than to be a son after Plato’s fashion !" 4 
+In a state having women and children in common, "love will 
 be watery. . . Of the two qualities which chiefly inspire regard 
 and affection — that a thing is your own, and that it awakens 
-real love in you — neither can exist in such a state” as Plato’s . 5 
+real love in you — neither can exist in such a state" as Plato’s . 5 
 
 Perhaps there was, in the dim past, a communistic society, 
 
@@ -4990,32 +4559,32 @@ s Ibid., 11,4.
 98 THE STORY OF PHILOSOPHY 
 
 when the family was the only state, and pasturage or simple 
-tillage the only form of life. But “in a more divided state 
-of society,” where the division of labor into unequally im- 
+tillage the only form of life. But "in a more divided state 
+of society," where the division of labor into unequally im- 
 portant functions elicits and enlarges the natural inequality of 
 men, communism breaks down because it provides no adequate 
 incentive for the exertion of superior abilities. The stimulus 
 of gain is necessary to arduous work; and the stimulus of 
 ownership is necessary to proper industry, husbandry and 
 care. When everybody owns everything nobody will take 
-care of anything. “That which is common to the greatest 
+care of anything. "That which is common to the greatest 
 number has the least attention bestowed upon it. Everyone 
 thinks chiefly of his own, hardly ever of the public, inter- 
-est.” 1 And “there is always a difficulty in living together, or 
+est." 1 And "there is always a difficulty in living together, or 
 having things in common, but especially in having common 
-property. The partnerships of fellow-travellers” (to say 
-nothing of the arduous communism of marriage), “are an 
+property. The partnerships of fellow-travellers" (to say 
+nothing of the arduous communism of marriage), "are an 
 example to the point ; for they generally fall out by the way, 
-and quarrel about any trifle that turns up.” 2 
+and quarrel about any trifle that turns up." 2 
 
-“Men readily listen” to Utopias, “and are easily induced to 
+"Men readily listen" to Utopias, "and are easily induced to 
 believe that in some wonderful manner everybody will become 
 everybody’s friend, especially when some one is heard de- 
 nouncing the evils now existing, . . . which are said to arise 
 out of the possession of private property. These evils, how- 
 ever, arise from quite another source — the wickedness of human 
-nature.” 3 Political science does not make men, but must take 
-them as they come from nature.” 4 
+nature." 3 Political science does not make men, but must take 
+them as they come from nature." 4 
 
 And human nature, the human average, is nearer to the 
 beast than to the god. The great majority of men are natural 
@@ -5037,24 +4606,24 @@ and environment.
 ARISTOTLE 
 
 
-“like pouring water into a leaking cask.” Such people must 
+"like pouring water into a leaking cask." Such people must 
 be ruled in politics and directed in industry ; with their consent 
-if possible, without it if necessary. “From the hour of their 
+if possible, without it if necessary. "From the hour of their 
 birth some are marked out for subjection, and others for com- 
-mand.” 1 “For he who can foresee with his mind is by nature 
+mand." 1 "For he who can foresee with his mind is by nature 
 intended to be lord and master; and he who can work only 
-with his body is by nature a slave.” 2 The slave is to the 
+with his body is by nature a slave." 2 The slave is to the 
 master what the body is to the mind; and as the body should 
-be subject to the mind, so “it is better for all inferiors that 
-they should be under the rule of a master.” 8 “The slave is 
-a tool with life in it, the tool is a lifeless slave.” And then 
+be subject to the mind, so "it is better for all inferiors that 
+they should be under the rule of a master." 8 "The slave is 
+a tool with life in it, the tool is a lifeless slave." And then 
 our hard-hearted philosopher, with a gli mm er of possibilities 
 which the Industrial Revolution has opened to our hands, 
-writes for a moment with wistful hope : “If every instrument 
+writes for a moment with wistful hope : "If every instrument 
 would accomplish its own work, obeying or anticipating the 
 will of others, ... if the shuttle would weave, or the plectrum 
 touch the lyre, without a hand to guide them, then chief work- 
-men would not need assistants, nor masters slaves.” 4 
+men would not need assistants, nor masters slaves." 4 
 
 This philosophy typifies the Greek disdain for manual labor. 
 Such work in Athens had not become so complicated as it is 
@@ -5088,21 +4657,21 @@ THE STORY OF PHILOSOPHY
 
 
 sonable corollary that only persons of some leisure should 
-have a voice in government. 1 “The best form of state will 
+have a voice in government. 1 "The best form of state will 
 not admit mechanics to citizenship. ... At Thebes there was 
 a law that no man could hold office who had not retired from 
-business ten years before.” 2 Even merchants and financiers 
-are classed by Aristotle among slaves. “Retail trade is un- 
+business ten years before." 2 Even merchants and financiers 
+are classed by Aristotle among slaves. "Retail trade is un- 
 natural, . . . and a mode by which men gain from one an- 
 other. The most hated sort of such exchange is . . . usury, 
 which makes a gain out of money itself, and not from its 
 natural use. For money was intended as an instrument of 
 exchange, and not as the mother of interest. This usury 
 (tokos), which means the birth of money from money, . . . 
-is of all modes of gain the most unnatural.” 3 Money should 
-not breed. Hence “the discussion of the theory of finance is 
+is of all modes of gain the most unnatural." 3 Money should 
+not breed. Hence "the discussion of the theory of finance is 
 not unworthy of philosophy; but to be engaged in finance, 
-or in money-making, is unworthy of a free man.” 4 
+or in money-making, is unworthy of a free man." 4 
 
 
 2. Marriage and Education 
@@ -5112,7 +4681,7 @@ the mental worker, the barbarian to the Greek. Woman is an
 unfinished man, left standing on a lower step in the scale of 
 development.® The male is by nature superior, and the female 
 inferior; the one rules and the other is ruled; and this prin- 
-ciple extends, of necessity, to all mankind.” Woman is weak 
+ciple extends, of necessity, to all mankind." Woman is weak 
 of will, and therefore incapable of independence of character 
 
 1 Politics, iii, 3; vii, 8. 
@@ -5128,7 +4697,7 @@ harvest time, sold them at his own sweet price; whereupon Aristotle observes
 that the universal secret of great riches is the creation of a monopoly. 
 
 6 De Gen. Animalium, ii, 8; Hist. Animalium, viii, 1; 'Pol., i, 5. Cf. Wein- 
-inger; and Meredith’s “Woman will be the last thing civilized by man” 
+inger; and Meredith’s "Woman will be the last thing civilized by man" 
 ( Ordeal of Richard Feverel, p. 1). It appears, however, that man was (or 
 will be) the last thing civilized by woman; for the great civilizing agencies are 
 the family and a settled economic life; and both of these are the creations of 
@@ -5144,11 +4713,11 @@ dr position; her best condition is a quiet home life in which,
 while ruled by the man in her external relations, she may be 
 in domestic affairs supreme. Women should not be made more 
 like men, as in Plato’s republic ; rather the dissimilarity should 
-be increased; nothing is so attractive as the different. “The 
+be increased; nothing is so attractive as the different. "The 
 courage of a man and that of a woman are not, as Socrates 
 supposed, the same: the courage of a man is shown in com- 
 manding ; that of a woman in obeying. ... As the poet says, 
-‘Silence is a woman’s glory.’ ” 1 
+‘Silence is a woman’s glory.’ " 1 
 
 Aristotle seems to suspect that this ideal enslavement of 
 woman is a rare achievement for man, and that as often as 
@@ -5161,19 +4730,19 @@ but may perhaps be managed by a seasoned warrior of thirty*
 seven. What attracts Aristotle to this matrimonial mathe- 
 matics is the consideration that two such disparate persons 
 will lose their reproductive power and passions at approxi- 
-mately the same time. “If the man is still able to beget 
-children while the woman is unable to bear them, or vice versa , 
+mately the same time. "If the man is still able to beget 
+children while the woman is unable to bear them, or vice versa, 
 quarrels and differences will arise. . . . Since the time of gen- 
 eration is commonly limited within the age of seventy years 
 in the man, and fifty in the woman, the commencement of their 
 union should conform to these periods. The union of male 
 and female when too young is bad for the creation of chil- 
 dren ; in all animals the off-spring of the young are small and 
-ill-developed, and generally female.” Health is more import- 
-ant than love. Further, “it conduces to temperance not to 
+ill-developed, and generally female." Health is more import- 
+ant than love. Further, "it conduces to temperance not to 
 marry too soon; for women who marry early are apt to be 
 wanton; and in men too the bodily frame is stunted if they 
-' marry while they are growing.” 2 These matters should not 
+' marry while they are growing." 2 These matters should not 
 
 1 Politics, i, 13. 
 
@@ -5193,30 +4762,30 @@ vision and control: the state should determine the minimum
 and maximum ages of marriage for each sex, the best seasons 
 for conception, and the rate of increase in population. If 
 the natural rate of increase is too high, the cruel practice of 
-infanticide may be replaced by abortion ; and “let abortion 
-be procured before sense and life have begun.” 1 There is an 
+infanticide may be replaced by abortion ; and "let abortion 
+be procured before sense and life have begun." 1 There is an 
 ideal number of population for every state, varying with its 
-position and resources. “A state when composed of too few 
+position and resources. "A state when composed of too few 
 is not, as a state should be, self-sufficing; while if it has too 
 many . . . it becomes a nation and not a state, and is al- 
-most incapable of constitutional government,” or of ethnic 
+most incapable of constitutional government," or of ethnic 
 or political unity. 2 Anything in excess of a population of 
 10,000 is undesirable. 
 
-Education, too, should be in the hands of the state. “That 
+Education, too, should be in the hands of the state. "That 
 which most contributes to the permanence of constitutions is 
 the adaptation of education to the form of government. . . . 
 The citizen should be moulded to the form of government un- 
-der which he lives.” 3 By state control of schools we might 
+der which he lives." 3 By state control of schools we might 
 divert men from industry and trade to agriculture ; and we 
 might train men, while keeping property private, to open their 
-possessions to discriminately common use. “Among good 
+possessions to discriminately common use. "Among good 
 men, with respect to the use of property, the proverb will hold, 
-that ‘friends should have all things in common.’ ” 4 But 
+that ‘friends should have all things in common.’ " 4 But 
 above all, the growing citizen must be taught obedience to 
-law, else a state is impossible. “It has been well said that ‘he 
+law, else a state is impossible. "It has been well said that ‘he 
 who has never learned to obey cannot be a good commander.’ 
-. . . The good citizen should be capable of both.” And only 
+. . . The good citizen should be capable of both." And only 
 a state system of schools can achieve social unity amid ethnic 
 heterogeneity ; the state is a plurality which must be made into 
 a unity and a community by education. 8 Let youth be taught, 
@@ -5240,19 +4809,19 @@ AKISTOTLE
 9T 
 
 eurity which comes of social organization, the freedom that 
-comes of law. “Man, when perfected, is the best of animals ; 
+comes of law. "Man, when perfected, is the best of animals ; 
 but when isolated he is the worst of all; for injustice is more 
 dangerous when armed, and man is equipped at birth with 
 the weapon of intelligence, and with qualities of character 
 which he may use for the vilest ends. Wherefore if he have 
 not virtue he is the most unholy and savage of animals, full 
-of gluttony and lust.” And only social control can give him 
+of gluttony and lust." And only social control can give him 
 virtue. Through speech man evolved society; through soci- 
 ety, intelligence ; through intelligence, order ; and through or- 
 der, civilization. In such an ordered state the individual has 
 a thousand opportunities and avenues of development open 
-to him which a solitary life would never give. “To live alone,” 
-then, “one must be either an animal or a god.” 1 
+to him which a solitary life would never give. "To live alone," 
+then, "one must be either an animal or a god." 1 
 
 Hence revolution is almost always unwise ; it may achieve 
 some good, but at the cost of many evils, the chief of which 
@@ -5260,23 +4829,23 @@ is the disturbance, and perhaps the dissolution, of that social
 order and structure on which every political good depends. 
 The direct consequences of revolutionary innovations may be 
 calculable and salutary ; but the indirect are generally incal- 
-culable, and not seldom disastrous. “They who take only a 
-few points into account find it easy to pronounce judgment”; 
+culable, and not seldom disastrous. "They who take only a 
+few points into account find it easy to pronounce judgment"; 
 and a man can make up his mind quickly if he has only a 
-little to make up. “Young men are easily deceived, for they 
-are quick to hope.” The suppression of long-established hab- 
+little to make up. "Young men are easily deceived, for they 
+are quick to hope." The suppression of long-established hab- 
 its brings the overthrow of innovating governments because 
 the old habits persist among the people; characters are not 
 so easily changed as laws. If a constitution is to be perma- 
 nent, all the parts of a society must desire it to be maintained. 
 Therefore a ruler who would avoid revolution should prevent 
-extremes of poverty and wealth,— “a condition which is most 
-often the result of war”; he should (like the English) encour- 
+extremes of poverty and wealth,— "a condition which is most 
+often the result of war"; he should (like the English) encour- 
 age colonization as an outlet for a dangerously congested 
 population; and he should foster and practice religion. An 
 
-i Politics , i, 2. “Or,” adds Nietzsche, who takes nearly all of his political - 
-philosophy from Aristotle, “one must be both — that is, a philosopher.” 
+i Politics, i, 2. "Or," adds Nietzsche, who takes nearly all of his political - 
+philosophy from Aristotle, "one must be both — that is, a philosopher." 
 
 
 98 
@@ -5285,12 +4854,12 @@ philosophy from Aristotle, “one must be both — that is, a philosopher.”
 THE STORY OF PHILOSOPHY 
 
 
-autocratic ruler particularly “should appear to be earnest in 
+autocratic ruler particularly "should appear to be earnest in 
 the worship of the gods; for if men think that a ruler is re- 
 ligious and reveres the gods, they are less afraid of suffering 
 injustice at his hands, and are less disposed to conspire against 
 him, since they believe that the gods themselves are fighting 
-on his side.” 1 
+on his side." 1 
 
 
 3. Democracy and Aristocracy 
@@ -5301,22 +4870,22 @@ government will serve. All forms have good and bad com-
 mingled in them, and are severally adapted to various condi- 
 tions. Theoretically, the ideal form of government would be 
 the centralization of all political power in the one best man. 
-Homer is right: “Bad is the lordship of many; let one be 
-your ruler and master.” For such a man law would be rather 
-an instrument than a limit : “for men of eminent ability there 
+Homer is right: "Bad is the lordship of many; let one be 
+your ruler and master." For such a man law would be rather 
+an instrument than a limit : "for men of eminent ability there 
 is no law — they are themselves a law. Anyone would be ridic- 
 ulous who should attempt to make laws for them ; they would 
 probably retort what, in the fable of Antisthenes, the lions 
 said to the hares when, in the council of beasts, the latter began 
-haranguing and claiming equality for all — “Where are your 
-claws?” 2 
+haranguing and claiming equality for all — "Where are your 
+claws?" 2 
 
 But in practice, monarchy is usually the worst form of gov- 
 ernment, . for great strength and great virtue are not near 
 allied. Hence the best practicable polity is aristocracy, the 
 rule of the informed and capable few. Government is too com- 
 plex a thing to have its issues decided by number, when lesser 
-issues are reserved for knowledge and ability. “As the physi- 
+issues are reserved for knowledge and ability. "As the physi- 
 cian ought to be judged by the physician, so ought men in 
 general to be judged by their peers. . . . Now does not this 
 same principle apply to elections? For a right election can 
@@ -5343,34 +4912,34 @@ trusted to the many.’ 5
 The difficulty with hereditary aristocracy is that it has no 
 permanent economic base; the eternal recurrence of the non- 
 veaux riches puts political office sooner or later at the disposal 
-of the highest bidder. “It is surely a bad thing that the 
+of the highest bidder. "It is surely a bad thing that the 
 greatest offices . . . should be bought. The law which per- 
 mits this abuse makes wealth of more account than ability, and 
 the whole state becomes avaricious. For whenever the chiefs 
 of the state deem anything honorable, the other citizens are 
-sure to follow their example” (the “prestige imitation” of 
-modern social psychology) ; “and where ability has not the 
-first place there is no real aristocracy.” 1 2 
+sure to follow their example" (the "prestige imitation" of 
+modern social psychology) ; "and where ability has not the 
+first place there is no real aristocracy." 1 2 
 
 Democracy is usually the result of a revolution against 
-plutocracy. “Love of gain in the ruling classes tends con- 
-stantly to diminish their number” (Marx’s “elimination of the 
-middle class”), “and so to strengthen the masses, who in the 
-end set upon their masters and establish democracies.” This 
-“rule by the poor” has some advantages. “The people, 
+plutocracy. "Love of gain in the ruling classes tends con- 
+stantly to diminish their number" (Marx’s "elimination of the 
+middle class"), "and so to strengthen the masses, who in the 
+end set upon their masters and establish democracies." This 
+"rule by the poor" has some advantages. "The people, 
 though individually they may be worse judges than those who 
 have special knowledge, are collectively as good. Moreover, 
 there are some artists whose works are best judged not by 
 themselves alone, but by those who do not possess the art; 
 e. g., the user or master of a house will be a better judge of 
 it than the builder; . . . and the guest will be a better judge 
-of a feast than the cook.” 3 And “the many are more incor- 
+of a feast than the cook." 3 And "the many are more incor- 
 ruptible than the few; they are like the greater quantity of 
 water which is less easily spoiled than a little. The individual 
 is liable to be overcome by anger, or by some other passion, 
 
-1 Politics, tfi, IX. Cf. the modem argument for “occupational representa- 
-tion.” 
+1 Politics, tfi, IX. Cf. the modem argument for "occupational representa- 
+tion." 
 
 2 Ibid., ii, 11. 
 
@@ -5385,13 +4954,13 @@ THE STORY OF PHILOSOPHY
 
 and then his judgment is necessarily perverted ; but it is hardly 
 to be supposed that a great number of persons would all get 
-into a passion and go wrong at the same moment.” 1 
+into a passion and go wrong at the same moment." 1 
 
 Yet democracy is on the whole inferior to aristocracy . 2 For 
-it is based on a false assumption of equality ; it “arises out of 
+it is based on a false assumption of equality ; it "arises out of 
 the notion that those who are equal in one respect (e. g., in 
 respect of the law) are equal in all respects ; because men are 
-equally free they claim to be absolutely equal.” The upshot 
+equally free they claim to be absolutely equal." The upshot 
 is that ability is sacrificed to number, while numbers are ma- 
 nipulated by trickery. Because the people are so easily 
 misled, and so fickle in their views, the ballot should be limited 
@@ -5400,22 +4969,22 @@ racy and democracy.
 
 Constitutional government offers this happy union. It is 
 not the best conceivable government — that would be an aris- 
-tocracy of education — but it is the best possible state. “We 
+tocracy of education — but it is the best possible state. "We 
 must ask what is the best constitution for most states, and the 
 best life for most men ; neither assuming a standard of excel- 
 lence which will be above ordinary persons, nor an education 
 exceptionally favored by nature or circumstance, nor yet an 
 ideal state which will be only an aspiration; but having in 
 mind such a life as the majority will be able to share, and a 
-form of government to which states in general can attain.” 
-“It is necessary to begin by assuming a principle of general 
+form of government to which states in general can attain." 
+"It is necessary to begin by assuming a principle of general 
 application, namely, that that part of the state which desires 
 the continuance of the government must be stronger than that 
-which does not ” ; 8 and strength consists neither in number 
+which does not " ; 8 and strength consists neither in number 
 alone, nor in property alone, nor in military or political ability 
 alone, but in a combination of these, so that regard has to be 
-taken of “freedom, wealth, culture and noble birth, as well as 
-of mere numerical superiority.” Now where shall we find such 
+taken of "freedom, wealth, culture and noble birth, as well as 
+of mere numerical superiority." Now where shall we find such 
 
 1 Politics, ili, 15. Tarde, Le Bon and other social psychologists assert pre- 
 cisely the contrary; and though they exaggerate the vices of the crowd, they 
@@ -5471,7 +5040,7 @@ the persuasion of another mind; he supposes that thought
 begins with premisses and seeks their conclusions, when 
 actually thought begins with hypothetical conclusions and 
 
-i “If you wish me to weep you must weep first” — Horace ( Ars Poetica ) to 
+i "If you wish me to weep you must weep first" — Horace ( Ars Poetica ) to 
 actors and writers. 
 
 
@@ -5515,7 +5084,7 @@ a man might be.
 Aristotle’s ethics is a branch of his logic : the ideal life is like 
 a proper syllogism. He gives us a handbook of propriety 
 rather than a stimulus to improvement. An ancient critic 
-spoke of him as “moderate to excess.” An extremist might 
+spoke of him as "moderate to excess." An extremist might 
 call the Ethics the champion collection of platitudes in all 
 literature; and an Anglophobe would be consoled with the 
 
@@ -5642,7 +5211,7 @@ Meanwhile life had become unmanageably complicated for
 our philosopher. He found him self on the one hand embroiled 
 with Alexander for protesting against the execution of Cal- 
 listhenes (a nephew of Aristotle), who had refused to worship 
-Alexander as a god ; and Alexander had answered the protest , 
+Alexander as a god ; and Alexander had answered the protest, 
 by hinting that it was quite within his omnipotence to put even 
 philosophers to death. At the same time Aristotle was busy 
 defending Alexander among the Athenians. He preferred 
@@ -5785,7 +5354,7 @@ France.
 
 Not that these natural antitheses of ethical theory were quite 
 new to Greece. One finds them in the gloomy Heraclitus and 
-the “laughing philosopher” Democritus ; and one sees the pu- 
+the "laughing philosopher" Democritus ; and one sees the pu- 
 
 
 FRANCIS BACON 
@@ -5818,13 +5387,13 @@ struggle for existence is so unfairly doomed to inevitable de-
 feat. If victory is quite impossible it should be scorned. The 
 secret of peace is not to make our achievements equal to our de- 
 sires, but to lower our desires to the level of our achievements. 
-“If what you have seems insufficient to you,” said the Roman 
-Stoic Seneca (d. 65 a. d.), “then, though you possess the 
-world, you will yet be miserable.” 
+"If what you have seems insufficient to you," said the Roman 
+Stoic Seneca (d. 65 a. d.), "then, though you possess the 
+world, you will yet be miserable." 
 
 Such a principle cried out to heaven for its opposite, and 
 Epicurus, though himself as Stoic in life as Zeno, supplied it. 
-Epicurus, says Fenelon, 2 “bought a fair garden, which he 
+Epicurus, says Fenelon, 2 "bought a fair garden, which he 
 tilled himself. There it was he set up his school, and there 
 he lived a gentle and agreeable life with his disciples, whom he 
 taught as he walked and worked. . . . He was gentle and af- 
@@ -5898,19 +5467,19 @@ THE STORY OF PHILOSOPHY
 
 112 
 
-to apply one’s self to philosophy.” His starting point is a 
+to apply one’s self to philosophy." His starting point is a 
 conviction that apathy is impossible, and that pleasure — - 
 though not necessarily sensual pleasure — is the only conceiv- 
-able, and quite legitimate, end of life and action. “Nature 
+able, and quite legitimate, end of life and action. "Nature 
 leads every organism to prefer its own good to every other 
-good” ; — even the Stoic finds a subtle pleasure in renunciation. 
-“We must not avoid pleasures, but we must select them.” 
+good" ; — even the Stoic finds a subtle pleasure in renunciation. 
+"We must not avoid pleasures, but we must select them." 
 Epicurus, then, is no epicurean; he exalts the joys of intellect 
 rather than those of sense ; he warns against pleasures that ex- 
 cite and disturb the soul which they should rather quiet and 
 appease. In the end he proposes to seek not pleasure in its 
 usual sense, but ataraxia — tranquillity, equanimity, repose 
-of mind ; all of which trembles on the verge of Zeno’s “apathy.” 
+of mind ; all of which trembles on the verge of Zeno’s "apathy." 
 
 The Romans, coming to despoil Hellas in 146 b. c., found 
 these rival schools dividing the philosophic field; and having 
@@ -5923,7 +5492,7 @@ whether in Marcus Aurelius the emperor or in Epictetus the
 slave; and even Lucretius talked epicureanism stoically (like 
 Heine’s Englishman taking his pleasures sadly), and con- 
 cluded his stem gospel of pleasure by committing suicide, 
-His noble epic “On the Nature of Things,” 1 follows Epicurus 
+His noble epic "On the Nature of Things," 1 follows Epicurus 
 in damning pleasure with faint praise. Almost contemporary 
 with Caesar and Pompey, he lived in the midst of turmoil and 
 alarms; his nervous pen is forever inditing prayers to tran- 
@@ -5934,8 +5503,8 @@ and that there are no gods except gentlemanly ones who live
 in a garden of Epicurus in the clouds, and never intrude in 
 the affairs of men. To the rising cult of heaven and hell 
 
-i Professor Shotwell {Introduction to the History of History) calls it “th6 
-most marvelous performance in all antique literature.” 
+i Professor Shotwell {Introduction to the History of History) calls it "th6 
+most marvelous performance in all antique literature." 
 
 
 FRANCIS BACON 
@@ -6005,11 +5574,11 @@ would lie exposed as a prey and booty to others, until
 nature brought their kind to extinction . 1 
 
 Nations, too, like individuals, slowly grow and surely die: 
-“some nations wax, others wane, and in a brief space the races 
+"some nations wax, others wane, and in a brief space the races 
 of living things are changed, and like runners hand over the 
-lamp of life.” In the face of warfare and inevitable death, 
-there is no wisdom but in ataraxia , — “to look on all things with 
-a mind at peace.” Here, clearly, the old pagan joy of life 
+lamp of life." In the face of warfare and inevitable death, 
+there is no wisdom but in ataraxia, — "to look on all things with 
+a mind at peace." Here, clearly, the old pagan joy of life 
 is gone, and an almost exotic spirit touches a broken lyre. 
 History, which is nothing if not humorous, was never so face- 
 tious as when she gave to this abstemious and epic pessimist the 
@@ -6018,19 +5587,19 @@ name of Epicurean.
 And if this is the spirit of the follower of Epicurus, imagine 
 the exhilarating optimism of explicit Stoics like Aurelius or 
 Epictetus. Nothing in all literature is so depressing as the 
-“Dissertations” of the slave, unless it be the “Meditations” of 
-the emperor. “Seek not to have things happen as you choose 
+"Dissertations" of the slave, unless it be the "Meditations" of 
+the emperor. "Seek not to have things happen as you choose 
 them, but rather choose that they should happen as they do ; 
-and you shall live prosperously.” 2 No doubt one can in this 
+and you shall live prosperously." 2 No doubt one can in this 
 manner dictate the future, and play royal highness to the uni- 
 verse. Story has it that Epictetus 5 master, who treated him 
 with consistent cruelty, one day took to twisting Epictetus’ 
-leg to pass the time away. “If you go on,” said Epictetus 
-calmly, “you will break my leg.” The master went on, and 
-the leg was broken. “Did I not tell you,” Epictetus observed 
-mildly, “that you would break my leg?” 3 Yet there is a cer- 
+leg to pass the time away. "If you go on," said Epictetus 
+calmly, "you will break my leg." The master went on, and 
+the leg was broken. "Did I not tell you," Epictetus observed 
+mildly, "that you would break my leg?" 3 Yet there is a cer- 
 tain mystic nobility in this philosophy, as in the quiet courage 
-of some Dostoievskian pacifist. “Never in any case say, I 
+of some Dostoievskian pacifist. "Never in any case say, I 
 have lost such a thing; but, I have returned it. Is thy child 
 dead? — it is returned. Is thy wife dead? — she is returned. 
 
@@ -6047,7 +5616,7 @@ FRANCIS BACON
 115 
 
 
-Art thou deprived of thy estate?— is not this also returned?” 1 
+Art thou deprived of thy estate?— is not this also returned?" 1 
 In such passages we feel the proximity of Christianity and its 
 dauntless martyrs ; indeed were not the Christian ethic of self- 
 denial, the Christian political ideal of an almost communistic 
@@ -6056,9 +5625,9 @@ conflagration of all the world, fragments of Stoic doctrine
 floating on the stream of thought? In Epictetus the Greco- 
 Roman soul has lost its paganism, and is ready for a new faith. 
 His book had the distinction of being adopted as a religious 
-manual by the early Christian Church. From these “Disser- 
-tations” and Aurelius’ “Meditations” there is but a step to 
-“The Imitation of Christ.” 
+manual by the early Christian Church. From these "Disser- 
+tations" and Aurelius’ "Meditations" there is but a step to 
+"The Imitation of Christ." 
 
 Meanwhile the historical background was melting into newer 
 scenes. There is a remarkable passage in Lucretius 2 which 
@@ -6077,7 +5646,7 @@ the Papacy.
 The Church, supported in its earlier centuries by the em- 
 perors whose powers it gradually absorbed, grew rapidly in 
 numbers, wealth, and range of influence. By the thirteenth 
-century it owned one-third of the soil of Europe , 3 and its cof- 
+century it owned one-third of the soil of Europe, 3 and its cof- 
 fers bulged with donations of rich and poor. For a thousand 
 years it united, with the magic of an unvarying creed, most 
 of the peoples of a continent ; never before or since was organi- 
@@ -6109,13 +5678,13 @@ century all Christendom was startled and stimulated by Arabic
 and Jewish translations of Aristotle; but the power of the 
 Church was still adequate to secure, through Thomas Aquinas 
 and others, the transmogrification of Aristotle into a medieval 
-theologian. The result was subtlety, but not wisdom. “The 
-wit and mind of man,” as Bacon put it, “if it work upon the 
+theologian. The result was subtlety, but not wisdom. "The 
+wit and mind of man," as Bacon put it, "if it work upon the 
 matter, worketh according to the stuff, and is limited thereby; 
 but if it work upon itself, as the spider worketh his web, then 
 it is endless, and bringeth forth indeed cobwebs of learning, 
 admirable for the fineness of thread and work, but of no sub- 
-stance or profit.” Sooner or later the intellect of Europe 
+stance or profit." Sooner or later the intellect of Europe 
 would burst out of this shell. 
 
 After a thousand years of tillage, the soil bloomed again; 
@@ -6157,15 +5726,15 @@ blood. As knowledge grew, fear decreased; men thought less
 of worshiping the unknown, and more of overcoming it. 
 Every vital spirit was lifted up with a new confidence ; barriers 
 were broken down ; there was no bound now to what man might 
-do. “But that little vessels, like the celestial bodies, should 
+do. "But that little vessels, like the celestial bodies, should 
 sail round the whole globe, is the happiness of our age. These 
-times may justly use plus ultra ”• — more beyond — “where the 
+times may justly use plus ultra "• — more beyond — "where the 
 ancients used non plus ultra ." 1 It was an age of achievement, 
 hope and vigor; of new beginnings and enterprises in every 
 field; an age that waited for a voice, some synthetic soul 
 to sum up its spirit and resolve. It was Francis Bacon, 
-“the most powerful mind of modern times,” 2 who “rang the 
-bell that called the wits together,” and announced that Europe 
+"the most powerful mind of modern times," 2 who "rang the 
+bell that called the wits together," and announced that Europe 
 had come of age. 
 
 
@@ -6179,7 +5748,7 @@ the first twenty years of Elizabeth’s reign had been Keeper of
 showed a ship turning back at Gibraltar into the Mediterranean, with thb 
 inscription, Non plus ultra — go no farther. 
 
-2 E. J. Payne in The Cambridge Modern History , i, 65. 
+2 E. J. Payne in The Cambridge Modern History, i, 65. 
 
 
 
@@ -6188,9 +5757,9 @@ THE STORY OF PHILOSOPHY
 
 118 
 
-the Great Seal. “The fame of the father,” says Macaulay, 
-“has been thrown into the shade by that of the son. But Sir 
-Nicholas was no ordinary man.” 1 It is as one might have sus- 
+the Great Seal. "The fame of the father," says Macaulay, 
+"has been thrown into the shade by that of the son. But Sir 
+Nicholas was no ordinary man." 1 It is as one might have sus- 
 pected; for genius is an apex, to which a family builds itself 
 through talent, and through talent in the genius’s offspring 
 subsides again towards the mediocrity of man. Bacon’s 
@@ -6239,8 +5808,8 @@ fertile path, to turn it from scholastic disputation to the illu-
 mination and increase of human good. Though still a lad of 
 sixteen, he was offered an appointment to the staff of the 
 English ambassador in France; and after careful casting up 
-of pros and cons , he accepted. In the Proem to The Interpret 
-tation of Nature , he discusses this fateful decision that turned 
+of pros and cons, he accepted. In the Proem to The Interpret 
+tation of Nature, he discusses this fateful decision that turned 
 him from philosophy to politics. It is an indispensable pas- 
 sage: 
 
@@ -6335,14 +5904,14 @@ FRANCIS BACON
 to Parliament for Taunton ; and his constituents liked him so 
 well that they returned him to his seat in election after elec- 
 tion. He had a terse and vivid eloquence in debate, and was 
-an orator without oratory. “No man,” said Ben Jonson, 
-“ever spoke more neatly, more (com) pressedly, more weightily, 
+an orator without oratory. "No man," said Ben Jonson, 
+"ever spoke more neatly, more (com) pressedly, more weightily, 
 or suffered less emptiness, less idleness in what he uttered. No 
 member of his speech but consisted of its own graces. His 
 hearers could not cough or look aside from him without loss. 
 He commanded where he spoke. . . . No man had their affec- 
 tions more in his power. The fear of every man that heard 
-him was lest that he should make an end.” 1 Enviable orator ! 
+him was lest that he should make an end." 1 Enviable orator ! 
 
 One powerful friend was generous to him — that handsome 
 Earl of Essex whom Elizabeth loved unsuccessfully, and so 
@@ -6357,8 +5926,8 @@ testing against this treason ; and when Essex persisted, Bacon
 warned him that he would put loyalty to his Queen above even 
 gratitude to his friend. Essex made his effort, failed, and 
 was arrested. Bacon pled with the Queen in his behalf so in- 
-cessantly that at last she bade him “speak of any other sub- 
-ject.” When Essex, temporarily freed, gathered armed forces 
+cessantly that at last she bade him "speak of any other sub- 
+ject." When Essex, temporarily freed, gathered armed forces 
 about him, marched into London, and tried to rouse its popu- 
 lace to revolution, Bacon turned against him angrily. Mean- 
 while he had been given a place in the prosecuting office 
@@ -6369,7 +5938,7 @@ who had been his unstinting friend. 2
 1 Nichol: Francis Bacon; Edinburgh, 1907 ; i, 37. 
 
 2 Hundreds of volumes have been written on this aspect of Bacon’s career. 
-The case against Bacon, as “the wisest and meanest of mankind” (so Pope 
+The case against Bacon, as "the wisest and meanest of mankind" (so Pope 
 called him), will be found in Macaulay’s essay, and more circumstantially 
 in Abbott’s Francis Bacon ; these would apply to him his own words: 
 
@@ -6408,8 +5977,8 @@ templative or the active life. His hope was to be philosopher
 and statesman, too, like Seneca ; though he suspected that this 
 
 <f Wisdom for a man’s self is the wisdom of rats, that will be sure to leave 
-a house somewhat before it falls” (Essay “Of Wisdom for a Man’s Self”). 
-The case for Bacon is given in Spedding’s Life and Times of Francis Bacon , 
+a house somewhat before it falls" (Essay "Of Wisdom for a Man’s Self"). 
+The case for Bacon is given in Spedding’s Life and Times of Francis Bacon, 
 and in his Evenings with a Reviewer (a detailed reply to Macaulay). In 
 medio veritas. 
 
@@ -6428,29 +5997,29 @@ FRANCIS BACON
 
 
 double direction of his life would shorten his reach and lessen 
-his attainment. “It is hard to say,” he writes, 1 “whether mix- 
+his attainment. "It is hard to say," he writes, 1 "whether mix- 
 ture of contemplations with an active life, or retiring wholly 
-to contemplations, do disable or hinder the mind more.” He 
+to contemplations, do disable or hinder the mind more." He 
 felt that studies could not be either end or wisdom in them- 
 selves, and that knowledge unapplied in action was a pale 
-academic vanity. “To spend too much time in studies is 
+academic vanity. "To spend too much time in studies is 
 sloth; to use them too much for ornament is affectation; to 
 make judgment wholly by their rules is the humor of a scholar. 
 . . . Crafty men condemn studies, simple men admire them, 
 and wise men use them ; for they teach not their own use ; but 
 that is a wisdom without them, and above them, won by ob- 
-servation.” 2 Here is a new note, which marks the end of 
+servation." 2 Here is a new note, which marks the end of 
 scholasticism — i. e., the divorce of knowledge from use and 
 observation — and places that emphasis on experience and 
 results which distinguishes English philosophy, and culmi- 
 nates in pragmatism. Not that Bacon for a moment ceased 
 to love books and meditation ; in words reminiscent of Socrates 
-he writes, “without philosophy I care not to live”; 3 and he 
-describes himself as after all “a man naturally fitted rather 
+he writes, "without philosophy I care not to live"; 3 and he 
+describes himself as after all "a man naturally fitted rather 
 for literature than for anything else, and borne by some 
-destiny, against the inclination of his genius” (i. e., charac- 
-ter), “into active life.” 4 Almost his first publication was 
-called “The Praise of Knowledge” (1592) ; its enthusiasm 
+destiny, against the inclination of his genius" (i. e., charac- 
+ter), "into active life." 4 Almost his first publication was 
+called "The Praise of Knowledge" (1592) ; its enthusiasm 
 for philosophy compels quotation: 
 
 My praise shall be dedicate to the mind itself. The mind 
@@ -6465,7 +6034,7 @@ the mind of all perturbations? How many things be there
 
 i Valerius Terminus, ad fin, 
 
-* “Of Studies.” 
+* "Of Studies." 
 
 ©Dedication of Wisdom of the Ancients • 
 
@@ -6493,17 +6062,17 @@ commodities?
 
 His finest literary product, the Essays (1597-1623), show 
 him still torn between these two loves, for politics and for 
-philosophy. In the “Essay of Honor and Reputation” he 
+philosophy. In the "Essay of Honor and Reputation" he 
 gives all the degrees of honor to political and military achieve- 
 ments, none to the literary or the philosophical. But in the 
-essay “Of Truth” he writes : “The inquiry of truth, which is 
+essay "Of Truth" he writes : "The inquiry of truth, which is 
 the love-making or wooing of it; the knowledge of truth, 
 which is the praise of it ; and the belief of truth, which is the 
-enjoying of it, is the sovereign good of human natures.” 
-In books “we converse with the wise, as in action with fools.” 
-That is, if we know how to select our books. “Some books 
-are to be tasted,” reads a famous passage, “others to be 
-swallowed, and some few to be chewed and digested”; all 
+enjoying of it, is the sovereign good of human natures." 
+In books "we converse with the wise, as in action with fools." 
+That is, if we know how to select our books. "Some books 
+are to be tasted," reads a famous passage, "others to be 
+swallowed, and some few to be chewed and digested"; all 
 these groups forming, no doubt, an infinitesimal portion of 
 the oceans and cataracts of ink in which the world is daily 
 bathed and poisoned and drowned. 
@@ -6541,7 +6110,7 @@ nourishment in English . 1
 What shall we extract from this extracted wisdom? Per- 
 haps the best starting point, and the most arresting deviation 
 from the fashions of medieval philosophy, is Bacon’s frank ac- 
-ceptance of the Epicurean ethic. “That philosophical pro- 
+ceptance of the Epicurean ethic. "That philosophical pro- 
 gression, ‘Use not that you may not wish, wish not that you 
 may not fear,’ seems an indication of a weak, diffident and 
 timorous mind. And indeed most doctrines of the philoso- 
@@ -6551,11 +6120,11 @@ increase the fears of death by the remedies they bring against
 it; for whilst they make the life of man little more than a 
 preparation and discipline for death, it is impossible but the 
 enemy must appear terrible when there is no end of the de- 
-fense to be made against him.” 2 Nothing could be so in- 
+fense to be made against him." 2 Nothing could be so in- 
 jurious to health as the Stoic repression of desire ; what is the 
 use of prolonging a life which apathy has turned into pre- 
 mature death? And besides, it is an impossible philosophy; 
-for instinct will out. “Nature is often hidden; sometimes 
+for instinct will out. "Nature is often hidden; sometimes 
 overcome; seldom extinguished. Force maketh nature more 
 
 i The author’s preference is for Essays 2, 7, 8, 11, 12, 16, 18, 20, 27, 29, 38, 
@@ -6579,40 +6148,40 @@ revive upon the occasion or temptation. Like as it was with
 iEsop’s damsel, turned from a cat to a woman, who sat very 
 demurely at the board’s end, till a mouse ran before her. 
 Therefore let a man either avoid the occasion altogether, or 
-put himself often to it, that he may be little moved with it.” 1 
+put himself often to it, that he may be little moved with it." 1 
 Indeed Bacon thinks the body should be inured to excesses 
 as well as to restraint ; else even a moment of unrestraint may 
 ruin it. (So one accustomed to the purest and most digestible 
 foods is easily upset when forgetfulness or necessity diverts 
-him from perfection.) Yet “variety of delights rather than 
-surfeit of them” ; for “strength of nature in youth passeth over 
-many excesses which are owing a man till his age ” ; 2 a man’s 
+him from perfection.) Yet "variety of delights rather than 
+surfeit of them" ; for "strength of nature in youth passeth over 
+many excesses which are owing a man till his age " ; 2 a man’s 
 maturity pays the price of his youth. One royal road to 
 health is a garden; Bacon agrees with the author of Genesis 
-that “God Almighty first planted a garden” ; and with Voltaire 
+that "God Almighty first planted a garden" ; and with Voltaire 
 that we must cultivate our back yards. 
 
 The moral philosophy of the Essays smacks rather of 
 Machiavelli than of the Christianity to which Bacon made 
-so many astute obeisances. “We are beholden to Machiavel, 
+so many astute obeisances. "We are beholden to Machiavel, 
 and writers of that kind, who openly and unmasked declare 
 what men do in fact, and not what they ought to do ; for it is 
 impossible to join the wisdom of the serpent and the in- 
 nocence of the dove, without a previous knowledge of the 
 nature of evil; as, without this, virtue lies exposed and un- 
-guarded.” 3 “The Italians have an ungracious proverb, 
-Tanto buon che val niente ” — so good that he is good for 
+guarded." 3 "The Italians have an ungracious proverb, 
+Tanto buon che val niente " — so good that he is good for 
 nothing . 4 Bacon accords his preaching with his practice, and 
 advises a judicious mixture of dissimulation with honesty, 
 like an alloy that will make the purer but softer metal capable 
 
-i“Of Nature in Men.” 
+i"Of Nature in Men." 
 
-2 “Of Regiment of Health ” 
+2 "Of Regiment of Health " 
 
 *Adv. of L., xii, 2. 
 
-* “Of Goodness.” 
+* "Of Goodness." 
 
 
 FRANCIS BACON 
@@ -6622,14 +6191,14 @@ of longer life. He wants a full and varied career, giving
 acquaintance with everything that can broaden, deepen, 
 strengthen or sharpen the mind. He does not admire the 
 merely contemplative life; like Goethe he scorns knowledge 
-that does not lead to action: “men ought to know that in the 
+that does not lead to action: "men ought to know that in the 
 theatre of human life it is only for Gods and angels to bo 
-spectators.” 1 
+spectators." 1 
 
 His religion is patriotically like the King’s. Though he 
 was more than once accused of atheism, and the whole trend 
 of his philosophy is secular and rationalistic, he makes an elo- 
-quent and apparently sincere disclaimer of unbelief. “I 
+quent and apparently sincere disclaimer of unbelief. "I 
 had rather believe all the fables in the Legend, and the Tal- 
 mud and the Alcoran, than that this universal frame is with- 
 out a mind. ... A little philosophy inclineth a man’s mind 
@@ -6638,25 +6207,25 @@ about to religion. For while the mind of man looketh upon
 second causes scattered, it may sometimes rest in them and 
 go no further ; but when it beholdeth the chain of them, con- 
 federate and linked together, it must needs fly to Providence 
-and Deity.” 2 Religious indifference is due to a multiplicity 
-of factions. “The causes of atheism are, divisions in re- 
+and Deity." 2 Religious indifference is due to a multiplicity 
+of factions. "The causes of atheism are, divisions in re- 
 ligion, if they be many; for any one division addeth zeal to 
 both sides; but many divisions introduce atheism. . . . And 
 lastly, learned times, especially with peace and prosperity; 
 for troubles and adversities do more bow men’s minds to 
-religion.” 8 
+religion." 8 
 
 But Bacon’s value lies less in theology and ethics than in 
 psychology. He is an undeceivable analyst of human nature, 
 and sends his shaft into every heart. On the stalest subject 
-in the world he is refreshingly original. “A married man is 
-seven years older in his thoughts the first day .” 4 “It is 
-often seen that bad husbands have good wives.” (Bacon 
-was an exception.) “A single life doth well with churchmen, 
+in the world he is refreshingly original. "A married man is 
+seven years older in his thoughts the first day ." 4 "It is 
+often seen that bad husbands have good wives." (Bacon 
+was an exception.) "A single life doth well with churchmen, 
 
 1 Adv, of L, f vil, 1. 
 
-2 “Of Atheism.” 
+2 "Of Atheism." 
 
 8 Ibid, 
 
@@ -6668,24 +6237,24 @@ J28 THE STORY OF PHILOSOPHY
 for charity will hardly water the ground where it must first fill 
 a pool. . . . He that hath wife and children hath given 
 hostages to fortune ; for they are impediments to great enters 
-prises, either of virtue or mischief.” 1 Bacon seems to have 
+prises, either of virtue or mischief." 1 Bacon seems to have 
 worked too hard to have had time for love, and perhaps he 
-never quite felt it to its depth. “It is a strange thing to 
+never quite felt it to its depth. "It is a strange thing to 
 note the excess of this passion. . . . There was never proud 
 man thought so absurdly well of himself as the lover doth 
 of the person beloved. . . .You may observe that amongst all 
 the great and worthy persons (whereof the memory remaineth 
 either ancient or recent), there is not one that hath been 
 transported to the mad degree of love ; which shows that great 
-spirits and great business do keep out this weak passion.” 2 
+spirits and great business do keep out this weak passion." 2 
 He values friendship more than love, though of friendship 
-too he can be sceptical. “There is little friendship in the 
+too he can be sceptical. "There is little friendship in the 
 world, and least of all between equals, which was wont to be 
 magnified. That that is, is between superior and inferior, 
 whose fortunes may comprehend the one the other. ... A 
 principal fruit of friendship is the ease and discharge of the 
 fullness and swellings of the heart, which passions of all kinds 
-do cause and induce.” A friend is an ear. “Those that 
+do cause and induce." A friend is an ear. "Those that 
 want friends to open themselves unto are cannibals of their 
 own hearts. . . . Whoever hath his mind fraught with many 
 thoughts, his wits and understanding do clarify and break up 
@@ -6693,18 +6262,18 @@ in the communicating and discoursing with another ; he tosseth
 his thoughts more easily; he marshaleth them more orderly; 
 he seeth how they look when they are turned into words; 
 finally, he waxeth wiser than himself; and that more by one 
-hour’s discourse than by a day’s meditation.” 3 
+hour’s discourse than by a day’s meditation." 3 
 
-In the essay “Of Youth and Age” he puts a book into a 
-paragraph. “Young men are fitter to invent than to judge, 
+In the essay "Of Youth and Age" he puts a book into a 
+paragraph. "Young men are fitter to invent than to judge, 
 fitter for execution than for counsel, and fitter for new proj- 
 
-i“Of Marriage and Single Life.” Contrast the more pleasing phrase Of 
-Shakespeare, that “Love gives to every power a double power.” 
+i"Of Marriage and Single Life." Contrast the more pleasing phrase Of 
+Shakespeare, that "Love gives to every power a double power." 
 
-2 “Of Love.” 
+2 "Of Love." 
 
-8 “Of Followers and Friends”; “Of Friendship.” 
+8 "Of Followers and Friends"; "Of Friendship." 
 
 
 FRANCIS BACON 
@@ -6719,38 +6288,38 @@ in new things abuseth them, . . • Young men, in the conduct
 and management of actions, embrace more than they can hold, 
 stir more than they can quiet ; fly to the end without considera- 
 tion of the means and degrees; pursue absurdly some few 
-principles which they have chanced upon ; care not to” (i. e., 
-how they) “innovate, which draws unknown inconveniences. 
+principles which they have chanced upon ; care not to" (i. e., 
+how they) "innovate, which draws unknown inconveniences. 
 * . . Men of age object too much, consult too long, adventure 
 too little, repent too soon, and seldom drive business home to 
 the full period, but content themselves with a mediocrity of 
 success. Certainly it is good to compel employments of 
 both, . . . because the virtues of either may correct the de- 
-fects of both.” He thinks, nevertheless, that youth and child- 
+fects of both." He thinks, nevertheless, that youth and child- 
 hood may get too great liberty, and so grow disordered and 
-lax. “Let parents choose betimes the vocations and courses 
+lax. "Let parents choose betimes the vocations and courses 
 they mean their children should take, for then they are most 
 flexible; and let them not too much apply themselves to the 
 disposition of their children, as thinking they will take best 
 to that which they have most mind to. It is true that, if the 
 affections or aptness of the children be extraordinary, then 
-it is good not to cross it; but generally the precept” of the 
-Pythagoreans “is good, Optimum lege , suave et facile illud 
-faciet consuetudo ” — choose the best; custom will make it 
-pleasant and easy . 1 For “custom is the principal magistrate 
-of man’s life.” 2 
+it is good not to cross it; but generally the precept" of the 
+Pythagoreans "is good, Optimum lege, suave et facile illud 
+faciet consuetudo " — choose the best; custom will make it 
+pleasant and easy . 1 For "custom is the principal magistrate 
+of man’s life." 2 
 
 The politics of the Essays preach a conservatism 
 natural in one who aspired to rule. Bacon wants a strong 
 central power. Monarchy is the best form of government; 
 and usually the efficiency of a state varies with the concentra- 
-tion of power. “There be three points of business” in gov- 
-ernment: “the preparation; the debate or examination; and 
-the perfection” (or execution). “Whereof, if you look fo* 
+tion of power. "There be three points of business" in gov- 
+ernment: "the preparation; the debate or examination; and 
+the perfection" (or execution). "Whereof, if you look fo* 
 
-1 “Of Parents and Children.” 
+1 "Of Parents and Children." 
 
-2 “Of Custom.” 
+2 "Of Custom." 
 
 
 
@@ -6761,21 +6330,21 @@ THE STORY OF PHILOSOPHY
 
 
 dispatch, let the middle only be the work of many, and thfe 
-first and last the work of a few.” 1 He is an outspoken 
+first and last the work of a few." 1 He is an outspoken 
 militarist; he deplores the growth of industry as unfitting 
 men for war, and bewails long peace as lulling the warrior 
 in man. Nevertheless, he recognizes the importance of raw 
-materials: “Solon said well to Croesus (when in osten- 
+materials: "Solon said well to Croesus (when in osten- 
 tation Croesus showed him his gold), ‘Sir, if any other come 
 that hath better iron than you, he will be master of all this 
-gold.” 2 
+gold." 2 
 
 Like Aristotle, he has some advice on avoiding revolutions. 
-“The surest way to prevent seditions ... is to take away the 
+"The surest way to prevent seditions ... is to take away the 
 matter of them; for if there be fuel prepared, it is hard to 
 tell whence the spark shall come that shall set it on fire. . . . 
-Neither doth it follow that the suppressing of fames” (i. e., 
-discussion) “with too much severity should be a remedy of 
+Neither doth it follow that the suppressing of fames" (i. e., 
+discussion) "with too much severity should be a remedy of 
 troubles; for the despising of them many times checks them 
 best, and the going about to stop them but makes a wonder 
 long-lived. . . . The matter of sedition is of two kinds : much 
@@ -6784,22 +6353,22 @@ tives of seditions are, innovation in religion; taxes; alteration
 of laws and customs; breaking of privileges; general oppres- 
 sion; advancement of unworthy persons, strangers; dearths; 
 disbanded soldiers; factions grown desperate; and whatsoever 
-in offending a people joineth them in a common cause.” The 
+in offending a people joineth them in a common cause." The 
 cue of every leader, of course, is to divide his enemies and to 
-unite his friends. “Generally, the dividing and breaking of 
+unite his friends. "Generally, the dividing and breaking of 
 all factions . . . that are adverse to the state, and setting 
 them at a distance, or at least distrust, among themselves, is 
 not one of the worst remedies; for it is a desperate case, 
 if those that hold with the proceeding of the state be full of 
 discord and faction, and those that are against it be entire 
-and united.” 8 A better recipe for the avoidance of revolutions 
-is an equitable distribution of wealth: “Money is like muck, 
+and united." 8 A better recipe for the avoidance of revolutions 
+is an equitable distribution of wealth: "Money is like muck, 
 
-i“Of Dispatch.” 
+i"Of Dispatch." 
 
-2 “Of the True Greatness of Kingdoms.” 
+2 "Of the True Greatness of Kingdoms." 
 
-« “Of Seditions and Troubles.” 
+« "Of Seditions and Troubles." 
 
 
 
@@ -6809,16 +6378,16 @@ FRANCIS BACON
 131 
 
 
-not good unless it be spread.” 1 But this does not mean so- 
+not good unless it be spread." 1 But this does not mean so- 
 cialism, or even democracy; Bacon distrusts the people, who 
-were in his day quite without access to education ; “the lowest 
-of all flatteries is the flattery of the common people ” ; 2 and 
-“Phocion took it right, who, being applauded by the multitude, 
-asked, What had he done amiss ?” 3 What Bacon wants is 
+were in his day quite without access to education ; "the lowest 
+of all flatteries is the flattery of the common people " ; 2 and 
+"Phocion took it right, who, being applauded by the multitude, 
+asked, What had he done amiss ?" 3 What Bacon wants is 
 first a yeomanry of owning farmers; then an aristocracy for 
-administration; and above all a philosopher-king. “It is al- 
+administration; and above all a philosopher-king. "It is al- 
 most without instance that any government was unprosperous 
-under learned governors.” 4 He mentions Seneca, Antoninus 
+under learned governors." 4 He mentions Seneca, Antoninus 
 Pius and Aurelius ; it was his hope that to their names posterity 
 would add his own. 
 
@@ -6829,17 +6398,17 @@ with philosophy. It had been his nurse in youth, it was his
 companion in office, it was to be his consolation in prison 
 and disgrace. He lamented the ill-repute into which, he 
 thought, philosophy had fallen, and blamed an arid scholasti- 
-cism. “People are very apt to contemn truth, on account of 
+cism. "People are very apt to contemn truth, on account of 
 the controversies raised about it, and to think those all in a 
-wrong way who never meet.” 5 “The sciences . . . stand al- 
+wrong way who never meet." 5 "The sciences . . . stand al- 
 most at a stay, without receiving any augmentations worthy 
 of the L man race ; . . . and all the tradition and succession 
 of schook is still a succession of masters and scholars, not of 
 inventors. ... In what is now done in the matter of science 
 there is only a whirling about, and perpetual agitation, end- 
-ing where it began.” 6 All through the years of his rise and 
+ing where it began." 6 All through the years of his rise and 
 exaltation he brooded over the restoration or reconstruction 
-of philosophy ; “Meditor Instaurationem philosophiae .” 7 
+of philosophy ; "Meditor Instaurationem philosophiae ." 7 
 
 1 Ibid. 
 
@@ -6863,8 +6432,8 @@ THE STORY OF PHILOSOPHY
 
 
 He planned to centre all his studies around this task. First 
-of all, he tells us in his “Plan of the Work,” he would writf* 
-some Introductory Treatises , explaining the stagnation of 
+of all, he tells us in his "Plan of the Work," he would writf* 
+some Introductory Treatises, explaining the stagnation of 
 philosophy through the posthumous persistence of old methods, 
 and outlining his proposals for a new beginning. Secondly he 
 would attempt a new Classification of the Sciences, allocating 
@@ -6922,40 +6491,40 @@ FRANCIS BACON
 £er from every other philosophy in aiming at practice rather 
 than at theory, at specific concrete goods rather than at specu- 
 lative symmetry. Knowledge is power, not mere argument 
-or ornament ; “it is not an opinion to be held . . . but a work 
+or ornament ; "it is not an opinion to be held . . . but a work 
 to be done ; and I . . . am laboring to lay the foundation not 
-of any sect or doctrine, but of utility and power.” 1 Here, 
+of any sect or doctrine, but of utility and power." 1 Here, 
 for the first time, are the voice and tone of modern science. 
 
 1. The Advancement of Learnmg 
 
-To produce works, one must have knowledge. “Nature can- 
-iiot be commanded except by being obeyed.” 2 Let us learn 
+To produce works, one must have knowledge. "Nature can- 
+iiot be commanded except by being obeyed." 2 Let us learn 
 the laws of nature, and we shall be her masters, as we are now, 
 in ignorance, her thralls; science is the road to utopia. But 
 in what condition this road is — tortuous, unlit, turning back 
 upon itself, lost in useless by-paths, and leading not to light 
 but to chaos. Let us then begin by making a survey of the 
 state of the sciences, and marking out for them their proper 
-and distinctive fields; let us “seat the sciences each in its 
-proper place” ; 8 examine their defects, their needs, and their 
+and distinctive fields; let us "seat the sciences each in its 
+proper place" ; 8 examine their defects, their needs, and their 
 possibilities; indicate the new problems that await their light; 
-and in general “open and stir the earth a little about the 
-roots” of them. 4 
+and in general "open and stir the earth a little about the 
+roots" of them. 4 
 
 This is the task which Bacon set himself in The Advance- 
-ment of Learning . “It is my intention,” he writes, like a king 
-entering his realm, “to make the circuit of knowledge, noticing 
+ment of Learning . "It is my intention," he writes, like a king 
+entering his realm, "to make the circuit of knowledge, noticing 
 what parts lie waste and uncultivated, and abandoned by the 
 industry of man ; with a view to engage, by a faithful mapping 
 out of the deserted tracts, the energies of public and private 
-persons in their improvement.” 5 He would be the royal sur- 
+persons in their improvement." 5 He would be the royal sur- 
 veyor of the weed-grown soil, making straight the road, and 
 dividing the fields among the laborers. It was a plan auda- 
 
 1 Preface to Magna Instauratio, 
 
-2 “Plan of the Work.” 
+2 "Plan of the Work." 
 
 *Adv . of L iv, 2. 
 
@@ -6971,7 +6540,7 @@ THE STORY OF PHILOSOPHY
 
 cious to the edge of immodesty; but Bacon was still young 
 enough (forty-two is young in a philosopher) to plan great 
-voyages. “I have taken all knowledge to be my province,” 
+voyages. "I have taken all knowledge to be my province," 
 he had written to Burghley in 1592; not meaning that he 
 would make himself a premature edition of the Encyclopedia 
 Britarmica, but implying merely that his work would bring 
@@ -6984,12 +6553,12 @@ So he ranges over the vast battle-ground in which human
 research struggles with natural hindrance and human igno- 
 rance; and in every field he sheds illumination. He attaches 
 great importance to physiology and medicine; he exalts the 
-latter as regulating “a musical instrument of much and ex- 
-quisite workmanship easily put out of tune.” 1 But he ob- 
+latter as regulating "a musical instrument of much and ex- 
+quisite workmanship easily put out of tune." 1 But he ob- 
 jects to the lax empiricism of contemporary doctors, and their 
 facile tendency to treat all ailments with the same prescription 
-— usually physic. “Our physicians are like bishops, that have* 
-the keys of binding and loosing, but no more.” 2 They rely 
+— usually physic. "Our physicians are like bishops, that have* 
+the keys of binding and loosing, but no more." 2 They rely 
 too much on mere haphazard, uncoordinated individual experi- 
 ence; let them experiment more widely, let them illuminate 
 human with comparative anatomy, let them dissect and if nec- 
@@ -6999,8 +6568,8 @@ Bacon believes that the medical profession should be permitted
 to ease and quicken death (euthanasy) where the end would 
 be otherwise only delayed for a few days and at the cost of 
 great pain; but he urges the physicians to give more study 
-to the art of prolonging life. & This is a new part” of medi- 
-cine, “and deficient, though the most noble of all ; for if it may 
+to the art of prolonging life. & This is a new part" of medi- 
+cine, "and deficient, though the most noble of all ; for if it may 
 be supplied, medicine will not then be wholly versed in sordid 
 cures, nor physicians be honored only for necessity, but as dis- 
 pensers of the greatest earthly happiness that could well be 
@@ -7016,7 +6585,7 @@ FRANCIS BACON
 135 
 
 
-conferred on mortals .” 1 One can hear some sour Schopen- 
+conferred on mortals ." 1 One can hear some sour Schopen- 
 hauerian protesting, at this point, against the assumption that 
 longer life would be a boon, and urging, on the contrary, that 
 the speed with which some physicians put an end to our ill- 
@@ -7024,33 +6593,33 @@ nesses is a consummation devoutly to be praised. But Bacon,
 worried and married and harassed though he was, never 
 doubted that life was a very fine thing after all. 
 
-In psychology he is almost a “behaviorist” : he demands a 
+In psychology he is almost a "behaviorist" : he demands a 
 strict study of cause and effect in human action, and wishes 
 to eliminate the word chance from the vocabulary of science. 
-“ Chance is the name of a thing that does not exist.” 2 And 
-“what chance is in the universe, so will is in man.” 3 Here is 
+" Chance is the name of a thing that does not exist." 2 And 
+"what chance is in the universe, so will is in man." 3 Here is 
 a world of meaning, and a challenge of war, all in a little 
 line: the Scholastic doctrine of free will is pushed aside as 
-beneath discussion; and the universal assumption of a “will” 
-distinct from the “intellect” is discarded. These are leads 
+beneath discussion; and the universal assumption of a "will" 
+distinct from the "intellect" is discarded. These are leads 
 which Bacon does not follow up ; 4 it is not the only case in 
 which he puts a book into a phrase and then passes blithely on. 
 
 Again in a few words, Bacon invents a new science — social 
-psychology. “Philosophers should diligently inquire into the 
+psychology. "Philosophers should diligently inquire into the 
 powers and energy of custom, exercise, habit, education, ex- 
 ample, imitation, emulation, company, friendship, praise, re- 
 proof, exhortation, reputation, laws, books, studies etc.; for 
 these are the things that reign in men’s morals ; by these agents 
-the mind is formed and subdued.” 5 So closely has this outline 
+the mind is formed and subdued." 5 So closely has this outline 
 been followed by the new science that it reads almost like a 
 table of contents for the works of Tarde, Le Bon, Ross, Wallas, 
 and Durkheim. 
 
 Nothing is beneath science, nor above it. Sorceries, 
-dreams, predictions, telepathic communications, “psychical 
-phenomena” in general must be subjected to scientific examina- 
-tion ; “for it is not known in what cases, and how far, effects 
+dreams, predictions, telepathic communications, "psychical 
+phenomena" in general must be subjected to scientific examina- 
+tion ; "for it is not known in what cases, and how far, effects 
 
 1 Ibid . 
 
@@ -7069,17 +6638,17 @@ tion ; “for it is not known in what cases, and how far, effects
 THE STORY OF PHILOSOPHY 
 
 
-attributed to superstition participate of natural causes .” 1 
+attributed to superstition participate of natural causes ." 1 
 Despite his strong naturalistic bent he feels the fascination of 
 these problems ; nothing human is alien to him. Who knows 
 what unsuspected truth, what new science, indeed, may grow 
 put of these investigations, as chemistry budded out from al- 
-chemy? “Alchemy may be compared to the man who told his 
+chemy? "Alchemy may be compared to the man who told his 
 sons he had left them gold buried somewhere in his vineyard; 
 where they, by digging, found no gold, but by turning up the 
 mould about the roots of the vines, procured a plentiful vin- 
 tage. So the search and endeavors to make gold have brought 
-many useful inventions and instructive experiments to light.” 2 
+many useful inventions and instructive experiments to light." 2 
 Still another science grows to form in Book VIII: the sci- 
 ence of success in life. Not yet having fallen from power. 
 Bacon offers some preliminary hints on how to rise in the 
@@ -7134,14 +6703,14 @@ help to explain Napoleon’s; for a man’s friends will seldom
 practice a higher philosophy in their relations with him than 
 that which he professes in his treatment of them. Bacon goes 
 on to quote Bias, one of the Seven Wise Men of ancient Greece : 
-“Love your friend as if he were to become your enemy, and 
-your enemy as if he were to become your friend.” 3 Do not 
+"Love your friend as if he were to become your enemy, and 
+your enemy as if he were to become your friend." 3 Do not 
 betray even to your friend too much of your real purposes and 
 thoughts; in conversation, ask questions oftener than you ex- 
 press opinions; and when you speak, offer data and informa- 
 tion rather than beliefs and judgments . 4 Manifest pride is a 
-help to advancement; and “ostentation is a fault in ethics 
-rather than in politics.” 5 Here again one is reminded of Na- 
+help to advancement; and "ostentation is a fault in ethics 
+rather than in politics." 5 Here again one is reminded of Na- 
 poleon ; Bacon, like the little Corsican, was a simple man 
 enough within his walls, but outside them he affected a cere- 
 mony and display which he thought indispensable to public 
@@ -7151,14 +6720,14 @@ So Bacon runs from field to field, pouring the seed of his
 thought into every science. At the end of his survey he comes 
 to the conclusion that science by itself is not enough : there must 
 be a force and discipline outside the sciences to coordinate 
-them and point them to a goal. “There is another great and 
+them and point them to a goal. "There is another great and 
 
 ilbid., viii, 2. 
 
 2 Cf. Edward Carpenter’s delightful Iolaiis: an Anthology of Friendship . 
 sAdv. of L., viii, 2. 
 
-4 Essays “Of Dissimulation” and “Of Discourse ” 
+4 Essays "Of Dissimulation" and "Of Discourse " 
 
 *Adv. of L viii, 2. 
 
@@ -7172,14 +6741,14 @@ THE STORY OF PHILOSOPHY
 
 powerful cause why the sciences have made but little progress, 
 which is this. It is not possible to run a course aright when 
-the goal itself has not been rightly placed.” 1 What science 
+the goal itself has not been rightly placed." 1 What science 
 needs is philosophy — the analysis of scientific method, and the 
 coordination of scientific purposes and results; without this, 
-any science must be superficial. “For as no perfect view of 
+any science must be superficial. "For as no perfect view of 
 a country can be taken from a flat ; so it is impossible to dis- 
 cover the remote and deep parts of any science by standing 
 upon the level of the same science, or without ascending to 
-a higher.” 2 He condemns the habit of looking at isolated 
+a higher." 2 He condemns the habit of looking at isolated 
 facts out of their context, without considering the unity 
 of nature; as if, he says, one should carry a small candle 
 about the corners of a room radiant with a central light. 
@@ -7187,8 +6756,8 @@ about the corners of a room radiant with a central light.
 Philosophy, rather than science, is in the long run Bacon’s 
 love ; it is only philosophy which can give even to a life of tur«> 
 moil and grief the stately peace that comes of understanding, 
-“Learning conquers or mitigates the fear of death and adverse 
-fortune.” He quotes Virgil’s great lines : 
+"Learning conquers or mitigates the fear of death and adverse 
+fortune." He quotes Virgil’s great lines : 
 
 Felix qui potuit rerum cognoscere causas, 
 
@@ -7196,20 +6765,20 @@ Quique metus omnes, et inexorabile fatum,
 
 Subjecit pedibus, strepitumque Acherontis avari — 
 
-“happy the man who has learned the causes of things, and has 
+"happy the man who has learned the causes of things, and has 
 put under his feet all fears, and inexorable fate, and the noisy 
-strife of the hell of greed.” It is perhaps the best fruit of 
+strife of the hell of greed." It is perhaps the best fruit of 
 philosophy that through it we unlearn the lesson of endless 
 acquisition which an industrial environment so insistently re- 
-peats. “Philosophy directs us first to seek the goods of the 
+peats. "Philosophy directs us first to seek the goods of the 
 mind, and the rest will either be supplied, or not much 
-wanted.” 3 A bit of wisdom is a joy forever. 
+wanted." 3 A bit of wisdom is a joy forever. 
 
 Government suffers, precisely like science, for lack of phi- 
 losophy. Philosophy bears to science the same relationship 
 which statesmanship bears to politics: movement guided by 
 
-lAdo. of L ,, i, 81. 
+lAdo. of L,, i, 81. 
 
 2 Ibid., i. 
 
@@ -7226,7 +6795,7 @@ total knowledge and perspective, as against aimless and in-
 dividual seeking. Just as the pursuit of knowledge becomes 
 scholasticism when divorced from the actual needs of men and 
 life, so the pursuit of politics becomes a destructive bedlam 
-when divorced from science and philosophy. “It is wrong to 
+when divorced from science and philosophy. "It is wrong to 
 trust the natural body to empirics, who commonly have a few 
 receipts whereon they rely, but who know neither the cause of 
 the disease, nor the constitution of patients, nor the danger 
@@ -7237,7 +6806,7 @@ grounded in learning. . . . Though he might be thought par-
 tial to his profession who said, 6 States would then be happy, 
 when either kings were philosophers or philosophers kings,’ 
 yet so much is verified by experience, that the best times have 
-happened under wise and learned princes.” 1 And he reminds 
+happened under wise and learned princes." 1 And he reminds 
 us of the great emperors who ruled Rome after Domitian 
 and before Commodus. 
 
@@ -7249,11 +6818,11 @@ and armies of specialist research. No one mind, not even
 Bacon’s, could cover the whole field, though he should look 
 from Olympus’ top itself. He knew he needed help, and keenly 
 felt his loneliness in the mountain-air of his unaided enterprise. 
-“What comrades have you in your work?” he asks a friend. 
-“As for me, I am in the completest solitude.” 2 He dreams of 
+"What comrades have you in your work?" he asks a friend. 
+"As for me, I am in the completest solitude." 2 He dreams of 
 scientists coordinated in specialization by constant communion 
 and cooperation, and by some great organization holding them 
-together to a goal. “Consider what may be expected from 
+together to a goal. "Consider what may be expected from 
 men abounding in leisure, and from association of labors, and 
 from successions of ages ; the rather because it is not a way over 
 which only one man can pass at a time (as is the case with that 
@@ -7275,26 +6844,26 @@ men (especially as regards the collecting of experience) may
 with the best effort be collected and distributed, and then com- 
 bined. For then only will men begin to know their strength 
 when, instead of great numbers doing all the same things, one 
-shall take charge of one thing, and another of another.” 1 
+shall take charge of one thing, and another of another." 1 
 Science, which is the organization of knowledge, must itself be 
 organized. 
 
 And this organization must be international; let it pass 
 freely over the frontiers, and it may make Europe intellectu- 
-ally one. “The next want I discover is the little sympathy 
+ally one. "The next want I discover is the little sympathy 
 and correspondence which exists between colleges and univer- 
 sities, as well throughout Europe as in the same state and 
-kingdom.” 2 Let all these universities allot subjects and prob- 
+kingdom." 2 Let all these universities allot subjects and prob- 
 lems among themselves, and cooperate both in research and 
 in publication. So organized and correlated, the universities 
 might be deemed worthy of such royal support as would make 
 them what they shall be in Utopia — centers of impartial learn- 
-ing ruling the world. Bacon notes “the mean salaries appor- 
+ing ruling the world. Bacon notes "the mean salaries appor- 
 tioned to public lectureships, whether in the sciences or the 
-arts ”; 3 and he feels that this will continue till governments 
-take over the great tasks of education. “The wisdom of the 
+arts "; 3 and he feels that this will continue till governments 
+take over the great tasks of education. "The wisdom of the 
 ancientest and best times always complained that states were 
-too busy with laws, and too remiss in point of education.” 4 
+too busy with laws, and too remiss in point of education." 4 
 His great dream is the socialization of science for the conquest 
 of nature and the enlargement of the power of man. 
 
@@ -7303,8 +6872,8 @@ tery which he knew his Royal Highness loved to sip. James
 was a scholar as well as a monarch, prouder of his pen than 
 of his sceptre or his sword; something might be expected of 
 so literary and erudite a king. Bacon tells James that the 
-plans he has sketched are “indeed opera basilica ” — kingly 
-tasks — “towards which the endeavors of one man can be but 
+plans he has sketched are "indeed opera basilica " — kingly 
+tasks — "towards which the endeavors of one man can be but 
 
 1 Nov. Org i, I1& 
 
@@ -7321,23 +6890,23 @@ FRANCIS BACON
 141 
 
 as an image on a cross-road, which points out the way but 
-cannot tread it.” Certainly these royal undertakings will in- 
-volve expense ; but “as the secretaries and spies of princes and 
+cannot tread it." Certainly these royal undertakings will in- 
+volve expense ; but "as the secretaries and spies of princes and 
 states bring in bills for intelligence, so you must allow the 
 spies and intelligencers of nature to bring in their bills if you 
 would not be ignorant of many things worthy to be known. 
 And if Alexander placed so large a treasure at Aristotle’s com- 
 mand for the support of hunters, fowlers, fishers, and the like, 
 in much more need do they stand of this beneficence who un- 
-fold the labyrinths of nature.” 1 With such royal aid the 
+fold the labyrinths of nature." 1 With such royal aid the 
 Great Reconstruction can be completed in a few years; with- 
 out it the task will require generations. 
 
 What is refreshingly new in Bacon is the magnificent as- 
 surance with which he predicts the conquest of nature by man ; 
-“I stake all on the victory of art over nature in the race.” 
-That which men have done is “but an earnest of the things 
-they shall do.” But why this great hope? Had not men 
+"I stake all on the victory of art over nature in the race." 
+That which men have done is "but an earnest of the things 
+they shall do." But why this great hope? Had not men 
 been seeking truth, and exploring the paths of science, these 
 two thousand years? Why should one hope now for such 
 great success where so long a time had given so modest a 
@@ -7354,8 +6923,8 @@ And so Bacon offers us his supreme book.
 
 2. The New Organon 
 
-“Bacon’s greatest performance,” says his bitterest critic, “is 
-the first book of the Novum Orgcmim .” 2 Never did a man 
+"Bacon’s greatest performance," says his bitterest critic, "is 
+the first book of the Novum Orgcmim ." 2 Never did a man 
 put more life into logic, making induction an epic adventure 
 
 1 Ibid.* ii, 1. 
@@ -7371,29 +6940,29 @@ THE STORY OF PHILOSOPHY
 
 
 and a conquest. If one must study logic, let him begin with 
-this book. “This part of human philosophy which regards 
+this book. "This part of human philosophy which regards 
 logic is disagreeable to the taste of many, as appearing to them 
 no other than a net, and a snare of thorny subtlety. . . . But 
 if we would rate things according to their real worth, the ra- 
-tional sciences are the keys to all the rest.” 1 
+tional sciences are the keys to all the rest." 1 
 
 Philosophy has been barren so long, says Bacon, because she 
 needed a new method to make her fertile. The great mistake 
 of the Greek philosophers was that they spent so much time 
 in theory, so little in observation. But thought should be the 
-aide of observation, not its substitute. “Man,” says the first 
+aide of observation, not its substitute. "Man," says the first 
 aphorism of the Novum Organum, as if flinging a challenge to 
-all metaphysics, — “Man, as the minister and interpreter of 
+all metaphysics, — "Man, as the minister and interpreter of 
 nature, does and understands as much as his observations on 
 the order of nature . . . permit him; and neither knows nor 
-is capable of mors.” The predecessors of Socrates were in 
+is capable of mors." The predecessors of Socrates were in 
 this matter sounder than his followers ; Democritus, in particu- 
 lar, had a nose for facts, rather than an eye for the clouds. 
 No wonder that philosophy has advanced so little since Aris- 
-totle’s day; it has been using Aristotle’s methods. “To go 
+totle’s day; it has been using Aristotle’s methods. "To go 
 beyond Aristotle by the light of Aristotle is to think that a 
 borrowed light can increase the original light from which it is 
-taken.” 2 Now, after two thousand years of logic-chopping 
+taken." 2 Now, after two thousand years of logic-chopping 
 with the machinery invented by Aristotle, philosophy has fallen 
 so low that none will do her reverence. All these medieval 
 theories, theorems and disputations must be cast out and for- 
@@ -7422,22 +6991,22 @@ Protestant rejection of image-worship), is a picture taken for
 a reality, a thought mistaken for a thing. Errors come un : 
 der this head; and the first problem of logic is to trace and 
 dam the sources of these errors. Bacon proceeds now to a 
-justly famous analysis of fallacies; “no man,” said Condillac, 
-“has better known than Bacon the causes of human error.” 
+justly famous analysis of fallacies; "no man," said Condillac, 
+"has better known than Bacon the causes of human error." 
 
-These errors are, first, Idols of the Tribe , — fallacies natu- 
-ral to humanity in general. “For man’s sense is falsely as- 
-serted” (by Protagoras’ “Man is the measure of all things”) 
-“to be the standard of things : on the contrary, all the percep- 
+These errors are, first, Idols of the Tribe, — fallacies natu- 
+ral to humanity in general. "For man’s sense is falsely as- 
+serted" (by Protagoras’ "Man is the measure of all things") 
+"to be the standard of things : on the contrary, all the percep- 
 tions, both of the senses and the mind, bear reference to man 
 and not to the universe ; and the human mind resembles those 
 uneven mirrors which impart their own properties to different 
-objects . . . and distort and disfigure them.” 1 Our thoughts 
+objects . . . and distort and disfigure them." 1 Our thoughts 
 are pictures rather of ourselves than of their objects. For 
-example, “the human understanding, from its peculiar na- 
+example, "the human understanding, from its peculiar na- 
 ture, easily supposes a greater degree of order and regularity 
 in things than it really finds. . . . Hence the fiction that all 
-celestial bodies move in perfect circles.” 2 Again, 
+celestial bodies move in perfect circles." 2 Again, 
 
 the human understanding, when any proposition has been 
 once laid down (either from general admission and belief, 
@@ -7452,8 +7021,8 @@ was shown in a temple the votive tablets suspended by such
 as had escaped the peril of shipwreck, and was pressed as 
 to whether he would then recognize the power of the gods. 
 
-. . . “But where are the portraits of those that have per- 
-ished in spite of their vows?” All superstition is much the 
+. . . "But where are the portraits of those that have per- 
+ished in spite of their vows?" All superstition is much the 
 same, whether it be that of astrology, dreams, omens, retribu- 
 
 *Nov. Org i, 41. 
@@ -7470,32 +7039,32 @@ tive judgment, or the like, in all of which the deluded be-
 lievers observe events which are fulfilled, but neglect and pass 
 over their failure, though it be much more common . 1 
 
-“Having first determined the question according to his will, 
+"Having first determined the question according to his will, 
 man then resorts to experience; and bending her into con- 
 formity with his placets, leads her about like a captive in a 
-procession.” 2 In short, “the human understanding is no dry 
+procession." 2 In short, "the human understanding is no dry 
 light, but receives an infusion from the will and affections, 
 whence proceed sciences which may be called ‘sciences as one 
 would.’ . . . For what a man had rather were true, he more 
-readily believes.” 3 Is it not so? 
+readily believes." 3 Is it not so? 
 
-Bacon gives at this point a word of golden counsel. “In 
+Bacon gives at this point a word of golden counsel. "In 
 general let every student of nature take this as a rule — that 
 whatever his mind seizes and dwells upon with peculiar satis- 
 faction, is to be held in suspicion ; and that so much the more 
 care is to be taken, in dealing with such questions, to keep 
-the understanding even and clear .” 4 “The understanding 
+the understanding even and clear ." 4 "The understanding 
 must not be allowed to jump and fly from particulars to re- 
 mote axioms and of almost the highest generality; ... it 
 must not be supplied with wings, but rather hung with weights 
-to keep it from leaping and flying.” 5 The imagination may 
+to keep it from leaping and flying." 5 The imagination may 
 be the greatest enemy of the intellect, whereas it should be 
 only its tentative and experiment. 
 
 A second class of errors Bacon calls Idols of the Cave — er^ 
-rors peculiar to the individual man. “For every one . . . has 
+rors peculiar to the individual man. "For every one . . . has 
 a cave or den of his own, which refracts and discolors the light 
-of nature” ; this is his character as formed by nature and nur- 
+of nature" ; this is his character as formed by nature and nur- 
 ture, and by his mood or condition of body and mind. Some 
 minds, e. g., are constitutionally analytic, and see differences 
 everywhere; others are constitutionally synthetic, and see re- 
@@ -7517,22 +7086,22 @@ FRANCIS BACON
 UB 
 
 one hand, and on the other hand the poet and the philosopher. 
-Again, “some dispositions evince an unbounded admiration for 
+Again, "some dispositions evince an unbounded admiration for 
 antiquity, others eagerly embrace . novelty ; only a few can 
 preserve the just medium, and neither tear up what the an- 
 cients have correctly established, nor despise the just innova- 
-tions of the moderns.” 1 Truth knows no parties. 
+tions of the moderns." 1 Truth knows no parties. 
 
-Thirdly, Idols of the MarJcet-place, arising “from the com- 
+Thirdly, Idols of the MarJcet-place, arising "from the com- 
 merce and association of men with one another. For men con- 
 verse by means of language ; but words are imposed according 
 to the understanding of the crowd; and there arises from a 
 bad and inapt formation of words, a wonderful obstruction to 
-the mind.” 2 Philosophers deal out infinites with the careless 
+the mind." 2 Philosophers deal out infinites with the careless 
 assurance of grammarians handling infinitives; and yet does 
-any man know what this “infinite” is, or whether it has even 
+any man know what this "infinite" is, or whether it has even 
 taken the precaution of existing? Philosophers talk about 
-“first cause uncaused,” or “first mover unmoved” ; but are not 
+"first cause uncaused," or "first mover unmoved" ; but are not 
 these again fig-leaf phrases used to cover naked ignorance, 
 and perhaps indicative of a guilty conscience in the user? 
 Every clear and honest head knows that no cause can be cause- 
@@ -7540,7 +7109,7 @@ less, nor any mover unmoved. Perhaps the greatest recon-
 struction in philosophy would be simply this — that we should 
 stop lying. 
 
-“Lastly, there are idols which have migrated into men’s 
+"Lastly, there are idols which have migrated into men’s 
 minds from the various dogmas of philosophers, and also from 
 wrong laws of demonstration. These I call Idols of the 
 Theatre, because in my judgment all the received systems of 
@@ -7550,7 +7119,7 @@ And in the plays of this philosophic theater you may observe
 the same thing which is found in the theater of the poets, — 
 that stories invented for the stage are more compact and 
 elegant, and more as we would wish them to be, than true 
-stories out of history .” 3 The world as Plato describes it 
+stories out of history ." 3 The world as Plato describes it 
 
 1 Ibid., i, 56. 
 
@@ -7567,37 +7136,37 @@ rather than the world.
 We shall never get far along towards the truth if these 
 idols are still to trip us up, even the best of us, at every turn. 
 We need new modes of reasoning, new tools for the under- 
-standing. “And as the immense regions of the West Indies 
+standing. "And as the immense regions of the West Indies 
 had never been discovered, if the use of the compass had not 
 first been known, it is no wonder that the discovery and ad- 
 vancement of arts hath made no greater progress, when the 
 art of inventing and discovering of the sciences remains 
-hitherto unknown.” 1 “And surely it would be disgraceful, 
+hitherto unknown." 1 "And surely it would be disgraceful, 
 if, while the regions of the material globe . . . have been in 
 our times laid widely open and revealed, the intellectual globe 
 should remain shut up within the narrow limits of old dis- 
-coveries.” 2 
+coveries." 2 
 
 Ultimately, our troubles are due to dogma and deduction; 
 we find no new truth because we take some venerable but 
 questionable proposition as an indubitable starting-point, and 
 never think of putting this assumption itself to the test of 
-observation or experiment. Now “if a man will begin with 
+observation or experiment. Now "if a man will begin with 
 certainties, he shall end in doubts ; but if he will be content to 
-begin in doubts he shall end in certainties” (alas, it is not 
+begin in doubts he shall end in certainties" (alas, it is not 
 quite inevitable). Here is a note common in the youth of 
 modern philosophy, part of its declaration of independence; 
-Descartes too would presently talk of the necessity of “me- 
-thodic doubt” as the cobweb-clearing pre-requisite of honest 
+Descartes too would presently talk of the necessity of "me- 
+thodic doubt" as the cobweb-clearing pre-requisite of honest 
 thought. 
 
 Bacon proceeds to give an admirable description of the 
-scientific method of inquiry. “There remains simple experi- 
-ence; which, if taken as it comes, is called accident” (“em- 
-pirical”), “if sought for, experiment. . . . The true method 
-of experience first lights the candle” (hypothesis), “and then 
-by means of the candle shows the way” (arranges and delimits 
-the experiment) ; “commencing as it does with experience duly 
+scientific method of inquiry. "There remains simple experi- 
+ence; which, if taken as it comes, is called accident" ("em- 
+pirical"), "if sought for, experiment. . . . The true method 
+of experience first lights the candle" (hypothesis), "and then 
+by means of the candle shows the way" (arranges and delimits 
+the experiment) ; "commencing as it does with experience duly 
 
 1 ddv. of L., v, 2. 
 
@@ -7608,29 +7177,29 @@ FRANCIS BACON 147
 
 ordered and digested, not bungling nor erratic, and from it 
 educing axioms, and from established axioms again new ex« 
-perimentSo” 1 (We have here — as again in a later passage * 
-which speaks of the results of initial experiments as a “first 
-vintage” to guide further research — an explicit, though per- 
+perimentSo" 1 (We have here — as again in a later passage * 
+which speaks of the results of initial experiments as a "first 
+vintage" to guide further research — an explicit, though per- 
 haps inadequate, recognition of that need for hypothesis, 
 experiment and deduction which some of Bacon’s critics sup- 
 pose him to have entirely overlooked.) We must go to 
 nature instead of to books, traditions and authorities; we 
-must “put nature on the rack and compel her to bear witness” 
+must "put nature on the rack and compel her to bear witness" 
 even against herself, so that we may control her to our ends. 
-We must gather together from every quarter a “natural his- 
-tory” of the world, built by the united research of Europe’s 
+We must gather together from every quarter a "natural his- 
+tory" of the world, built by the united research of Europe’s 
 scientists. We must have induction. 
 
-But induction does not mean “simple enumeration” of all 
+But induction does not mean "simple enumeration" of all 
 the data; conceivably, this might be endless, and useless; no 
 mass of material can by itself make science. This would be 
-like “chasing a quarry over an open country”; we must 
+like "chasing a quarry over an open country"; we must 
 narrow and enclose our field in order to capture our prey. 
 The method of induction must include a technique for the 
 classification of data and the elimination of hypotheses; so 
 that by the progressive canceling of possible explanations 
 one only shall at last remain. Perhaps the most useful item 
-in this technique is the “table of more or less,” which lists 
+in this technique is the "table of more or less," which lists 
 instances in which two qualities or conditions increase or 
 decrease together, and so reveals, presumably, a causal rela- 
 tion between the simultaneously varying phenomena. So 
@@ -7658,17 +7227,17 @@ THE STORY OF PHILOSOPHY
 come, in Bacon’s phrase, to the form of the phenomenon 
 which we study, — to its secret nature and its inner essence. 
 The theory of forms in Bacon is very much like the theory 
-of ideas in Plato : a metaphysics of science. “When we speak 
+of ideas in Plato : a metaphysics of science. "When we speak 
 of forms we mean nothing else than those laws and regulations 
 of simple action which arrange and constitute any simple 
 nature. . . . The form of heat or the form of light, there- 
-fore, means no more than the law of heat or the law of light.” 1 
+fore, means no more than the law of heat or the law of light." 1 
 (In a similar strain Spinoza was to say that the law of the 
-circle is its substance .) “For although nothing exists in na- 
+circle is its substance .) "For although nothing exists in na- 
 ture except individual bodies exhibiting clear individual effects 
 according to particular laws ; yet, in each branch of learning, 
 those very laws — their investigation, discovery and develop- 
-ment — are the foundation both of theory and of practice.” 2 
+ment — are the foundation both of theory and of practice." 2 
 Of theory and of practice; one without the other is useless 
 and perilous; knowledge that does not generate achievement 
 is a pale and bloodless thing, unworthy of mankind. We 
@@ -7686,9 +7255,9 @@ man may decide to make.
 To perfect science so, and then to perfect social order by 
 putting science in control, would itself be utopia enough. 
 Such is the world described for us in Bacon’s brief fragment 
-and last work, The New Atlantis , published two years before 
-his death. Wells thinks it Bacon’s “greatest service to 
-science” 3 to have drawn for us, even so sketchily, the picture 
+and last work, The New Atlantis, published two years before 
+his death. Wells thinks it Bacon’s "greatest service to 
+science" 3 to have drawn for us, even so sketchily, the picture 
 
 1 Ibid., ii, 13, 17. 
 
@@ -7704,7 +7273,7 @@ the master of things; it was a royal act of imagination by
 which for three centuries one goal has been held in view by 
 the great army of warriors in the battle of knowledge and 
 invention against ignorance and poverty. Here in these few 
-pages we have the essence and the “form” of Francis Bacon, 
+pages we have the essence and the "form" of Francis Bacon, 
 the law of his being and his life, the secret and continuous 
 aspiration of his soul. 
 
@@ -7721,9 +7290,9 @@ isle distant enough from Europe and from knowledge to give
 generous scope to the Utopian imagination. 
 
 The story begins in the most artfully artless way, like 
-the great tales of Defoe and Swift. “We sailed from Peru 
+the great tales of Defoe and Swift. "We sailed from Peru 
 (where we had continued for the space of one whole year), 
-for China and Japan by the South Sea.” Came a great 
+for China and Japan by the South Sea." Came a great 
 calm, in which the ships for weeks lay quietly on the boundless 
 ocean like specks upon a mirror, while the provisions of the 
 adventurers ebbed away. And then resistless winds drove the 
@@ -7751,27 +7320,27 @@ Nevertheless, since some of the crew were sick, they might all
 stay till these were well again. 
 
 During the weeks of convalescence the wanderers unraveled, 
-day by day, the mystery of the New Atlantis. “There 
-reigned in this island about nineteen hundred years ago,” one 
-of the inhabitants tells them, “a King whose memory above all 
+day by day, the mystery of the New Atlantis. "There 
+reigned in this island about nineteen hundred years ago," one 
+of the inhabitants tells them, "a King whose memory above all 
 others we most adore. . . . His name was Solamona, and we 
 esteem him as the Law-giver of our nation. This King had a 
 large heart . . . and was wholly bent to make his kingdom 
-and people happy .” 1 “Among the excellent acts of that 
+and people happy ." 1 "Among the excellent acts of that 
 King one above all hath the preeminence. It was the creation 
 and institution of the Order, or Society, which is called 
 Solomon’s House; the noblest foundation, as we think, that 
-was ever upon the earth ; and the lantherne of this kingdom.” 2 
+was ever upon the earth ; and the lantherne of this kingdom." 2 
 
 There follows a description of Solomon’s House, too com- 
 plicated for a quoted abstract, but eloquent enough to (draw 
-from the hostile Macaulay the judgment that “there is not 
+from the hostile Macaulay the judgment that "there is not 
 to be found in any human composition a passage more 
-eminently distinguished by profound and serene wisdom.” 3 
+eminently distinguished by profound and serene wisdom." 3 
 Solomon’s House takes the place, in the New Atlantis, of the 
 Houses of Parliament in London ; it is the home of the island 
 government. But there are no politicians there, no insolent 
-“elected persons,” no “national palaver,” as Carlyle would 
+"elected persons," no "national palaver," as Carlyle would 
 say; no parties, caucuses, primaries, conventions, campaigns, 
 buttons, lithographs, editorials, speeches, lies, and elections; 
 the idea of filling public office by such dramatic methods seems 
@@ -7801,25 +7370,25 @@ out politicians!
 
 Indeed there is little government at all in the New Atlantis ; 
 these governors are engaged rather in controlling nature than 
-in ruling man. “The End of Our Foundation is the Knowl- 
+in ruling man. "The End of Our Foundation is the Knowl- 
 edge of Causes and secret motions of things ; and the enlarg- 
 ing of the bounds of human empire, to the effecting of all 
-things possible.” 1 This is the key-sentence of the book, and 
+things possible." 1 This is the key-sentence of the book, and 
 of Francis Bacon. We find the governors engaged in such 
 undignified tasks as studying the stars, arranging to utilize 
 for industry the power of falling water, developing gases for 
-the cure of various ailments , 2 experimenting on animals for 
+the cure of various ailments, 2 experimenting on animals for 
 surgical knowledge, growing new varieties of plants and 
-animals by cross-breeding, etc. “We imitate the flights of 
+animals by cross-breeding, etc. "We imitate the flights of 
 birds; we have some degree of flying in the air. We have 
-ships and boats for going under water.” There is foreign 
+ships and boats for going under water." There is foreign 
 trade, but of an unusual sort; the island produces what it 
 consumes, and consumes what it produces; it does not go to 
-war for foreign markets. “We maintain a trade, not of gold, 
+war for foreign markets. "We maintain a trade, not of gold, 
 silver, or jewels, nor for silks, nor for spices, nor for any 
 other commodity or matter ; but only for God’s first creature, 
 which was light; to have light of the growth of all parts of 
-the world.” 3 These “Merchants of Light” are members of 
+the world." 3 These "Merchants of Light" are members of 
 Solomon’s House who are sent abroad every twelve years to 
 live among foreign peoples of every quarter of the civilized 
 globe; to learn their language and study their sciences and 
@@ -7873,14 +7442,14 @@ Bacon’s?
 Is there anything new in it? Macaulay thinks that induc- 
 tion as described by Bacon is a very old-fashioned affair, over 
 which there is no need of raising any commotion, much less a 
-monument. “Induction has been practiced from morning 
+monument. "Induction has been practiced from morning 
 till night by every human being since the world began. The 
 man who infers that mince pies disagreed with him because 
 he was ill when he ate them, well when he ate them not, most 
 ill when he ate most and least ill when he ate least, has em- 
 ployed, unconsciously but sufficiently, all the tables of the 
-Novum Organum .” 1 But John Smith hardly handles his 
-“table of more or less” so accurately, and more probably will 
+Novum Organum ." 1 But John Smith hardly handles his 
+"table of more or less" so accurately, and more probably will 
 continue his mince-pies despite the seismic disturbances of his 
 lower strata. And even were John Smith so wise, it would 
 not shear Bacon of his merit; for what does logic do but 
@@ -7916,15 +7485,15 @@ Shakespeare he takes with a lordly hand, and with the same
 excuse, that he adorns whatever he touches. Every man has 
 his sources, as every organism has its food ; what is his is the 
 way in which he digests them and turns them into flesh and 
-blood. As Rawley puts it, Bacon “contemned no man’s ob- 
-servations, but would light his torch at every man’s candle.” 1 
-But Bacon acknowledges these debts: he refers to “that useful 
-method of Hippocrates,” 2 — so sending us at once to the real 
-source of inductive logic among the Greeks ; and “Plato,” he 
-writes (where less accurately we write “Socrates”), “giveth 
+blood. As Rawley puts it, Bacon "contemned no man’s ob- 
+servations, but would light his torch at every man’s candle." 1 
+But Bacon acknowledges these debts: he refers to "that useful 
+method of Hippocrates," 2 — so sending us at once to the real 
+source of inductive logic among the Greeks ; and "Plato," he 
+writes (where less accurately we write "Socrates"), "giveth 
 good example of inquiry by induction and view of particulars ; 
 though in such a wandering manner as is of no force or 
-fruit.” 3 He would have disdained to dispute his obligations 
+fruit." 3 He would have disdained to dispute his obligations 
 
 1 Quoted by J. M. Robertson, Introduction to The Philosophical Works of 
 Francis Bacon ; p. 7. 
@@ -7943,7 +7512,7 @@ them..
 Bat then again, is the Baconian method correct? Is it the 
 method most fruitfully used in modem science? No: gener- 
 ally, science has used, with best result, not the accumulation 
-of data (“natural history”) and their manipulation by the 
+of data ("natural history") and their manipulation by the 
 complicated tables of the Novum Organum, but the simpler 
 method of hypothesis, deduction and experiment. So Dar- 
 win, reading Malthus’ Essay on Population, conceived the 
@@ -7955,7 +7524,7 @@ sults in a struggle for existence in which the fittest survive,
 and by which in each generation every species is changed into 
 closer adaptation to its environment; and finally (having by 
 hypothesis and deduction limited his problem and his field of 
-observation) turned to “the unwithered face of nature” and 
+observation) turned to "the unwithered face of nature" and 
 made for twenty years a patient inductive examination of the 
 facts. Again, Einstein conceived, or took from Newton, the 
 hypothesis that light travels in curved, not straight lines ; de- 
@@ -7969,8 +7538,8 @@ and circumscribed than in the Baconian scheme. Bacon him-
 self anticipated the superannuation of his method; the actual 
 practice of science would discover better modes of investiga- 
 tion than could be worked out in the interludes of statesman* 
-ship. “These things require some ages for the ripening of 
-them.” 
+ship. "These things require some ages for the ripening of 
+them." 
 
 Even a lover of the Baconian spirit must concede, too, that 
 the great Chancellor, while laying down the law for science, 
@@ -8000,8 +7569,8 @@ that which distinguishes the lordly Chancellor — erudition and
 philosophy. Shakespeare has an impressive smattering of 
 many sciences, and a mastery of none ; in all of them he speaks 
 with the eloquence of an amateur. He accepts astrology: 
-“This huge state . . . whereon the stars in secret influence 
-comment.” 1 He is forever making mistakes which the learned 
+"This huge state . . . whereon the stars in secret influence 
+comment." 1 He is forever making mistakes which the learned 
 Bacon could not possibly have made: his Hector quotes Aris- 
 totle and his Coriolanus alludes to Cato ; he supposes the Luper- 
 calia to be a hill; and he understands Caesar about as pro- 
@@ -8030,8 +7599,8 @@ ennobled Plato, or Nietzsche, or Bacon.
 Now the greatness and the weakness of Bacon lay precisely 
 in his passion for unity, his desire to spread the wings of his 
 coordinating genius over a hundred sciences. He aspired to 
-be like Plato, “a man of sublime genius, who took a view of 
-everything as from a lofty rock.” He broke down under the 
+be like Plato, "a man of sublime genius, who took a view of 
+everything as from a lofty rock." He broke down under the 
 weight of the tasks he had laid upon himself; he failed for- 
 givably because he undertook so much. He could not enter 
 the promised land of science, but as Cowley’s epitaph ex- 
@@ -8040,13 +7609,13 @@ out its fair features in the distance.
 
 His achievement was not the less great because it was in- 
 direct. His philosophical works, though little read now, 
-‘‘moved the intellects which moved the world.” 1 He made 
+‘‘moved the intellects which moved the world." 1 He made 
 himself the eloquent voice of the optimism and resolution of 
 the Renaissance. Never was any man so great a stimulus to 
 Other thinkers. King James, it is true, refused to accept his 
 suggestion for the support of science, and said of the Novum 
-Orgarmm that “it was like the peace of God, which passeth all 
-understanding.” But better men, in 1662, founding that 
+Orgarmm that "it was like the peace of God, which passeth all 
+understanding." But better men, in 1662, founding that 
 Royal Society which was to become the greatest association of 
 scientists in the world, named Bacon as their model and in- 
 spiration; they hoped that this organization of English re- 
@@ -8054,8 +7623,8 @@ search would lead the way toward that Europe-wide association
 which the Advancement of Learning had taught them to 
 desire. And when the great minds of the French Enlighten- 
 ment undertook that masterpiece of intellectual enterprise, the 
-Encyclopedic, they dedicated it to Francis Bacon. “If,” said 
-Diderot in the Prospectus, “we have come of it successfully, 
+Encyclopedic, they dedicated it to Francis Bacon. "If," said 
+Diderot in the Prospectus, "we have come of it successfully, 
 we shall owe most to the Chancellor Bacon, who threw out the 
 plan of an universal dictionary of sciences and arts, at a 
 time when, so to say, neither arts nor sciences existed. That 
@@ -8066,8 +7635,8 @@ i Macaulay, p. 491.
 FRANCIS BACON 157 
 
 of what was known, wrote one of what it was necessary to 
-learn.” D’Alembert called Bacon “the greatest, the most 
-universal, and the most eloquent of philosophers.” The Con- 
+learn." D’Alembert called Bacon "the greatest, the most 
+universal, and the most eloquent of philosophers." The Con- 
 vention published the works of Bacon at the expense of the 
 state . 1 The whole tenor and career of British thought have 
 followed the philosophy of Bacon. His tendency to conceive 
@@ -8075,24 +7644,24 @@ the world in Democritean mechanical terms gave to his
 secretary, Hobbes, the starting-point for a thorough-going 
 materialism ; his inductive method gave to Locke the idea of an 
 empirical psychology, bound by observation and freed from 
-theology and metaphysics ; and his emphasis on “commodities” 
-and “fruits” found formulation in Bentham’s identification of 
+theology and metaphysics ; and his emphasis on "commodities" 
+and "fruits" found formulation in Bentham’s identification of 
 the useful and the good. 
 
 Wherever the spirit of control has overcome the spirit of 
 resignation, Bacon’s influence has been felt. He is the voice 
 of all those Europeans who have changed a continent from a 
 forest into a treasure-land of art and science, and have made 
-their little peninsula the center of the world. “Men are not 
-animals erect,” said Bacon, “but immortal gods.” “The Cre- 
+their little peninsula the center of the world. "Men are not 
+animals erect," said Bacon, "but immortal gods." "The Cre- 
 ator has given us souls equal to all the world, and yet satiable 
-not even with a world.” Everything is possible to man* 
+not even with a world." Everything is possible to man* 
 Time is young ; give us some little centuries, and we shall con- 
 trol and remake all things. We shall perhaps at last learn the 
 noblest lesson of all, that man must not fight man, but must 
 make war only on the obstacles that nature offers to the tri- 
-umph of man. “It will not be amiss,” writes Bacon, in one of 
-his finest passages, “to distinguish the three kinds, and as it 
+umph of man. "It will not be amiss," writes Bacon, in one of 
+his finest passages, "to distinguish the three kinds, and as it 
 were grades, of ambition in mankind. The first is of those who 
 desire to extend their power in their native country; which 
 kind is vulgar and degenerate. The second is of those whd 
@@ -8113,26 +7682,26 @@ THE STORY OF PHILOSOPHY
 
 
 verse, his ambition is without doubt both a more wholesome 
-thing and a nobler than the other two.” 1 It was Bacon’s 
+thing and a nobler than the other two." 1 It was Bacon’s 
 fate to be torn to pieces by these hostile ambitions struggling 
 for his soul. 
 
 VI. EPILOGUE 
 
-“ Men in great place are thrice servants; servants to the 
+" Men in great place are thrice servants; servants to the 
 sovereign or state, servants of fame, and servants of business, 
 so as they have no freedom, neither in their persons nor in their 
 action, nor in their time. . . . The rising unto place is labori- 
 ous, and by pains men come to greater pains ; and it is some- 
 times base, and by indignities men come to dignities. The 
 standing is slippery, and the regress is either a downfall or 
-at least an eclipse.” 2 What a wistful summary of Bacon’s 
+at least an eclipse." 2 What a wistful summary of Bacon’s 
 epilogue ! 
 
-“ A man’s shortcomings,” said Goethe, “are taken from his 
-epoch; his virtues and greatness belong to himself.” This 
-seems a little unfair to the Zeitgeist , but it is exceptionally 
-just in the case of Bacon. Abbott , 3 after a painstaking study 
+" A man’s shortcomings," said Goethe, "are taken from his 
+epoch; his virtues and greatness belong to himself." This 
+seems a little unfair to the Zeitgeist, but it is exceptionally 
+just in the case of Bacon. Abbott, 3 after a painstaking study 
 of the morals prevalent at Elizabeth’s court, concludes that 
 all the leading figures, male and female, were disciples of 
 Machiavelli. Roger Ascham described in doggerel the four 
@@ -8147,25 +7716,25 @@ If thou be thrall to none of these,
 Away, good Piers ! Home, John Cheese ! 
 
 It was one of the customs of those lively days for judges to 
-take “presents” from persons trying cases in their courts. 
+take "presents" from persons trying cases in their courts. 
 Bacon was not above the age in this matter ; and his tendency 
 to keep his expenditure several years in advance of his in- 
 come forbade him the luxury of scruples. It might have 
 
 i'Nov. Org., i, 129. 
 
-2 Essay “Of Great Place.” 
+2 Essay "Of Great Place." 
 
-8 Francis Bacon , ch. i. 
+8 Francis Bacon, ch. i. 
 
 
 FRANCIS BACON 159 
 
 jpassed unnoticed, except that he had made enemies in Essex* 
 case, and by his readiness to sabre foes with his speech. A 
-friend had warned him that “it is too common in every man’s 
+friend had warned him that "it is too common in every man’s 
 mouth in Court that ... as your tongue hath been a razor 
-to some, so shall theirs be to you.” 1 But he left the warnings 
+to some, so shall theirs be to you." 1 But he left the warnings 
 unnoticed. He seemed to be in good favor with the King; 
 he had been made Baron Verulam of Verulam in 1618, and 
 Viscount St. Albans in 1621 ; and for three years he had been 
@@ -8177,15 +7746,15 @@ a suit ; it was no unusual matter, but Bacon knew at once
 that if his enemies wished to press it they could force his 
 fall. He retired to his home, and waited developments. 
 When he learned that all his foes were clamoring for his 
-dismissal, he sent in his “confession and humble submission” 
+dismissal, he sent in his "confession and humble submission" 
 to the King. James, yielding to pressure from the now vic- 
 torious Parliament against which Bacon had too persistently 
 defended him, sent him to the Tower. But Bacon was released 
 after two days ; and the heavy fine which had been laid upon 
 him was remitted by the King. His pride was not quite 
-broken. “I was the justest judge that was in England these 
-fifty years,” he said; “but it was the justest judgment that 
-was in Parliament these two hundred years.” 
+broken. "I was the justest judge that was in England these 
+fifty years," he said; "but it was the justest judgment that 
+was in Parliament these two hundred years." 
 
 He spent the five years that remained to him in the obscurity 
 and peace of his home, harassed by an unwonted poverty, but 
@@ -8196,7 +7765,7 @@ fragment called Sylva Sylvarum, and a History of Henry VII.
 He mourned that he had not sooner abandoned politics and 
 given all his time to literature and science. To the very last 
 moment he was occupied with work, and died, so to speak, on 
-the field of battle. In his essay “Of Death” he had voiced a 
+the field of battle. In his essay "Of Death" he had voiced a 
 i Ibid., p. 13 note. 
 
 
@@ -8206,8 +7775,8 @@ i Ibid., p. 13 note.
 THE STORY OF PHILOSOPHY 
 
 
-wish to die “in an earnest pursuit, which is like one wounded 
-in hot blood, who for the time scarce feels the hurt.” Like 
+wish to die "in an earnest pursuit, which is like one wounded 
+in hot blood, who for the time scarce feels the hurt." Like 
 Caesar, he was granted his choice. 
 
 In March, 1626, while riding from London to Highgate, 
@@ -8219,16 +7788,16 @@ While he was doing this he was seized with chills and weak-
 ness ; and finding himself too ill to ride back to town, he gave 
 directions that he should be taken to the nearby home of 
 Lord Arundel, where he took to bed. He did not yet resign 
-life ; he wrote cheerfully that “the experiment . . . succeeded 
-excellently well.” But it was his last. The fitful fever of his 
+life ; he wrote cheerfully that "the experiment . . . succeeded 
+excellently well." But it was his last. The fitful fever of his 
 varied life had quite consumed him ; he was all burnt out now, 
 too weak to fight the disease that crept up slowly to his heart. 
 He died on the ninth of April, 1626, at the age of sixty-five. 
 
 He had written in his will these proud and characteristic 
-words: “I bequeath my soul to God. . . . My body to be 
+words: "I bequeath my soul to God. . . . My body to be 
 buried obscurely. My name to the next ages and to foreign 
-nations.” The ages and the nations have accepted him. 
+nations." The ages and the nations have accepted him. 
 
 
 CHAPTER TV 
@@ -8357,8 +7926,8 @@ of the congregation walked over his body. Humiliated be-
 yond sufferance, Uriel went home, wrote a fierce denunciation 
 of his persecutors, and shot himself. 1 
 
-This was in 1647. At that time Baruch Spinoza, “the 
-greatest Jew of modern times,” 2 and the greatest of modem 
+This was in 1647. At that time Baruch Spinoza, "the 
+greatest Jew of modern times," 2 and the greatest of modem 
 philosophers, was a lad of fifteen, the favorite student of the 
 synagogue. 
 
@@ -8439,8 +8008,8 @@ mark upon him ineffaceably. He read the Scholastic phi-
 losophers, and took from them not only their terminology, but 
 their geometrical method of exposition by axiom, definition, 
 proposition, proof, scholium and corollary. He studied 
-Bruno (1548—1600), that magnificent rebel whose fires “not 
-all the snows of the Caucasus could quench,” who wandered 
+Bruno (1548—1600), that magnificent rebel whose fires "not 
+all the snows of the Caucasus could quench," who wandered 
 from country to country and from creed to creed, and ever- 
 
 
@@ -8449,10 +8018,10 @@ from country to country and from creed to creed, and ever-
 
 THE STORY OF PHILOSOPHY 
 
-more “came out by the same door wherein he went,” — search- 
+more "came out by the same door wherein he went," — search- 
 ing and wondering ; and who at last was sentenced by the 
-Inquisition to be killed “as mercifully as possible, and without 
-the shedding of blood” — i. e., to be burned alive. What a 
+Inquisition to be killed "as mercifully as possible, and without 
+the shedding of blood" — i. e., to be burned alive. What a 
 wealth of ideas there was in this romantic Italian! First of 
 all the master idea of unity: all reality is one in substance, 
 one in cause, one in origin; and God and this reality are one. 
@@ -8473,12 +8042,12 @@ losophy. To his French followers and English enemies the
 central notion in Descartes was the primacy of consciousness — 
 his apparently obvious proposition that the mind knows itself 
 more immediately and directly than it can ever know anything 
-else; that it knows the “external world” only through that 
+else; that it knows the "external world" only through that 
 world’s impress upon the mind in sensation and perception; 
 that all philosophy must in consequence (though it should 
 doubt everything else) begin with the individual mind and 
-self, and make its first argument in three words: “I think, 
-therefore I am” ( Cogito , ergo sum). Perhaps there was 
+self, and make its first argument in three words: "I think, 
+therefore I am" ( Cogito, ergo sum). Perhaps there was 
 something of Renaissance individualism in this starting-point ; 
 certainly there was in it a whole magician’s-hat-full of conse- 
 quences for later speculation. Now began the great game 
@@ -8496,7 +8065,7 @@ once stimulated and devastated modern philosophy.
 But this side of Descartes’ thought did not interest Spi- 1 
 noza; he would not lose himself in the labyrinths of epis.- 
 temology. What attracted him was Descartes’ conception cf 
-a homogeneous “substance” underlying all forms of matter, 
+a homogeneous "substance" underlying all forms of matter, 
 and another homogeneous substance underlying all forms of 
 mind; this separation of reality into two ultimate substances 
 was a challenge to the unifying passion of Spinoza, and 
@@ -8510,7 +8079,7 @@ God, said Descartes (very much as Anaxagoras had said two
 thousand years before), and the rest of astronomic, geologic 
 and all non-mental processes and developments can be ex- 
 plained from a homogeneous substance existing at first in a 
-disintegrated form (the “nebular hypothesis” of Laplace and 
+disintegrated form (the "nebular hypothesis" of Laplace and 
 Kant) ; and every movement of every animal, and even of the 
 human body, is a mechanical movement, — the circulation of 
 the blood, for example, and reflex action. All the world, and 
@@ -8543,13 +8112,13 @@ he was offered an annuity of $500 if he would consent to
 maintain at least an external loyalty to his synagogue and his 
 faith; 1 that he refused the offer; and that on July 27, 1656, 
 he was excommunicated with all the sombre formalities of 
-Hebrew ritual. “During the reading of the curse, the wail- 
+Hebrew ritual. "During the reading of the curse, the wail- 
 ing and protracted note of a great horn was heard to fall in 
 from time to time; the lights, seen brightly burning at the 
 beginning of the ceremony, were extinguished one by one as 
 it proceeded, till at the end the last went out — typical of the 
 extinction of the spiritual life of the excommunicated man 
-— and the congregation was left in total darkness.” 2 
+— and the congregation was left in total darkness." 2 
 
 Van Vloten has given us the formula used for excommunica- 
 tion : 3 
@@ -8640,8 +8209,8 @@ external respect, they might have been more tolerant; but
 their religion was to them their patriotism as well as their 
 faith, the synagogue was their center of social and political 
 life as well as of ritual and worship; and the Bible whose 
-veracity Spinoza had impugned was the “portable Father- 
-land” of their people ; under these circumstances, they thought, 
+veracity Spinoza had impugned was the "portable Father- 
+land" of their people ; under these circumstances, they thought, 
 heresy was treason, and toleration suicide. 
 
 One feels that they should have bravely run these risks; 
@@ -8657,8 +8226,8 @@ written that Spinoza should belong to the world.
 If,. Retirement and Death 
 
 He took the excommunication with quiet courage, saying: 
-“It compels me to nothing which I should not have done in 
-any case.” But this was whistling in the dark ; itL truth the 
+"It compels me to nothing which I should not have done in 
+any case." But this was whistling in the dark ; itL truth the 
 young student now found himself bitterly and pitilessly alone. 
 Nothing is so terrible as solitude; and few forms of it so 
 difficult as the isolation of a Jew from all his people. Spi- 
@@ -8666,7 +8235,7 @@ noza had already suffered in the loss of his old faith; to so
 uproot the contents of one’s mind is a major operation, and 
 leaves many wounds. Had Spinoza entered another fold, 
 
-i As suggested by Israel Abrahams, art. Jews , Encyclopedia Britannica, 
+i As suggested by Israel Abrahams, art. Jews, Encyclopedia Britannica, 
 
 
 SPINOZA 
@@ -8729,8 +8298,8 @@ learned the optical trade while living in the Jewish community;
 it was in accord with Hebrew canon that every student should 
 acquire some manual art; not only because study and honest 
 teaching can seldom make a livelihood, but, as Gamaliel had 
-said, work keeps one virtuous, whereas “every learned man 
-who fails to acquire a trade will at last turn out a rogue.” 
+said, work keeps one virtuous, whereas "every learned man 
+who fails to acquire a trade will at last turn out a rogue." 
 
 Five years later (1660) his host moved to Rhynsburg, near 
 Leyden ; and Spinoza moved with him. The house still stands, 
@@ -8740,22 +8309,22 @@ his room for two or three days together, seeing nobody, and
 having his modest meals brought up to him . The lenses 
 were well done, but not so continuously as to earn for Spinoza 
 more than merely enough; he loved wisdom too much to be 
-a “successful” man. Colerus, who followed Spinoza in these 
+a "successful" man. Colerus, who followed Spinoza in these 
 lodgings, and wrote a short life of the philosopher from the 
-reports of those who had known him, says, “He was very 
+reports of those who had known him, says, "He was very 
 careful to cast up his accounts every quarter; which he did 
-that he might spend neither more nor less than what , he had 
+that he might spend neither more nor less than what, he had 
 to spend for each year. And he would say sometimes, to the 
 people of the house, that he was like the serpent who forms a 
 circle with his tail in his mouth; to denote that he had nothing 
-left at the year’s end.” 1 But in his modest way he was 
+left at the year’s end." 1 But in his modest way he was 
 happy. To one who advised him to trust in revelation rather 
-than in reason, he answered: “Though I were at times to 
+than in reason, he answered: "Though I were at times to 
 find the fruit unreal which I gather by my natural understand- 
 ing, yet this would not make me otherwise than content; be- 
 cause in the gathering I am happy, and pass my days not in 
-sighing and sorrow, but in peace, serenity and joy.” 2 “If 
-Napoleon had been as intelligent as Spinoza,” says a great 
+sighing and sorrow, but in peace, serenity and joy." 2 "If 
+Napoleon had been as intelligent as Spinoza," says a great 
 
 1 In Pollock, Life and Philosophy of Spinoza; London, 1899; p. 393. 
 
@@ -8764,11 +8333,11 @@ Napoleon had been as intelligent as Spinoza,” says a great
 
 SPINOZA 179 
 
-sage, “he would have lived in a garret and written four 
-books.” 1 
+sage, "he would have lived in a garret and written four 
+books." 1 
 
 To the portraits of Spinoza which have come down to us 
-we may add a word of description from Colerus. “He was 
+we may add a word of description from Colerus. "He was 
 of a middle size. He had good features in his face, the skin 
 somewhat black, the hair dark and curly, the eyebrows long 
 and black, so that one might easily know by his looks that he 
@@ -8780,16 +8349,16 @@ morning-gown; whereupon the councillor reproached him for
 it, and offered him another. Spinoza answered that a man 
 was never the better for having a fine gown, and added, ‘It is 
 unreasonable to wrap up things of little or no value in a 
-precious cover.’ ” 2 Spinoza’s sartorial philosophy was not 
-always so ascetic. “It is not a disorderly or slovenly carriage 
-that makes us sages,” he writes; “for affected indifference to 
+precious cover.’ " 2 Spinoza’s sartorial philosophy was not 
+always so ascetic. "It is not a disorderly or slovenly carriage 
+that makes us sages," he writes; "for affected indifference to 
 personal appearance is rather evidence of a poor spirit in which 
 true wisdom could find no worthy dwelling-place, and science 
-could only meet with disorder and disarray.” 8 
+could only meet with disorder and disarray." 8 
 
 It was during this five years’ stay at Rhynsburg that Spi- 
-noza wrote the little fragment “On the Improvement of the 
-Intellect” ( De Intellectus Emendatione) , and the Ethics 
+noza wrote the little fragment "On the Improvement of the 
+Intellect" ( De Intellectus Emendatione), and the Ethics 
 Geometrically Demonstrated ( Ethica More Geometrico De- 
 monstrata) . The latter was finished in 1665 ; but for ten 
 years Spinoza made no effort to publish it. In 1668 Adrian 
@@ -8797,8 +8366,8 @@ Koerbagh, for printing opinions similar to Spinoza’s, was
 sent to jail for ten years; and died there after serving 
 eighteen months of his sentence. When, in 1675, Spinoza 
 went to Amsterdam trusting that he might now safely publish 
-his chef-d’oeuvre, “a rumor was spread about,” as he writes 
-to his friend Oldenburg, “that a book of mine was soon to 
+his chef-d’oeuvre, "a rumor was spread about," as he writes 
+to his friend Oldenburg, "that a book of mine was soon to 
 
 Anatole Frances M. Bergeret in Farit; New York, 1921} p. 180. 
 
@@ -8823,7 +8392,7 @@ ing received a hint of this state of things from some trust-
 worthy friends, who assured me, further, that the theologians 
 Were everywhere lying in wait for me, I determined to put 
 off my attempted publication until such time as I should see 
-what turn affairs would take.” 1 
+what turn affairs would take." 1 
 
 Only after Spinoza’s death did the Ethics appear (1677), 
 along with an unfinished treatise on politics ( Tractatus 
@@ -8835,16 +8404,16 @@ by Van Vloten in 1852; it was apparently a preparatory
 sketch for the Ethics. The only books published by Spinoza 
 in his lifetime were The Principles of the Cartesian Philosophy 
 (1663), and A Treatise on Religion and the State ( Tractatus 
-Theologico-Politicus) , which appeared anonymously in 1670. 
+Theologico-Politicus), which appeared anonymously in 1670. 
 It was at once honored with a place in the Index Expur ga- 
 torius, and its sale was prohibited by the civil authorities ; with 
 this assistance it attained to a considerable circulation under 
 cover of title-pages which disguised it as a medical treatise 
 or an historical narrative. Countless volumes were written to 
-refute it; one called Spinoza “the most impious atheist that 
-ever lived upon the face of the earth” ; Colerus speaks of an- 
-other refutation as “a treasure of infinite value, which shall 
-never perish” ; 2 — only this notice remains of it. In addition to 
+refute it; one called Spinoza "the most impious atheist that 
+ever lived upon the face of the earth" ; Colerus speaks of an- 
+other refutation as "a treasure of infinite value, which shall 
+never perish" ; 2 — only this notice remains of it. In addition to 
 such public chastisement Spinoza received a number of letters 
 intended to reform him ; that of a former pupil, Albert Burgh, 
 who had been converted to Catholicism, may be taken as a 
@@ -8922,8 +8491,8 @@ fortune to him, Spinoza persuaded De Vries instead to be-
 queath his wealth to his brother. When the merchant died it 
 was found that his will required that an annuity of $250 
 should be paid to Spinoza out of the income of the property. 
-Spinoza wished again to refuse saying, “Nature is satisfied 
-with little ; and if she is, I am also” ; but he was at last pre- 
+Spinoza wished again to refuse saying, "Nature is satisfied 
+with little ; and if she is, I am also" ; but he was at last pre- 
 vailed upon to accept $150 a year. Another friend, Jan de 
 Witt, chief magistrate of the Dutch republic, gave him a state 
 annuity of $50. Finally, the Grand Monarch himself, 
@@ -8946,7 +8515,7 @@ of the invading French army, invited Spinoza to his head-
 quarters, to convey to him the offer of a royal pension from 
 France and to introduce certain admirers of Spinoza who 
 were with the Prince. Spinoza, who seems to have been rather 
-a “good European” than a nationalist, thought it nothing 
+a "good European" than a nationalist, thought it nothing 
 strange for him to cross the lines and go to Conde’s camp. 
 When he returned to the Hague the news of his visit spread 
 
@@ -8958,12 +8527,12 @@ SPINOZA
 
 about, and there were angry murmurs among the people. 
 Spinoza’s host, Van den Spyek, was in fear of an attack upon 
-his house; but Spinoza calmed him, saying: “I can easily 
+his house; but Spinoza calmed him, saying: "I can easily 
 clear myself of all suspicion of treason; . . . but should the 
 people show the slightest disposition to molest you, should 
 they even assemble and make a noise before your house, I will 
 go down to them, though they should serve me as they did 
-poor De Witt.” 1 But when the crowd learned that Spinoza 
+poor De Witt." 1 But when the crowd learned that Spinoza 
 was merely a philosopher they concluded that he must be harm- 
 less; and the commotion quieted down. 
 
@@ -8977,10 +8546,10 @@ had made his way, despite excommunication and interdict, into
 the respect of his contemporaries, appears from the offer 
 which came to him, in 1673, of the chair of philosophy at 
 the University of Heidelberg; an offer couched in the most 
-complimentary terms, and promising “the most perfect free- 
+complimentary terms, and promising "the most perfect free- 
 dom in philosophizing, which His Highness feels assured you 
 would not abuse by calling in question the established religion 
-of the state.” Spinoza replied characteristically: 
+of the state." Spinoza replied characteristically: 
 
 Honored sir: Had it ever been my wish to undertake the 
 duties of a professor in any faculty, my desires would have 
@@ -9066,24 +8635,24 @@ literary color and ornament, and exaggerated descriptive ex-
 pressions ; but because, too, the prophets and the apostles, to 
 convey their doctrine by arousing the imagination, were com- 
 pelled to adapt themselves to the capacities and predisposi- 
-tions of the popular mind. “All Scripture was written 
+tions of the popular mind. "All Scripture was written 
 primarily for an entire people, and secondarily for the whole 
 human race; consequently its contents must necessarily be 
 adapted, as far as possible, to the understanding of Hie 
-masses .” 1 “Scripture does not explain things by their sec- 
+masses ." 1 "Scripture does not explain things by their sec- 
 ondary causes, but only narrates them in the order and style 
 which has most power to move men, and especially uneducated 
 men, to devotion. ... Its object is not to convince the reason, 
-hut to attract and lay hold of the imagination.” 2 Hence the 
+hut to attract and lay hold of the imagination." 2 Hence the 
 abundant miracles and the repeated appearances of God. 
-“The masses think that the power and providence of God are 
+"The masses think that the power and providence of God are 
 most clearly displayed by events that are extraordinary, and 
 contrary to the conception which they have formed of nature. 
 . . . They suppose, indeed, that God is inactive so long as 
-nature works in her accustomed order; and vice versa , that 
+nature works in her accustomed order; and vice versa, that 
 the power of nature, and natural causes, are idle so long 
 as God is acting; thus they imagine two powers distinct from 
-one another, the power of God and the power of nature.” 3 
+one another, the power of God and the power of nature." 3 
 (Here enters the basic idea of Spinoza’s philosophy — -that 
 
 1 Tractatus Theologico-Politicus, ch. 5. 
@@ -9148,23 +8717,23 @@ SJPINOZA
 181 
 
 
-“God is described as a law-giver or prince, and styled just, 
+"God is described as a law-giver or prince, and styled just, 
 merciful, etc., merely in concession to the understanding of 
 the people and their imperfect knowledge; that in reality 
 God acts ... by the necessity of his nature, and his 
-decrees . . . are eternal truths.” 1 
+decrees . . . are eternal truths." 1 
 
 Spinoza makes no separation between Old and New. Testa- 
 ment, and looks upon the Jewish and the Christian religion . 
 as one, when popular hatred and misunderstandings are laid 
 aside, and philosophical interpretation finds the hidden core 
-and essence of the rival faiths. “I have often wondered that 
+and essence of the rival faiths. "I have often wondered that 
 persons who make boast of professing the Christian religion 
 — namely, love, joy, peace, temperance, and charity to all 
 men- — should quarrel with such rancorous animosity, and dis- 
 play daily toward one another such bitter hatred, that this, 
 rather than the virtues which they profess, is the readiest cri- 
-terion of their faith.” 2 * The Jews have survived chiefly be- 
+terion of their faith." 2 * The Jews have survived chiefly be- 
 cause of Christian hatred of them; persecution gave them the 
 unity and solidarity necessary for continued racial existence; 
 without persecution they might have mingled and married 
@@ -9179,10 +8748,10 @@ would be a mutual understanding about Jesus. Let improb-
 able dogmas be withdrawn, and the Jews would soon recog- 
 nize in Jesus the greatest and noblest of the prophets. Spi- 
 noza does not accept the divinity of Christ, but he puts him 
-first among men. “The eternal wisdom of God . . . has 
+first among men. "The eternal wisdom of God . . . has 
 shown itself forth in all things, but chiefly in the mind of 
-man, and most of all in Jesus Christ.” 8 “Christ was sent to 
-teach not only the Jews, but the whole human race” ; hence “he 
+man, and most of all in Jesus Christ." 8 "Christ was sent to 
+teach not only the Jews, but the whole human race" ; hence "he 
 
 1 Ch. 4. 
 
@@ -9199,9 +8768,9 @@ THE STORY OF PHILOSOPHY
 
 
 accommodated himself to the comprehension of the people v * . 
-and most often taught by parables.” 1 He considers that the 
+and most often taught by parables." 1 He considers that the 
 ethics of Jesus are almost synonymous with wisdom; in rever- 
-encing him one rises to “the intellectual love of God.” So 
+encing him one rises to "the intellectual love of God." So 
 noble a figure, freed from the impediment of dogmas that lead 
 only to divisions and disputes, would draw all men to him; 
 and perhaps in his name a world torn with suicidal wars of 
@@ -9267,7 +8836,7 @@ thoroughly conformed :
 
 1. To speak in a manner comprehensible to the people, 
 and to do for them all things that do not prevent us from 
-attaining our ends. . . , 2. To enjoy only such pleasures 
+attaining our ends. . ., 2. To enjoy only such pleasures 
 as are necessary for the preservation of health. 3. Finally, 
 to seek only enough money ... as is necessary for the 
 maintenance of our life and health, and to comply with such 
@@ -9281,8 +8850,8 @@ and that my reason can he trusted with the conclusions which
 it derives from the material of sensation? Should we not ex- 
 amine the vehicle before abandoning ourselves to its direc- 
 tions? Should we not do all that we can to perfect it? ‘Tie- 
-fore all things,” says Spinoza, Baconianly, “a means must 
-be devised for improving and clarifying the intellect.” 2 We 
+fore all things," says Spinoza, Baconianly, "a means must 
+be devised for improving and clarifying the intellect." 2 We 
 
 1 De Emendatione 9 Everyman edition, p. 281. 
 
@@ -9301,16 +8870,16 @@ and trust only the best.
 
 First, then, there is hearsay knowledge, by which, for ex- 
 ample, I know the day of my birth. Second, vague expe- 
-rience, “empirical” knowledge in the derogatory sense, as when 
+rience, "empirical" knowledge in the derogatory sense, as when 
 a physician knows a cure not by any scientific formulation of 
-experimental tests, but by a “general impression” that it has 
-“usually” worked. Third, immediate deduction, or knowl- 
+experimental tests, but by a "general impression" that it has 
+"usually" worked. Third, immediate deduction, or knowl- 
 edge reached by reasoning, as when I conclude to the immen- 
 sity of the sun from seeing that in the case of other objects 
 distance decreases the apparent size. This kind of knowl- 
 edge is superior to the other two, but is yet precariously sub- 
 ject to sudden refutation by direct experience; so science for 
-a hundred years reasoned its way to an “ether” which is now 
+a hundred years reasoned its way to an "ether" which is now 
 in high disfavor with the physicist elite. Hence the highest 
 kind of knowledge is the fourth form, which comes by imme- 
 diate deduction and direct perception, as when we see at once 
@@ -9318,8 +8887,8 @@ that 6 is the missing number in the proportion, 2 :4 : :3 :x ; or
 as when we perceive that the whole is greater than the part. 
 Spinoza believes that men versed in mathematics know most 
 of Euclid in this intuitive way; but he admits ruefully that 
-“the things which I have been able to know by this knowledge 
-so far have been very few.” 1 
+"the things which I have been able to know by this knowledge 
+so far have been very few." 1 
 
 In the j Ethics Spinoza reduces the first two forms of knowl- 
 edge to one; and calls intuitive knowledge a perception of 
@@ -9328,8 +8897,8 @@ tions, — which gives in a phrase a definition of philosophy.
 Scientia intuitiva, therefore, tries to find behind things and 
 events their laws and eternal relations. Hence Spinoza’s very 
 fundamental distinction (the basis of his entire system) be- 
-tween the “temporal order” — the “world” of things and inci- 
-dents — and the “eternal order” — the world of laws and struc- 
+tween the "temporal order" — the "world" of things and inci- 
+dents — and the "eternal order" — the world of laws and struc- 
 ture. Let us study this distinction carefully; 
 
 It must be noted that I do not understand here by the 
@@ -9380,11 +8949,11 @@ pressed itself in the forms of mathematics ; but he had never
 grappled with his own ideal. Spinoza came to the suggestion 
 with a mind trained in mathematics as the very basis of all 
 
-ip. 259. Cf. Bacon, Novum Orgatvum, II, 2: “For although nothing exists 
+ip. 259. Cf. Bacon, Novum Orgatvum, II, 2: "For although nothing exists 
 In nature except individual bodies, exhibiting clear individual effects ac- 
 cording to particular laws; yet, in each branch of learning, those very laws — 
 their investigation, discovery and development — are the foundation both 
-of theory and of practice.” Fundamentally, all philosophers agree. 
+of theory and of practice." Fundamentally, all philosophers agree. 
 
 
 186 
@@ -9441,16 +9010,16 @@ SPINOZA.
 
 tion thoroughly till you have read and pondered the whole; 
 though one need not say, with Jacobi’s enthusiastic exaggera- 
-tion, that “no one has understood Spinoza to whom a single 
-line of the Ethics remains obscure.” “Here, doubtless,” says 
-Spinoza, in the second part of his book, “the reader will be- 
+tion, that "no one has understood Spinoza to whom a single 
+line of the Ethics remains obscure." "Here, doubtless," says 
+Spinoza, in the second part of his book, "the reader will be- 
 come confused, and will recollect many things which will bring 
 him to a standstill; and therefore I pray him to proceed gently 
 with me and form no judgment concerning these things until 
-he shall have read alL” 1 Read the book not all at once, but 
+he shall have read alL" 1 Read the book not all at once, but 
 in small portions at many sittings. And having finished it, 
 consider that you have but begun to understand it. Read 
-then some commentary, like Pollock’s Spinoza , or Martineau’s 
+then some commentary, like Pollock’s Spinoza, or Martineau’s 
 Study of Spinoza ; or, better, both. Finally, read the Ethics 
 again ; it will be a new book to you. When you have finished 
 it a second time you will remain forever a lover of philosophy. 
@@ -9465,7 +9034,7 @@ physics, as William James said, is nothing but an attempt to
 think things out clearly to their ultimate significance, to find 
 their substantial essence in the scheme of reality, — or, as 
 Spinoza puts it, their essential substance; and thereby to 
-unify all truth and reach that “highest of all generalizations” 
+unify all truth and reach that "highest of all generalizations" 
 which, even to the practical Englishman, 2 constitutes philos- 
 ophy. Science itself, which so superciliously scorns meta- 
 physics, assumes a metaphysic in its every thought. It 
@@ -9500,13 +9069,13 @@ term ; we must not be discouraged if we fail to resolve the mat-
 ter in a paragraph. One error we should guard against: 
 substance does not mean the constituent material of anything, 
 as when we speak of wood as the substance of a chair. We 
-approach Spinoza’s use of the word when we speak of “the 
-substance of his remarks.” If we go back to the Scholastic 
+approach Spinoza’s use of the word when we speak of "the 
+substance of his remarks." If we go back to the Scholastic 
 philosophers from whom Spinoza took the term, we find that 
 they used it as a translation of the Greek ousia, which is the 
 present participle of einai, to be, and indicates the inner being 
 or essence. Substance then is that which is (Spinoza had not 
-forgotten the impressive “I am who am” of Genesis) ; that 
+forgotten the impressive "I am who am" of Genesis) ; that 
 which eternally and unchangeably is, and of which everything 
 else must be a transient form or mode. If now we compare 
 this division of the world into substance and modes with its 
@@ -9563,9 +9132,9 @@ under which last term they understand a certain mass of
 corporeal matter, are one and the same. I had no such 
 intention . 1 
 
-Again, in the Treatise on Religion and the State , he writes: 
+Again, in the Treatise on Religion and the State, he writes: 
 *‘By the help of God I mean the fixed and unchangeable order 
-of nature, or the chain of natural events” ; 2 the universal laws 
+of nature, or the chain of natural events" ; 2 the universal laws 
 
 i Epistle 21. 
 sCh. 3. 
@@ -9577,10 +9146,10 @@ THE STORY OF PHILOSOPHY
 190 
 
 of nature and the eternal decrees of God are one and the same 
-thing. “From the infinite nature of God all things . . . fol- 
+thing. "From the infinite nature of God all things . . . fol- 
 low by the same necessity, and in the same way, as it follows 
 from the nature of a triangle, from eternity to eternity, that 
-its three angles are equal to two right angles.” 1 What the 
+its three angles are equal to two right angles." 1 What the 
 laws of the circle are to all circles, God is to the world. Like 
 substance, God is the causal chain or process, 2 the underlying 
 condition of all things, 8 the law and structure of the world. 4 
@@ -9605,7 +9174,7 @@ man and are designed to subserve his needs. But this is an
 anthropocentric delusion, like so much of our thinking. 8 The 
 root of the greatest errors in philosophy lies in projecting our 
 Human purposes, criteria and preferences into the objective 
-universe. Hence our “problem of evil” : we strive to reconcile 
+universe. Hence our "problem of evil" : we strive to reconcile 
 the ills of life with the goodness of God, forgetting the lesson 
 
 1 Ethics, I, 17, note. 
@@ -9648,18 +9217,18 @@ bad, and indifferent. For example, music is good to the
 melancholy, bad to mourners, and indifferent to the dead . 3 
 
 Bad and good are prejudices which the eternal reality can- 
-not recognize ; “it is right that the world should illustrate the 
+not recognize ; "it is right that the world should illustrate the 
 full nature of the infinite, and not merely the particular ideals 
-of man.” 3 And as with good and bad, so with the ugly and 
+of man." 3 And as with good and bad, so with the ugly and 
 the beautiful; these too are subjective and personal terms, 
 which, flung at the universe, will be returned to the sender 
-unhonored. “I would warn you that I do not attribute to 
+unhonored. "I would warn you that I do not attribute to 
 nature either beauty or deformity, order or confusion. Only 
 in relation to our imagination can things be called beautiful 
-or ugly, well-ordered or confused.” 4 “For example, if mo- 
+or ugly, well-ordered or confused." 4 "For example, if mo- 
 tion which the nerves receive by means of the eyes from ob- 
 jects before us is conducive of health, those objects are called 
-beautiful ; if it is not, those objects are called ugly.” 6 In 
+beautiful ; if it is not, those objects are called ugly." 6 In 
 
 1 Tractatus PoUticus, ch. 2. 
 
@@ -9683,8 +9252,8 @@ his esthetic judgments must be the laws of creation and the
 eternal decrees of God. 
 
 Is God a person? Not in any human sense of this word. 
-Spinoza notices “the popular belief which still pictures God as 
-of the male, not of the female sex ” ; 1 and he is gallant enough 
+Spinoza notices "the popular belief which still pictures God as 
+of the male, not of the female sex " ; 1 and he is gallant enough 
 to reject a conception which mirrored the earthly subordina- 
 tion of woman to man. To a correspondent who objected to 
 his impersonal conception of Deity, Spinoza writes in terms 
@@ -9700,14 +9269,14 @@ in like manner say that God is eminently triangular, and a
 circle that the divine nature is eminently circular; and thus 
 would every one ascribe his own attributes to God . 2 
 
-Finally, “neither intellect nor will pertains to the nature at 
-God,” 3 in the usual sense in which these human qualities are 
+Finally, "neither intellect nor will pertains to the nature at 
+God," 3 in the usual sense in which these human qualities are 
 attributed to the Deity; but rather the will of God is the sum 
 of all causes and all laws, and the intellect of God is the 
-sum of all mind. “The mind of God,” as Spinoza conceives 
-it, “is all the mentality that is scattered over space and time, 
-the diffused consciousness that animates the world.” 4 “All 
-things, in however diverse degree, are animated.” 5 Life or 
+sum of all mind. "The mind of God," as Spinoza conceives 
+it, "is all the mentality that is scattered over space and time, 
+the diffused consciousness that animates the world." 4 "All 
+things, in however diverse degree, are animated." 5 Life or 
 mind is one phase or aspect of everything that we know, as 
 material extension or body is another ; these are the two phases 
 or attributes (as Spinoza calls them) through which we per- 
@@ -9718,7 +9287,7 @@ the universal process and eternal reality behind the flux of
 
 2 Epistle 60, ed. Willis. 
 
-2 Ethics , I, 17, note. 
+2 Ethics, I, 17, note. 
 
 4 Santayana, loc. cit., p. x. 
 
@@ -9755,18 +9324,18 @@ thought, and now outwardly as motion; there is but one en-
 tity, seen now inwardly as mind, now outwardly as matter, 
 but in reality an inextricable mixture and unity of both. 
 Mind and body do not act upon each other, because they are 
-not other, they are one. “The body cannot determine the 
+not other, they are one. "The body cannot determine the 
 mind to think ; nor the mind determine the body to remain in 
-motion or at rest, or in any other state,” for the simple reason 
-that “the decision of the mind, and the desire and determina- 
-tion of the body . . . are one and the same thing.” 1 And all 
+motion or at rest, or in any other state," for the simple reason 
+that "the decision of the mind, and the desire and determina- 
+tion of the body . . . are one and the same thing." 1 And all 
 the world is unifiedly double in this way; wherever there is 
-an external “material” process, it is but one side or aspect of 
+an external "material" process, it is but one side or aspect of 
 the real process, which to a fuller view would be seen to include 
 as well an internal process correlative, in however different a 
 degree, with the mental process which we see within ourselves. 
-The inward and “mental” process corresponds at every stage 
-with the external and “material” process ; “the order and con- 
+The inward and "mental" process corresponds at every stage 
+with the external and "material" process ; "the order and con- 
 nection of ideas is the same as the order and connection of 
 
 1 Ethics, ill, 2. 
@@ -9777,36 +9346,36 @@ THE STORY OF PHILOSOPHY
 
 194i 
 
-things.” 1 “Thinking substance and extended substance are 
+things." 1 "Thinking substance and extended substance are 
 one and the same thing, comprehended now through this, now 
-through that, attribute” or aspect. “Certain of the Jews 
+through that, attribute" or aspect. "Certain of the Jews 
 seem to have perceived this, though confusedly, for they said 
 that God and his intellect, and the things conceived by his 
-intellect, were one and the same thing.” 2 
+intellect, were one and the same thing." 2 
 
-If “mind” be taken in a large sense to correspond with 
+If "mind" be taken in a large sense to correspond with 
 the nervous system in all its ramifications, then every change 
-in the “body” will be accompanied by — or, better, form a 
-whole with — a correlative change in the “mind.” “Just as 
+in the "body" will be accompanied by — or, better, form a 
+whole with — a correlative change in the "mind." "Just as 
 thoughts and mental processes are connected and arranged in 
 the mind, so in the body its modifications, and the modifica- 
-tions of things” affecting the body through sensations, “are 
-arranged according to their order ” ; 8 and “nothing can happen 
-to the body which is not perceived by the mind,” and con- 
+tions of things" affecting the body through sensations, "are 
+arranged according to their order " ; 8 and "nothing can happen 
+to the body which is not perceived by the mind," and con- 
 sciously or unconsciously felt . 4 Just as the emotion as felt 
 is part of a whole, of which changes in the circulatory and 
 respiratory and digestive systems are the basis ; so an idea is a 
-part, along with “bodily” changes, of one complex organic 
+part, along with "bodily" changes, of one complex organic 
 process; even the infinitesimal subtleties of mathematical re- 
-flection have their correlate in the body. (Have not the “be- 
-haviorists” proposed to detect a man’s thoughts by recording 
+flection have their correlate in the body. (Have not the "be- 
+haviorists" proposed to detect a man’s thoughts by recording 
 those involuntary vibrations of the vocal cords that seem to 
 accompany all thinking?) 
 
 After so trying to melt away the distinction between body 
 and mind, Spinoza goes on to reduce to a question of degree 
-the difference between intellect and will. There are no “fac- 
-ulties” in the mind, no separate entities called intellect or will, 
+the difference between intellect and will. There are no "fac- 
+ulties" in the mind, no separate entities called intellect or will, 
 much less imagination or memory ; the mind is not an agency 
 that deals with ideas, but it is the ideas themselves in their 
 process and concatenation . 6 Intellect is merely an abstract 
@@ -9829,12 +9398,12 @@ SPINOZA
 
 
 and short-hand term for a series of ideas; and will an abstract 
-term for a series of actions or volitions: “the intellect and the 
+term for a series of actions or volitions: "the intellect and the 
 will are related to this or that idea or volition as rockiness to 
-this or that rock.” 1 Finally, “will and intellect are one and 
+this or that rock." 1 Finally, "will and intellect are one and 
 the same thing ; 2 for a volition is merely an idea which, by 
 richness of associations (or perhaps through the absence of 
-competitive ideas) , has remained long enough in consciousness 
+competitive ideas), has remained long enough in consciousness 
 to pass over into action. Every idea becomes an action un- 
 less stopped in the transition by a different idea ; the idea is 
 itself the first stage of a unified organic process of which ex- 
@@ -9842,7 +9411,7 @@ ternal action is the completion.
 
 What is often called will, as the impulsive force which de- 
 termines the duration of an idea in consciousness, should be 
-called desire, — which “is the very essence of man.” 8 Desire 
+called desire, — which "is the very essence of man." 8 Desire 
 is an appetite or instinct of which we are conscious; but in- 
 stincts need not always operate through conscious desire . 4 
 Behind the instincts is the vague and varied effort for self- 
@@ -9851,10 +9420,10 @@ all human and even infra-human activity, just as Schopen-
 hauer and Nietzsche were to see the will to live or the will to 
 power everywhere. Philosophers seldom disagree. 
 
-“Everything, in so far as it is in itself, endeavors to persist 
+"Everything, in so far as it is in itself, endeavors to persist 
 in its own being; and the endeavor wherewith a thing seeks 
 to persist in its own being is nothing else than the actual es- 
-sence of that thing ” ; 5 the power whereby a thing persists is 
+sence of that thing " ; 5 the power whereby a thing persists is 
 the core and essence of its being. Every instinct is a device 
 developed by nature to preserve the individual (or, as our 
 solitary bachelor fails to add, the species or the group.) 
@@ -9867,7 +9436,7 @@ ill, 48, note.
 
 s IV, 18. 
 
-4 Spinoza is alive to the power of the “unconscious,” as seen in somnam* 
+4 Spinoza is alive to the power of the "unconscious," as seen in somnam* 
 bulism (II, 2, note) ; and notes the phenomena of double personality (IV* 
 39, note). 
 
@@ -9887,32 +9456,32 @@ desire them because we. must.
 
 There is, consequently, no free will ; the. necessities of sur- 
 vival determine instinct, instinct determines desire, and desire 
-determines thought and action. “The decisions of the mind 
+determines thought and action. "The decisions of the mind 
 are nothing save desires, which vary according to various dis- 
-positions.” 2 “There is in the mind no absolute or free will; 
+positions." 2 "There is in the mind no absolute or free will; 
 but the mind is determined in willing this or that by a 
 cause which is determined in its turn by another cause, and 
-this by another, and so on to infinity.” 8 “Men think them- 
+this by another, and so on to infinity." 8 "Men think them- 
 selves free because they are conscious of their volitions and de- 
 sires, but are ignorant of the causes by which they are led to 
-wish and desire.” 4 Spinoza compares the feeling of free will 
+wish and desire." 4 Spinoza compares the feeling of free will 
 to a stone’s thinking, as it travels through space, that it de- 
 termines its own trajectory and selects the place and time of 
 its fall.® 
 
 Since human actions obey laws as fixed as those of geometry, 
 psychology should be studied in geometrical form, and with 
-mathematical objectivity. “I will write about human beings 
+mathematical objectivity. "I will write about human beings 
 as though I were concerned with lines and planes and sol- 
-ids.” 6 “I have labored carefully not to mock, lament, or ex- 
+ids." 6 "I have labored carefully not to mock, lament, or ex- 
 ecrate, but to understand, human actions; and to this end I 
 have looked upon passions . . . not as vices of human nature, 
 but as properties just as pertinent to it as are heat, cold, 
-storm, thunder and the like to the nature of the atmosphere.” 7 
+storm, thunder and the like to the nature of the atmosphere." 7 
 It is this impartiality of approach that gives to Spinoza’s 
 study of human nature such superiority that Froude called it 
-“the most complete by far which has ever been made by any 
-moral philosopher.” 8 Taine knew no better way of praising 
+"the most complete by far which has ever been made by any 
+moral philosopher." 8 Taine knew no better way of praising 
 
 mi, 57. 
 
@@ -9939,10 +9508,10 @@ SPINOZA
 
 Beyle’s analysis than to compare it with Spinoza’s; while Jo- 
 hannes Muller, coming to the subject of the instincts and emo- 
-tions, wrote: “With regard to the relations of the passions 
+tions, wrote: "With regard to the relations of the passions 
 to one another apart from their physiological conditions, it is 
 impossible to give any better account than that which Spin- 
-oza has laid down with unsurpassed mastery,” — and the 
+oza has laid down with unsurpassed mastery," — and the 
 famous physiologist, with the modesty which usually accom- 
 panies real greatness, went on to quote in extenso the third 
 book of the Ethics. It is through that analysis of human 
@@ -9983,38 +9552,38 @@ THE STORY OF PHILOSOPHY
 
 and the absence of pain. But pleasure and pain are rela- 
 tive, not absolute; and they are not states but transitions* 
-“Pleasure is man’s transition from a lesser state of perfec- 
-tion” (i. e., completeness, or fulfillment) “to a greater.” “Joy 
-consists in this, that one’s power is increased.” 1 “Pain is 
+"Pleasure is man’s transition from a lesser state of perfec- 
+tion" (i. e., completeness, or fulfillment) "to a greater." "Joy 
+consists in this, that one’s power is increased." 1 "Pain is 
 man’s transition from a greater state of perfection to a lesser. 
 I say transition ; for pleasure is not perfection itself : if a 
 man were born with the perfection to which he passes he 
 would be without . . . the emotion of pleasure. And the 
-contrary of this makes it still more apparent.” 2 All passions 
+contrary of this makes it still more apparent." 2 All passions 
 are passages, all emotions are motions, towards or from com- 
 pleteness and power. 
 
-“By emotion ( affectus ) I understand the modifications of 
+"By emotion ( affectus ) I understand the modifications of 
 the body by which the power of action in the body is increased 
 or diminished, aided or restrained, and at the same time the 
-ideas of these modifications.” 3 (This theory of emotion is 
+ideas of these modifications." 3 (This theory of emotion is 
 usually credited to James and Lange; it is here formulated 
 more precisely than by either of these psychologists, and ac- 
 cords remarkably with the findings of Professor Cannon.) A 
 passion or an emotion is bad or good not in itself, but only as 
-it decreases or enhances our power. “By virtue and power 
-I mean the same thing ”; 4 a virtue is a power of acting, a 
-form of ability ; 6 “the more a man can preserve his being and 
-seek what is useful to him, the greater is his virtue .” 4 
+it decreases or enhances our power. "By virtue and power 
+I mean the same thing "; 4 a virtue is a power of acting, a 
+form of ability ; 6 "the more a man can preserve his being and 
+seek what is useful to him, the greater is his virtue ." 4 
 Spinoza does not ask a man to sacrifice himself to another’s 
 good; he is more lenient than nature. He thinks that ego- 
 ism is a necessary corollary of the supreme instinct of self- 
-preservation ; “no one ever neglects anything which he judges 
-to be good, except with the hope of gaining a greater good.” 7 
-This seems to Spinoza perfectly reasonable. “Since reason 
+preservation ; "no one ever neglects anything which he judges 
+to be good, except with the hope of gaining a greater good." 7 
+This seems to Spinoza perfectly reasonable. "Since reason 
 
-1 Cf . Nietzsche: “What is happiness? The feeling that power increases- 
-that resistance is overcome.” — Antichrist, sect. 2. 
+1 Cf . Nietzsche: "What is happiness? The feeling that power increases- 
+that resistance is overcome." — Antichrist, sect. 2. 
 
 2 III, App. 
 
@@ -10038,32 +9607,32 @@ demands nothing against nature, it concedes that each man
 must love himself, and seek what is useful to him, and desire 
 whatever leads him truly to a greater state of perfection ; and 
 that each man should endeavor to preserve his being so far 
-as in him lies.” 1 So he builds his ethic not on altruism and 
+as in him lies." 1 So he builds his ethic not on altruism and 
 the natural goodness of man, like utopian reformers; nor on 
 selfishness and the natural wickedness of man, like cynical 
 conservatives, but on what he considers to be an inevitable and 
 justifiable egoism. A system of morals that teaches a man to 
-be weak is worthless; “the foundation of virtue is no other 
+be weak is worthless; "the foundation of virtue is no other 
 than the effort to maintain one’s being; and man’s happiness 
-consists in the power of so doing.” 2 
+consists in the power of so doing." 2 
 
 Like Nietzsche, Spinoza has not much use for humility ; * 
 it is either the hypocrisy of a schemer or the timidity of a 
 slave; it implies the absence of power — whereas to Spinoza 
 all virtues are forms of ability and power. So is remorse a 
-defect rather than a virtue : “he who repents is twice unhappy 
-and doubly weak.” 4 But he does not spend so much time as 
-Nietzsche in inveighing against humility; for “humility is very 
-rare ” ; 5 and as Cicero said, even the philosophers who write 
+defect rather than a virtue : "he who repents is twice unhappy 
+and doubly weak." 4 But he does not spend so much time as 
+Nietzsche in inveighing against humility; for "humility is very 
+rare " ; 5 and as Cicero said, even the philosophers who write 
 books in its praise take care to put their names on the title- 
-page. “One who despises himself is the nearest to a proud 
-man,” says Spinoza (putting in a sentence a pet theory of the 
+page. "One who despises himself is the nearest to a proud 
+man," says Spinoza (putting in a sentence a pet theory of the 
 psychoanalysts, that every conscious virtue is an effort to 
 conceal or correct a secret vice). And whereas Spinoza dis- 
 likes humility he admires modesty, and objects to a pride that 
-is not “tenoned and mortised” in deeds. Conceit makes meri 
-a nuisance to one another : “the conceited man relates only 
-his own great deeds, and only the evil ones of others ” ; 6 he 
+is not "tenoned and mortised" in deeds. Conceit makes meri 
+a nuisance to one another : "the conceited man relates only 
+his own great deeds, and only the evil ones of others " ; 6 he 
 delights in the presence of his inferiors, who will gape at his 
 perfections and exploits; and becomes at last the victim of 
 
@@ -10087,8 +9656,8 @@ perfections and exploits; and becomes at last the victim of
 THE STORY OF PHILOSOPHY 
 
 
-those who praise him most; for “none are more taken in by 
-flattery than the proud.” 1 
+those who praise him most; for "none are more taken in by 
+flattery than the proud." 1 
 
 So far our gentle philosopher offers us a rather Spartan 
 ethic; but he strikes in other passages a softer tone. He 
@@ -10099,27 +9668,27 @@ these and similar emotions. He believes it is a simple matter
 to show that hatred, perhaps because it trembles on the verge 
 of love, can be more easily overcome by loVe than by recip- 
 rocated hate. For hatred is fed on the feeling that it is 
-returned ; whereas “he who believes himself to be loved by one 
+returned ; whereas "he who believes himself to be loved by one 
 whom he hates is a prey to the conflicting emotions of hatred 
 and love, since (as Spinoza perhaps too optimistically be- 
 lieves) love tends to beget love; so that his hatred disinte- 
 grates and loses force. To hate is to acknowledge our 
 inferiority and our fear; we do not hate a foe whom we ar$ 
-confident we can overcome. “He who wishes to revenge in- 
+confident we can overcome. "He who wishes to revenge in- 
 juries by reciprocal hatred will live in misery. But he who 
 endeavors to drive away hatred by means of love, fights with 
 pleasure and confidence; he resists equally one or many men, 
 and scarcely needs at all the help of fortune. Those whom 
-he conquers yield joyfully.” 2 “Minds are conquered not by 
-arms but by greatness of soul.” 8 In such passages Spinoza 
+he conquers yield joyfully." 2 "Minds are conquered not by 
+arms but by greatness of soul." 8 In such passages Spinoza 
 sees something of the light which shone on the hills of Galilee. 
 
 But the essence of his ethic is rather Greek than Christian. 
-“The endeavor to understand is the first and only basis of 
-virtue” 4 — nothing could be more simply and thoroughly 
-Socratic. For “ we are tossed about by external causes in 
+"The endeavor to understand is the first and only basis of 
+virtue" 4 — nothing could be more simply and thoroughly 
+Socratic. For " we are tossed about by external causes in 
 many ways, and like waves driven by contrary winds, we 
-waver and are unconscious of the issue and our fate.” 6 We 
+waver and are unconscious of the issue and our fate." 6 We 
 think we are most ourselves when we are most passionate, 
 
 l IV, App., def. 21. 
@@ -10141,7 +9710,7 @@ whereas it is then we are most passive, caught in some ances-
 tral torrent of impulse or feeling, and swept on to a precipi- 
 tate reaction which meets only part of the situation because 
 without thought only part of a situation can be perceived. A 
-passion is an “inadequate idea” ; thought is response delayed 
+passion is an "inadequate idea" ; thought is response delayed 
 till every vital angle of a problem has aroused a correlative 
 reaction, inherited or acquired; only so is the idea adequate, 
 the response all that it can be . 1 The instincts are magnificent 
@@ -10151,21 +9720,21 @@ its own fulfilment, regardless of the good of the whole per-
 sonality. What havoc has come to men, for example, from 
 uncontrolled greed, pugnacity, or lust, till such men have be- 
 come but the appendages of the instinct that has mastered 
-them. “The emotions by which we are daily assailed have 
+them. "The emotions by which we are daily assailed have 
 reference rather to some part of the body which is affected 
 beyond the others, and so the emotions as a rule are in excess, 
 and detain the mind in the contemplation of one object so that 
-it cannot think of others.” 2 But “desire that arises from 
+it cannot think of others." 2 But "desire that arises from 
 pleasure or pain which has reference to one or certain parts of 
-the body has no advantage to man as a whole.” 8 To be our- 
+the body has no advantage to man as a whole." 8 To be our- 
 selves we must complete ourselves. 
 
 All this is, of course, the old philosophic distinction between 
 reason and passion; but Spinoza adds vitally to Socrates and 
 the Stoics. He knows that as passion without reason is blind, 
-reason without passion is dead. “An emotion can neither be 
+reason without passion is dead. "An emotion can neither be 
 hindered nor removed except by a contrary and stronger 
-emotion.” 4 Instead of uselessly opposing reason to passion 
+emotion." 4 Instead of uselessly opposing reason to passion 
 —a contest in which the more deeply rooted and ancestral 
 element usually wins — he opposes reasonless passions to pas- 
 sions coordinated by reason, put into place by the total per- 
@@ -10185,12 +9754,12 @@ THE STORY OF PHILOSOPHY
 
 
 spective of the situation. Thought should not lack the heat of 
-desire, nor desire the light of thought. “A passion ceases 
+desire, nor desire the light of thought. "A passion ceases 
 to he a passion as soon as we form a clear and distinct idea 
 of it, and the mind is subject to passions in proportion to 
-the number of adequate ideas which it has.” 1 “All appetites 
+the number of adequate ideas which it has." 1 "All appetites 
 are passions only so far as they arise from inadequate ideas; 
-they are virtues ... when generated by adequate ideas ”; 2 
+they are virtues ... when generated by adequate ideas "; 2 
 all intelligent behavior — i. e., all reaction which meets the total 
 situation — is virtuous action ; and in the end there is no virtue 
 but intelligence. 
@@ -10207,24 +9776,24 @@ fects of present actions which could have no play upon re-
 action if reaction were thoughtlessly immediate. The great 
 obstacle to intelligent behavior is the superior vividness of 
 present sensations as compared with those projected memo- 
-ries which we call imagination. “In so far as the mind con- 
+ries which we call imagination. "In so far as the mind con- 
 ceives a thing according to the dictates of reason, it will be 
 equally affected whether the idea be of anything present, past, 
-or future.” 8 By imagination and reason we turn experience 
+or future." 8 By imagination and reason we turn experience 
 into foresight ; we become the creators of our future, and cease 
 to be the slaves of our past. 
 
 S#» we achieve the only freedom possible to man. The pas- 
-sivity of passion is “human bondage,” the action of reason is 
+sivity of passion is "human bondage," the action of reason is 
 human liberty. Freedom is not from causal law or process, 
 
 iv, s. 
 
 2 Notice tne resemblance between the last two quotations and the psycho- 
-analytic doctrine that desires are “complexes” only so long as we are not 
+analytic doctrine that desires are "complexes" only so long as we are not 
 aware of the precise causes of these desires, and that the first element in 
 treatment is therefore an attempt to bring the desire and its causes to CQE- 
-pciousnesss — to form “adequate ideas” of it and them. 
+pciousnesss — to form "adequate ideas" of it and them. 
 
 * IV, 62 . 
 
@@ -10240,17 +9809,17 @@ but from the individualism of the instincts. With this com-
 pleteness and integrity comes the equanimity of the wise man ; 
 not the aristocratic self-complacency of Aristotle’s hero, much 
 less the supercilious superiority of Nietzsche’s ideal, but a 
-more comradely poise and peace of mind. “Men who are good 
+more comradely poise and peace of mind. "Men who are good 
 by reason — i. e., men who, under the guidance of reason, seek 
 what is useful to them — desire nothing for themselves which 
-they do not also desire for the rest of mankind.” 2 To be 
+they do not also desire for the rest of mankind." 2 To be 
 great is not to be placed above humanity, ruling others; but 
 to stand above the partialities and futilities of uninformed 
 desire, and to rule one’s self. 
 
 This is a nobler freedom than that which men call free will; 
-for the will is not free, and perhaps there is nc “will.” And 
-let no one suppose that because he is no longer “free,” he is 
+for the will is not free, and perhaps there is nc "will." And 
+let no one suppose that because he is no longer "free," he is 
 no longer morally responsible for his behavior and the struc- 
 ture of his life. Precisely because men’s actions are deter- 
 mined by their memories, society must for its protection form 
@@ -10258,20 +9827,20 @@ its citizens through their hopes and fears into some measure
 of social order and cooperation. All education presupposes 
 determinism, and pours into the open mind of youth a store 
 of prohibitions which are expected to participate in deter- 
-mining conduct. “The evil which ensues from evil deeds is 
+mining conduct. "The evil which ensues from evil deeds is 
 not therefore less to be feared because it comes of necessity; 
 whether our actions are free or not, our motives still are hope 
 and fear. Therefore the assertion is false that I would leave 
-no room for precepts and commands.” 3 On the contrary, 
+no room for precepts and commands." 3 On the contrary, 
 determinism makes for a better moral life : it teaches us not to 
 
-l.Cf. Professor Dewey: “A physician or engineer is free in his thought 
+l.Cf. Professor Dewey: "A physician or engineer is free in his thought 
 and his action in the degree in which he knows what he deals with. Possibly 
-we find here the key to any freedom.” — Human Nature and Conduct; New 
+we find here the key to any freedom." — Human Nature and Conduct; New 
 York, 1922; p. 303. 
 
-2 IV, 18, note ; cf . Whitman : “By God, I will not have anything that all 
-cannot have their counterpart of on the same terms.” 
+2 IV, 18, note ; cf . Whitman : "By God, I will not have anything that all 
+cannot have their counterpart of on the same terms." 
 
 8 Epistle 43. 
 
@@ -10283,38 +9852,38 @@ THE STORY OF PHILOSOPHY
 
 
 despise or ridicule any one, or be angry with any one ; 1 men 
-are “not guilty”; and though we punish miscreants, it will 
+are "not guilty"; and though we punish miscreants, it will 
 be without hate ; we forgive them because they know not what 
 they do. 
 
 Above all, deter mini sm fortifies us to expect and to bear 
 both faces of fortune with an equal mind; we remember that 
 all things follow by the eternal decrees of God. Perhaps 
-wen it will teach us the “intellectual love of God,” whereby we 
+wen it will teach us the "intellectual love of God," whereby we 
 shall accept the laws of nature gladly, and find our fulfillment 
 within her limitations. He who sees all things as determined 
-cannot complain, though he may resist; for he “perceives 
-things under a certain species of eternity,” 2 and he under- 
+cannot complain, though he may resist; for he "perceives 
+things under a certain species of eternity," 2 and he under- 
 stands that his mischances are not chances in the total scheme ; 
 that they find some justification in the eternal sequence and 
 structure of the world. So minded, he rises from the fitful 
 pleasures of passion to the high serenity of contemplation 
 which sees all things as parts of an eternal order and develop- 
 ment; he learns to smile in the face of the inevitable, and 
-“whether he comes into his own now, or in a thousand years, 
-he sits content.” 8 He learns the old lesson that God is no 
+"whether he comes into his own now, or in a thousand years, 
+he sits content." 8 He learns the old lesson that God is no 
 capricious personality absorbed in the private affairs of his 
 devotees, but the invariable sustaining order of the universe. 
 Plato words the same conception beautifully in the Republic: 
-“He whose mind is fixed upon true being has no time to look 
+"He whose mind is fixed upon true being has no time to look 
 down upon the little affairs of men, or to be filled with jealousy 
 and enmity in the struggle against them; his eye is ever di- 
 rected towards fixed and immutable principles, which he sees 
 neither injuring nor injured by one another, but all in order 
 moving according to reason ; these he imitates, and to these he 
-would, as far as he can, conform himself .” 4 “That which 
-is necessary,” says Nietzsche, “does not offend me. Amor 
-fati ” — love of fate — “is the core of my nature.” 5 Or Keats: 
+would, as far as he can, conform himself ." 4 "That which 
+is necessary," says Nietzsche, "does not offend me. Amor 
+fati " — love of fate — "is the core of my nature." 5 Or Keats: 
 
 i II, end. 
 
@@ -10341,8 +9910,8 @@ And to envisage circumstance, all calm :
 That is the top of sovereignty. 1 
 
 Such a philosophy teaches us to say Yea to life, and even to 
-death — “ a free man thinks of nothing less than of death; and 
-his wisdom is a meditation not on death but on life.” 2 It 
+death — " a free man thinks of nothing less than of death; and 
+his wisdom is a meditation not on death but on life." 2 It 
 calms our fretted egos with its large perspective ; it reconciles 
 us to the limitations within which our purposes must be cir- 
 cumscribed. It may lead to resignation and an Orientally su- 
@@ -10361,14 +9930,14 @@ iable law soothed and sufficed him; but in the end his essen-
 tially religious spirit turned this mute process into something 
 almost lovable. He tried to merge his own desires with the 
 universal order of things, to become an almost indistinguish- 
-able part of nature. “The greatest good is the knowledge of 
-the union which the mind has with the whole nature.” 3 In- 
+able part of nature. "The greatest good is the knowledge of 
+the union which the mind has with the whole nature." 3 In- 
 deed, our individual separateness is in a sense illusory ; we are 
 parts of the great stream of law and cause, parts of God; we 
 are the flitting forms of a being greater than ourselves, and 
 endless while we die. Our bodies are cells in the body of the 
 race, our race is an incident in the drama of life; our minds 
-are the fitful flashes of an eternal light. “Our mind, in so far 
+are the fitful flashes of an eternal light. "Our mind, in so far 
 as it understands, is an eternal mode of thinking, which is 
 determined by another mode of thinking, and this one again 
 
@@ -10376,7 +9945,7 @@ determined by another mode of thinking, and this one again
 
 2 Ethics, IY, 67. 
 
-*De Emendatione , p. 230. 
+*De Emendatione, p. 230. 
 
 
 206 
@@ -10386,17 +9955,17 @@ THE STORY OF PHILOSOPHY
 
 
 by another, and so On to infinity ; so that they all constitute at 
-the same time the eternal and infinite intellect of God.” 1 In 
+the same time the eternal and infinite intellect of God." 1 In 
 this pantheistic merging of the individual with the All, the 
-Orient speaks again: we hear the echo of Omar, who “never 
-called the One two,” and of the old Hindu poem: “Know in 
+Orient speaks again: we hear the echo of Omar, who "never 
+called the One two," and of the old Hindu poem: "Know in 
 thyself and All one self-same soul ; banish the dream that sun- 
-ders part from whole.” 2 “Sometimes,” said Thoreau, “as I 
-drift idly on Walden Pond, I cease to live and begin to be.” 
+ders part from whole." 2 "Sometimes," said Thoreau, "as I 
+drift idly on Walden Pond, I cease to live and begin to be." 
 
-As such parts of such a whole we are immortal. “The hu- 
+As such parts of such a whole we are immortal. "The hu- 
 man mind cannot be absolutely destroyed with the human 
-body, but there is some part of it which remains eternal .” 8 
+body, but there is some part of it which remains eternal ." 8 
 This is the part that conceives things sub specie eternitatis; 
 the more we so conceive things, the more eternal our thought 
 is. Spinoza is even more than usually obscure here ; and after 
@@ -10410,14 +9979,14 @@ have in mind a personal and individual immortality; and it
 may be that as death loomed up so prematurely in his path 
 he yearned to console himself with this hope that springs eter- 
 nally in the human breast. Yet he insistently differentiates 
-eternity from everlastingness: “If we pay attention to the 
+eternity from everlastingness: "If we pay attention to the 
 common opinion of men, we shall see that they are conscious 
 of the eternity of their minds; but they confuse eternity with 
 duration, and attribute it to imagination or memory, which 
-they believe will remain after death.” 4 But like Aristotle, 
+they believe will remain after death." 4 But like Aristotle, 
 Spinoza, though talking of immortality, denies the survival of 
-personal memory. “The mind can neither imagine nor recol- 
-lect anything save while in the body.” 5 Nor does he believe 
+personal memory. "The mind can neither imagine nor recol- 
+lect anything save while in the body." 5 Nor does he believe 
 
 1 Ethics, V, 40, note. 
 
@@ -10435,13 +10004,13 @@ SPINOZA
 
 207 
 
-in heavenly rewards: “Those are far astray from a true es- 
+in heavenly rewards: "Those are far astray from a true es- 
 timate of virtue who expect for their virtue, as if it were the 
 greatest slavery, that God will adorn them with the greatest 
 rewards; as if virtue and the serving of God were not hap- 
-piness itself and the greatest liberty.” 1 “Blessedness,” reads 
-the last proposition of Spinoza’s book, “is not the reward of 
-virtue, but virtue itself.” And perhaps in the like manner, im- 
+piness itself and the greatest liberty." 1 "Blessedness," reads 
+the last proposition of Spinoza’s book, "is not the reward of 
+virtue, but virtue itself." And perhaps in the like manner, im- 
 mortality is not the reward of clear thinking, it is clear 
 thought itself, as it carries up the past into the present and 
 reaches out into the future, so overcoming the limits and nar- 
@@ -10537,34 +10106,34 @@ do, and is not opposed to strife, hatred, anger, treachery,
 or, in general, anything that appetite suggests . 2 
 
 We get an inkling of this law of nature, or this lawlessness 
-of nature, by observing the behavior of states ; “there is no al- 
-truism among nations,” 8 for there can be law and morality 
+of nature, by observing the behavior of states ; "there is no al- 
+truism among nations," 8 for there can be law and morality 
 only where there is an accepted organization, a common and 
-recognized authority. The “rights” of states are now what 
-the “rights” of individuals used to be (and still often are) , 
+recognized authority. The "rights" of states are now what 
+the "rights" of individuals used to be (and still often are), 
 that is, they are mights, and the leading states, by some for- 
 getful honesty of diplomats, are very properly called the 
-“Great Powers.” So it is too among species : there being 
+"Great Powers." So it is too among species : there being 
 no common organization, there is not among them any mo- 
 rality or law; each species does to the other what it wishes 
 and can . 4 
 
 But among men, as mutual needs begets mutual aid, this 
 natural order of powers passes into a moral order of rights. 
-“Since fear of solitude exists in all men, because no one in 
+"Since fear of solitude exists in all men, because no one in 
 solitude is strong enough to defend himself and procure the 
 necessaries of life, it follows that men by nature tend towards 
-social organization.” 6 To guard against danger “the force 
+social organization." 6 To guard against danger "the force 
 or strength of one man would hardly suffice if men did not 
-arrange mutual aid and exchange.” 6 Men are riot by nature, 
+arrange mutual aid and exchange." 6 Men are riot by nature, 
 however, equipped for the mutual forbearance of social order ; 
 but danger begets association, which gradually nourishes and 
-strengthens the social instincts : “men are not born for citizen- 
-ship, but must be made fit for it.” 7 
+strengthens the social instincts : "men are not born for citizen- 
+ship, but must be made fit for it." 7 
 
 Most men are at heart individualistic rebels against law or 
 
-1 Ethics , IV, 37, note 2. 
+1 Ethics, IV, 37, note 2. 
 
 2 Tractatus Politicus, ch. 2. 
 c Bismarck. 
@@ -10586,16 +10155,16 @@ THE STORY OF PHILOSOPHY
 f 
 
 custom: the social instincts are later and weaker than the in- 
-i'- dividualistic, and need reinforcement; man is not “good by 
+i'- dividualistic, and need reinforcement; man is not "good by 
 
-l nature,” as Rousseau was so disastrously to suppose. But 
+l nature," as Rousseau was so disastrously to suppose. But 
 
 f through association, if even merely in the family, sympathy 
 
 comes, a feeling of kind, and at last of kindness. We like 
-what is like us ; “we pity not only a thing we have loved, but 
-also one which we judge similar to ourselves ”; 1 out of this 
-P comes an “imitation of emotions,” 2 and finally some degree 
+what is like us ; "we pity not only a thing we have loved, but 
+also one which we judge similar to ourselves "; 1 out of this 
+P comes an "imitation of emotions," 2 and finally some degree 
 
 l of conscience. Conscience, however, is not innate, but ac- 
 
@@ -10673,10 +10242,10 @@ every organism or organization, to preserve its own existence
 selves in office), becomes a mechanism of domineering and 
 exploitation? Obey even the unjust law, answers Spinoza, 
 if reasonable protest and discussion are allowed and speech is 
-left free to secure a peaceful change. “I confess that from 
+left free to secure a peaceful change. "I confess that from 
 such freedom inconveniences may sometimes arise; but what 
 question was ever settled so wisely that no abuses could spring 
-therefrom ?” 2 Laws against free speech are subversive of 
+therefrom ?" 2 Laws against free speech are subversive of 
 all law; for men will not long respect laws which they may 
 not criticize. 
 
@@ -10706,14 +10275,14 @@ refrain from no action against the government . 1 . . . Laws
 which can be broken without any wrong to one’s neighbor 
 are counted but a laughing-stock; and so far from such 
 laws restraining the appetites and lusts of mankind, 
-they rather heighten them. Nitimur in vetitum semper , 
+they rather heighten them. Nitimur in vetitum semper, 
 cupimusque negata . 2 
 
 And Spinoza concludes like a good American constitution- 
-alist: “If actions only could be made the ground of criminal 
+alist: "If actions only could be made the ground of criminal 
 prosecutions, and words were always allowed to pass free, 
 sedition would be divested of every semblance of justifica- 
-tion.” 3 
+tion." 3 
 
 The less control the state has over the mind, the better 
 for both the citizen and the state. Spinoza, while recogniz- 
@@ -10724,19 +10293,19 @@ the extension of its authority from the bodies and actions to
 the souls and thoughts of men; that would be the end af 
 growth and the death of the group. So he disapproves of 
 state control of education, especially in the universities : 
-“Academies that are founded at the public expense are in- 
+"Academies that are founded at the public expense are in- 
 stituted not so much to cultivate men’s natural abilities as 
 to restrain them. But in a free commonwealth arts and 
 sciences will be better cultivated to the full if every one that 
 asks leave is allowed to teach publicly, at his own cost and 
-risk .” 4 How to find a middle way between universities 
+risk ." 4 How to find a middle way between universities 
 controlled by the state and universities controlled by private 
 wealth, is a problem which Spinoza does not solve; private 
 wealth had not in his day grown to such proportions as to 
 
 1 Ibid. 
 
-2 T. P., ch. 10. (“We always resist prohibitions, and yearn for what is 
+2 T. P., ch. 10. ("We always resist prohibitions, and yearn for what is 
 denied us. w ) 
 
 a T. T-P,, pref. 
@@ -10752,15 +10321,15 @@ SPINOZA
 
 suggest the difficulty. His ideal, apparently, was higher 
 education such as once flourished in Greece, coming not from 
-institutions but from free individuals — “Sophists” — who 
+institutions but from free individuals — "Sophists" — who 
 traveled from city to city and taught independently of either 
 public or private control. 
 
 These things premised, it makes no great difference what 
 is the form of government; and Spinoza expresses only a 
 mild preference for democracy. Any of the traditional 
-political forms can be framed “so that every man . . . may 
-prefer public right to private advantage ; this is the task” of 
+political forms can be framed "so that every man . . . may 
+prefer public right to private advantage ; this is the task" of 
 the law-giver 1 Monarchy is efficient, but oppressive and 
 militaristic. 
 
@@ -10806,28 +10375,28 @@ and as they plot against the enemy in time of war, so do they
 against the citizens in time of peace . 1 
 
 Democracy is the most reasonable form of government; for 
-in it “every one submits to the control of authority over his 
+in it "every one submits to the control of authority over his 
 actions, but not over his judgment and reason; i. e., seeing 
 that all cannot think alike, the voice of the majority has the 
-force of law.” 2 The military basis of this democracy should 
+force of law." 2 The military basis of this democracy should 
 be universal military service, the citizens retaining their arms 
 during peace ; 8 its fiscal basis should be the single tax . 4 The 
 defect of democracy is its tendency to put mediocrity into 
 power; and there is no way of avoiding this except by 
-limiting office to men of “trained skill.” 6 Numbers by them- 
+limiting office to men of "trained skill." 6 Numbers by them- 
 selves cannot produce wisdom, and may give the best favors 
-of office to the grossest flatterers. “The fickle disposition of 
+of office to the grossest flatterers. "The fickle disposition of 
 the multitude almost reduces those who have experience of it 
 to despair; for it is governed solely by emotions, and not by 
-reason.” 6 Thus democratic government becomes a procession 
+reason." 6 Thus democratic government becomes a procession 
 of brief-lived demagogues, and men of worth are loath to enter 
 lists where they must be judged and rated by their inferiors . 7 
 Sooner or later the more capable men rebel against such a 
-system, though they be in a minority. “Hence I think it is 
+system, though they be in a minority. "Hence I think it is 
 that democracies change into aristocracies, and these at length 
-into monarchies ” ; 8 people at last prefer tyranny to chaos. 
+into monarchies " ; 8 people at last prefer tyranny to chaos. 
 Equality of power is an unstable condition ; men are by nature 
-unequal; and “he who seeks equality between unequals seeks 
+unequal; and "he who seeks equality between unequals seeks 
 
 IT. P., ch. 7. 
 
@@ -10835,10 +10404,10 @@ IT. P., ch. 7.
 
 a T. P., ch. 7. 
 
-4 “The fields and the whole soil, and (if it can be managed) the bouses, 
+4 "The fields and the whole soil, and (if it can be managed) the bouses, 
 should be public property, ... let at a yearly rental to the citizen; . c . and 
 with this exception let them all be free from every kind of taxation in tune of 
-|>eace.” — T. P., ch. 6. 
+|>eace." — T. P., ch. 6. 
 
 5 T. T-P., ch. 13. 
 
@@ -10855,7 +10424,7 @@ SPINOZA
 £15 
 
 
-an absurdity.” Democracy has still to solve the problem of 
+an absurdity." Democracy has still to solve the problem of 
 enlisting' the best energies of men while giving to all alike 
 the choice of those, among the trained and fit, by whom they 
 wish to be ruled. 
@@ -10869,27 +10438,27 @@ his thought. While writing the chapter on democracy he died.
 
 VI. THE INFLUENCE OP SPINOZA 
 
-“Spinoza did not seek to found a sect, and he founded 
-none” ; 1 yet all philosophy after him is permeated with his 
+"Spinoza did not seek to found a sect, and he founded 
+none" ; 1 yet all philosophy after him is permeated with his 
 thought. During the generation that followed his death, his 
 name was held in abhorrence; even Hume spoke of his 
-“hideous hypothesis” ; “people talked of Spinoza,” said Les- 
-sing, “as if he were a dead dog.” 
+"hideous hypothesis" ; "people talked of Spinoza," said Les- 
+sing, "as if he were a dead dog." 
 
 It was Lessing who restored him to repute. The great 
 critic surprised Jacobi, in their famous conversation in 1784, 2 
 by saying that he had been a Spinozist throughout his mature 
-life, and affirming that “there is no other philosophy than 
-that of Spinoza.” His love of Spinoza had strengthened his 
+life, and affirming that "there is no other philosophy than 
+that of Spinoza." His love of Spinoza had strengthened his 
 friendship with Moses Mendelssohn; and in his great play, 
-Nathan der Weise , he poured into one mould that conception 
+Nathan der Weise, he poured into one mould that conception 
 of the ideal Jew which had come to him from the living mer- 
 chant and the dead philosopher. A few years later Herder’s 
 Einige Gesprache iiber Spinoza’s System turned the attention 
 of liberal theologians to the Ethics; Schleiermacher, leader 
-of this school, wrote of “the holy and excommunicated 
-Spinoza,” while the Catholic poet, Novalis, called him “the 
-god-intoxicated man.” 
+of this school, wrote of "the holy and excommunicated 
+Spinoza," while the Catholic poet, Novalis, called him "the 
+god-intoxicated man." 
 
 Meanwhile Jacobi had brought Spinoza to the attention of 
 Goethe; the great poet was converted, he tells us, at the first 
@@ -10914,17 +10483,17 @@ It was by combining Spinoza with Kant’s epistemology that
 Fichte, Schelling and Hegel reached their varied pantheisms; 
 it was from the conatus sese preservandi, the effort to preserve 
 one’s self, that Fichte’s Ich was born, and Schopenhauer’s 
-“will to live,” and Nietzsche’s “will to power,” and Bergson’s 
+"will to live," and Nietzsche’s "will to power," and Bergson’s 
 Sian vital. Hegel objected that Spinoza’s system was too 
 lifeless and rigid; he was forgetting this dynamic element of 
 it and remembering only that majestic conception of God as 
-law which he appropriated for his “Absolute Reason.” But 
-he was honest enough when he said, “To be a philosopher one 
-must first be a Spinozist.” 
+law which he appropriated for his "Absolute Reason." But 
+he was honest enough when he said, "To be a philosopher one 
+must first be a Spinozist." 
 
 In England the influence of Spinoza rose on the tide of the 
 Revolutionary movement ; and young rebels like Coleridge and 
-Wordsworth talked about “Spy-nosa” (which the spy set by 
+Wordsworth talked about "Spy-nosa" (which the spy set by 
 the government to watch them took as a reference to his own 
 nasal facilities) with the same ardor that animated the con- 
 versation of Russian intellectuals in the halcyon days of Y 
@@ -10961,24 +10530,24 @@ Shelley quoted the Treatise on Religion and the State in the
 original notes to Queen Mah, and began a translation of it 
 for which Byron promised a preface. A fragment of this 
 MS. came into the hands of C. S. Middleton, who took it for 
-a work of Shelley’s own, and called it “school-boy specula- 
-tion . . . too crude for publication entire.” In a later and 
-tamer age George Eliot translated the Ethics , though she 
+a work of Shelley’s own, and called it "school-boy specula- 
+tion . . . too crude for publication entire." In a later and 
+tamer age George Eliot translated the Ethics, though she 
 never published the translation; and one may suspect that 
 Spencer’s conception of the Unknowable owes something to 
-Spinoza through his intimacy with the novelist. “There are 
-not wanting men of eminence of the present day,” says Bel- 
-fort Bax, “who declare that in Spinoza is contained the fulness 
-of modem science.” 
+Spinoza through his intimacy with the novelist. "There are 
+not wanting men of eminence of the present day," says Bel- 
+fort Bax, "who declare that in Spinoza is contained the fulness 
+of modem science." 
 
 Perhaps so many were influenced by Spinoza because he 
 lends himself to so many interpretations, and yields new 
 riches at every reading. All profound utterances have varied 
 facets for diverse minds. One may say of Spinoza what 
-Ecclesiastes said of Wisdom: “The first man knew him not 
+Ecclesiastes said of Wisdom: "The first man knew him not 
 perfectly, no more shall the last find him out. For his 
 thoughts are more than the sea, and his counsels profounder 
-than the great deep.” 
+than the great deep." 
 
 On the second centenary of Spinoza’s death subscriptions 
 were collected for the erection of a statue to him at the 
@@ -10986,14 +10555,14 @@ Hague. Contributions came from every corner of the edu-
 cated world; never did a monument rise upon so wide a 
 pedestal of love. At the unveiling in 1882 Ernest Henan 
 concluded his address with words which may fitly conclude also 
-our chapter: “Woe to him who in passing should hurl an 
+our chapter: "Woe to him who in passing should hurl an 
 insult at this gentle and pensive head. He would be punished, 
 as all vulgar souls are punished, by his very vulgarity, and by 
 his incapacity to conceive what is divine. This man, from 
 his granite pedestal, will point out to all men the way of 
 blessedness which he found; and ages hence, the cultivated 
 traveler, passing by this spot, will say in his heart, ‘The truest 
-vision ever had of God came, perhaps, here.’ ” 1 
+vision ever had of God came, perhaps, here.’ " 1 
 
 l Ethics, Everyman ed., Introd., xxii, note. 
 
@@ -11008,14 +10577,14 @@ I. PARIS: (EDIPE
 A T Paris in 1742 Voltaire was coaching Mile. Dumes- 
 . nil to rise to tragic heights in a rehearsal of his play 
 Merope. She complained that she would have to 
-have “the very devil” in her to simulate such passion as he 
-required. “That is just it,” answered Voltaire; “you must 
-have the devil in you to succeed in any of the arts.” 1 Even 
+have "the very devil" in her to simulate such passion as he 
+required. "That is just it," answered Voltaire; "you must 
+have the devil in you to succeed in any of the arts." 1 Even 
 his critics and his enemies admitted that he himself met this 
-requirement perfectly. “JZ await le diable au corps — he had 
-the devil in his body,” said Sainte-Beuve ; 2 and De JMaistre 
-called him the man “into whose hands hell had given all its 
-powers.” 3 
+requirement perfectly. "JZ await le diable au corps — he had 
+the devil in his body," said Sainte-Beuve ; 2 and De JMaistre 
+called him the man "into whose hands hell had given all its 
+powers." 3 
 
 Unprepossessing, ugly, vain, flippant, obscene, unscrupu- 
 lous, even at times dishonest, — Voltaire was a man with the 
@@ -11047,7 +10616,7 @@ VOLTAIRE
 219 
 
 subject across the world as fitfully and bravely as in an 
-encyclopedia. “My trade is to say what I think ” : 1 and what 
+encyclopedia. "My trade is to say what I think " : 1 and what 
 he thought was always worth saying, as what he said was 
 always said incomparably well. If we do not read him now 
 (though men like Anatole France have been formed to sub- 
@@ -11063,20 +10632,20 @@ verba volant — written words remain, while spoken words fly
 away, the winged words of Voltaire with the rest. What is 
 left to us is too much the flesh of Voltaire, too little the divine 
 fire of his spirit. And yet, darkly as we see him through 
-the glass of time, what a spirit! — “sheer intelligence trans- 
-muting anger into fun, fire into light ” ; 2 “a creature of air 
+the glass of time, what a spirit! — "sheer intelligence trans- 
+muting anger into fun, fire into light " ; 2 "a creature of air 
 and flame, the most excitable that ever lived, composed of 
 more ethereal and more throbbing atoms than those of other 
 men; there is none whose mental machinery is more delicate, 
 nor whose equilibrium is at the same time more shifting and 
-more exact .” 3 Was he, perhaps, the greatest intellectual 
+more exact ." 3 Was he, perhaps, the greatest intellectual 
 energy in all history? 
 
 Certainly he worked harder, and accomplished more, than 
-any other man of his epoch. “Not to be occupied, and not 
-to exist, amount to the same thing,” he said. “All people are 
-good except those who are idle.” His secretary said that he 
-was a miser only of his time . 4 “One mush give one’s self all 
+any other man of his epoch. "Not to be occupied, and not 
+to exist, amount to the same thing," he said. "All people are 
+good except those who are idle." His secretary said that he 
+was a miser only of his time . 4 "One mush give one’s self all 
 the occupation one can to make life supportable in this 
 world. . . . The further I advance in age, the more I find 
 Work necessary. It becomes in the long run the greatest of 
@@ -11096,16 +10665,16 @@ Work necessary. It becomes in the long run the greatest of
 THE STORY OF PHILOSOPHY 
 
 
-pleasures, and takes the place of the illusions of life.” 1 “If 
+pleasures, and takes the place of the illusions of life." 1 "If 
 you do not want to commit suicide always have something 
-to do.” 2 
+to do." 2 
 
 Suicide must have been forever tempting him, for he was 
-ever at work. “It was because he was so thoroughly alive that 
-he filled the whole era with his life.” 3 Contemporary with 
+ever at work. "It was because he was so thoroughly alive that 
+he filled the whole era with his life." 3 Contemporary with 
 one of the greatest of centuries (1694-1778), he was the soul 
-and essence of it. “To name Voltaire,” said Victor Hugo, 
-“is to characterize the entire eighteenth century.” 4 Italy 
+and essence of it. "To name Voltaire," said Victor Hugo, 
+"is to characterize the entire eighteenth century." 4 Italy 
 had a Renaissance, and Germany had a Reformation, but 
 France had Voltaire ; he was for his country both Renaissance 
 and Reformation, and half the Revolution. He carried on 
@@ -11114,12 +10683,12 @@ humor of Rabelais; he fought superstition and corruption
 more savagely and effectively than Luther or Erasmus, Calvin 
 or Knox or Melanchthon; he helped to make the powder with 
 which Mirabeau and Marat, Danton and Robespierre blew 
-up the Old Regime. “If we judge of men by what they have 
-done,” said Lamartine, “then Voltaire is incontestably the 
+up the Old Regime. "If we judge of men by what they have 
+done," said Lamartine, "then Voltaire is incontestably the 
 greatest writer of modern Europe. . . . Destiny gave him 
 eighty^three years of existence, that he might slowly de- 
 compose the decayed age; he had the time to combat time; 
-and when he fell he was the conqueror.” 5 
+and when he fell he was the conqueror." 5 
 
 No, never has a writer had in his lifetime such influence. 
 Despite exile, imprisonment, and the suppression of almost 
@@ -11128,7 +10697,7 @@ he forged fiercely a path for his truth, until at last kings,
 popes and emperors catered to him, thrones trembled before 
 him, and half the world listened to catch his every word. It 
 was an age in which many things called for a destroyer. 
-“Laughing lions must come,” said Nietzsche; well, Voltaire 
+"Laughing lions must come," said Nietzsche; well, Voltaire 
 
 i In Sainte-Beuve, i, 226. 
 
@@ -11146,7 +10715,7 @@ VOLTAIRE
 
 22i; 
 
-came, and “annihilated with laughter.” 1 He and Rousseau 
+came, and "annihilated with laughter." 1 He and Rousseau 
 were the two voices of a vast process of economic and political 
 transition from feudal aristocracy to the rule of the middle 
 class. When a rising class is inconvenienced by existing law 
@@ -11169,16 +10738,16 @@ thought above.
 Yet we must not bend back too far in attempting to correct 
 the philosopher’s tendency to exaggerate the influence of 
 philosophy. Louis XVI, seeing in his Temple prison the 
-works of Voltaire and Rousseau, said, “Those two men have 
-destroyed France,” 2 — meaning his dynasty. “The Bourbons 
-might have preserved themselves,” said Napoleon, “if they had 
+works of Voltaire and Rousseau, said, "Those two men have 
+destroyed France," 2 — meaning his dynasty. "The Bourbons 
+might have preserved themselves," said Napoleon, "if they had 
 controlled writing materials. The advent of cannon killed 
 the feudal system; ink will kill the modern social organiza- 
-tion.” 3 “Books rule the world,” said Voltaire, “or at least 
+tion." 3 "Books rule the world," said Voltaire, "or at least 
 those nations in it which have a written language ; the others 
-do not count.” “Nothing enfranchises like education”; — 
-and he proceeded to enfranchise France. “When once a 
-nation begins to think, it is impossible to stop it.” 4 But 
+do not count." "Nothing enfranchises like education"; — 
+and he proceeded to enfranchise France. "When once a 
+nation begins to think, it is impossible to stop it." 4 But 
 with Voltaire, France began to think. 
 
 1 Brandes, 57. 
@@ -11193,7 +10762,7 @@ s Bertaut, Napoleon in His Own Words ; Chicago, 1916; p, 63.
 THE STORY OF PHILOSOPHY 
 
 
-“Voltaire,” that is to say, Franyois Marie Arouet, was 
+"Voltaire," that is to say, Franyois Marie Arouet, was 
 born at Paris in 1694, the son of a comfortably successful 
 notary and a somewhat aristocratic mother. He owed to 
 his father, perhaps, his shrewdness and irascibility, and to 
@@ -11207,9 +10776,9 @@ conquerable spirit.
 
 He had for his edification a model elder brother, Armand, 
 a pious lad who fell in love with the Jansenist heresy, and 
-courted martyrdom for his faith. “Well,” said Armand to a 
-friend who advised the better part of valor, “if you do not 
-want to be hanged, at least do not put off other people.” The 
+courted martyrdom for his faith. "Well," said Armand to a 
+friend who advised the better part of valor, "if you do not 
+want to be hanged, at least do not put off other people." The 
 father said he had two fools for his sons — one in verse and 
 the other in prose. The fact that Franfois made verses 
 almost as soon as he could write his name, convinced his very 
@@ -11228,14 +10797,14 @@ became an adept at argument: while the boys played games
 in the fields, he, aged twelve, stayed behind to discuss theology 
 with the doctors. When the time came for him to earn his 
 living, he scandalized his father by proposing to take up 
-literature as profession. “Literature,” said M. Arouet, “is 
+literature as profession. "Literature," said M. Arouet, "is 
 the profession of the man who wishes to be useless to society 
 
 
 VOLTAIRE 
 
 
-and a burden to his relatives, and to die of hunger”; — one 
+and a burden to his relatives, and to die of hunger"; — one 
 can see the table trembling under his emphasis. So Francis 
 went in for literature. 
 
@@ -11249,9 +10818,9 @@ in love with his wit, and soon gave him free rein. After im-
 prisonment, now as later, came exile : his father sent him to the 
 Hague with the French ambassador, requesting strict surveil- 
 lance of the madcap boy ; but Francois at once fell in love 
-with a little lady, “Pimpette,” held breathless clandestine in- 
+with a little lady, "Pimpette," held breathless clandestine in- 
 terviews with her, and 'Vrote to her passionate letters ending 
-always with the refrain, “I shall certainly love you forever.” 
+always with the refrain, "I shall certainly love you forever." 
 The affair was discovered, and he was sent home. He remem- 
 bered Pimpette for several weeks. 
 
@@ -11269,9 +10838,9 @@ last all the bright and naughty things whispered about Paris
 were fathered upon him; and it was his ill luck that these 
 included two poems accusing the Regent of desiring to usurp 
 the throne. The Regent raged ; and meeting the youth in the 
-park one day, said to him: “M. Arouet, I will wager that 
-I can show you something that you have never seen before.” 
-“What is that?” “The inside of the Bastille.” Arouet saw 
+park one day, said to him: "M. Arouet, I will wager that 
+I can show you something that you have never seen before." 
+"What is that?" "The inside of the Bastille." Arouet saw 
 V the next day, April 16, 1717. 
 
 
@@ -11294,11 +10863,11 @@ He passed now almost with a bound from the prison to the
 stage. His tragedy, (Edipe, was produced in 1718, and broke 
 all the records of Paris by running for forty-five consecutive 
 nights. His old father, come to upbraid him, sat in a box, 
-and covered his joy by grumbling, at every hit, “Oh, the 
-rascal! the rascal!” When the poet Fontenelle met Voltaire 
+and covered his joy by grumbling, at every hit, "Oh, the 
+rascal! the rascal!" When the poet Fontenelle met Voltaire 
 after the play and damned it with high praise, saying it was 
-“too brilliant for tragedy,” Voltaire replied, smiling, “I must 
-re-read your pastorals.” 2 The youth was in no mood for 
+"too brilliant for tragedy," Voltaire replied, smiling, "I must 
+re-read your pastorals." 2 The youth was in no mood for 
 caution or for courtesy; had he not put into the play itself 
 these reckless lines? — 
 
@@ -11359,14 +10928,14 @@ and honor than that of genius, and could not quite forgive him
 for the distinction. During a dinner at the Due de Sully ’s 
 chateau, after Voltaire had held forth for some minutes with 
 unabashed eloquence and wit, the Chevalier de Rohan asked, 
-not sotto voce, “Who is the young man who talks so loud?” 
-“My Lord,” answered Voltaire quickly, “he is one who does 
+not sotto voce, "Who is the young man who talks so loud?" 
+"My Lord," answered Voltaire quickly, "he is one who does 
 not carry a great name, but wins respect for the name he 
-has.” To answer the Chevalier at all was impertinence; to 
+has." To answer the Chevalier at all was impertinence; to 
 answer him unanswerably was treason. The honorable Lord 
 engaged a band of ruffians to assault Voltaire by night, merely 
-cautioning them, “Don’t hit his head; something good may 
-come out of that yet.” The next day, at the theatre, Voltaire 
+cautioning them, "Don’t hit his head; something good may 
+come out of that yet." The next day, at the theatre, Voltaire 
 
 
 
@@ -11404,9 +10973,9 @@ other of them, even with the elusive and corrosive Dean Swift.
 He pretended to no pedigree, and asked none of others : when 
 Congreve spoke of his own plays as trifles, and desired to be 
 considered rather a gentleman of leisure than an author, 
-Voltaire said to him sharply, “If you had had the misfortune 
+Voltaire said to him sharply, "If you had had the misfortune 
 to be only a gentleman like any other, I should never have 
-come to see you.” 
+come to see you." 
 
 What surprised hi m was the freedom with which Boling- 
 broke, Pope, Addison, and Swift wrote whatever they pleased : 
@@ -11428,12 +10997,12 @@ religions, and not one priest. Here was the boldest sect of
 all, the Quakers, who astonished all Christendom by behaving 
 like Christians. Voltaire never to the end of his life ceased 
 to wonder at them : in the Dictionnaire Philosophique he makes 
-one of them say: “Our God, who has bidden us love our 
+one of them say: "Our God, who has bidden us love our 
 enemies and suffer evil without complaint, assuredly has no 
 mind that we should cross the sea to go and cut the throats 
 of our brothers because murderers in red clothes and hats two 
 feet high enlist citizens by making a noise with two sticks on 
-an ass’s skin.” 
+an ass’s skin." 
 
 It was an England, too, that throbbed with a virile intel- 
 lectual activity. Bacon’s name was still in the air, and the 
@@ -11443,20 +11012,20 @@ the Renaissance, and the practical spirit of his master, into
 so complete and outspoken a materialism as would have won 
 him in France the honor of martyrdom for a fallacy. Locke 
 (1632—1704) had written a masterpiece of psychological 
-analysis (the Essay on the Human Understanding , 1689) , 
+analysis (the Essay on the Human Understanding, 1689), 
 without any supernatural assumptions. Collins, Tyndal and 
 other deists were re-affirming their faith in God while call- 
 ing into question every other doctrine of the established church. 
 Newton had just died: Voltaire attended the funeral, and 
 often recalled the impression made upon him by the na- 
-tional honors awarded to this modest Englishman. “Not 
-long ago,” he writes, “a distinguished company were dis- 
+tional honors awarded to this modest Englishman. "Not 
+long ago," he writes, "a distinguished company were dis- 
 cussing the trite and frivolous question, who was the greatest 
 man, — Caesar, Alexander, Tamerlane, or Cromwell? Some 
 one answered that without doubt it was Isaac Newton. And 
 rightly: for it is to him who masters our minds by the 
 force of truth, and not to those who enslave them by violence, 
-that we owe our reverence.” 1 Voltaire became a patient and 
+that we owe our reverence." 1 Voltaire became a patient and 
 
 l Letters on the English, xiii; in Morley 52. 
 
@@ -11477,7 +11046,7 @@ the French spirit, and transmuted them into the gold of Gallic
 wit and eloquence. He recorded his impressions in Letters 
 on the English, which he circulated in manuscript among his 
 friends; he did not dare to print them, for they praised 
-“perfidious Albion” too highly to suit the taste of the royal 
+"perfidious Albion" too highly to suit the taste of the royal 
 censor. They contrasted English political liberty and intel- 
 lectual independence with French tyranny and bondage ; 1 
 they condemned the idle aristocracy and the tithe-absorbing 
@@ -11503,7 +11072,7 @@ was made to retract publicly his teachings on the antiquity of the earth;
 Freret was sent to the Bastille for a critical inquiry into the origins of the 
 royal power in France; books continued to be burned officially by the public 
 hangman till 1788, as also after the Restoration in 1815; in 1757 an edict pro- 
-nounced the death penalty for any author who should “attack religion,” — i. e., 
+nounced the death penalty for any author who should "attack religion," — i. e., 
 call in question any dogma of the traditional faith. — Robertson, 73, 84, 105, 
 107; Pellissier, Voltaire Philosophe, Paris, 1908, p. 92; Buckle, History of 
 Civilization, New York, 1913; Yol. I, pp. 529 f. 
@@ -11514,9 +11083,9 @@ VOLTAIRE
 
 into print, and sold them far and wide, to the horror of all 
 good Frenchmen, including Voltaire. The Parliament of 
-Paris at once ordered the book to be publicly burned as “scan- 
+Paris at once ordered the book to be publicly burned as "scan- 
 dalous, contrary to religion, to morals, and to respect for 
-authority”; and Voltaire learned that he was again on the 
+authority"; and Voltaire learned that he was again on the 
 way to the Bastille. Like a good philosopher, he took to 
 his heels — merely utilizing the occasion to elope with another 
 man’s wife. 
@@ -11530,10 +11099,10 @@ higher rating than Voltaire in a contest for a prize offered
 by the French Academy for an essay on the physics of fire ; in 
 short she was precisely the kind of woman who never elopes. 
 But the Marquis was so dull, and Voltaire was so interesting 
-— “a creature lovable in every way,” she called him; “the 
-finest ornament in France .” 1 He returned her love with 
-fervent admiration ; called her “a great man whose only fault 
-was being a woman”; formed from her, and from the large 
+— "a creature lovable in every way," she called him; "the 
+finest ornament in France ." 1 He returned her love with 
+fervent admiration ; called her "a great man whose only fault 
+was being a woman"; formed from her, and from the large 
 number of highly talented women then in France, his convic- 
 tion of the native mental equality of the sexes ; 2 and decided 
 that her chateau at Cirey was an admirable refuge from the 
@@ -11548,9 +11117,9 @@ with a decent respect for the hypocrisies of mankind ; and when
 
 1 In Sainte-Beuve, i, 206. 
 
-2 Tallentyre, 207. Contrast Voltaire’s “God created woman only to tame 
-mankind” (I/Ingenu, in Romances , 809), with Meredith’s “Woman will be the 
-last thing civilized by man” ( Ordeal of Richard Fever el, p. 1). Sociologists 
+2 Tallentyre, 207. Contrast Voltaire’s "God created woman only to tame 
+mankind" (I/Ingenu, in Romances, 809), with Meredith’s "Woman will be the 
+last thing civilized by man" ( Ordeal of Richard Fever el, p. 1). Sociologists 
 would side with Voltaire. Man is woman’s last domesticated animal. 
 
 
@@ -11572,30 +11141,30 @@ Paris of the French mind ; the aristocracy and the bourgeoisie
 joined in the pilgrimage to taste Voltaire’s wine and wit, and 
 see him act in his own plays. He was happy to be the centre 
 of this corrupt and brilliant world; he took nothing too seri- 
-ously, and for a “while made “Hire et faire rire” his motto. 1 
-Catherine of Russia called him “the divinity of gayety.” “If 
-Nature had not made us a little frivolous,” he said, “we should 
+ously, and for a "while made "Hire et faire rire" his motto. 1 
+Catherine of Russia called him "the divinity of gayety." "If 
+Nature had not made us a little frivolous," he said, "we should 
 be most wretched. It is because one can be frivolous that the 
-majority do not hang themselves.” There was nothing of the 
-dyspeptic Carlyle about him. “Dulce est desipere in loco. 2 
+majority do not hang themselves." There was nothing of the 
+dyspeptic Carlyle about him. "Dulce est desipere in loco. 2 
 Woe to philosophers who cannot laugh away their wrinkles. 
-I look upon solemnity as a disease.” 3 
+I look upon solemnity as a disease." 3 
 
 It was now that he began to write those delightful romances 
-— Zadig, Candide , Micromegas, L’ Ingenu, Le Monde covnme 
+— Zadig, Candide, Micromegas, L’ Ingenu, Le Monde covnme 
 U va, etc. — which give the Voltairean spirit in purer form than 
 anything else in his ninety-nine volumes. They are not nov- 
 els, but humoresque-picaresque novelettes; the heroes are not 
 persons but ideas, the villains are superstitions, and the events 
-are thoughts. Some are mere fragments, like Ulngerm , which 
+are thoughts. Some are mere fragments, like Ulngerm, which 
 is Rousseau before Jean Jacques. A Huron Indian comes to 
 France with some returning explorers; the first problem to 
 which he gives rise is that of making him a Christian. An 
 abbe gives him a copy of the New Testament, which the Huron 
 
-1 “To laugh and to make laugh.” 
+1 "To laugh and to make laugh." 
 
-2 “It is sweet to be foolish on occasion.” 
+2 "It is sweet to be foolish on occasion." 
 
 8 Letter to Frederick the Great, July, 1737. 
 
@@ -11607,27 +11176,27 @@ VOLTAIRE
 m 
 
 **]tps so much that he soon offers himself not only for bap- 
-tism but for circumcision as well. “For,” he says, “I do not 
+tism but for circumcision as well. "For," he says, "I do not 
 find in the book that was put into my hands a single person 
 who was not circumcised. It is therefore evident that I must 
 make a sacrifice to the Hebrew custom, and the sooner the bet- 
-ter.” Hardly has this difficulty been smoothed over when 
+ter." Hardly has this difficulty been smoothed over when 
 he has trouble over confession; he asks where in the Gospel 
 this is commanded, and is directed to a passage in the Epistle 
-of St. James : “Confess your sins to one another.” He con- 
-fesses; but “when he had done he dragged the abbe from the 
+of St. James : "Confess your sins to one another." He con- 
+fesses; but "when he had done he dragged the abbe from the 
 confessional chair, placed himself in the seat, and bade the 
-abbe confess in turn. “Come, my friend ; it is said, ‘We must 
+abbe confess in turn. "Come, my friend ; it is said, ‘We must 
 confess our sins to one another’; I have related my sins to 
-you, and you shall not stir till you recount yours.” He falls 
+you, and you shall not stir till you recount yours." He falls 
 in love with Miss St. Yves, but is told that he cannot marry 
 her because she has acted as godmother at his baptism; he 
 is very angry at this little trick of the fates, and threatens 
 to get unbaptized. Having received permission to marry her, 
-he is surprised to find that for marriage “notaries, priests, 
+he is surprised to find that for marriage "notaries, priests, 
 witnesses, contracts and dispensations are absolutely neces- 
 sary. . . . ‘You are then very great rogues, since so many 
-precautions are required.’ ” And so, as the story passes on 
+precautions are required.’ " And so, as the story passes on 
 from incident to incident, the contradictions between primi- 
 tive and ecclesiastical Christianity are forced upon the stage; 
 one misses the impartiality of the scholar and the leniency of 
@@ -11648,47 +11217,47 @@ his comrade how many senses the Saturnians have and is told:
 
 232 THE STORY OF PHILOSOPHY 
 
-“We have seventy-two, but we are daily complaining of the 
-smaller number.” “To what age do you commonly live?” 
-“Alas, a mere trifle; . . . very few on our globe survive 
+"We have seventy-two, but we are daily complaining of the 
+smaller number." "To what age do you commonly live?" 
+"Alas, a mere trifle; . . . very few on our globe survive 
 15,000 years. So you see that in a manner we begin to die 
 the very moment we are born: our existence is no more than 
 a point, our duration an instant, and our globe an atom. 
 Scarce do we begin to learn a little when death intervenes 
-before we can profit by experience.” 1 As they stand in the 
+before we can profit by experience." 1 As they stand in the 
 sea they take up a ship as one might pick up some animalcule ; 
 and the Sirian poises it on his thumb-nail, causing much com- 
-motion among the human passengers. “The chaplains of the 
+motion among the human passengers. "The chaplains of the 
 ship repeated exorcisms, the sailors swore, and the philos- 
-ophers formed a system” to explain this disturbance of the 
+ophers formed a system" to explain this disturbance of the 
 laws of gravity. The Sirian bends down like a darkening 
 cloud and addresses them: 
 
-“O ye intelligent atoms, in whom the Supreme Being hath 
+"O ye intelligent atoms, in whom the Supreme Being hath 
 been pleased to manifest his omniscience and power, without 
 doubt your joys on this earth must be pure and exquisite; 
 for being unencumbered with matter, and^-to all appearance 
 — little else than soul, you must spend your lives in the de- 
 lights of pleasure and reflection, which are the true enjoy- 
 ments of a perfect spirit. True happiness I have nowhere 
-found; but certainly here it dwells.” 
+found; but certainly here it dwells." 
 
-“We have matter enough,” answered one of the philoso- 
-phers, “to do abundance of mischief. ... You must know, 
+"We have matter enough," answered one of the philoso- 
+phers, "to do abundance of mischief. ... You must know, 
 for example, that at this very moment, while I am speaking, 
 there are 100,000 animals of our own species, covered with 
 hats, slaying an equal number of their fellow-creatures, 
 who wear turbans ; at least they are either slaying or being 
 slain ; and this has usually been the case all over the earth 
-from time immemorial.” 
+from time immemorial." 
 
-“Miscreants !” cried the indignant Sirian ; “I have a good 
+"Miscreants !" cried the indignant Sirian ; "I have a good 
 
-i "Romances , 339; cf. Shaw’s Back to Methuselah . One of the most famous 
+i "Romances, 339; cf. Shaw’s Back to Methuselah . One of the most famous 
 of Shaw’s bon mots has its prototype in Voltaire’s Memnon the Philosopher \ 
-Who says, “I am afraid that our little terraqueous globe is the mad-house of 
+Who says, "I am afraid that our little terraqueous globe is the mad-house of 
 those hundred thousand millions of worlds of which your lordship does me the 
-honor to speak.” — Ibid , 394. 
+honor to speak." — Ibid, 394. 
 
 
 
@@ -11696,32 +11265,32 @@ VOLTAIRE
 
 
 mind to take two or three steps, and trample the whole 
-nest of such ridiculous assassins under my feet.” 
+nest of such ridiculous assassins under my feet." 
 
-“Don’t give yourself the trouble,” replied the philosopher; 
-“they are industrious enough in securing their own destruc- 
+"Don’t give yourself the trouble," replied the philosopher; 
+"they are industrious enough in securing their own destruc- 
 tion. At the end of ten years the hundredth part of these 
 wretches will not survive. . . . Besides, the punishment 
 should not be inflicted upon them, but upon those sedentary 
 and slothful barbarians who y from their palaces, give orders 
 for murdering a million of men, and then solemnly thank 
-God for their success.” 1 
+God for their success." 1 
 
-Next to Candide , which belongs to a later period of Vol- 
+Next to Candide, which belongs to a later period of Vol- 
 taire’s life, the best of these tales is Zadig. Zadig was a Bab- 
-ylonian philosopher, “as wise as it is possible for men to be; 
+ylonian philosopher, "as wise as it is possible for men to be; 
 ... he knew as much of metaphysics as hath ever been known 
-in any age,— that is, little or nothing at all.” “Jealousy made 
-him imagine that he was in love with Semira.” In defending 
+in any age,— that is, little or nothing at all." "Jealousy made 
+him imagine that he was in love with Semira." In defending 
 her against robbers he was wounded in the left eye. 
 
 A messenger was despatched to Memphis for the great 
 Egyptian physician Hermes, who came with a numerous 
 retinue. He visited Zadig, and declared that the patient 
 would lose his eye. He even foretold the day and hour 
-when this fatal event would happen. “Had it been the 
-right eye,” said he, “I could easily have cured it; but the 
-wounds of the left eye are incurable.” All Babylon lamented 
+when this fatal event would happen. "Had it been the 
+right eye," said he, "I could easily have cured it; but the 
+wounds of the left eye are incurable." All Babylon lamented 
 the fate of Zadig, and admired the profound knowledge of 
 Hermes. In two days the abscess broke of its own accord, 
 and Zadig was perfectly cured. Hermes wrote a book to 
@@ -11730,8 +11299,8 @@ read it . 2
 
 He hurried, instead, to Semira, only to find that upon hear- 
 ing Hermes’ first report she had betrothed herself to another 
-man, having, she said, “an unconquerable aversion to one-eyed 
-men.” Zadig thereupon married a peasant woman, hoping 
+man, having, she said, "an unconquerable aversion to one-eyed 
+men." Zadig thereupon married a peasant woman, hoping 
 
 1 Ibid., 851. 
 
@@ -11751,20 +11320,20 @@ and that the friend should make love to the wife an hour later.
 So Zadig had himself pronounced dead, and lay in the coffin 
 while his friend first commiserated and then congratulated the 
 widow, and at last proposed immediate marriage to her. She 
-made a brief resistance ; and then, “protesting she would ne’er 
-consent, consented.” Zadig rose from the dead and fled into 
+made a brief resistance ; and then, "protesting she would ne’er 
+consent, consented." Zadig rose from the dead and fled into 
 the woods to console himself with the beauty of nature. 
 
 Having become a very wise man, he was made vizier to 
 the king, to whose realm he brought prosperity, justice, and 
 peace. But the queen fell in love with him ; and the king, per- 
-ceiving it, “began to be troubled. . . . He particularly re- 
+ceiving it, "began to be troubled. . . . He particularly re- 
 marked that the queen’s shoes were blue, and that Zadig’s 
 shoes were blue; that his wife’s ribbons were yellow, and that 
-Zadig’s bonnet was yellow.” He resolved to poison them 
+Zadig’s bonnet was yellow." He resolved to poison them 
 both; but the queen discovered the plot, and sent a note to 
-Zadig: “Fly, I conjure thee, by our mutual love and pur 
-yellow ribbons!” Zadig again fled into the woods. 
+Zadig: "Fly, I conjure thee, by our mutual love and pur 
+yellow ribbons!" Zadig again fled into the woods. 
 
 He then represented to himself the human species, as it 
 really is, as a parcel of insects devouring one another on a 
@@ -11779,14 +11348,14 @@ perhaps died for him, the universe vanished from sight.
 Passing out of Babylon he saw a man cruelly beating a 
 woman; he responded to her cries for help, fought the man, 
 and at last, to save himself, struck a blow which killed his 
-enemy. Thereupon he turned to the lady and asked, “What 
-further, madam, wouldst thou have me do for thee?” “Die, 
+enemy. Thereupon he turned to the lady and asked, "What 
+further, madam, wouldst thou have me do for thee?" "Die, 
 
 
 VOLTAIRE. 235 
 
 villain! for thou hast hilled my lover. Oh, that I were able to 
-tear out thy heart!” 
+tear out thy heart!" 
 
 Zadig was shortly afterward captured and enslaved; but 
 he taught his master philosophy, and became his trusted coun- 
@@ -11800,9 +11369,9 @@ dancer among the applicants: he had the vestibule of the
 dance hall filled with loose valuables, easily stolen, and ar- 
 ranged that each candidate should pass through the vestibule 
 alone and unwatched; when they had all entered, they were 
-asked to dance. “Never had dancers performed more un- 
+asked to dance. "Never had dancers performed more un- 
 willingly or with less grace. Their heads were down, their 
-backs bent, their hands pressed to their sides.” — And so the 
+backs bent, their hands pressed to their sides." — And so the 
 story rushes on. We can imagine those evenings at Cirey ! 
 
 IV. POTSDAM AND FREDERICK 
@@ -11812,13 +11381,13 @@ began his correspondence with Frederick, then Prince, and not
 yet Great. Frederick’s first letter was like that of a boy to 
 a king ; its lavish flattery gives us an inkling of the reputation 
 which Voltaire — though he had not yet written any of his mas- 
-terpieces — had already won. It proclaims Voltaire as “the 
+terpieces — had already won. It proclaims Voltaire as "the 
 greatest man of France, and a mortal who does honor to lan- 
 guage. ... I count it one of the greatest honors of my life 
 to be born the contemporary of a man of such distinguished 
 attainments as yours. ... It is not given to every one to 
-make the mind laugh” ; and “what pleasures can surpass those 
-of the mind?” 1 Frederick was a free-thinker, who looked 
+make the mind laugh" ; and "what pleasures can surpass those 
+of the mind?" 1 Frederick was a free-thinker, who looked 
 upon dogmas as a king looks upon subjects; and Voltaire had 
 
 
@@ -11831,8 +11400,8 @@ great hopes that on the throne Frederick would make the En-
 lightenment fashionable, while he himself, perhaps, might play 
 Plato to Frederick’s Dionysius. When Frederick demurred 
 to the flattery with which Voltaire answered his own, Voltaire 
-replied : “A prince who writes against flattery is as singular 
-as a pope who writes against infallibility.” Frederick sent 
+replied : "A prince who writes against flattery is as singular 
+as a pope who writes against infallibility." Frederick sent 
 him a copy of the Anti-Machiavel, in which the prince spoke 
 very beautifully of the iniquity of war, and of the duty of a 
 king to preserve peace; Voltaire wept tears of joy over this 
@@ -11869,10 +11438,10 @@ to see death in the distance ; he could not take it ill that youth
 
 VOLTAIRE *31 
 
-should be served. “Such are women,” he said philosophically 
-(forgetting that there are such men too) : “I displaced Rich- 
+should be served. "Such are women," he said philosophically 
+(forgetting that there are such men too) : "I displaced Rich- 
 elieu, Saint-Lambert turns me out! That is the order of 
-things ; one nail drives out another ; so goes the world.” 1 He 
+things ; one nail drives out another ; so goes the world." 1 He 
 wrote a pretty stanza to the third nail : 
 
 Saint-Lambert, it is all for thee 
@@ -11899,16 +11468,16 @@ It soothed him to find himself assigned to a splendid suite
 in Frederick’s palace, and accepted on equal terms by the most 
 powerful monarch of the age. At first his letters were full of 
 satisfaction: writing on July 24 to d’Argental he describes 
-Potsdam — “150,000 soldiers; . . . opera, comedy, philos- 
+Potsdam — "150,000 soldiers; . . . opera, comedy, philos- 
 ophy, poetry, grandeur and graces, grenadiers and muses, 
 trumpets and violins, the suppers of Plato, society and liberty, 
-— who would believe it? Yet it is very true.” Years before, 
-he had written: “ Mon Dieu! . . . what a delightful life it 
+— who would believe it? Yet it is very true." Years before, 
+he had written: " Mon Dieu! . . . what a delightful life it 
 would be to lodge with three or four men of letters with talents 
-and no jealousy” (what imagination!), “to love one another, 
+and no jealousy" (what imagination!), "to love one another, 
 live quietly, cultivate one’s art, talk of it, enlighten ourselves 
 mutually! — I picture to myself that I shall some day live in 
-this little Paradise.” 2 And here it was ! 
+this little Paradise." 2 And here it was ! 
 
 1 In Sainte-Beuve, i, 211. 
 
@@ -11935,28 +11504,28 @@ it was better than the most interesting and best-written book
 in the world. They talked about everything, and said what 
 they thought. Frederick’s wit was almost as sharp as Vol- 
 taire’s; and only Voltaire dared to answer him, with that 
-finesse which could kill without giving offense. “One thinks 
-boldly, one is free here,” wrote Voltaire joyfully. Frederick 
-“scratches with one hand, but caresses with the other. ... I 
+finesse which could kill without giving offense. "One thinks 
+boldly, one is free here," wrote Voltaire joyfully. Frederick 
+"scratches with one hand, but caresses with the other. ... I 
 am crossed in nothing ... I find a port after fifty years of 
 storm. I find the protection of a king, the conversation of a 
 philosopher, the charms of an agreeable man, united in one 
 who for sixteen years consoled me in misfortune and sheltered 
 me from my enemies. If one can be certain of anything it is 
-of the character of the King of Prussia.” 2 However . . . 
+of the character of the King of Prussia." 2 However . . . 
 
 In November of this same year Voltaire thought he would 
 improve his finances by investing in Saxon bonds, despite 
 Frederick’s prohibition of such investments. The bonds rose, 
 and Voltaire profited; but his agent, Hirsch, tried to black- 
 mail him by threatening to publish the transaction. Voltaire 
-“sprang at his throat and sent him sprawling.” Frederick 
-learned of the affair and fell into a royal rage. “I shall want 
-him at the most another year,” he said to La Mettrie; “one 
-squeezes the orange and throws away the rind.” La Mettrie, 
+"sprang at his throat and sent him sprawling." Frederick 
+learned of the affair and fell into a royal rage. "I shall want 
+him at the most another year," he said to La Mettrie; "one 
+squeezes the orange and throws away the rind." La Mettrie, 
 perhaps anxious to disperse his rivals, took care to report 
-this to Voltaire. The suppers were resumed, “but,” wrote 
-Voltaire, “the orange rind haunts my dreams. . . . The man 
+this to Voltaire. The suppers were resumed, "but," wrote 
+Voltaire, "the orange rind haunts my dreams. . . . The man 
 
 l Braudes, Main Currents, i, 3* 
 
@@ -11968,26 +11537,26 @@ VOLTAIRE
 
 who fell from the top of a steeple, and finding the falling 
 through the air soft, said, ‘Good, provided it lasts,’ was not a 
-little as I am.” 
+little as I am." 
 
 He half desired a break ; for he was as homesick as only a 
 Frenchman can be. The decisive trifle came in 1752. Mau- 
 pertuis, the great mathematician whom Frederick had im- 
 ported from France with so many others in an attempt to 
-arouse the German mind by direct contact with the “Enlight- 
-enment,” quarreled with a subordinate mathematician, Koenig, 
+arouse the German mind by direct contact with the "Enlight- 
+enment," quarreled with a subordinate mathematician, Koenig, 
 over an interpretation of Newton. Frederick entered into the 
 dispute on the side of Maupertuis ; and Voltaire, who had more 
-courage than caution, entered it on the side of Koenig. “Un- 
-luckily for me,” he wrote to Mme. Denis, “I am also an author, 
+courage than caution, entered it on the side of Koenig. "Un- 
+luckily for me," he wrote to Mme. Denis, "I am also an author, 
 and in the opposite camp to the King. I have no sceptre, but 
-I have a pen.” About the same time Frederick was writing to 
-his sister : “The devil is incarnate in my men of letters ; there 
+I have a pen." About the same time Frederick was writing to 
+his sister : "The devil is incarnate in my men of letters ; there 
 is no doing anything with them. These fellows have no intelli- 
 gence except for society. ... It must be a consolation to ani- 
 mals to see that people with minds are often no better than 
-they.” 1 It was now that Voltaire wrote against Maupertuis 
-his famous “Diatribe of Dr. Akakia.” He read it to Fred- 
+they." 1 It was now that Voltaire wrote against Maupertuis 
+his famous "Diatribe of Dr. Akakia." He read it to Fred- 
 erick, who laughed all night over it, but begged Voltaire not 
 to publish it. Voltaire seemed to acquiesce; but the truth 
 was that the thing was already sent to the printer, and the 
@@ -12015,14 +11584,14 @@ THE STORY OF PHILOSOPHY
 thought it an opportune moment to come and press for the 
 payment of his bill; Voltaire, furious, gave him a blow on the 
 ear; whereupon Voltaire’s secretary, Collini, offered comfort 
-to the man by pointing out, “Sir, you have received a box 
-on the ear from one of the greatest men in the world.” 1 
+to the man by pointing out, "Sir, you have received a box 
+on the ear from one of the greatest men in the world." 1 
 
 Freed at last, he was about to cross the frontier into France, 
 when word came that he was exiled. The hunted old soul 
 hardly knew where to turn; for a time he thought of going 
 to Pennsylvania — one may imagine his desperation. He spent 
-the March of 1754 seeking “an agreeable tomb” in the neigh- 
+the March of 1754 seeking "an agreeable tomb" in the neigh- 
 borhood of Geneva, safe from the rivJl autocrats of Paris and 
 Berlin ; at last he bought an old estate called Les D Slices; set- 
 tled down to cultivate his garden and regain his health; and 
@@ -12032,8 +11601,8 @@ upon the period of his noblest and greatest work.
 V. LES DEUCES : THE ESSAY ON MORALS 
 
 What was the cause of his new exile? That he had pub- 
-lished in Berlin “the most ambitious, the most voluminous, the 
-most characteristic, and the most daring of his works.” 2 Its 
+lished in Berlin "the most ambitious, the most voluminous, the 
+most characteristic, and the most daring of his works." 2 Its 
 title was no small part of it : Essai sur les moeurs et V esprit 
 des Nations, et sur les principaux faits de Vhistoire depuis 
 Charlemagne jusqu'a Louis XIII — an Essay on the Morals 
@@ -12042,7 +11611,7 @@ XIII. He had begun it at Cirey for Mme. du Chatelet,
 spurred on to the task by her denunciation of history as she 
 is writ. 
 
-It is “an old almanac,” she had said. “What does it matter 
+It is "an old almanac," she had said. "What does it matter 
 to me, a Frenchwoman living on my estate, to know that Egil 
 succeeded Haquin in Sweden, and that Ottoman was the son 
 of Ortogrul? I have read with pleasure the history of the 
@@ -12062,43 +11631,43 @@ VOLTAIRE
 anything in them but confusion; a host of minute events 
 without connection or sequence, a thousand battles which set- 
 tled nothing. I renounced a study which overwhelms the mind 
-without illuminating it.” 
+without illuminating it." 
 
-Voltaire had agreed; he had made his Ingenu say, “History 
-is nothing more than a picture of crimes and misfortunes”; 
+Voltaire had agreed; he had made his Ingenu say, "History 
+is nothing more than a picture of crimes and misfortunes"; 
 and he was to write to Horace Walpole (July 15, 1768): 
-“Truly the history of the Yorkists and Lancastrians, and 
+"Truly the history of the Yorkists and Lancastrians, and 
 many others, is much like reading the history of highway 
-robbers.” But he had expressed to Mme. du Chatelet the 
+robbers." But he had expressed to Mme. du Chatelet the 
 hope that a way out might lie in applying philosophy to his- 
 tory, and endeavoring to trace, beneath the flux of political 
-events, the history of the human mind. 1 “Only philosophers 
-should write history,” he said. 2 3 “In all nations, history is dis- 
+events, the history of the human mind. 1 "Only philosophers 
+should write history," he said. 2 3 "In all nations, history is dis- 
 figured by fable, till at last philosophy comes to enlighten 
 man ; and when it does finally arrive in the midst of this dark- 
 ness, it finds the human mind so blinded by centuries of error, 
 that it can hardly undeceive it ; it finds ceremonies, facts and 
-monuments, heaped up to prove lies.” 8 “History,” he con- 
-cludes, “is after all nothing but a pack of tricks which we play 
-upon the dead” ; 4 we transform the past to suit our wishes* 
-for the future, and in the upshot “history proves that any- 
-thing can be proved by history.” 
+monuments, heaped up to prove lies." 8 "History," he con- 
+cludes, "is after all nothing but a pack of tricks which we play 
+upon the dead" ; 4 we transform the past to suit our wishes* 
+for the future, and in the upshot "history proves that any- 
+thing can be proved by history." 
 
-He worked like a miner to find in this “Mississippi of false- 
-hoods” 5 the grains of truth about the real history of man- 
+He worked like a miner to find in this "Mississippi of false- 
+hoods" 5 the grains of truth about the real history of man- 
 kind. Year after year he gave himself to preparatory stud- 
-ies : a History of Russia , a History of Charles XII , The Age 
-of Louis XIV , and The Age of Louis XIII; and through these 
+ies : a History of Russia, a History of Charles XII, The Age 
+of Louis XIV, and The Age of Louis XIII; and through these 
 tasks he developed in himself that unflagging intellectual con- 
-science which enslaves a man to make a genius. “The Jesuit 
-P&re Daniel, who produced a History of France , had placed 
+science which enslaves a man to make a genius. "The Jesuit 
+P&re Daniel, who produced a History of France, had placed 
 
 1 Robertson, 23; M or ley, 215; Tallentyre, Voltaire in Hia Letters, New 
 York, 1919, p. 222. 
 
 2 Pellissier, 213. 
 
-3 Essai sur les Moeurs , Introduction. 
+3 Essai sur les Moeurs, Introduction. 
 
 4 In Morley, 220. 
 
@@ -12112,7 +11681,7 @@ documents and manuscripts; spent an hour or so looking
 through them; and then, turning to Father Tournemine, the 
 former teacher of Voltaire, dismissed the matter by declaring 
 that all this material was ‘useless old paper which he had no 
-need of for the purpose of writing his history.’ ” 1 Not so 
+need of for the purpose of writing his history.’ " 1 Not so 
 Voltaire: he read everything on his subject that he could lay 
 his hands on ; he pored over hundreds of volumes of memoirs ; 
 he wrote hundreds of letters to survivors of famous events; 
@@ -12122,25 +11691,25 @@ and improved every edition.
 But this gathering of material was only preparatory ; what 
 was needed was a new method of selection and arrangement. 
 Mere facts would not do— even if, as so seldom happens, they 
-were facts. “Details that lead to nothing are to history what 
+were facts. "Details that lead to nothing are to history what 
 baggage is to an army, impedimenta; we must look at things 
 in the large, for the very reason that the human mind is 
-so small, and sinks under the weight of minutiae.” 2 “Facts” 
+so small, and sinks under the weight of minutiae." 2 "Facts" 
 should be collected by annalists and arranged in some kind 
 of historical dictionary where one might find them at need, 
 as one finds words. What Voltaire sought was a unify- 
 ing principle by which the whole history of civilization in 
 Europe could be woven on one thread; and he was convinced 
 that this thread was the history of culture. He was resolved 
-that his history should deal , not with kings but with move- 
+that his history should deal, not with kings but with move- 
 ments, forces, and masses ; not with nations but with the human 
 race; not with wars but with the march of the human mind. 
-“Battles and revolutions are the smallest part of the plan; 
+"Battles and revolutions are the smallest part of the plan; 
 squadrons and battalions conquering or being conquered, 
 towns taken and retaken, are common to all history. . . . 
 Take away the arts and the progress of the mind, and you will 
-find nothing” in any age “remarkable enough to attract the 
-attention of posterity.” 8 “I wish to write a history not of 
+find nothing" in any age "remarkable enough to attract the 
+attention of posterity." 8 "I wish to write a history not of 
 
 J Brandes, Frangois de Voltaire . 
 
@@ -12160,7 +11729,7 @@ commonly cultivated. . . . My object is the history of the
 human mind, and not a mere detail of petty facts; nor am I 
 concerned with the history of great lords . . . ; but I want 
 to know what were the steps by which men passed from bar- 
-barism to civilization.” 1 This rejection of Kings from his- 
+barism to civilization." 1 This rejection of Kings from his- 
 tory was part of that democratic uprising which at last re- 
 jected them from government; the Essai sur les Mceurs began 
 the dethronement of the Bourbons. 
@@ -12218,25 +11787,25 @@ fitful r unnin gs to and fro had not been all the result of
 nervous restlessness; they had reflected, too, his ubiquitous 
 insecurity from persecution; only at sixty-four did he find a 
 house that could be also his home. There is a passage at the 
-end of one of his tales, “The Travels of Scarmentado,” which 
-almost applies to its author : “As I had now seen all that was 
+end of one of his tales, "The Travels of Scarmentado," which 
+almost applies to its author : "As I had now seen all that was 
 rare or beautiful on earth, I resolved for the future to see 
 nothing but my own home ; I took a wife, and soon suspected 
 that she deceived me; but notwithstanding this doubt I still 
 found that of all conditions of life this was much the happi- 
-est.” He had no wife, but he had a niece — which is better 
-for a man of genius. “We never hear of his wishing to be in 
+est." He had no wife, but he had a niece — which is better 
+for a man of genius. "We never hear of his wishing to be in 
 Paris. . . . There can be no doubt that this wise exile pro- 
-longed his days.” 1 
+longed his days." 1 
 
 He was happy in his garden, planting fruit trees which he 
 did not expect to see flourish in his lifetime. When an ad- 
 mirer praised the work he had done for posterity he answered, 
-“Yes, I have planted 4*000 trees.” He had a kind word for 
+"Yes, I have planted 4*000 trees." He had a kind word for 
 everybody, but could be forced to sharper speech. One day 
-he asked a visitor whence he came. “From Mr. Haller’s.” 
-“He is a great man,” said Voltaire ; “a great poet, a great nat- 
-juralist, a great philosopher, almost a universal genius.” 
+he asked a visitor whence he came. "From Mr. Haller’s." 
+"He is a great man," said Voltaire ; "a great poet, a great nat- 
+juralist, a great philosopher, almost a universal genius." 
 
 
 1 Morley, 239. 
@@ -12247,9 +11816,9 @@ VOLTAIRE
 
 245 
 
-“What you say, sir, is the more admirable, as Mr. Haller does 
-not do you the same justice.” “Ah,” said Voltaire, “perhaps 
-we are both mistaken.” 1 
+"What you say, sir, is the more admirable, as Mr. Haller does 
+not do you the same justice." "Ah," said Voltaire, "perhaps 
+we are both mistaken." 1 
 
 Femey now become the intellectual capital of the world; 
 every learned man or enlightened ruler of the day paid his 
@@ -12261,17 +11830,17 @@ countless others. At last the entertainment of this endless
 stream of visitors proved too expensive even for Voltaire; he 
 complained that he was becoming the hotel-keeper for all Eu- 
 rope. To one acquaintance who announced that he had come 
-to stay for six weeks, Voltaire said: “What is the difference 
+to stay for six weeks, Voltaire said: "What is the difference 
 between you and Don Quixote? He mistook inns for cha- 
-teaux, and you mistake this chateau for an inn.” “God pre- 
-serve me from my friends,” he concluded; “I will take care of 
-my enemies myself.” 
+teaux, and you mistake this chateau for an inn." "God pre- 
+serve me from my friends," he concluded; "I will take care of 
+my enemies myself." 
 
 Add to this perpetual hospitality, the largest correspond- 
 ence the world has ever seen, and the most brilliant. Letters 
 came from all sorts and conditions of men: a burgomaster 
-wrote from Germany asking “in confidence whether there is a 
-God or not,” and begging Voltaire to answer by return post; f 
+wrote from Germany asking "in confidence whether there is a 
+God or not," and begging Voltaire to answer by return post; f 
 Gustavus III of Sweden was elated by the thought that Vol- 
 taire sometimes glanced at the North, and told him that this 
 was their greatest encouragement to do their best up there; 
@@ -12282,7 +11851,7 @@ her importunate. Even Frederick, after a year of doldrums,
 returned to the fold, and resumed his correspondence with the 
 King of Femey. 
 
-“You have done me great wrongs,” he wrote. “I have for- 
+"You have done me great wrongs," he wrote. "I have for- 
 given them all, and I even wish to forget them. But if you 
 
 1 Tallentyre, 349. 
@@ -12305,7 +11874,7 @@ seductive being that I know, capable of making yourself loved
 by all the world when you choose. You have such graces of 
 mind that you can offend and yet at the same time deserve the 
 indulgence of those who know you. In short, you would be 
-perfect if you were not a man.” 1 
+perfect if you were not a man." 1 
 
 Who would have expected so gay a host to become the ex- 
 ponent of pessimism? In youth, as a reveler in Paris’s salons, 
@@ -12313,15 +11882,15 @@ he had seen the sunnier side of life, despite the Bastille; and
 yet even in those careless days he had rebelled against the 
 unnatural optimism to which Leibnitz had given currency. 
 To an ardent young man who had attacked him in print, and 
-had contended with Leibnitz that this is “the best of all pos- 
-sible worlds,” Voltaire wrote, “I am pleased to hear, sir, that 
+had contended with Leibnitz that this is "the best of all pos- 
+sible worlds," Voltaire wrote, "I am pleased to hear, sir, that 
 you have written a little book against me. You do me too 
 much honor. . . „ When you have shown, in verse or otherwise, 
 why so many men cut their throats in the best of all pos- 
 sible worlds, I shall be exceedingly obliged to you. I await 
 your arguments, your verses, and your abuse ; and assure you 
 from the bottom of my heart that neither of us knows any- 
-thing about the matter. I have the honor to be,” etc. 
+thing about the matter. I have the honor to be," etc. 
 
 Persecution and disillusionment had worn down his faith in 
 life; and his experiences at Berlin and Frankfort had taken 
@@ -12382,7 +11951,7 @@ The ills of eacfy make up the good of all!
 
 What blessedness ! And as, with quaking voice. 
 
-Mortal and pitiful ye cry, “All’s well,” 
+Mortal and pitiful ye cry, "All’s well," 
 
 The universe belies you, and your heart 
 Refutes a hundred times your mind’s conceit. . 0 * 
@@ -12431,8 +12000,8 @@ I can but suffer, and will not repine. 1
 
 A few months later the Seven Years’ War broke out; Vol- 
 taire looked upon it as madness and suicide, the devastation of 
-Europe to settle whether England or France should win “a 
-Tew acres of snow” in Canada. On the top of this came a 
+Europe to settle whether England or France should win "a 
+Tew acres of snow" in Canada. On the top of this came a 
 public repty, by Jean Jacques Rousseau, to the poem on Lis- 
 bon. Man himself was to be blamed for the disaster, said 
 Rousseau; if we lived out in the fields, and not in the towns, 
@@ -12440,17 +12009,17 @@ we should not be killed on so large a scale ; if we lived under
 the sky, and not in houses, houses would not fall upon us. 
 Voltaire was amazed at the popularity won by this profound 
 theodicy ; and angry that his name should be dragged into the 
-dust by such a Quixote, he turned upon Rousseau “that most 
+dust by such a Quixote, he turned upon Rousseau "that most 
 terrible of all the intellectual weapons ever wielded by man, 
-the mockery of Voltaire.” 2 In three days, in 1751, he wrote 
+the mockery of Voltaire." 2 In three days, in 1751, he wrote 
 Candide. 
 
 Never was pessimism so gaily argued; never was man made 
 to laugh so heartily while learning that this is a world of woe. 
 And seldom has a story been told with such simple and hidden 
 art; it is pure narrative and dialogue; no descriptions pad it 
-out; and the action is riotously rapid. “In Voltaire’s fin- 
-gers,” said Anatole France, “the pen runs and laughs.” 3 It 
+out; and the action is riotously rapid. "In Voltaire’s fin- 
+gers," said Anatole France, "the pen runs and laughs." 3 It 
 is perhaps the finest short story in all literature. 
 
 1 Selected Works of Voltaire; London, 1911; pp. 8-5. 
@@ -12468,14 +12037,14 @@ son of the great Baron of Thunder-Ten-Trockh of West-
 phalia, and pupil of the learned Pangloss. 
 
 Pangloss was professor of metaphysicotheologicocosmoni- 
-gology. . . . “It is demonstrable,” said he, “that all is 
+gology. . . . "It is demonstrable," said he, "that all is 
 necessarily for the best end. Observe that the nose has been 
 formed to bear spectacles . . . legs were visibly designed 
 for stockings . . . stones were designed to construct 
 castles . . . pigs were made so that we might have pork 
 all the year round. Consequently, they who assert that all 
 is well have said a foolish thing ; they should have said all is 
-for the best.” 
+for the best." 
 
 While Pangloss is discoursing, the castle is attacked by the 
 Bulgarian army, and Candide is captured and turned into a 
@@ -12499,11 +12068,11 @@ thirty times. He bore this twice . 1
 
 Candide escapes, takes passage to Lisbon, and on board ship 
 meets Professor Pangloss, who tells how the Baron and Baroness 
-were murdered and the castle destroyed. “All this,” he con- 
-cludes, “was indispensable; for private misfortune makes the 
+were murdered and the castle destroyed. "All this," he con- 
+cludes, "was indispensable; for private misfortune makes the 
 general good, so that the more private misfortunes there are, 
 
-l Candide , p. 7. 
+l Candide, p. 7. 
 
 
 250 
@@ -12512,27 +12081,27 @@ l Candide , p. 7.
 THE STORY OF PHILOSOPHY 
 
 
-the greater is the general good.” They arrive in Lisbon just 
+the greater is the general good." They arrive in Lisbon just 
 in time to be caught in the earthquake. After it is over they 
 tell each other their adventures and sufferings ; whereupon an 
 old servant assures them that their misfortunes are as nothing 
-compared with her own. “A hundred times I was on the point 
+compared with her own. "A hundred times I was on the point 
 of killing myself, but I loved life. This ridiculous foible is 
 perhaps one of our most fatal characteristics ; for is there any- 
 thing more absurd than to wish to carry continually a burden 
-which one can always throw down?” Or, as another character 
-expresses it, “All things considered, the life of a gondolier is 
+which one can always throw down?" Or, as another character 
+expresses it, "All things considered, the life of a gondolier is 
 preferable to that of a doge ; but I believe the difference is so 
-trifling that it is not worth the trouble of examining.” 
+trifling that it is not worth the trouble of examining." 
 
 Candide, fleeing from the Inquisition, goes to Paraguay; 
-“there the Jesuit Fathers possess all, and the people nothing; 
-it is a masterpiece of reason and justice.” In a Dutch colony 
+"there the Jesuit Fathers possess all, and the people nothing; 
+it is a masterpiece of reason and justice." In a Dutch colony 
 he comes upon a negro with one hand, one leg, and a rag for 
-clothing. “When we work at the sugar canes,” the slave ex- 
-plains, “and the mill snatches hold of a finger, they cut off 
+clothing. "When we work at the sugar canes," the slave ex- 
+plains, "and the mill snatches hold of a finger, they cut off 
 a hand ; and when we try to run away, they cut off a leg. ... 
-This, is the price at which you eat sugar in Europe.” Can- 
+This, is the price at which you eat sugar in Europe." Can- 
 dide finds much loose gold in the unexplored interior; he re- 
 turns to the coast and hires a vessel to take him to France; 
 but the skipper sails off with the gold and leaves Candide phi- 
@@ -12541,17 +12110,17 @@ Candide purchases a passage on a ship bound for Bordeaux;
 and on board strikes up a conversation with an old sage, 
 Martin. 
 
-“Do you believe,” said Candide, “that men have always 
+"Do you believe," said Candide, "that men have always 
 massacred one another as they do today, that they have al- 
 ways been liars, cheats, traitors, ingrates, brigands, idiots, 
 thieves, scoundrels, gluttons, drunkards, misers, envious, am- 
 bitious, bloody-minded, calumniators, debauchees, fanatics, 
-hypocrites and fools?” 
+hypocrites and fools?" 
 
-“Do you believe,” said Martin, “that hawks have always 
-eaten pigeons when they have found them?” 
+"Do you believe," said Martin, "that hawks have always 
+eaten pigeons when they have found them?" 
 
-“Without doubt,” said Candide. 
+"Without doubt," said Candide. 
 
 
 VOLTAIRE 
@@ -12559,12 +12128,12 @@ VOLTAIRE
 
 251 
 
-‘‘Well, then,” said Martin, “if hawks have always had the 
+‘‘Well, then," said Martin, "if hawks have always had the 
 same character, why should you imagine that men have 
-changed theirs?” 
+changed theirs?" 
 
-“Oh !” said Candide, “there is a vast deal of difference, for 
-free will — ” 
+"Oh !" said Candide, "there is a vast deal of difference, for 
+free will — " 
 
 And reasoning thus they arrived at Bordeaux . 1 
 
@@ -12577,15 +12146,15 @@ dialogue between master and pupil :
 
 Pangloss sometimes said to Candide : 
 
-“There is a concatenation of events in this best of all pos- 
+"There is a concatenation of events in this best of all pos- 
 sible worlds: for if you had not been kicked out of a mag- 
 nificent castle; ... if you had not been put into the In- 
 quisition; if you had not walked over America; ... if you 
 had not lost all your gold; . . . you would not be here 
-eating preserved citrons and pistachio-nuts.” 
+eating preserved citrons and pistachio-nuts." 
 
-“All that is very well,” answered Candide ; “but let us culti- 
-vate our garden.” 
+"All that is very well," answered Candide ; "but let us culti- 
+vate our garden." 
 
 VH. THE ENCYCLOPEDIA AND THE PHILOSOPHIC DICTIONARY 
 
@@ -12633,16 +12202,16 @@ ment. The reason why animals have intelligence, and plants
 none, is that animals move about for their food, while plants 
 take what comes to them. Man has the highest intelligence 
 because he has the greatest wants and the widest mobility; 
-“beings without wants are also without mind.” 
+"beings without wants are also without mind." 
 
 Though La Mettrie was exiled for these opinions, Helve- 
 tius (1715—71), who took them as the basis of his book On 
 Man, became one of the richest men in France, and rose to 
 position and honor. Here we have the ethic, as in La Mettrie 
 the metaphysic, of atheism. All action is dictated by egoism, 
-self-love; “even the hero follows the feeling which for him is 
-associated with the greatest pleasure” ; and “virtue is egoism 
-furnished with a spy-glass.” 1 Conscience is not the voice of 
+self-love; "even the hero follows the feeling which for him is 
+associated with the greatest pleasure" ; and "virtue is egoism 
+furnished with a spy-glass." 1 Conscience is not the voice of 
 God, but the fear of the police; it is the deposit left in us 
 from the stream of prohibitions poured over the growing soul 
 
@@ -12661,15 +12230,15 @@ The greatest figure in this group was Denis Diderot (1713—
 84). His ideas were expressed in various fragments from 
 his, own pen, and in the System of Nature of Baron d’Holbach 
 (1723-89), whose salon was the centre of Diderot’s circle. 
-“If we go back to the beginning,” says Holbach, “we shall 
+"If we go back to the beginning," says Holbach, "we shall 
 find that ignorance and fear created the gods ; that fancy, en- 
 thusiasm or deceit adorned or disfigured them; that weakness 
 worships them; that credulity preserves them; and that cus- 
 tom respects and tyranny supports them in order to make the 
-blindness of men serve its own interests.” Belief in God, said 
+blindness of men serve its own interests." Belief in God, said 
 Diderot, is bound up with submission to autocracy; the two 
-rise and fall together; and “men will never be free till the 
-last king is strangled with the entrails of the last priest.” 
+rise and fall together; and "men will never be free till the 
+last king is strangled with the entrails of the last priest." 
 The earth will come into its own only when heaven is destroyed. 
 Materialism may be an over-simplification of the world — all 
 matter is probably instinct with life, and it is impossible to 
@@ -12684,11 +12253,11 @@ to disseminate through the great Encyclopedie which they is-
 sued, volume by volume, from 1752 to 1772. The Church had 
 the first volumes suppressed ; and as the opposition increased, 
 Diderot’s comrades abandoned him ; but he worked on angrily, 
-invigorated by his rage. “I know nothing so indecent,” he 
-said, “as these vague declamations of the theologiaps against 
+invigorated by his rage. "I know nothing so indecent," he 
+said, "as these vague declamations of the theologiaps against 
 reason. To hear them one would suppose that men could not 
 enter into the bosom of Christianity except as a herd of cattle 
-enters a stable.” It was, as Paine put it, the age of reason; 
+enters a stable." It was, as Paine put it, the age of reason; 
 
 
 £54 
@@ -12722,17 +12291,17 @@ each heading part of his inexhaustible resources of knowledge
 and wisdom. Imagine a man writing on everything, and 
 producing a classic none the less ; the most readable and spark- 
 ling of Voltaire’s works aside from his romances ; every article 
-a model of brevity, clarity, and wit. “Some men can be 
+a model of brevity, clarity, and wit. "Some men can be 
 prolix in one small volume; Voltaire is terse through a hun- 
-dred.” 1 Here at last Voltaire proves that he is a philos- 
+dred." 1 Here at last Voltaire proves that he is a philos- 
 opher. 
 
 He begins, like Bacon, Descartes and Locke and all the 
-modems, with doubt and a (supposedly) clean slate. “I have 
+modems, with doubt and a (supposedly) clean slate. "I have 
 taken as my patron saint St. Thomas of Didymus, who always 
-insisted on an examination with his own hands.” 2 He thanks 
+insisted on an examination with his own hands." 2 He thanks 
 Bayle for having taught him the art of doubt. He rejects all 
-systems, and suspects that “every chief of a sect in philosophy 
+systems, and suspects that "every chief of a sect in philosophy 
 
 1 Robertson 87. 
 
@@ -12745,27 +12314,27 @@ VOLTAIRE
 255 
 
 
-has been a little of a quack.” 1 “The further I go, the more I 
+has been a little of a quack." 1 "The further I go, the more I 
 am confirmed in the idea that systems of metaphysics are for 
-philosophers what novels are for women.” 2 It is only charla- 
+philosophers what novels are for women." 2 It is only charla- 
 tans who are certain. We know nothing of first principles. It 
 is truly extravagant to define God, angels, and minds, and to 
 know precisely why God formed the world, when we do not know 
 why we move our arms at will. Doubt is not a very agreeable 
-state, but certainty is a ridiculous one .” 3 “I do not know 
+state, but certainty is a ridiculous one ." 3 "I do not know 
 how I was made, and how I was bom. I did not know at all, 
 during a quarter of my life, the causes of what I saw, or heard, 
 or felt. ... I have seen that which is called matter, both as 
 the star Sirius, and as the smallest atom which can be per- 
 ceived with the microscope ; and I do not know what this mat- 
-ter is.” 4 
+ter is." 4 
 
-He tells a story of “The Good Brahmin,” who says, “I 
-wish I had never been born!” 
+He tells a story of "The Good Brahmin," who says, "I 
+wish I had never been born!" 
 
-“Why so ?” said I. 
+"Why so ?" said I. 
 
-“Because,” he replied, “I have been studying these forty 
+"Because," he replied, "I have been studying these forty 
 
 years, and I find that it has been so much time lost I 
 
@@ -12776,7 +12345,7 @@ ulty like that of walking or digesting, or if I think with my
 head in the same manner as I take hold of a thing with my 
 hands. ... I talk a great deal, and when I have done 
 speaking I remain confounded and ashamed of what I have 
-said.” 
+said." 
 
 The same day I had a conversation with an old woman, his 
 neighbor. I asked her if she had ever been unhappy for not 
@@ -12791,7 +12360,7 @@ which the good Brahmin had so tormented himself. She be-
 
 8 Robertson, 122. 
 
-* Dictionary, article “Ignorance.” 
+* Dictionary, article "Ignorance." 
 
 
 256 THE STORY OF PHILOSOPHY 
@@ -12803,20 +12372,20 @@ herself the happiest of women. Struck with the happiness
 of this poor creature, I returned to my philosopher, whom 
 I thus addressed: 
 
-“Are you not ashamed to be thus miserable when, not fifty 
+"Are you not ashamed to be thus miserable when, not fifty 
 yards from you, there is an old automaton who thinks of 
-nothing and lives contented?” 
+nothing and lives contented?" 
 
-‘You are right,” he replied. “I have said to myself a 
+‘You are right," he replied. "I have said to myself a 
 thousand times that I should be happy if I were but as ig- 
 norant as my old neighbor; and yet it is a happiness which 
-I do not desire.” 
+I do not desire." 
 
 This reply of the Brahmin made a greater impression on 
 me than anything that had passed. 1 
 
 Even if Philosophy should end in the total doubt of Mon- 
-taigne’s “ Que sais-je ?” 2 It is man’s greatest adventure, and 
+taigne’s " Que sais-je ?" 2 It is man’s greatest adventure, and 
 his noblest. Let us learn to be content with modest advances 
 in knowledge, rather than be forever weaving new systems out 
 of our mendacious imagination. 
@@ -12837,11 +12406,11 @@ the rest is chimera. 5
 
 1 Romances j 450 f. 
 
-2 “What do I know?” 
+2 "What do I know?" 
 
 s In Pellissier, 28, note. 
 
-4 Voltaire’ 8 Prose , ed. Cohn and Woodward; Boston, 1918; p. 54u 
+4 Voltaire’ 8 Prose, ed. Cohn and Woodward; Boston, 1918; p. 54u 
 
 « In Pellissier, 29-30. 
 
@@ -12864,7 +12433,7 @@ of the faith, and cardinals considered whether, after all, they
 might not yet make him into a good Capuchin. What were 
 the events that turned him from the polite persiflage of agnos- 
 ticism to a bitter anti-clericalism which admitted no compro- 
-mise, but waged relentless war to “crush the infamy” of ec- 
+mise, but waged relentless war to "crush the infamy" of ec- 
 clesiasticism? 
 
 Not far from Ferney lay Toulouse, the seventh city of 
@@ -12918,23 +12487,23 @@ on the lad, was burned with him.
 For almost the first time in his life, Voltaire became a thor- 
 oughly serious man. When d’Alembert, disgusted equally 
 with state, church and people, wrote that hereafter he would 
-merely mock at everything, Voltaire answered, “This is not 
+merely mock at everything, Voltaire answered, "This is not 
 a time for jesting; wit does not harmonize with massacres. 
 . . . Is this the country of philosophy and pleasure? It is 
-rather the country of the Massacre of St. Bartholomew.” It 
+rather the country of the Massacre of St. Bartholomew." It 
 was with Voltaire now as with Zola and Anatole France in the 
 case of Dreyfus; this tyrannous injustice lifted him up; he 
 ceased to be merely a man of letters, and became a man of ac- 
 tion too ; he laid aside philosophy for war, or rather turned his 
-philosophy into relentless dynamite. “During this time not a 
+philosophy into relentless dynamite. "During this time not a 
 smile escaped me without my reproaching myself for it as for 
-a crime.” It was now that he adopted his famous motto, 
+a crime." It was now that he adopted his famous motto, 
 Ecrasez Vmfame, and stirred the soul of France against the 
 abuses of the church. He began to pour forth such intellec- 
 tual fire and brimstone as melted mitres and sceptres, broke 
 the power of the priesthood in France, and helped to over- 
 throw a throne. He sent out a call to his friends and fol- 
-lowers, summoning them to battle: “Come, brave Diderot, 
+lowers, summoning them to battle: "Come, brave Diderot, 
 
 
 VOLTAIRE 
@@ -12947,7 +12516,7 @@ natics and the knaves, destroy the insipid declamations, the
 miserable sophistries, the lying history, . . . the absurdities 
 without number ; do not let those who have sense be subjected 
 to those who have, none ; and the generation which is being 
-born will owe to us its reason and its liberty.” 1 
+born will owe to us its reason and its liberty." 1 
 
 Just at this crisis an effort was made to buy him off; 
 through Mme. de Pompadour he received an offer of a cardi- 
@@ -12955,17 +12524,17 @@ nal’s hat as the reward of reconciliation with the Church . 2 *
 As if the rule of a few tongue-tied bishops could interest a 
 man who was the undisputed sovereign of the world of intel- 
 lect! Voltaire refused; and like another Cato, began to end 
-all his letters with “Crush the infamy.” He sent out his 
+all his letters with "Crush the infamy." He sent out his 
 Treatise on Toleration: he said he would have borne with the 
 absurdities of dogma had the clergy lived up to their sermons 
-and had they tolerated differences; but “subtleties of which 
+and had they tolerated differences; but "subtleties of which 
 not a trace can be found in the Gospels are the source of 
-the bloody quarrels of Christian history.” 8 “The man who 
+the bloody quarrels of Christian history." 8 "The man who 
 says to me, ‘Believe as I do, or God will damn you,’ will pres- 
-ently say, ‘Believe as I do, or I shall assassinate you.’ ” 4 * 
-“By what right could a being created free force another to 
-think like himself ?” 6 “A fanaticism composed of supersti- 
-tion and ignorance has been the sickness of all the centuries.” 6 
+ently say, ‘Believe as I do, or I shall assassinate you.’ " 4 * 
+"By what right could a being created free force another to 
+think like himself ?" 6 "A fanaticism composed of supersti- 
+tion and ignorance has been the sickness of all the centuries." 6 
 No such perpetual peace as the Abbe de St.-Pierre had pleaded 
 for could ever be realized unless men learned to tolerate one 
 another’s philosophic, political and religious differences. 
@@ -12993,36 +12562,36 @@ THE STORY OE PHILOSOPHY
 
 
 essays, under Voltaire’s own name and under a hundred pseu- 
-dottyms — “the most astonishing pell-mell of propaganda ever 
-put out by one man.” 1 Never was philosophy phrased so 
+dottyms — "the most astonishing pell-mell of propaganda ever 
+put out by one man." 1 Never was philosophy phrased so 
 clearly, and with such life; Voltaire writes so well that one 
 does not realize that he is writing philosophy. He said of 
-himself, over-modestly, “I express myself clearly enough: I 
+himself, over-modestly, "I express myself clearly enough: I 
 am like the little brooks, which are transparent because they 
-are not deep.” 2 And so he was read ; soon everybody, even 
+are not deep." 2 And so he was read ; soon everybody, even 
 the clergy, had his pamphlets ; of some of them 300,000 copies 
 Were sold, though readers were far fewer then than now; noth- 
 ing like it had ever been seen in the history of literature, 
-“Big books,” he said, “are out of fashion.” And so he sent 
+"Big books," he said, "are out of fashion." And so he sent 
 forth his little soldiers, week after week, month after month, 
 resolute and tireless, surprising the world with the fertility of 
 his thought and the magnificent energy of his seventy years. 
 As Helvetius put it, Voltaire had crossed the Rubicon, and 
 stood before Rome. 3 
 
-He began with a “higher criticism” of the authenticity and 
+He began with a "higher criticism" of the authenticity and 
 reliability of the Bible; he takes much of his material from 
 Spinoza, more of it from the English Deists, most of it from 
 the Critical Dictionary of Bayle (1647—1706) ; but how bril- 
 liant and fiery their material becomes in his hands ! One pam- 
-phlet is called “The Questions of Zapata,” a candidate for the 
-priesthood; Zapata asks, innocently, “How shall we proceed 
+phlet is called "The Questions of Zapata," a candidate for the 
+priesthood; Zapata asks, innocently, "How shall we proceed 
 to show that the Jews, whom we burn by the hundred, were for 
-four thousand years the chosen people of God?” * — and he 
+four thousand years the chosen people of God?" * — and he 
 goes on with questions which lay bare the inconsistencies of 
-narrative and chronology in the Old Testament. “When two 
+narrative and chronology in the Old Testament. "When two 
 Councils anathematize each other, as has often happened,, 
-which of them is infallible?” At last, “Zapata, receiving no 
+which of them is infallible?" At last, "Zapata, receiving no 
 answer, took to preaching God in all simplicity. He an- 
 nounced to men the common Father, the rewarder, punisher, 
 
@@ -13046,37 +12615,37 @@ m
 and pardoner. He extricated the truth from the lies, and 
 separated religion from fanaticism; he taught and practised 
 virtue. He was gentle, kindly, and modest; and he was 
-burned at Valladolid in the year of grace 1631.” 1 
+burned at Valladolid in the year of grace 1631." 1 
 
-Under the article on “Prophecy” in the Philosophic Dic- 
+Under the article on "Prophecy" in the Philosophic Dic- 
 tionary, he quotes Rabbin Isaac’s Bulwark of Faith against 
 the application of Hebrew prophecies to Jesus, and then goes 
-on, ironically: “Thus these blind interpreters of their own 
+on, ironically: "Thus these blind interpreters of their own 
 religion and their own language, combated with the Church, 
 and obstinately maintained that this prophecy cannot in any 
-manner regard Jesus Christ.” 2 3 Those were dangerous days, 
-in which , one was compelled to say what one meant without 
+manner regard Jesus Christ." 2 3 Those were dangerous days, 
+in which, one was compelled to say what one meant without 
 saying it, and the shortest line to one’s purpose was anything 
 but straight. Voltaire likes to trace Christian dogmas and 
 rites to Greece, Egypt and India, and thinks that these adap- 
 tations were not the least cause of the success of Christianity 
-in the ancient world. Under the article on “Religion” he 
-asks, slyly, “After our own holy religion, which doubtless is 
+in the ancient world. Under the article on "Religion" he 
+asks, slyly, "After our own holy religion, which doubtless is 
 the only good one, what religion would be the least objection- 
-able?” — and he proceeds to describe a faith and worship di- 
-rectly opposed to the Catholicism of his day. “Christianity 
-must be divine,” he says, in one of his most unmeasured sallies, 
-“since it has lasted 1,700 years despite the fact that it is so 
-full of villainy and nonsense.” 8 He shows how almost all 
+able?" — and he proceeds to describe a faith and worship di- 
+rectly opposed to the Catholicism of his day. "Christianity 
+must be divine," he says, in one of his most unmeasured sallies, 
+"since it has lasted 1,700 years despite the fact that it is so 
+full of villainy and nonsense." 8 He shows how almost all 
 ancient peoples had similar myths, and hastily concludes that 
 the myths are thereby proved to have been the inventions of 
-priests : “the first divine was the first rogue who met the first 
-fool.” However, it is not religion itself which he attributes 
+priests : "the first divine was the first rogue who met the first 
+fool." However, it is not religion itself which he attributes 
 to the priests, but theology. It is slight differences in theol- 
 ogy that have caused so many bitter disputes and religious 
-wars. “It is not the ordinary people . . . who have raised 
+wars. "It is not the ordinary people . . . who have raised 
 these ridiculous and fatal quarrels, the sources of so many 
-horrors. , . . Men fed by your labors in a comfortable idle- 
+horrors., . . Men fed by your labors in a comfortable idle- 
 
 i Ibid., 26-35. 
 
@@ -13091,13 +12660,13 @@ ness, enriched by your sweat and your misery, struggled for
 partisans and slaves; they inspired you with a destructive 
 fanaticism, that they might be your masters ; they made you 
 superstitious not that you might fear God but that you might 
-fear them.” 1 
+fear them." 1 
 
 Let it not be supposed from all this that Voltaire was quite 
 without religion. He decisively rejects atheism; 2 * so much 
 so that some of the Encyclopedists turned against him, say- 
-ing, “Voltaire is a bigot, he believes in God.” In “The Ig- 
-norant Philosopher” he reasons towards Spinozist pantheism, 
+ing, "Voltaire is a bigot, he believes in God." In "The Ig- 
+norant Philosopher" he reasons towards Spinozist pantheism, 
 but then recoils from it as almost atheism. He writes to Di- 
 derot : 
 
@@ -13117,12 +12686,12 @@ you are, you are a worthy part of that great whole which I
 do not understand . 8 
 
 To Holbach he points out that the very title of his book, 
-the System of Nature , indicates a divine organizing intelli- 
+the System of Nature, indicates a divine organizing intelli- 
 gence. On the other hand he stoutly denies miracles and the 
 supernatural efficacy of prayer : 
 
 I was at the gate of the convent when Sister Fessue said 
-to Sister Confite: “Providence takes a visible care of me; 
+to Sister Confite: "Providence takes a visible care of me; 
 
 1 Selected Works, 63. 
 
@@ -13135,27 +12704,27 @@ VOLTAIRE
 
 
 you know how I love my sparrow; he would have been dead if 
-I had not said nine Ave-Marias to obtain his cure.” ... A 
-metaphysician said to her: “Sister, there is nothing so 
+I had not said nine Ave-Marias to obtain his cure." ... A 
+metaphysician said to her: "Sister, there is nothing so 
 good as Ave-Marias, especially when a girl pronounces them 
 in Latin in the suburbs of Paris ; but I cannot believe that 
 God has occupied himself so much with your sparrow, pretty 
 as it is ; I pray you to believe that he has other things to at- 
-tend to. . . .” Sister Fessue: “Sir, this discourse savors 
+tend to. . . ." Sister Fessue: "Sir, this discourse savors 
 of heresy. My confessor . . . will infer that you do not 
-believe in Providence.” Metaphysician : “I believe in a gen- 
+believe in Providence." Metaphysician : "I believe in a gen- 
 eral Providence, dear Sister, which has laid down from all 
 eternity the law which governs all things, like light from the 
 sun; but I believe not that a particular Providence changes 
-the economy of the world for your sparrow.” 3 
+the economy of the world for your sparrow." 3 
 
-“His Sacred Majesty, Chance, decides everything.” 2 True 
+"His Sacred Majesty, Chance, decides everything." 2 True 
 prayer lies not in asking for a violation of natural law but in 
 the acceptance of natural law as the unchangeable will of God . 3 
 
 Similarly, he denies free will . 4 As to the soul he is an ag- 
-nostic: “Four thousand volumes of metaphysics will not 
-teach us what the soul is.” 5 Being an old man, he would like 
+nostic: "Four thousand volumes of metaphysics will not 
+teach us what the soul is." 5 Being an old man, he would like 
 to believe in immortality, but he finds it difficult. 
 
 Nobody thinks of giving an immortal soul to the flea ; 
@@ -13169,7 +12738,7 @@ for it is memory that makes your identity. If your memory
 be lost, how will you be the same man? 7 . . . Why do man- 
 kind flatter themselves that they alone are gifted with & 
 
-1 Dictionary, art. “Providence.” 
+1 Dictionary, art. "Providence." 
 
 ^ Correspondence, Feb. 26, 17 6T. 
 
@@ -13177,11 +12746,11 @@ kind flatter themselves that they alone are gifted with &
 
 4 The Ignorant Philosopher . 
 
-* Dictionary, art. “Soul.” 
+* Dictionary, art. "Soul." 
 
 6 In Morley, ed. 1886 ; p. 286. 
 
-* Dictionary, art. “Resurrection.” 
+* Dictionary, art. "Resurrection." 
 
 
 
@@ -13197,26 +12766,26 @@ inhabited his magnificent tail . 1
 
 And in this earlier mood he rejects also the view that belief 
 in immortality is necessary for morality : the ancient Hebrews 
-were without it, just when they were the “chosen people” ; and 
+were without it, just when they were the "chosen people" ; and 
 Spinoza was a paragon of morality. 
 
 In later days he changed his mind. He came to feel that 
 belief in God has little moral value unless accompanied by be- 
 lief in an immortality of punishment and reward. Perhaps, 
-“for the common people (la ca/naille ) a rewarding and aveng- 
-ing God” is necessary. Bayle had asked, If a society of athe- 
-ists could subsist? — Voltaire answers, “Yes, if they are also 
-philosophers.” 2 But men are seldom philosophers; “if there 
-is a hamlet, to be good it must have a religion.” 3 “I want 
-my lawyer, my tailor, and my wife to believe in God,” says “A” 
-in “A, B, C” ; “so, I imagine, I shall be less robbed and less 
-deceived.” “If God did not exist it would be necessary to 
-invent him.” 4 “I begin to put more store on happiness and 
-life than on truth” ; 5 — a remarkable anticipation, in the midst 
+"for the common people (la ca/naille ) a rewarding and aveng- 
+ing God" is necessary. Bayle had asked, If a society of athe- 
+ists could subsist? — Voltaire answers, "Yes, if they are also 
+philosophers." 2 But men are seldom philosophers; "if there 
+is a hamlet, to be good it must have a religion." 3 "I want 
+my lawyer, my tailor, and my wife to believe in God," says "A" 
+in "A, B, C" ; "so, I imagine, I shall be less robbed and less 
+deceived." "If God did not exist it would be necessary to 
+invent him." 4 "I begin to put more store on happiness and 
+life than on truth" ; 5 — a remarkable anticipation, in the midst 
 of the Enlightenment, of the very doctrine with which Imman- 
 uel Kant was later to combat the Enlightenment. He defends 
 himself gently against his friends the atheists; he addresses 
-Holbach in the article on “God” in the Dictionary : 
+Holbach in the article on "God" in the Dictionary : 
 
 You yourself say that belief in God . . . has kept some 
 men from crime; this alone suffices me. When this belief 
@@ -13229,7 +12798,7 @@ tion which reigns on our unhappy globe. This is the cruel-
 
 2 In Pellissier, 169. 
 
-a Dictionary, art. “Religion.” 
+a Dictionary, art. "Religion." 
 
 4 In Pellissier, 172. 
 
@@ -13244,7 +12813,7 @@ Let us detest this monster which has always torn the bosom
 of its mother; those who combat it are the benefactors of the 
 human race ; it is a serpent which chokes religion in its em- 
 brace ; we must crush its head without wounding the mother 
-whom it devours.” 
+whom it devours." 
 
 This distinction between superstition and religion is funda*- 
 mental with him. He accepts gladly the theology of the 
@@ -13252,10 +12821,10 @@ mental with him. He accepts gladly the theology of the
 could hardly be matched even with the pages of saintly ecstasy. 
 He pictures Christ among the sages, weeping over the crimes 
 that have been committed in his name. At last he built his 
-own church, with the dedication, “Deo erexit Voltaire”; the 
+own church, with the dedication, "Deo erexit Voltaire"; the 
 only church in Europe, he said, that was erected to GodL 
 He addresses to God a magnificent prayer ; and in the article 
-“Theist” he expounds his faith finally and clearly : 
+"Theist" he expounds his faith finally and clearly : 
 
 The theist is a man firmly persuaded of the existence of a 
 supreme being as good as he is powerful, who has formed all 
@@ -13272,9 +12841,9 @@ for his fellows. He believes that religion consists neither in
 the opinions of an unintelligible metaphysic, nor in vain 
 shows, but in worship and in justice. To do good is his wor- 
 ship, to submit to God is his creed. The Mohammedan cries 
-out to him, “Beware if you fail to make the pilgrimage to 
-Mecca !” — the priest says to him, “Curses on you if you do 
-not make the trip to Notre Dame de Lorette!” He laughs 
+out to him, "Beware if you fail to make the pilgrimage to 
+Mecca !" — the priest says to him, "Curses on you if you do 
+not make the trip to Notre Dame de Lorette!" He laughs 
 at Lorette and at Mecca : but he succors the indigent and de- 
 fends the oppressed. 
 
@@ -13286,36 +12855,36 @@ IX. VOLTAIRE AND ROUSSEAU
 Voltaire was so engrossed in the struggle against ecclesi- 
 astical tyranny that during the later decades of his life he was 
 compelled almost to withdraw from the war on political 
-corruption and oppression. “Politics is not in my line: I 
+corruption and oppression. "Politics is not in my line: I 
 have always confined myself to doing my little best to make 
-men less foolish and more honorable.” He knew how complex 
+men less foolish and more honorable." He knew how complex 
 a matter political philosophy can become, and he shed his 
-certainties as he grew. “I am tired of all these people who 
-govern states from the recesses of their garrets” ; 1 “these 
+certainties as he grew. "I am tired of all these people who 
+govern states from the recesses of their garrets" ; 1 "these 
 legislators who rule the world at two cents a sheet ; . . . un- 
 able to govern their wives or their households they take great 
-pleasure in regulating the universe.” 2 It is impossible to 
+pleasure in regulating the universe." 2 It is impossible to 
 settle these matters with simple and general formulae, or by 
 dividing all people into fools and knaves on the one hand, 
-and on the other, ourselves. “Truth has not the name of a 
-party”; and he writes to Vauvenargues : “It is the duty of 
-a man like you to have preferences, but not exclusions.” 8 
+and on the other, ourselves. "Truth has not the name of a 
+party"; and he writes to Vauvenargues : "It is the duty of 
+a man like you to have preferences, but not exclusions." 8 
 
 Being rich, he inclines towards conservatism, for no worse 
 reason than that which impels the hungry man to call for a 
 change. His panacea is the spread of property: ownership 
-gives personality and an uplifting pride. “The spirit of 
+gives personality and an uplifting pride. "The spirit of 
 property doubles a man’s strength. It is certain that the 
 possessor of an estate will cultivate his own inheritance better 
-than that of another.” 4 
+than that of another." 4 
 
 He refuses to excite himself about forms of government. 
 Theoretically he prefers a republic, but he knows its flaws: 
 it permits factions which, if they do not bring on civil war, at 
 least destroy national unity ; it is suited only to small states 
 protected by geographical situation, and as yet unspoiled and 
-untorn with wealth; in general “men are rarely worthy to 
-govern themselves.” Republics are transient at best; they 
+untorn with wealth; in general "men are rarely worthy to 
+govern themselves." Republics are transient at best; they 
 
 1 Correspondence, Sept. 18, 1768. 
 
@@ -13323,7 +12892,7 @@ govern themselves.” Republics are transient at best; they
 
 8 Pellissier, 23; Morley, 86. 
 
-4 Dictionary, art. “Property.” 
+4 Dictionary, art. "Property." 
 
 
 VOLTAIRE 
@@ -13336,18 +12905,18 @@ families; the American Indians lived in tribal republics, and
 Africa is full of such democracies. But differentiation of 
 economic status puts an end to these egalitarian governments ; 
 and differentiation is the inevitable accompaniment of develop- 
-ment. “Which is better,” he asks, “a monarchy or a re- 
-public?”— and he replies: “For four thousand years this 
+ment. "Which is better," he asks, "a monarchy or a re- 
+public?"— and he replies: "For four thousand years this 
 question has been tossed about. Ask the rich for an answer 
 — they all want aristocracy. Ask the people- — they want 
 democracy. Only the monarchs want monarchy. How then 
 has it come about that almost the entire earth is governed 
 by monarchs? Ask the rats who proposed to hang a bell 
-about the neck of the cat.” 1 But when a correspondent 
+about the neck of the cat." 1 But when a correspondent 
 argues that monarchy is the best form of government he an- 
-swers: “Provided Marcus Aurelius is monarch; for other- 
+swers: "Provided Marcus Aurelius is monarch; for other- 
 wise, what difference does it make to a poor man whether he 
-is devoured by a lion or by a hundred rats?” 2 
+is devoured by a lion or by a hundred rats?" 2 
 
 Likewise, he is almost indifferent to nationalities, like a 
 traveled man; he has hardly any patriotism in the usual sense 
@@ -13355,18 +12924,18 @@ of that word. Patriotism commonly means, he says, that one
 hates every country but one’s own. If a man wishes his 
 country to prosper, but never at the expense of other coun- 
 tries, he is at the same time an intelligent patriot and a citizen 
-of the universe. 3 Like a “good European” he praises Eng- 
+of the universe. 3 Like a "good European" he praises Eng- 
 land’s literature and Prussia’s king while France is at war with 
 both England and Prussia. So long as nations make a prac- 
 tice of war, he says, there is not much to choose among them. 
 
-For he hates war above all else. “War is the greatest of 
+For he hates war above all else. "War is the greatest of 
 all crimes; and yet there is no aggressor who does not color 
-his crime with the pretext of justice.” 4 * “It is forbidden to 
+his crime with the pretext of justice." 4 * "It is forbidden to 
 kill; therefore all murderers are punished unless they kill in 
-large numbers and to the sound of trumpets.” 6 He has a 
+large numbers and to the sound of trumpets." 6 He has a 
 
-1 Dictionary, art. “Fatherland.” 
+1 Dictionary, art. "Fatherland." 
 
 2 Correspondence, June 20, 1777. 
 
@@ -13374,7 +12943,7 @@ large numbers and to the sound of trumpets.” 6 He has a
 
 4 The Ignorant Philosopher. 
 
-& Dictionary, art. “War.” 
+& Dictionary, art. "War." 
 
 
 THE STORY OF PHILOSOPHY 
@@ -13382,8 +12951,8 @@ THE STORY OF PHILOSOPHY
 
 £68 
 
-terrible “General Reflection on Man,” at the end of the article 
-on “Man” in the Dictionary: 
+terrible "General Reflection on Man," at the end of the article 
+on "Man" in the Dictionary: 
 
 Twenty years are required to bring man from the state 
 of a plant, in which he exists in the womb of his mother, and 
@@ -13395,36 +12964,36 @@ be required to know anything of his soul. But one moment
 suffices in which to kill him. 
 
 Does he therefore think of revolution as a remedy? No. 
-For first of all, he distrusts the people: “When the people 
-undertake to reason, all is lost.” 1 The great majority are 
+For first of all, he distrusts the people: "When the people 
+undertake to reason, all is lost." 1 The great majority are 
 always too busy to perceive the truth until change has made 
 the truth an error ; and their intellectual history is merely the 
-replacement of one myth by another. “When an old error 
+replacement of one myth by another. "When an old error 
 is established, politics uses it as a morsel which the people 
 have put into their own mouths, until another superstition 
 comes along to destroy this one, and politics profits from the 
-second error as it did from the first.” 2 And then again, 
+second error as it did from the first." 2 And then again, 
 inequality is written into the very structure of society, and 
 can hardly be eradicated while men are men and life is a 
-struggle. “Those who say that all men are equal speak the 
+struggle. "Those who say that all men are equal speak the 
 greatest truth if they mean that all men have an equal right 
 to liberty, to the possession of their goods, and to the pro- 
-tection of the laws” ; but “equality is at once the most natural 
+tection of the laws" ; but "equality is at once the most natural 
 and the most chimerical thing in the world : natural when it is 
 limited to rights, unnatural when it attempts to level goods 
-and powers .” 8 “Not all citizens can be equally strong; but 
+and powers ." 8 "Not all citizens can be equally strong; but 
 they can all be equally free ; it is this which the English have 
 won. . . . To be free is to be subject to nothing but the 
-laws.” 4 This was the note of the liberals, of Turgot and 
+laws." 4 This was the note of the liberals, of Turgot and 
 Condorcet and Mirabeau and the other followers of Voltaire 
 
 1 Correspondence, April 1, 1766. 
 
 2 Voltaire’ 8 Prose, p. 15. 
 
-a Dictionary, art. “Equality.” 
+a Dictionary, art. "Equality." 
 
-4 Art. “Government.” 
+4 Art. "Government." 
 
 
 VOLTAIRE 
@@ -13444,15 +13013,15 @@ imaginations. Society is a growth in time, not a syllogism in
 logic ; and when the past is put out through the door it comes 
 in at the window. The problem is to show precisely by what 
 changes we can diminish misery and injustice in the world in 
-which we actually live . 1 In the “Historical Eulogy of Rea- 
-son,” Truth, the daughter of Reason, voices her joy at the 
+which we actually live . 1 In the "Historical Eulogy of Rea- 
+son," Truth, the daughter of Reason, voices her joy at the 
 accession of Louis XVI, and her expectation of great reforms; 
-to which Reason replies : “My daughter, you know well that 
+to which Reason replies : "My daughter, you know well that 
 I too desire these things, and more. But all this requires time 
 and thought. I am always happy when, amid many disap- 
-pointments, I obtain some of the amelioration I longed for.” 
+pointments, I obtain some of the amelioration I longed for." 
 Yet Voltaire too rejoiced when Turgot came to power, and 
-wrote: “We are in the golden age up to our necks!” 2 — now 
+wrote: "We are in the golden age up to our necks!" 2 — now 
 would come the reforms he had advocated: juries, abolition of 
 the tithe, an exemption of the poor from, all taxes, etc. And 
 had he not written that famous letter? — 
@@ -13480,23 +13049,23 @@ THE STORY OF PHILOSOPHY
 
 
 Yet he did not quite realize what was happening about him; 
-and he never for a moment supposed that in this “splendid 
-outburst” all France would accept enthusiastically the phi- 
+and he never for a moment supposed that in this "splendid 
+outburst" all France would accept enthusiastically the phi- 
 losophy of this queer Jean Jacques Rousseau who, from Geneva 
 and Paris, was thrilling the world with sentimental romances 
 and revolutionary pamphlets. The complex soul of France 
 seemed to have divided itself into these two men, so different 
-and yet so French. Nietzsche speaks of “la gaya scienza, the 
+and yet so French. Nietzsche speaks of "la gaya scienza, the 
 light feet, wit, fire, grace, strong logic, arrogant intellec- 
-tuality, the dance of the stars” — surely he was thinking of 
+tuality, the dance of the stars" — surely he was thinking of 
 Voltaire. Now beside Voltaire put Rousseau: all heat and 
 fantasy, a man with noble and jejune visions, the idol of 
 la bourgeoise gentile-femme, announcing like Pascal that the 
 heart has its reasons which the head can never understand. 
 
 In these two men we see again the old clash between intellect 
-and instinct. Voltaire believed in reason always: “we can, 
-by speech and pen, make men more enlightened and better.” J 
+and instinct. Voltaire believed in reason always: "we can, 
+by speech and pen, make men more enlightened and better." J 
 Rousseau had little faith in reason ; he desired action ; the risks 
 of revolution did not frighten him ; he relied on the sentiment 
 of brotherhood to re-unite the social elements scattered by 
@@ -13505,15 +13074,15 @@ removed, and men would pass into a reign of equality and
 justice. When he sent to Voltaire his Discourse on the Origin 
 of Inequality, with its arguments against civilization, letters, 
 and science, and for a return to the natural condition as seen 
-in savages and animals, Voltaire replied: “I have received, 
+in savages and animals, Voltaire replied: "I have received, 
 sir, your new book against the human species, and I thank 
 you for it. . . . No one has ever been so witty as you are in 
 trying to turn us into brutes; to read your book makes one 
 long to go on all fours. As, however, it is now some sixty 
 years since I gave up the practice, I feel that it is unfor- 
-tunately impossible for me to resume it.” 1 2 He was chagrined 
+tunately impossible for me to resume it." 1 2 He was chagrined 
 to see Rousseau’s passion for savagery continue into the 
-Social Contract: “Ah, Monsieur,” he writes to M. Hordes, 
+Social Contract: "Ah, Monsieur," he writes to M. Hordes, 
 
 1 Selected Works, 62. 
 
@@ -13526,12 +13095,12 @@ VOLTAIRE
 271 
 
 
-“you see now that Jean J acques resembles a philosopher as 
-a monkey resembles a man.” 1 He is the “dog of Diogenes 
-gone mad .” 2 Yet he attacked the Swiss authorities for 
-burning the book, holding to his famous principle: “I do 
+"you see now that Jean J acques resembles a philosopher as 
+a monkey resembles a man." 1 He is the "dog of Diogenes 
+gone mad ." 2 Yet he attacked the Swiss authorities for 
+burning the book, holding to his famous principle: "I do 
 not agree with a word that you say, but I will defend to the 
-death your right to say it .” 3 And when Rousseau was 
+death your right to say it ." 3 And when Rousseau was 
 fleeing from a hundred enemies Voltaire sent him a cordial 
 invitation to come and stay with him at Les Delices. What a 
 spectacle that would have been! 
@@ -13543,15 +13112,15 @@ seau that man is by nature a beast of prey, and that civilized
 society means a chaining of this beast, a mitigation of his 
 brutality, and the possibility of the development, through 
 social order, of the intellect and its joys. He agrees that 
-things are bad : “A government in which it is permitted a 
+things are bad : "A government in which it is permitted a 
 certain class of men to say, ‘Let those pay taxes who work; 
-we should not pay, because we do not work , 5 is no better than 
+we should not pay, because we do not work, 5 is no better than 
 a government of Hottentots . 55 Paris has its redeeming 
-features, even amidst its corruption. In “The World as It 
-Goes , 55 Voltaire tells how an angel sent Babouc to report on 
+features, even amidst its corruption. In "The World as It 
+Goes, 55 Voltaire tells how an angel sent Babouc to report on 
 whether the city of Persepolis should be destroyed; Babouc 
 goes, and is horrified with the vices he discovers; but after 
-a time “he began to grow fond of a city the inhabitants of 
+a time "he began to grow fond of a city the inhabitants of 
 which were polite, affable and beneficent, though they were 
 fickle, slanderous and vain. He was much afraid that Per- 
 sepolis would be condemned. He was even afraid to give in 
@@ -13559,14 +13128,14 @@ his account. This he did, however, in the following manner.
 He caused a little statue, composed of different metals, of 
 earth and of stones (the most precious and the most vile) to 
 be cast by one of the best founders of the city, and carried 
-it to the angel. ‘Wilt thou break , 5 said he, ‘this pretty statue 
+it to the angel. ‘Wilt thou break, 5 said he, ‘this pretty statue 
 because it is not wholly composed of gold and diamonds ? 555 
 
 1 Ibid., Mar. 1765. 
 
 2 In Sainte-Beuve, i. 230. 
 
-8 Voltaire in His Letters , 65. 
+8 Voltaire in His Letters, 65. 
 
 
 
@@ -13577,7 +13146,7 @@ THE STORY OF PHILOSOPHY
 
 
 The angel resolved to think no more of destroying Persepolis, 
-but to leave “the world as it goes.” After all, when one tries 
+but to leave "the world as it goes." After all, when one tries 
 to change institutions without having changed the nature of 
 men, that unchanged nature will soon resurrect those insti- 
 tutions. 
@@ -13597,21 +13166,21 @@ action lay fertile in the radicalism of Rousseau: for instinct
 and sentiment are ultimately loyal to the ancient past which 
 has begotten them, and to which they are stereotyped adapta- 
 tions: after the catharsis of revolution the needs of the heart 
-would recall supernatural religion and the “good old days” 
+would recall supernatural religion and the "good old days" 
 of routine and peace; after Rousseau would come Chateau- 
 briand, and De Stael, and De Maistre, and Eant. 
 
 
 X. DENOUEMENT 
 
-Meanwhile the old “laughing philosopher” was cultivating 
-his garden at Ferney; this “is the best thing we can do on 
-earth.” He had asked for a long life: “my fear is that I 
-shall die before I have rendered service ” ; 1 but surely now he 
+Meanwhile the old "laughing philosopher" was cultivating 
+his garden at Ferney; this "is the best thing we can do on 
+earth." He had asked for a long life: "my fear is that I 
+shall die before I have rendered service " ; 1 but surely now he 
 had done his share. The records of his generosity are endless. 
 ‘‘Everyone, far or near, claimed his good offices; people con- 
 sulted him, related the wrongs of which they were the victims, 
-and solicited the help of his pen and his credit.” 2 Poor 
+and solicited the help of his pen and his credit." 2 Poor 
 
 1 Correspondence, Aug. 25, 1766, 
 
@@ -13632,31 +13201,31 @@ knees to beg his forgiveness, he knelt to raise them, telling
 them that his pardon was freely theirs, and that they should 
 kneel only for God’s. 1 One of his characteristic undertak- 
 ings was to bring up, educate, and provide a dowry for the 
-destitute niece of Corneille. “The little good I have done,” 
-he said, “is my best work. . . . When I am attacked I fight 
+destitute niece of Corneille. "The little good I have done," 
+he said, "is my best work. . . . When I am attacked I fight 
 like a devil; I yield to no one; but at bottom I am a good 
-devil, and I end by laughing.” 2 
+devil, and I end by laughing." 2 
 
 In 1770 his friends arranged a subscription to have a bust 
 made of him. The rich had to be forbidden to give more than 
 a mite, for thousands asked the honor of contributing. Fred- 
-erick inquired how much he should give; he was told, “A 
-crown piece, sire, and your name.” Voltaire congratulated 
+erick inquired how much he should give; he was told, "A 
+crown piece, sire, and your name." Voltaire congratulated 
 him on adding to his cultivation of the other sciences this en- 
 couragement of anatomy by subscribing for the statue of a 
 skeleton. He demurred to the whole undertaking on the 
-ground that he had no face left to be modeled. “You would 
+ground that he had no face left to be modeled. "You would 
 hardly guess where it ought to be. My eyes have sunk in 
 three inches ; my cheeks are like old parchment ; . . . the few 
-teeth I had are gone.” To which d’Alembert replied: 
-“Genius . . . has always a countenance which genius, its 
-brother, will easily find.” 3 When his pet, Bellet-Bonne, 
-kissed him, he said it was “Life kissing Death.” 
+teeth I had are gone." To which d’Alembert replied: 
+"Genius . . . has always a countenance which genius, its 
+brother, will easily find." 3 When his pet, Bellet-Bonne, 
+kissed him, he said it was "Life kissing Death." 
 
 He was now eighty-three ; and a longing came over him to 
 see Paris before he died. The doctors advised him not to 
-undertake so arduous a trip; but “if I want to commit a 
-fplly,” he answered, “nothing will prevent me”; he had lived 
+undertake so arduous a trip; but "if I want to commit a 
+fplly," he answered, "nothing will prevent me"; he had lived 
 so long, and worked so hard, that perhaps he felt he had a 
 right to die in his own way, and in that electric Paris from 
 
@@ -13672,38 +13241,38 @@ m THE STORY OF PHILOSOPHY
 which he had been so long exiled. And so he went, wears' 
 mile after weary mile, across France; and when, his coach en- 
 tered the capital his bones hardly held together. He went at 
-once to the friend of his youth, d’Argental: “I have left off 
-dying to come and see you,” he said. The next day his room 
+once to the friend of his youth, d’Argental: "I have left off 
+dying to come and see you," he said. The next day his room 
 was stormed by three hundred visitors, who welcomed him as a 
 king; Louis XVI fretted with jealousy. Benjamin Franklin 
 was among the callers, and brought his grandson for Voltaire’s 
 blessing; the old man put his thin hands upon the youth’s head 
-and bade him dedicate himself to “God and Liberty.” 
+and bade him dedicate himself to "God and Liberty." 
 
-He was so ill now that a priest came to shrive him. “From 
-whom do you come, M. l’Abbe?” asked Voltaire. “From God 
-Himself,” was the answer. “Well, well, sir,” said Voltaire; 
-“your credentials?” 1 The priest went away without his prey. 
+He was so ill now that a priest came to shrive him. "From 
+whom do you come, M. l’Abbe?" asked Voltaire. "From God 
+Himself," was the answer. "Well, well, sir," said Voltaire; 
+"your credentials?" 1 The priest went away without his prey. 
 Later Voltaire sent for another abbe, Gautier, to come and 
 hear his confession ; Gautier came, but refused Voltaire absolu- 
 tion until he should sign a profession of full faith in Catholic 
 doctrine. Voltaire rebelled; instead, he drew up a statement 
-which he gave to his secretary, Wagner: “I die adoring God, 
+which he gave to his secretary, Wagner: "I die adoring God, 
 loving my friends, not hating my enemies, and detesting 
-superstition. (Signed) Voltaire. February 28, 1778.” 2 
+superstition. (Signed) Voltaire. February 28, 1778." 2 
 
 Though sick and tottering, he was driven to the Academy, 
 through tumultuous crowds that clambered on his carriage 
 and tore into souvenirs the precious pelisse which Catherine 
-of Russia had given him. “It was one of the historic events 
+of Russia had given him. "It was one of the historic events 
 of the century. No great captain returning from a pro- 
 longed campaign of difficulty and hazard crowned by the most 
 glorious victory, ever received a more splendid and far- 
-resounding greeting.” 3 At the Academy he proposed a 
+resounding greeting." 3 At the Academy he proposed a 
 revision of the French dictionary ; he spoke with youthful fire, 
 and offered to undertake all such part of the work as would 
 come under the letter A- At the close of the sitting he said, 
-“Gentlemen, I thank you in the name of the alphabet.” To 
+"Gentlemen, I thank you in the name of the alphabet." To 
 
 1 Tallentyre, 535. 
 
@@ -13714,8 +13283,8 @@ s Morley, 262.
 
 VOLTAIRE 275 
 
-which the chairman, Chastellux, replied: “And we thank 
-you in the name of letters.” 
+which the chairman, Chastellux, replied: "And we thank 
+you in the name of letters." 
 
 Meanwhile his play, Irdne, was being performed at the 
 theatre ; against the advice of the physicians again, he insisted 
@@ -13744,8 +13313,8 @@ Louis XVI to recall Voltaire’s remains to the Pantheon. The
 dead ashes of the great flame that had been were escorted 
 through Paris by a procession of 100,000 men and women, 
 while 600,000 flanked the streets. On the funeral car were 
-the words: “He gave the human mind a great impetus; he 
-prepared us for freedom.” On Ms tombstone only three 
+the words: "He gave the human mind a great impetus; he 
+prepared us for freedom." On Ms tombstone only three 
 words were necessary: 
 
 HERE LIES VOLTAIRE 
@@ -13767,10 +13336,10 @@ N EVER has a system of thought so dominated an epoch
 as the philosophy of Immanuel Kant dominated the 
 thought of the nineteenth century. After almost 
 three-score years of quiet and secluded development, the un- 
-canny Scot of Koenigsberg roused the ‘world from its “dog- 
-matic slumber,” in 1781, with his famous Critique of Pure 
-Reason; and from that year to our own the “critical phi- 
-losophy” has ruled the speculative roost of Europe. The 
+canny Scot of Koenigsberg roused the ‘world from its "dog- 
+matic slumber," in 1781, with his famous Critique of Pure 
+Reason; and from that year to our own the "critical phi- 
+losophy" has ruled the speculative roost of Europe. The 
 philosophy of Schopenhauer rose to brief power on the 
 romantic wave that broke in 1848; the theory of evolution 
 swept everything before it after 1859; and the exhilarating 
@@ -13781,7 +13350,7 @@ and steady current of the Kantian movement flowed on,
 always wider and deeper ; until today its essential theorems are 
 the axioms of all mature philosophy. Nietzsche takes Kant 
 for granted, and passes on ; 1 Schopenhauer calls the Critique 
-“the most important work in German literature,” and con- 
+"the most important work in German literature," and con- 
 siders any man a child until he has understood Kant; 5 
 Spencer could not understand Kant, and for precisely that 
 reason, perhaps, fell a little short of the fullest philosophic 
@@ -13792,7 +13361,7 @@ Therefore let us become Kantians at once. But it cannot
 
 » The Will to Power, vol. ii, part I. 
 
-a The World as WUl and Idea , London, 1883; vol. ii, p. 30. 
+a The World as WUl and Idea, London, 1883; vol. ii, p. 30. 
 
 270 
 
@@ -13827,7 +13396,7 @@ means the Enlightenment, the Encyclopedia, the Age of
 Reason. The warm enthusiasm of Francis Bacon had in- 
 spired all Europe (except Rousseau) with unquestioning con- 
 fidence in the power of science and logic to solve at last all 
-problems, and illustrate the “infinite perfectibility” of man. 
+problems, and illustrate the "infinite perfectibility" of man. 
 Condorcet, in prison, wrote his Historical Tableau of the 
 Progress of the Human Spirit (1793), which spoke the sub- 
 lime trust of the eighteenth century in knowledge and reason, 
@@ -13835,7 +13404,7 @@ and asked no other key to Utopia than universal education.
 Even the steady Germans had their Aufklarung, their 
 rationalist, Christian Wolff, and their hopeful Lessing. And 
 
-i The Critique of Pure Reason , London, 1881; vol. Si, p. xxvii. All subset 
+i The Critique of Pure Reason, London, 1881; vol. Si, p. xxvii. All subset 
 guent references are to volume two. 
 
 
@@ -13846,16 +13415,16 @@ THE STORY OF PHILOSOPHY
 278 
 
 the excitable Parisians of the Revolution dramatized this 
-apotheosis of the intellect by worshipping the ’“Goddess of 
-Reason,” — impersonated by a charming lady of the streets. 
+apotheosis of the intellect by worshipping the ’"Goddess of 
+Reason," — impersonated by a charming lady of the streets. 
 
 In Spinoza this faith in reason had begotten a magnificent 
 structure of geometry and logic: the universe was a mathe- 
 matical system, and could be described d. priori, by pure 
 deduction from accepted axioms. In Hobbes the rationalism 
 of Racon had become an uncompromising atheism and ma- 
-terialism ; again nothing was to exist but “atoms and the 
-void.” From Spinoza to Diderot the wrecks of faith lay in 
+terialism ; again nothing was to exist but "atoms and the 
+void." From Spinoza to Diderot the wrecks of faith lay in 
 the wake of advancing reason : one by one the old dogmas dis- 
 appeared; the Gothic cathedral of medieval belief, with its 
 delightful details and grotesques, collapsed ; the ancient 
@@ -13923,11 +13492,11 @@ Deity should disappear because God had not yet been seen
 in any telescope, had thought that faith and morals might be 
 strengthened if their central and basic ideas were shown to 
 be inborn in every normal soul. But Locke, good Christian, 
-though he was, ready to argue most eloquently for “The Rea- 
-sonableness of Christianity,” could not accept these supposi- 
+though he was, ready to argue most eloquently for "The Rea- 
+sonableness of Christianity," could not accept these supposi- 
 tions; he announced, quietly, that all our knowledge comes 
-from experience and through our senses — that “there is noth- 
-ing in the mind except what was first in the senses.” The 
+from experience and through our senses — that "there is noth- 
+ing in the mind except what was first in the senses." The 
 mind is at birth a clean sheet, a tabula rasa ; and sense- 
 experience writes upon it in a thousand ways, until sensation 
 
@@ -13955,7 +13524,7 @@ physical magic. But see how obvious it is, said the Bishop :
 has not Locke told us that all our knowledge is derived from 
 sensation? Therefore all our knowledge of anything is 
 merely our sensations of it, and the ideas derived from these 
-sensations. A “thing” is merely a bundle of perceptions — 
+sensations. A "thing" is merely a bundle of perceptions — 
 i. e., classified and interpreted sensations. You protest that 
 your breakfast is much more substantial than a bundle of 
 perceptions; and that a ha mme r that teaches you carpentry 
@@ -13981,26 +13550,26 @@ sceptic. David Hume (1711-1776) at the age of twenty*
 KANT AND GERMAN IDEALISM 881 
 
 six shocked all Christendom with his highly heretical Treatise 
-on Human Nature ,- — one of the classics and marvels of modern 
+on Human Nature,- — one of the classics and marvels of modern 
 philosophy. We know the mind, said Hume, only as we 
 know matter : by perception, though it be in this case internal. 
-Never do we perceive any such entity as the “mind”; we 
+Never do we perceive any such entity as the "mind"; we 
 perceive merely separate ideas, memories, feelings, etc. The 
 mind is not a substance, an organ that has ideas; it is only 
 an abstract name for the series of ideas; the perceptions* 
 memories and feelings are the mind; there is no observable 
-“soul” behind the processes of thought. The result appeared 
+"soul" behind the processes of thought. The result appeared 
 to be that Hume had as effectually destroyed mind as 
 Berkeley had destroyed matter. Nothing was left; and phi- 
 losophy found itself in the midst of ruins of its own making. 
 No wonder that a wit advised the abandonment of the con- 
-troversy, saying: “No matter, never mind.” 
+troversy, saying: "No matter, never mind." 
 
 But Hume was not content to destroy orthodox religion by 
 dissipating the concept of soul; he proposed also to destroy 
 science by dissolving the concept of law. Science and phi- 
 losophy alike, since Bruno and Galileo, had been making much 
-of natural law, of “necessity” in the sequence of effect upon 
+of natural law, of "necessity" in the sequence of effect upon 
 cause; Spinoza had reared his majestic metaphysics upon this 
 proud conception. But observe, said Hume, that we never 
 perceive causes, or laws; we perceive events and sequences, 
@@ -14008,15 +13577,15 @@ and infer causation and necessity ; a law is not an eternal and
 necessary decree to which events are subjected, but merelj 
 a mental summary and shorthand of our kaleidoscopic experh 
 ence; we have no guarantee that the sequences hitherto ob- 
-served will re-appear unaltered in future experience. “Law” 
+served will re-appear unaltered in future experience. "Law" 
 is an observed custom in the sequence of events ; but there is no 
-“necessity” in custom. 
+"necessity" in custom. 
 
 Only mathematical formulas have necessity — they alone are 
 inherently and unchangeably true; and this merely because 
 such formulae are tautological— the predicate is already con- 
-tained in the subject; “3X3 = 9” is an eternal and necessary 
-truth only because “3 X 3” and “9” are one and the same 
+tained in the subject; "3X3 = 9" is an eternal and necessary 
+truth only because "3 X 3" and "9" are one and the same 
 thing differently expressed; the predicate adds nothing to 
 
 
@@ -14024,15 +13593,15 @@ m, THE STORY OF PHILOSOPHY
 
 the subject. Science, then, must limit itself strictly to 
 Mathematics and direct experiment; it cannot trust to un- 
-verified deduction from “laws.” “When we run through 
-libraries, persuaded of these principles,” writes our uncanny 
-sceptic, “what havoc must we make ! If we take in our hands 
+verified deduction from "laws." "When we run through 
+libraries, persuaded of these principles," writes our uncanny 
+sceptic, "what havoc must we make ! If we take in our hands 
 any volume of school metaphysics, for instance, let us ask, 
 ‘Does it contain any abstract reasoning concerning quantity 
 or number?’ No. ‘Does it contain any experimental reason- 
 ing concerning matter of fact and existence?’ No. Commit 
 it then to the flames, for it can contain nothing but sophistry 
-and illusion.” 1 
+and illusion." 1 
 
 Imagine how the ears of the orthodox tingled at these words. 
 Here the epistemological tradition — the inquiry into the na- 
@@ -14043,7 +13612,7 @@ immaterial mind and the immortal soul; and in the turmoil
 science itself had suffered severe injury. No wonder that 
 when Immanuel Kant, in 1775, read a German translation 
 of the works of David Hume, he was shocked by these results, 
-and was roused, as he said, from the “dogmatic slumber” in 
+and was roused, as he said, from the "dogmatic slumber" in 
 which he had assumed without question the essentials of reli- 
 gion and the bases of science. Were both science and faith 
 to be surrendered to the sceptic? What could be done to save 
@@ -14093,14 +13662,14 @@ mentality with an obtuse sense of decency and honor; and
 through it all an unsullied conviction of his moral superiority; 2 
 
 In 1749 the Academy of Dijon offered a prize for an essay 
-on the question, “Has the Progress of the Sciences and the 
-Arts Contributed to Corrupt, or to Purify, Morals?” Rous- 
+on the question, "Has the Progress of the Sciences and the 
+Arts Contributed to Corrupt, or to Purify, Morals?" Rous- 
 seau’s essay won the prize. Culture is much more of an evil 
 than a good, he argued — with all the intensity and sincerity of 
 one who, finding culture out of his reach, proposed to prove it 
 worthless. Consider the frightful disorders which printing 
 has produced in Europe. Wherever philosophy arises, the 
-moral health of the nation decays. “It was even a saying 
+moral health of the nation decays. "It was even a saying 
 among the philosophers themselves that since learned men had 
 
 1 The doctrine that all behavior is motived by the pursuit of pleasure. 
@@ -14114,10 +13683,10 @@ THE STORY OF PHILOSOPHY
 
 m 
 
-appeared, honest men were nowhere to be found.” “I venture 
+appeared, honest men were nowhere to be found." "I venture 
 to declare that a state of reflection is contrary to nature ; and 
-that a thinking man” (an “intellectual,” as we would now 1 
-say) “is a depraved animal.” It would be better to abandon 
+that a thinking man" (an "intellectual," as we would now 1 
+say) "is a depraved animal." It would be better to abandon 
 our over-rapid development of the intellect, and to aim rather 
 at training the heart and the affections. Education does not, 
 make a man good, it only makes him clever — usually for mis- 
@@ -14133,9 +13702,9 @@ eighteenth century gave way to the romantic emotional litera-
 ture of 1789-1848. The current carried with it a strong 
 revival of religious feeling; the ecstasies of Chateaubriand’s 
 (genie du Christicmisme (1802) were merely an echo of the 
-“Confession of Faith of the Savoyard Vicar” which Rousseau 
+"Confession of Faith of the Savoyard Vicar" which Rousseau 
 included in his epochal essay on education — Emile (1762). 
-The argument of the “Confession” was briefly this: that, 
+The argument of the "Confession" was briefly this: that, 
 though reason might be against belief in God and immortality,, 
 feeling was overwhelmingly in their favor ; why should we not, 
 trust in instinct here, rather than yield to the despair of an 
@@ -14191,7 +13760,7 @@ have brought him martyrdom had not his age and his fame
 protected him. Even in the midst of his work of religious 
 restoration we hear, with surprising frequency, the tones of 
 another Kant whom we might almost mistake for a Voltaire. 
-Schopenhauer thought it “not the least merit of Frederick 
+Schopenhauer thought it "not the least merit of Frederick 
 
 
 
@@ -14204,10 +13773,10 @@ THE STORY OF PHILOSOPHY
 the Great, that under his government Kant, could develop 
 himself, and dared to publish his Critique of Pure Reason. 
 Hardly under any other government would a salaried pro- 
-fessor” (therefore, in Germany, a government employee) 
-“have ventured such a thing. Kant was obliged to promise 
+fessor" (therefore, in Germany, a government employee) 
+"have ventured such a thing. Kant was obliged to promise 
 the immediate successor of the great King that he would write 
-no more.” 1 It was in appreciation of this freedom that Kant 
+no more." 1 It was in appreciation of this freedom that Kant 
 dedicated the Critique to Zedlitz, Frederick’s far-sighted and 
 progressive Minister of Education. 
 
@@ -14228,14 +13797,14 @@ Nobody expected him to startle the world with a new meta-
 physical system ; to startle anybody seemed the very last crime 
 that this timid and modest professor would commit. He him- 
 self had no expectations in that line; at the age of forty-two 
-he wrote: “I have the fortune to be a lover of metaphysics; 
-but my mistress has shown me few favors as yet.” He spoke 
-in those days of the “bottomless abyss of metaphysics,” and 
-of metaphysics as “a dark ocean without shores or lighthouse,” 
+he wrote: "I have the fortune to be a lover of metaphysics; 
+but my mistress has shown me few favors as yet." He spoke 
+in those days of the "bottomless abyss of metaphysics," and 
+of metaphysics as "a dark ocean without shores or lighthouse," 
 strewn with many a philosophic wreck. 2 He could even at- 
 tack the metaphysicians as those who dwelt on the high 
-towers of speculation, “where there is usually a great deal of 
-wind.” 8 He did not foresee that the greatest of all meta- 
+towers of speculation, "where there is usually a great deal of 
+wind." 8 He did not foresee that the greatest of all meta- 
 physical tempests was to be of his own blowing. 
 
 1 The World as Will and Idea, London, 1883; vol. ii, p. 133. 
@@ -14266,7 +13835,7 @@ of wild animals, had cried as loudly upon entering the world
 as it does now, it would have been found out and devoured by 
 beasts of prey ; that in all probability, therefore, man was very 
 different at first from what he had become under civilization^ 
-And then Kant went on, subtly: “How nature brought about 
+And then Kant went on, subtly: "How nature brought about 
 such a development, and by what causes it was aided, we know 
 not. This remark carries us a long way. It suggests the 
 thought whether the present period of history, on the occa- 
@@ -14275,7 +13844,7 @@ by a third, when an orang-outang or a chimpanzee would
 develop the organs which serve for walking, touching, speak- 
 ing, into the articulated structure of a human being, with a 
 central organ for the use of understanding, and gradually 
-advance under the training of social institutions.” Was this 
+advance under the training of social institutions." Was this 
 use of the future tense Kant’s cautiously indirect way of 
 putting forth his view of how man had really developed from 
 the beast? 1 
@@ -14295,9 +13864,9 @@ THE STORY OF PHILOSOPHY
 
 
 in modern philosophy. Kant’s life, says one biographer, 
-passed like the most regular of regular verbs. “Rising, 
-coffee-drinking, writing, lecturing, dining, walking,” says 
-Heine,- — “each had its set time. And when Immanuel Kant, 
+passed like the most regular of regular verbs. "Rising, 
+coffee-drinking, writing, lecturing, dining, walking," says 
+Heine,- — "each had its set time. And when Immanuel Kant, 
 in his gray coat, cane in hand, appeared at the door of his, 
 house, and strolled towards the small avenue of linden trees 
 which is still called ‘The Philosopher’s Walk,’ the neighbors 
@@ -14306,13 +13875,13 @@ promenaded up and down, during all seasons ; and when the
 weather was gloomy, or the gray clouds threatened rain, 
 his old servant Lampe was seen plodding anxiously after, 
 with a large umbrella under his arm, like a symbol of Pru- 
-dence.” 
+dence." 
 
 He was so frail in physique that he had to take severe 
 measures to regimen himself ; he thought it safer to do this 
 without a doctor; so he lived to the age of eighty. At seventy 
-he wrote an essay “On the Power of the Mind to Master the 
-Feeling of Illness by Force of Resolution.” One of his 
+he wrote an essay "On the Power of the Mind to Master the 
+Feeling of Illness by Force of Resolution." One of his 
 favorite principles was to breathe only through the nose, 
 especially when out-doors ; hence, in autumn, winter and 
 spring, he would permit no one to talk to him on his daily 
@@ -14326,10 +13895,10 @@ flected so long that in one case the lady married a bolder man,
 and in the other the lady removed from Konigsberg before the 
 philosopher could make up his mind. Perhaps he felt, like 
 Nietzsche, that marriage would hamper him in the honest pur- 
-suit of truth; “a married man,” Talleyrand used to say, 
-“will do anything for money.” And Kant had written, at 
+suit of truth; "a married man," Talleyrand used to say, 
+"will do anything for money." And Kant had written, at 
 twenty-two, with all the fine enthusiasm, of omnipotent youth: 
-“I have already fixed upon the line which I am resolved to 
+"I have already fixed upon the line which I am resolved to 
 
 i Introd. to Kant’s Critique of Practical Reason; London, 1909; p. xiiL 
 
@@ -14350,11 +13919,11 @@ osophic world.
 m. THE CRITIQUE OP PURE REASON 2 
 
 What is meant by this title? Critique is not precisely a 
-criticism, but a critical analysis ; Kant is not attacking “pure 
-reason,” except, at the end, to show its limitations ; rather he 
+criticism, but a critical analysis ; Kant is not attacking "pure 
+reason," except, at the end, to show its limitations ; rather he 
 i hopes to show its possibility, and to exalt it above the impure 
 knowledge which comes to us through the distorting channels 
-of sense. For “pure” reason is to mean knowledge that does 
+of sense. For "pure" reason is to mean knowledge that does 
 not come through our senses, but is independent of all sense 
 experience ; knowledge belonging to us by the inherent nature 
 and structure of the mind. 
@@ -14366,7 +13935,7 @@ no soul, and no science; that our minds are but our ideas in
 procession and association ; and our certainties but probabil- 
 ities in perpetual danger of violation. These false conclu- 
 sions, says Kant, are the result of false premises : you assume 
-that all knowledge comes from “separate and distinct” 
+that all knowledge comes from "separate and distinct" 
 sensations; naturally these cannot give you necessity, or in- 
 
 1 Wallace, p. 100. 
@@ -14386,7 +13955,7 @@ THE STORY OF PHILOSOPHY
 
 
 variable sequences of which you may be forever certain; and 
-naturally you must not expect to “see” your soul, even with 
+naturally you must not expect to "see" your soul, even with 
 the eyes of the internal sense. Let us grant that absolute 
 certainty of knowledge is impossible if all knowledge comes 
 from sensation, from an independent external world which 
@@ -14395,21 +13964,21 @@ we have knowledge that is independent of sense-experience,
 knowledge whose truth is certain to us even before experience 
 — a priori? Then absolute truth, and absolute science, would 
 become possible, would it not? Is there such absolute knowl- 
-edge? This is the problem of the first Critique. “My ques- 
+edge? This is the problem of the first Critique. "My ques- 
 tion is, what we can hope to achieve with reason, when all 
-the material and assistance of experience are taken away.” 1 
+the material and assistance of experience are taken away." 1 
 The Critique becomes a detailed biology of thought, an ex- 
 amination of the Origin and evolution of concepts, an analysis 
 of the inherited structure of the mind. This, as Kant beT 
-lieves, is the entire problem of metaphysics. “In this book 
+lieves, is the entire problem of metaphysics. "In this book 
 I have chiefly aimed at completeness ; and I venture to main- 
 tain that there ought not to be one single metaphysical prob- 
 lem that has not been solved here, or to the solution of which 
-the key at least has not here been supplied.” 2 * Exegi monu - 
+the key at least has not here been supplied." 2 * Exegi monu - 
 menturn aere perermius! With such egotism nature spurs us 
 on to creation. 
 
-The Critique comes to the point at once. “Experience is 
+The Critique comes to the point at once. "Experience is 
 by no means the only field to which our understanding can be 
 confined. Experience tells us what is, but not that it must 
 be necessarily what it is and not otherwise. It therefore never 
@@ -14417,7 +13986,7 @@ gives us any really general truths; and our reason, which is
 particularly anxious for that class of knowledge, is roused by 
 it rather than satisfied. General truths, which at the same 
 time bear the character of an inward necessity, must be inde- 
-pendent of experience, — clear and certain in themselves .” 8 
+pendent of experience, — clear and certain in themselves ." 8 
 That is to say, they must be true no matter what our later ex- 
 
 i Critique of Pure Benson, pref. p. xxiv. 
@@ -14434,11 +14003,11 @@ KANT AND GERMAN IDEALISM
 
 
 perience may be ; true even before experience ; true a priori. 
-“How far we can advance independently of all experience, in 
+"How far we can advance independently of all experience, in 
 a priori knowledge, is shown by the brilliant example of math- 
-ematics.” 1 Mathematical knowledge is necessary and cer- 
+ematics." 1 Mathematical knowledge is necessary and cer- 
 tain; we cannot conceive of future experience violating it. 
-We may believe that the sun will “rise” in the west to-morrow, 
+We may believe that the sun will "rise" in the west to-morrow, 
 or that some day, in some conceivable asbestos world, fire will 
 not burn stick; but we cannot for the life of us believe that 
 two times two will ever make anything else than four. Such 
@@ -14467,32 +14036,32 @@ But how?
 
 The effort to answer this question, to study the inherent 
 structure of the mind, or the innate laws of thought, is what 
-Kant calls “transcendental philosophy,” because it is a prob- 
+Kant calls "transcendental philosophy," because it is a prob- 
 
 J P. 4. 
 
-2 “Radical empiricism” (James, Dewey, etc.) enters the controversy at this 
+2 "Radical empiricism" (James, Dewey, etc.) enters the controversy at this 
 point, and argues, against both Hume and Kant, that experience gives us re- 
 lations and sequences as well as sensations and events. 
 
 
 m THE STORY OF PHILOSOPHY 
 
-lem transcending sense-experience. “I call knowledge tran- 
+lem transcending sense-experience. "I call knowledge tran- 
 scendental which is occupied not so much with objects, as with 
-our a priori concepts of objects.” 1 — with our modes of cor- 
+our a priori concepts of objects." 1 — with our modes of cor- 
 relating our experience into knowledge. There are two 
 grades or stages in this process of working up the raw material 
 of sensation into the finished product of thought. The first 
 stage is the coordination of sensations by applying to them 
 the forms of perception — space and time; the second stage is 
 the coordination of the perceptions so developed, by applying 
-to them the forms of conception — the “categories” of thought. 
+to them the forms of conception — the "categories" of thought. 
 Kant, using the word esthetic in its original and etymological 
 sense, as connoting sensation or feeling, calls the study of 
-the first of these stages “Transcendental Esthetic” ; and using 
+the first of these stages "Transcendental Esthetic" ; and using 
 the word logic as meaning the science of the forms of thought, 
-be calls the study of the second stage “Transcendental Logic.” 
+be calls the study of the second stage "Transcendental Logic." 
 These are terrible words, which will take meaning as the argu- 
 ment proceeds; once over this hill, the road to Kant will be 
 comparatively clear. 
@@ -14509,7 +14078,7 @@ various sensations group themselves about an object in space
 and time — say this apple ; let the odor in the nostrils, and the 
 taste on the tongue, the light on the retina, the shape-revealing 
 pressure on the fingers and the hand, unite and group them- 
-selves about this “thing” : and there is now an awareness not 
+selves about this "thing" : and there is now an awareness not 
 so much of a stimulus as of a specific object; there is a per- 
 ception. Sensation has passed into knowledge. 
 
@@ -14528,12 +14097,12 @@ fall into a cluster and an order, and so become perception?
 Yes, said Locke and Hume ; not at all, says Kant. 
 
 For these varied sensations come to us through varied chan- 
-nels of sense, through a thousand “afferent nerves” that pass 
+nels of sense, through a thousand "afferent nerves" that pass 
 from skin and eye and ear and tongue into the brain ; what a 
 medley of messengers they must be as they crowd into the 
 chambers of the mind, calling for attention! No wonder 
-Plato spoke of “the rabble of the senses.” And left to them- 
-selves, they remain rabble, a chaotic “manifold,” pitifully im-- 
+Plato spoke of "the rabble of the senses." And left to them- 
+selves, they remain rabble, a chaotic "manifold," pitifully im-- 
 potent, waiting to be ordered into meaning and purpose and 
 power. As readily might the messages brought to a general 
 from a thousand sectors of the battle-line weave themselves 
@@ -14556,9 +14125,9 @@ her infant’s cradle is deaf to the turmoil of life about her. - ;
 but let the little one move, and the mother gropes her way back 
 to waking attention like a diver rising hurriedly to the sur- 
 face of the sea. Let the purpose be addition, and the stimulus 
-“two and three” brings the response, “five”; let the purpose 
+"two and three" brings the response, "five"; let the purpose 
 be multiplication, and the same stimulus, the same auditory 
-sensations, “two and three,” bring the response, “six.” As- 
+sensations, "two and three," bring the response, "six." As- 
 sociation of sensations or ideas is not merely by contiguity in 
 
 
@@ -14617,25 +14186,25 @@ KANT AND GERMAN IDEALISM
 2. Transcendental Analytic 
 
 So we pass from the wide field of sensation and perception 
-to the dark and narrow chamber of thought; from “tran- 
-scendental esthetic” to “transcendental logic.” And first to 
+to the dark and narrow chamber of thought; from "tran- 
+scendental esthetic" to "transcendental logic." And first to 
 the naming and analysis of those elements in our thought 
 which are not so much given to the mind by perception as 
 given to perception by the mind; those levers which raise the 
-“perceptual” knowledge of objects into the “conceptual” 
+"perceptual" knowledge of objects into the "conceptual" 
 knowledge of relationships, sequences, and laws ; those tools 
 of the mind which refine experience into science. Just as 
 perceptions arranged sensations around objects in space and 
 time, so conception arranges perceptions (objects and events) 
 about the ideas of cause, unity, reciprocal relation, necessity, 
-contingency, etc. ; these and other “categories” are the struc- 
+contingency, etc. ; these and other "categories" are the struc- 
 ture into which perceptions are received, and by which they 
 are classified and moulded into the ordered concepts of 
 thought. These are the very essence and character of the 
 mind; mind is the coordination of experience. 
 
 And here again observe the activity of this mind that was, 
-to Locke and Hume, mere “passive wax” under the blows of 
+to Locke and Hume, mere "passive wax" under the blows of 
 sense-experience. Consider a system of thought like Aris- 
 totle’s; is it conceivable that this almost cosmic ordering of 
 data should have come by the automatic, anarchistic sponta- 
@@ -14668,10 +14237,10 @@ eome through a thousand channels at once in disorderly
 multitude ; it is our purpose that put order and sequence and 
 unity upon this importunate lawlessness; it is ourselves, our 
 personalities, our minds, that bring light upon these seas. 
-Locke was wrong when he said, “There is nothing in the in- 
-tellect except what was first in the senses” ; Leibnitz was right 
-when he added, — “nothing, except the intellect itself.” “Per- 
-ceptions without conceptions,” says Kant, “are blind.” If 
+Locke was wrong when he said, "There is nothing in the in- 
+tellect except what was first in the senses" ; Leibnitz was right 
+when he added, — "nothing, except the intellect itself." "Per- 
+ceptions without conceptions," says Kant, "are blind." If 
 perceptions wove themselves automatically into ordered 
 thought, if mind were not an active effort hammering out or- 
 der from chaos, how could the same experience leave one man 
@@ -14710,21 +14279,21 @@ round, whereas our sensation is of an ellipse.) The object as
 it appears to us is a phenomenon, an appearance, perhaps very 
 different from the external object before it came within the 
 ken of our senses ; what that original object was we can never 
-know; the “thing-in-itself” may be an object of thought or 
-inference (a “noumenon”) , but it cannot be experienced, — for 
+know; the "thing-in-itself" may be an object of thought or 
+inference (a "noumenon"), but it cannot be experienced, — for 
 in being experienced it would be changed by its passage 
-through sense and thought. “It remains completely unknown 
+through sense and thought. "It remains completely unknown 
 to us what objects may be by themselves and apart from the 
 receptivity of our senses. We know nothing but our manner 
 of perceiving them; that manner being peculiar to us, and 
 not necessarily shared by every being, though, no doubt, by 
-every human being.” 1 The moon as known to us is merely 
+every human being." 1 The moon as known to us is merely 
 a bundle of sensations (as Hume saw), unified (as Hume did 
 not see) by our native mental structure through the elabora- 
 tion of sensations into perceptions, and of these into concep- 
 tions or ideas ; in result, the moon is for us merely our ideas. 2 
 
-Not that Kant ever doubts the existence of “matter” and 
+Not that Kant ever doubts the existence of "matter" and 
 the external world ; but he adds that we know nothing certain 
 about them except that they exist. Our detailed knowledge 
 is about their appearance, their phenomena, about the sen- 
@@ -14736,11 +14305,11 @@ know the object as transformed into idea; what it is before
 being so transformed we cannot know. Science, after all, is 
 naive ; it supposes that it is dealing with things in themselves, 
 
-1 Critique , p. 37. If Kant had not added the last clause, his argument for 
+1 Critique, p. 37. If Kant had not added the last clause, his argument for 
 the necessity of knowledge would have fallen. 
 
 2 So John Stuart Mill, with all his English tendency to realism, was driven 
-at last to define matter as merely “a permanent possibility of sensations” 
+at last to define matter as merely "a permanent possibility of sensations" 
 
 
 298 
@@ -14752,20 +14321,20 @@ THE STORY OF PHILOSOPHY
 in their i'ull-blooded external and uncorrupted reality ; philos« 
 ophy is a little more sophisticated, and realizes that the whole 
 material of science consists of sensations, perceptions and con- 
-ceptions, rather than of things. “Kant’s greatest merit,” 
-says Schopenhauer, “is the distinction of the phenomenon from 
-the thing-in-itself.” 1 
+ceptions, rather than of things. "Kant’s greatest merit," 
+says Schopenhauer, "is the distinction of the phenomenon from 
+the thing-in-itself." 1 
 
 It follows that any attempt, by either science or religion, 
 to say just what the ultimate reality is, must fall back into 
-mere hypothesis ; “the understanding can never go beyond the 
-limits of sensibility.” 2 Such transcendental science loses it- 
-self in “antinomies,” and such transcendental theology loses 
-itself in “paralogisms.” It is the cruel function of “tran- 
-scendental dialectic” to examine the validity of these attempts 
+mere hypothesis ; "the understanding can never go beyond the 
+limits of sensibility." 2 Such transcendental science loses it- 
+self in "antinomies," and such transcendental theology loses 
+itself in "paralogisms." It is the cruel function of "tran- 
+scendental dialectic" to examine the validity of these attempts 
 of reason to escape from the enclosing circle of sensation and 
-appearance into the unknowable world of things “in them- 
-selves.” 
+appearance into the unknowable world of things "in them- 
+selves." 
 
 Antinomies are the insoluble dilemmas born of a science that 
 tries to overleap experience. So, for example, when knowl- 
@@ -14799,10 +14368,10 @@ in terms of space and time and cause ; but we shall never have
 any philosophy if we forget that these are not things, but 
 modes of interpretation and understanding. 
 
-So with the paralogisms of “rational” theology-— which at- 
+So with the paralogisms of "rational" theology-— which at- 
 tempts to prove by theoretical reason that the soul is an in- 
 corruptible substance, that the will is free and above the law 
-of cause and effect, and that there exists a “necessary being,” 
+of cause and effect, and that there exists a "necessary being," 
 God, as the presupposition of all reality. Transcendental 
 dialectic must remind theology that substance and cause and 
 necessity are finite categories, modes of arrangement and clas- 
@@ -14822,11 +14391,11 @@ science and the essential truth of religion. What had the
 book really done? It had destroyed the naive world of sci- 
 ence, and limited it, if not in degree, certainly in scope, — 
 and to a world confessedly of mere surface and appearance, 
-beyond which it could issue only in farcical “antinomies”; so 
-science was “saved” ! The most eloquent and incisive portions 
+beyond which it could issue only in farcical "antinomies"; so 
+science was "saved" ! The most eloquent and incisive portions 
 of the book had argued that the objects of faith — a free and 
 immortal soul, a benevolent creator — could never be proved 
-by reason ; so religion was “saved” ! No wonder the priests of 
+by reason ; so religion was "saved" ! No wonder the priests of 
 Germany protested madly against this salvation, and re- 
 venged themselves by calling their dogs Immanuel Kant . 1 
 
@@ -14845,7 +14414,7 @@ Konigsberg with the terrible Robespierre; the latter had
 merely killed a king, and a few thousand Frenchmem— which 
 a German might forgive; but Kant, said Heine, had killed 
 God, had undermined the most precious arguments of theol- 
-ogy. “What a sharp contrast between the outer life of this 
+ogy. "What a sharp contrast between the outer life of this 
 man, and his destructive, world-convulsing thoughts! Had 
 the citizens of Konigsberg surmised the whole significance of 
 those thoughts, they would have felt a more profound awe in 
@@ -14853,7 +14422,7 @@ the presence of this man than in that of an executioner, who
 merely slays human beings. But the good people saw in him 
 nothing but a professor of philosophy ; and when at the fixed 
 hour he sauntered by, they nodded a friendly greeting, and 
-set their watches.” 1 
+set their watches." 1 
 
 Was this caricature, or revelation? 
 
@@ -14870,8 +14439,8 @@ rupted by the admixture of fallible reason ; it must be derived
 from the inner self by direct perception and intuition. We 
 must find a universal and necessary ethic ; a priori principles 
 of morals as absolute and certain as mathematics. We must 
-show that “pure reason can be practical; i. e., can of itself 
-determine the will independently of anything empirical,” a 
+show that "pure reason can be practical; i. e., can of itself 
+determine the will independently of anything empirical," a 
 that the moral sense is innate, and not derived from experience. 
 The moral imperative which we need as the basis of religion 
 must be an absolute, a categorical, imperative. 
@@ -14879,7 +14448,7 @@ must be an absolute, a categorical, imperative.
 Now the most astounding reality in all our experience is 
 precisely our moral sense, our inescapable feeling, in the face 
 
-1 Heine, Prose Miscellanies , Philadelphia, 1876; p. 146. 
+1 Heine, Prose Miscellanies, Philadelphia, 1876; p. 146. 
 
 2 Critique of Practical Reason, p. 31. 
 
@@ -14896,14 +14465,14 @@ et le soir je fais des sottises; 1 but we know that they are sot-
 tises, and we resolve again. What is it that brings the bite 
 of remorse, and the new resolution? It is the categorical im- 
 perative in us, the unconditional command of our conscience, 
-to “act as if the maxim of our action were to become by our 
-will a universal law of nature.” 2 We know, not by reason- 
+to "act as if the maxim of our action were to become by our 
+will a universal law of nature." 2 We know, not by reason- 
 ing, but by vivid and immediate feeling, that we must avoid 
 behavior which, if adopted by all men, would render social 
 life impossible. Do I wish to escape from a predicament by 
-a lie? But “while I can will the lie, I can by no means will 
+a lie? But "while I can will the lie, I can by no means will 
 that lying should be a universal law. For with such a law 
-there would be no promises at all.” 3 Hence the sense in me, 
+there would be no promises at all." 3 Hence the sense in me, 
 that I must not lie, even if it be to my advantage. Prudence 
 Is hypothetical; its motto is, Honesty when it is the best pol- 
 icy; but the moral law in our hearts is unconditional and ab- 
@@ -14917,14 +14486,14 @@ priori for all our behavior, past, present, and future. The
 only thing unqualifiedly good in this world is a good will — 
 the will to follow the moral law, regardless of profit or loss 
 for ourselves. Never mind your happiness; do your duty. 
-“Morality is not properly the doctrine how we may make our- 
+"Morality is not properly the doctrine how we may make our- 
 selves happy, but how we may make ourselves worthy of hap- 
-piness.” 4 Let us seek the happiness in others ; but for our- 
+piness." 4 Let us seek the happiness in others ; but for our- 
 selves, perfection — whether it bring us happiness or pain. 5 
 To achieve perfection in yourself and happiness in others, 
-“so act as to treat humanity, whether in thine own person 
+"so act as to treat humanity, whether in thine own person 
 
-1 “In the morning I make good resolutions ; in the evening I commit follies.'* 
+1 "In the morning I make good resolutions ; in the evening I commit follies.'* 
 
 2 Practical Reason, p. 139. 
 
@@ -14943,7 +14512,7 @@ THE STORY OF PHILOSOPHY
 
 
 or in that of another, in every case as an end, never only as 
-a means”: 1 — this too, as we directly feel, is part of the cate- 
+a means": 1 — this too, as we directly feel, is part of the cate- 
 gorical imperative. Let us live up to such a principle, and 
 we shall soon create an ideal community of rational beings; 
 to create it we need only act as if we already belonged to 
@@ -14958,7 +14527,7 @@ conceived such a notion as duty if we had not felt ourselves
 free? We cannot prove this freedom by theoretical reason; 
 we prove it by feeling it directly in the crisis of moral choice. 
 We feel this freedom as the very essence of our inner selves, of 
-the “pure Ego” ; we feel within ourselves the spontaneous ac- 
+the "pure Ego" ; we feel within ourselves the spontaneous ac- 
 tivity of a mind moulding experience and choosing goals. 
 Our actions, once we initiate them, seem to follow fixed and in- 
 variable laws, but only because we perceive their results 
@@ -14980,7 +14549,7 @@ the justification of virtue, it would not be wise to be too good.
 And yet, knowing all this, having it flung into our faces with 
 brutal repetition, we still feel the command to righteousness. 
 
-l Metaphysics of Morals , London, 1909; p. 47. 
+l Metaphysics of Morals, London, 1909; p. 47. 
 
 
 KANT AND GERMAN IDEALISM 
@@ -14996,10 +14565,10 @@ given generously but shall be returned a hundred-fold?
 
 Finally, and by the same token, there is a God. If the 
 sense of duty involves and justifies belief in rewards to come, 
-“the postulate of immortality . . . must lead to the supposi- 
+"the postulate of immortality . . . must lead to the supposi- 
 tion of the existence of a cause adequate to this effect; in 
-other words, it must postulate the existence of God.” 1 This 
-again is no proof by “reason”; the moral sense, which has to 
+other words, it must postulate the existence of God." 1 This 
+again is no proof by "reason"; the moral sense, which has to 
 do with the world of our actions, must have priority over that 
 theoretical logic which was developed only to deal with sense- 
 phenomena. Our reason leaves us free to believe that behind 
@@ -15013,10 +14582,10 @@ stand.
 V. ON RELIGION AND REASON 
 
 Does this appear trite, and timid, and conservative? But 
-it was not so ; on the contrary, this bold denial of “rational” 
+it was not so ; on the contrary, this bold denial of "rational" 
 theology, this frank reduction of religion to moral faith and 
 hope, aroused all the orthodox of Germany to protests. To 
-face this “forty-parson-power” (as Byron would have called 
+face this "forty-parson-power" (as Byron would have called 
 it) required more courage than one usually associates with 
 the name of Kant. 
 
@@ -15026,7 +14595,7 @@ sixty-nine, his Religion within the Limits of Pure Reason. In
 the earlier of these books Kant returns to the discussion of 
 that argument from design which, in the first Critique, he had 
 
-i Practical Reason , p. 220. 
+i Practical Reason, p. 220. 
 
 
 
@@ -15042,8 +14611,8 @@ ture, as if it had been designed by intelligence. He observes
 in passing (and Schopenhauer here helped himself to a good 
 deal of his theory of art) that the contemplation of symmet- 
 rical design always gives us a disinterested pleasure ; and that 
-“an interest in the beauty of nature for its own sake is always 
-a sign of goodness.” 1 Many objects in nature show such 
+"an interest in the beauty of nature for its own sake is always 
+a sign of goodness." 1 Many objects in nature show such 
 beauty, such symmetry and unity, as almost to drive us to the 
 notion of supernatural design. But on the other hand, says 
 Rant, there are also in nature many instances of waste and 
@@ -15081,15 +14650,15 @@ united by devotion to the common moral law. It was to estab-
 lish such a community that Christ lived and died ; it was this 
 real church which he held up in contrast to the ecclesiasticism 
 of the Pharisees. But another ecclesiasticism has almost over- 
-whelmed this noble conception. “Christ has brought the 
+whelmed this noble conception. "Christ has brought the 
 kingdom of God nearer to earth; but he has been misunder- 
 stood; and in place of God’s kingdom the kingdom of the 
-priest has been established among us.” 1 Creed and ritual 
+priest has been established among us." 1 Creed and ritual 
 have again replaced the good life; and instead of men being 
 bound together by religion, they are divided into a thousand 
-sects; and all manner of “pious nonsense” is inculcated as “a 
+sects; and all manner of "pious nonsense" is inculcated as "a 
 sort of heavenly court service by means of which one may 
-win through flattery the favor of the ruler of heaven.” 2 — 
+win through flattery the favor of the ruler of heaven." 2 — 
 Again, miracles cannot prove a religion, for we can never 
 quite rely on the testimony which supports them; and prayer 
 is useless if it aims at a suspension of the natural laws that 
@@ -15107,10 +14676,10 @@ II, to whom the liberal policies of his predecessor seemed to
 smack unpatriotically of the French Enlightenment. Zedlitz, 
 who had been Minister of Education under Frederick, was dis- 
 missed ; and his place was given to a Pietist, Wollner. Woll- 
-ner had been described by Frederick as “a treacherous and 
-intriguing priest,” who divided his time between alchemy and 
+ner had been described by Frederick as "a treacherous and 
+intriguing priest," who divided his time between alchemy and 
 Rosicrucian mysteries, and climbed to power by offering him- 
-self as “an unworthy instrument” to the new monarch’s policy 
+self as "an unworthy instrument" to the new monarch’s policy 
 
 1 Quoted in Chamberlain, Immanuel Kant ; vol. i, p, 510. 
 
@@ -15144,7 +14713,7 @@ had it published by the press of the university there. Jena
 was outside of Prussia, under the jurisdiction of that same 
 liberal Duke of Weimar who was then caring for Goethe. 
 The result was that in 1794 Kant received an eloquent cabinet 
-order from the Prussian King, which read as follows: “Our 
+order from the Prussian King, which read as follows: "Our 
 highest person has been greatly displeased to observe how you 
 misuse your philosophy to undermine and destroy many of 
 the most important and fundamental doctrines of the Holy 
@@ -15154,12 +14723,12 @@ give no such cause of offense, but rather that, in accordance
 with your duty, you will employ your talents and authority so 
 that our paternal purpose may be more and more attained. 
 If you continue to oppose this order you may expect unpleas- 
-ant consequences.” 2 Kant replied that every scholar should 
+ant consequences." 2 Kant replied that every scholar should 
 have the right to form independent judgments on religious 
 matters, and to make his opinions known ; but that during the 
 reign of the present king he would preserve silence. Some 
 
-i Encyclopedia Britanmca, article “Frederick William II” 
+i Encyclopedia Britanmca, article "Frederick William II" 
 
 2 In Paulsen, p. 49. 
 
@@ -15185,25 +14754,25 @@ French Revolution had set all the thrones of Europe trem-
 bling. At a time when most of the teachers in the Prussian, 
 universities had rushed to the support of legitimate mon- 
 archy, Kant, sixty-five years young, hailed the Revolution 
-with joy ; and with tears in his eyes said to his friends : “Now 
+with joy ; and with tears in his eyes said to his friends : "Now 
 I can say like Simeon, ‘Lord, let now Thy servant depart in 
-peace; for mine eyes have seen Thy salvation.’ ” 1 
+peace; for mine eyes have seen Thy salvation.’ " 1 
 
 He had published, in 1784, a brief exposition of his political 
-theory under the title of “The Natural Principle of the Po- 
+theory under the title of "The Natural Principle of the Po- 
 litical Order considered in connection with the Idea of a Uni- 
-versal Cosmopolitical History.” Kant begins by recognizing, 
+versal Cosmopolitical History." Kant begins by recognizing, 
 in that strife of each against all which had so shocked Hobbes, 
 nature’s method of developing the hidden capacities of life; 
 struggle is the indispensable accompaniment of progress. If 
 men were entirely social, man would stagnate ; a certain alloy 
 of individualism and competition is required to make the hu- 
-man species survive and grow. “Without qualities of an un- 
+man species survive and grow. "Without qualities of an un- 
 social kind . . . men might have led an Arcadian shepherd 
 life in complete harmony, contentment, and mutual love; but 
 in that case all their talents would have forever remained hid- 
-den in their germ.” (Kant, therefore, was no slavish follower 
-of Rousseau.) “Thanks be then to nature for this unsociable- 
+den in their germ." (Kant, therefore, was no slavish follower 
+of Rousseau.) "Thanks be then to nature for this unsociable- 
 ness, for this envious jealousy and vanity, for this insatiable 
 desire for possession and for power. . . . Man wishes con- 
 cord; but nature knows better what is good for his species. 
@@ -15219,37 +14788,37 @@ THE STORY OF PHILOSOPHY
 
 and she wills discord, in order that man may be impelled to 
 a new exertion of his powers,, and to, the further development 
-of his natural capacities.” 
+of his natural capacities." 
 
 The struggle for existence, then, is not altogether an evil. 
 Nevertheless, men soon perceive that it must be restricted 
 within certain limits, and regulated by rules, customs, and 
 laws; hence the origin and development of civil society. But 
-now “the same unsociableness which forced men into society 
+now "the same unsociableness which forced men into society 
 becomes again the cause of each commonwealth’s assuming the 
 attitude of uncontrolled freedom in its external relations,— 
 i. e., as one state in relation to other states ; and consequently, 
 any one state must expect from any other the same sort of 
 evils as formerly oppressed individuals and compelled them to 
-enter into a civil union regulated by law.” 1 It is time that 
+enter into a civil union regulated by law." 1 It is time that 
 nations, like men, should emerge from the wild state of nature, 
 and contract to keep the peace. The whole meaning and 
 movement of history is the ever greater restriction of pug- 
 nacity and violence, the continuous enlargement of the area 
-of peace. “The history of the human race, viewed as a whole, 
+of peace. "The history of the human race, viewed as a whole, 
 may be regarded as the realization of a hidden plan of nature 
 to bring about a political constitution, internally and exter- 
 nally perfect, as the only state in which all the capacities im- 
-planted by her in mankind can be fully developed.” 2 * If 
+planted by her in mankind can be fully developed." 2 * If 
 there is no such progress, the labors of successive civilizations 
-are like those of Sisyphus, who again and again “up the high 
-hill heaved a huge round stone,” only to have it roll back as 
+are like those of Sisyphus, who again and again "up the high 
+hill heaved a huge round stone," only to have it roll back as 
 it was almost at the top. History would be then nothing more 
-than an endless and circuitous folly; “and we might suppose, 
+than an endless and circuitous folly; "and we might suppose, 
 like the Hindu, that the earth is a place for the expiation of 
-old and forgotten sins.” 8 
+old and forgotten sins." 8 
 
-The essay on “Eternal Peace” (published in 1795, when 
+The essay on "Eternal Peace" (published in 1795, when 
 Kant was seventy-one) is a noble development of this theme. 
 Kant knows how easy it is to laugh at the phrase; and under 
 
@@ -15266,22 +14835,22 @@ KANT AND GERMAN IDEALISM
 809 
 
 
-his title he writes: “These words were once put by a Dutch’ 
+his title he writes: "These words were once put by a Dutch’ 
 inn-keeper on his sign-board as a satirical inscription, over the 
-representation of a church-yard” cemetery . 1 Kant had be- 
+representation of a church-yard" cemetery . 1 Kant had be- 
 fore complained, as apparently every generation must, that 
-“our rulers have no money to spend on public education . . . 
+"our rulers have no money to spend on public education . . . 
 because all their resources are already placed to the account 
-of the next war.” 2 * The nations will not really be civilized 
+of the next war." 2 * The nations will not really be civilized 
 until all standing armies are abolished. (The audacity of this 
 proposal stands out when we remember that it was Prussia 
 itself which, under the father of Frederick the Great, had been 
-the first to establish conscription.) “Standing armies excite 
+the first to establish conscription.) "Standing armies excite 
 states to outrival one another in the number of their armed 
 men, which has no limit. Through the expense occasioned 
 thereby, peace becomes in the long run more oppressive than a 
 short war; and standing armies are thus the cause of aggres- 
-sive wars undertaken in order to get rid of this burden .” 8 
+sive wars undertaken in order to get rid of this burden ." 8 
 For in time of war the army would support itself on the coun- 
 try, by requisitioning, quartering, and pillaging; preferably 
 in the enemy’s territory, but if necessary, in one’s own land; 
@@ -15291,7 +14860,7 @@ ment funds.
 Much of this militarism, in Kant’s judgment, was due to 
 the expansion of Europe into America and Africa and Asia; 
 with the resultant quarrels of the thieves over their new booty. 
-“If we compare the barbarian instances of inhospitality . . . 
+"If we compare the barbarian instances of inhospitality . . . 
 with the inhuman behavior of the civilized, and especially the 
 commercial, states of our continent, the injustice practiced by 
 them even in their first contact with foreign lands and peo- 
@@ -15314,7 +14883,7 @@ a P, 71.
 oned as nothing. ... And all this has been done by nations 
 who make a great ado about their piety, and who, while drink- 
 ing up iniquity like water, would have themselves regarded as 
-the very elect of the orthodox faith.” 1 — The old fox of 
+the very elect of the orthodox faith." 1 — The old fox of 
 Konigsberg was not silenced yet ! 
 
 Kant attributed this imperialistic greed to the oligarchical 
@@ -15323,12 +14892,12 @@ few, and remained substantial even after division. If de-
 mocracy were established, and all shared in political power, 
 the spoils of international robbery would have to be so sub- 
 divided as to constitute a resistible temptation. Hence the 
-“first definitive article in the conditions of Eternal Peace” is 
-this: “The civil constitution of every state shall be repub- 
+"first definitive article in the conditions of Eternal Peace" is 
+this: "The civil constitution of every state shall be repub- 
 lican, and war shall not be declared except by a plebiscite of 
-all the citizens.” 2 When those who must do the fighting have 
+all the citizens." 2 When those who must do the fighting have 
 the right to decide between war and peace, history will no 
-longer be written in blood. “On the other hand, in a consti- 
+longer be written in blood. "On the other hand, in a consti- 
 tution where the subject is not a voting member of the state, 
 and which is therefore not republican, the resolution to go to 
 war is a matter of the smallest concern in the world. For 
@@ -15340,7 +14909,7 @@ He can, therefore, resolve for war from insignificant reasons,
 as if it were but a hunting expedition ; and as regards its pro- 
 priety, he may leave the justification of it without concern to 
 the diplomatic corps, who are always too ready to give their 
-services for that purpose.” 3 How contemporary truth is ! 
+services for that purpose." 3 How contemporary truth is ! 
 
 The apparent victory of the Revolution over the armies of 
 reaction in 1795 led Kant to hope that republics would now 
@@ -15363,10 +14932,10 @@ KANT AND GERMAN IDEALISM
 
 without exploitation, and pledged to peace. After all, the 
 function of government is to help and develop the individual, 
-not to use and abuse him. “Every man is to be respected as 
+not to use and abuse him. "Every man is to be respected as 
 an absolute end in himself ; and it is a crime against the dig- 
 nity that belongs to him as a human being, to use him as a 
-mere means for some external purpose.” 1 This too is part 
+mere means for some external purpose." 1 This too is part 
 and parcel of that categorical imperative without which religion 
 is a hypocritical farce. Kant therefore calls for equality : not 
 of ability, but of opportunity for the development and ap- 
@@ -15392,11 +14961,11 @@ And now how does this complex structure of logic, meta-
 physics, psychology, ethics, and politics stand today, after 
 the philosophic storms of a century have beaten down upon 
 it? It is pleasant to answer that much of the great edifice 
-remains ; and that the “critical philosophy” represents an event 
+remains ; and that the "critical philosophy" represents an event 
 of permanent importance in the history of thought. But 
 many details and outworks of the structure have been shaken. 
 
-First, then, is space a mere “form of sensibility,” having no 
+First, then, is space a mere "form of sensibility," having no 
 objective reality independent of the perceiving mind? Yes 
 and no. Yes: for space is an empty concept when not filled 
 
@@ -15409,16 +14978,16 @@ THE STORY OF PHILOSOPHY
 
 S12 
 
-with perceived objects ; “space” merely means that certain ob- 
+with perceived objects ; "space" merely means that certain ob- 
 jects are, for the perceiving mind, at such and such a position, 
 or distance, with reference to other perceived objects ; and no 
 external perception is possible except of objects in space; 
-space then is assuredly a “necessary form of the external 
-pense.” And no : for without doubt, such spatial facts as the 
+space then is assuredly a "necessary form of the external 
+pense." And no : for without doubt, such spatial facts as the 
 annual elliptical circuit of sun by earth, though statable only 
 by a mind, are independent of any perception whatever; the 
 deep and dark blue ocean rolled on before Byron told it to, and 
-after he had ceased to be. Nor is space a “construct” of the 
+after he had ceased to be. Nor is space a "construct" of the 
 mind through the coordination of spaceless sensations ; we per- 
 ceive space directly through our simultaneous perception of 
 different objects and various points — as when we see an in- 
@@ -15442,21 +15011,21 @@ agree rather with Hume than with Kant: all science, even
 
 i The persistent vitality of Kant’s theory of knowledge appears in its com* 
 plete acceptance by so matter-of-fact a scientist as the late Charles P. Stein* 
-metz: “All our sense-perceptions are limited by, and attached to, tho 
+metz: "All our sense-perceptions are limited by, and attached to, tho 
 conceptions of time and space. Kant, the greatest and most critical of all 
 philosophers, denies that time and space are the product of experience, but 
 shows them to be categories— conceptions in which our minds clothe the sense 
 perceptions. Modern physics has come to the same conclusion in the relativity 
 theory, that absolute space and absolute time have no existence, but time and 
 space exist only as far as things or events fill them; that is, they are form* 
-of perception.” — Address at the Unitarian Church, Schenectady, 1923. 
+of perception." — Address at the Unitarian Church, Schenectady, 1923. 
 
 
 KANT AND GERMAN IDEALISM 318 
 
 the most rigorous mathematics, is relative in its truth. Sci- 
 ence itself is not worried about the matter; a high degree of 
-probability contents it. Perhaps, after all, “necessary” 
+probability contents it. Perhaps, after all, "necessary" 
 knowledge is not necessary? 
 
 The great achievement of Kant is to have shown, once for 
@@ -15481,8 +15050,8 @@ natural selection of forms of arrangement, in orderly and
 adaptive and illuminating ways. It is memory that classifies 
 and interprets sensations into perceptions, and perceptions 
 into ideas; but memory is an accretion. That unity of the 
-mind which Kant thinks native (the “transcendental unity of 
-apperception”) is acquired — and not by all; and can be lost 
+mind which Kant thinks native (the "transcendental unity of 
+apperception") is acquired — and not by all; and can be lost 
 as well as won — in amnesia, or alternating personality, or 
 insanity. Concepts are an achievement, not a gift. 
 
@@ -15492,7 +15061,7 @@ The philosophy of evolution suggested irresistibly that the
 sense of duty is a social deposit in the individual, the content 
 of conscience is acquired, though the vague disposition to so- 
 
-i Op, cit ,, vol. ii, p. 23. 
+i Op, cit,, vol. ii, p. 23. 
 
 
 314 
@@ -15502,7 +15071,7 @@ THE STORY OF PHILOSOPHY
 
 
 cial behavior is innate. The moral self, the social man, is 
-no “special creation” coming mysteriously from the hand of 
+no "special creation" coming mysteriously from the hand of 
 God, but the late product of a leisurely evolution. Morals are 
 not absolute; they are a code of conduct more or less hap- 
 hazardly developed for group survival, and varying with the 
@@ -15535,10 +15104,10 @@ tion will welcome again the Kantian call to duty.
 The marvel in Kant’s philosophy is his vigorous revival, in 
 the second Critique, of those religious ideas of God, freedom, 
 and immortality, which the first Critique had apparently de- 
-stroyed. “In Kant’s works,” says Nietzsche’s critical friendf 
-Paul Ree, “you feel as though you were at a country fair. 
+stroyed. "In Kant’s works," says Nietzsche’s critical friendf 
+Paul Ree, "you feel as though you were at a country fair. 
 
-i Practical Reason , p. 31. 
+i Practical Reason, p. 31. 
 
 2Gf. Prof. Dewey: German Philosophy and Politics. 
 
@@ -15551,41 +15120,41 @@ will and captivity of the will, idealism and a refutation of
 idealism* atheism and the good Lord. Like a juggler out of 
 an empty hat, Kant draws out of the concept of duty a God, 
 immortality, and freedom, — to the great surprise of his read- 
-ers.” 1 Schopenhauer too takes a fling at the derivation of 
-immortality from the need of reward: “Kant’s virtue, which at 
+ers." 1 Schopenhauer too takes a fling at the derivation of 
+immortality from the need of reward: "Kant’s virtue, which at 
 first bore itself so bravely towards happiness, loses its inde- 
-pendence later, arid holds out its hand for a tip.” 2 The great 
+pendence later, arid holds out its hand for a tip." 2 The great 
 pessimist believes that Kant was really a sceptic who, having 
 abandoned belief himself, hesitated to destroy the faith of the 
-people, for fear of the consequences to public morals. “Kant 
+people, for fear of the consequences to public morals. "Kant 
 discloses the groundlessness of speculative theology, and leaves 
 popular theology untouched, nay even establishes it in a nobler 
-form as a faith based upon moral feeling.” This was after- 
+form as a faith based upon moral feeling." This was after- 
 wards distorted by the philosophasters into rational apprehen- 
 sion and consciousness of God, etc. . . .; while Kant, as he 
 demolished old and revered errors, and knew the danger of 
 doing so, rather wished through the moral theology merely to 
 substitute a few weak temporary supports, so that the ruin 
 might not fall upon him, but that he might have time to es- 
-cape.” 3 So too Heine, in what is no doubt an intentional 
+cape." 3 So too Heine, in what is no doubt an intentional 
 caricature, represents Kant, after having destroyed religion, 
 going out for a walk with his servant Lampe, and suddenly 
 perceiving that the old man’s eyes are filled with tears. 
-“Then Immanuel Kant has compassion, and shows that he is 
+"Then Immanuel Kant has compassion, and shows that he is 
 not only a great philosopher, but also a good man; and half 
 kindly, half ironically, he speaks: Did Lampe must have a 
 God or else he cannot be happy, says the practical reason ; for 
 my part, the practical reason may, then, guarantee the exist- 
-ence of God.’ ” 4 If these interpretations were true we should 
+ence of God.’ " 4 If these interpretations were true we should 
 have to call the second Critique a Transcendental Anesthetic. 
 
 But these adventurous reconstructions of the inner Kant 
 
-1 In Untermann, Science and Revolution , Chicago, 1905 ; p. 81. 
+1 In Untermann, Science and Revolution, Chicago, 1905 ; p. 81. 
 
 2 In Paulsen, p. 317. 
 
-» The World as Will and Idea , vol. ii, p. 129. 
+» The World as Will and Idea, vol. ii, p. 129. 
 
 4 Quoted by Paulsen, p. 8. 
 
@@ -15597,18 +15166,18 @@ THE STORY OF PHILOSOPHY
 
 
 need not be taken too seriously. The fervor of the essay on 
-“Religion within the Limits of Pure Reason” indicates a sin- 
+"Religion within the Limits of Pure Reason" indicates a sin- 
 cerity too intense to be questioned, and the attempt to change 
 the base of religion from theology to morals, from creeds to 
 conduct, could have come only from a profoundly religious 
-mind. “It is indeed true,” he wrote to Moses Mendelssohn 
-in 1766, “that I think many things with the clearest con- 
+mind. "It is indeed true," he wrote to Moses Mendelssohn 
+in 1766, "that I think many things with the clearest con- 
 viction,' ... which I never have the courage to say ; but I 
-will never say anything which I do not think.” 1 Naturally, 
+will never say anything which I do not think." 1 Naturally, 
 a long and obscure treatise like the great Critique lends itself 
 to rival interpretations; one of the first reviews of the hook, 
 written by Reinhold a few years after it appeared, said 
-as much as we can say today: “The Critique of Pure 
+as much as we can say today: "The Critique of Pure 
 Reason has been proclaimed by the dogmatists as the attempt 
 of a sceptic who undermines the certainty of all knowledge ; 
 — by the sceptics as a piece of arrogant presumption that 
@@ -15620,7 +15189,7 @@ the naturalists as a new prop for the dying philosophy of
 faith; — -by the materialists as an idealistic contradiction of 
 the reality of matter; — by the spiritualists as an unjustifiable 
 limitation of all reality to the corporeal world, concealed under 
-the name of the domain of experience.” 2 In truth the 
+the name of the domain of experience." 2 In truth the 
 glory of the book lay in its appreciation of all these points 
 of view; and to an intelligence as keen as Kant’s own, it might 
 well appear that he had really reconciled them all, and fused 
@@ -15637,19 +15206,19 @@ i In Paulsen, p. 53.
 
 KANT AND GERMAN IDEALISM 817 
 
-famous words about the two wonders of life — “the starry 
-heavens above, the moral law within”; and Fichte, Schelling, 
+famous words about the two wonders of life — "the starry 
+heavens above, the moral law within"; and Fichte, Schelling, 
 Hegel and Schopenhauer produced in rapid succession great 
 systems of thought reared upon the idealism of the old 
 Konigsberg sage. It was in these balmy days of German 
-metaphysics that Jean Paul Richter wrote: “God has given 
+metaphysics that Jean Paul Richter wrote: "God has given 
 to the French the land, to the English the sea, to the Germans 
-the empire of the air.” Kant’s criticism of reason, and his 
+the empire of the air." Kant’s criticism of reason, and his 
 exaltation of feeling, prepared for the voluntarism of Schopen- 
 hauer and Nietzsche, the intuitionism of Bergson, and the 
 pragmatism of William James; his identification of the laws 
 . of thought with the laws of reality gave to Hegel a whole 
-system of philosophy; and his unknowable “thing-in-itself” 
+system of philosophy; and his unknowable "thing-in-itself" 
 influenced Spencer more than Spencer knew. Much of the 
 obscurity of Carlyle is traceable to his attempt to allegorize 
 the already obscure thought of Goethe and Kant — that diverse 
@@ -15657,13 +15226,13 @@ religions and philosophies are but the changing garments of
 one eternal truth. Caird and Green and Wallace and Watson 
 and Bradley and many others in England owe their inspira- 
 tion to the first Critique; and even the wildly innovating 
-Nietzsche takes his epistemology from the “great Chinaman 
-of Konigsberg” whose static ethics he so excitedly condemns. 
+Nietzsche takes his epistemology from the "great Chinaman 
+of Konigsberg" whose static ethics he so excitedly condemns. 
 After a century of struggle between the idealism of Kant, 
 variously reformed, and the materialism of the Enlightenment, 
 variously redressed, the victory seems to lie with Kant. Even 
-the great materialist Helvetius wrote, paradoxically: “Men, 
-if I may dare say it, are the creators of matter.” 1 Philoso- 
+the great materialist Helvetius wrote, paradoxically: "Men, 
+if I may dare say it, are the creators of matter." 1 Philoso- 
 phy will never again be so naive as in her earlier and simpler 
 days ; she must always be different hereafter, and profounder, 
 because Kant lived. 
@@ -15688,17 +15257,17 @@ Descartes to Voltaire and Hume. Our perspective today is a
 little different, and we enjoy perhaps too keenly the invective 
 leveled by Schopenhauer at his successful rivals in the com- 
 petition for professional posts. By reading Kant, said 
-Schopenhauer, “the public was compelled to see that what is ob- 
-scure is not always without significance.” Fichte and Schell- 
+Schopenhauer, "the public was compelled to see that what is ob- 
+scure is not always without significance." Fichte and Schell- 
 ing took advantage of this, and excogitated magnificent, 
-spider-webs of metaphysics. “But the height of audacity in 
+spider-webs of metaphysics. "But the height of audacity in 
 serving up pure nonsense, in stringing together senseless and 
 extravagant mazes of words, such as had previously been 
 known only in madhouses, was finally reached in Hegel, and 
 became the instrument of the most bare-faced general mystifi- 
 cation that has ever taken place, with a result which will ap- 
 pear fabulous to posterity, and will remain as a monument 
-to German stupidity.” 1 Is this fair? 
+to German stupidity." 1 Is this fair? 
 
 Georg Wilhelm Friedrich Hegel was born at Stuttgart in 
 1770. His father was a subordinate official in the depart- 
@@ -15714,12 +15283,12 @@ years, was required to keep his peace.
 
 His studies of Greek literature gave him an enthusiasm for 
 Attic culture which remained with him when almost all other 
-enthusiasms had died away. “At the name of Greece,” he 
-wrote, “the cultivated German finds himself at home. Eu- 
+enthusiasms had died away. "At the name of Greece," he 
+wrote, "the cultivated German finds himself at home. Eu- 
 ropeans have their religion from a further source, from the 
 East; . . . but what is here, what is present,— science and 
 
-iCaird, Hegel , in the Blackwood Philosophical Classics; pp. 5-8. The bio- 
+iCaird, Hegel, in the Blackwood Philosophical Classics; pp. 5-8. The bio- 
 graphical account follows Caird throughout. 
 
 
@@ -15731,7 +15300,7 @@ HEGEL
 
 
 art, all that makes life satisfying, and elevates and adorns it 
-— we derive, directly or indirectly, from Greece.” For a time 
+— we derive, directly or indirectly, from Greece." For a time 
 he preferred the religion of the Greeks to Christianity; and 
 he anticipated Strauss and Renan by writing a Life of Jesus 
 in which Jesus was taken as the son of Mary and Joseph, and 
@@ -15743,12 +15312,12 @@ suspected from his later sanctification of the status quo.
 While studying for the ministry at Tubingen, he and 
 Schelling hotly defended the French Revolution, and went 
 out early one morning to plant a Liberty Tree in the market- 
-place. “The French nation, by the bath of its revolution,” 
-he wrote, “has been freed from many institutions which the 
+place. "The French nation, by the bath of its revolution," 
+he wrote, "has been freed from many institutions which the 
 spirit of man has left behind like its baby shoes, and which 
 therefore weighed upon it, as they still weigh upon others, 
-like lifeless feathers.” It was in those hopeful days, “when 
-to be young was very heaven,” that he flirted, like Fichte, with 
+like lifeless feathers." It was in those hopeful days, "when 
+to be young was very heaven," that he flirted, like Fichte, with 
 a kind of aristocratic socialism, and gave himself, with charac- 
 teristic vigor, to the Romantic current in which all Europe 
 was engulfed. 
@@ -15764,7 +15333,7 @@ died, and Hegel, falling heir to some $1500, considered him-
 self a rich man, and gave up tutoring. He wrote to his friend 
 Schelling for advice as to where to settle, and asked for a 
 place where there would be simple food, abundant books, 
-and “ein gutes Bier.” Schelling recommended Jena, which 
+and "ein gutes Bier." Schelling recommended Jena, which 
 Was a university town under the jurisdiction of the Duke of 
 Weimar. At Jena Schiller was teaching history; Tieck, 
 Novalis and the Schlegels were preaching romanticism; and 
@@ -15788,10 +15357,10 @@ to his heels like a philosopher, carrying with him the manu-
 script of his first important book, The Phenomenology of 
 Spirit. For a while he was so destitute that Goethe told 
 Ehebel to lend him a few dollars to tide him over. Hegel 
-wrote almost bitterly to Knebel: “I have made my guiding- 
+wrote almost bitterly to Knebel: "I have made my guiding- 
 star the Biblical saying, the truth of which I have learned by 
 experience, Seek ye first food and clothing, and the kingdom 
-of heaven shall be added unto you.” For a while he edited a 
+of heaven shall be added unto you." For a while he edited a 
 paper at Bamberg; then, in 1812, he became head of the 
 gymnasium at Numburg. It was there, perhaps, that the 
 stoic necessities of administrative work cooled the fires of 
@@ -15811,10 +15380,10 @@ for them every year.
 A Frenchman once asked Hegel to put his philosophy into 
 one sentence ; and he did not succeed so well as the monk who, 
 asked to define Christianity while standing on one foot, said, 
-simply, “Thou shalt love thy neighbor as thyself.” Hegel 
+simply, "Thou shalt love thy neighbor as thyself." Hegel 
 preferred to answer in ten volumes; and when they were 
 written and published, and all the world was talking about 
-them, he complained that “only one man understands me. 
+them, he complained that "only one man understands me. 
 
 
 HEGEL 
@@ -15822,15 +15391,15 @@ HEGEL
 
 321 
 
-and even he does not.” 1 Most of his writings, like Aristotle’s, 
+and even he does not." 1 Most of his writings, like Aristotle’s, 
 consist of his lecture-notes; or, worse, of the notes taken by 
 students who heard his lectures. Only the Logic and the 
 Phenomenology are from his hand, and these are masterpieces 
 of obscurity, darkened by abstractness and condensation of 
 style, by a weirdly original terminology, and by an over- 
 careful modification of every statement with a Gothic wealth 
-of limiting clauses. Hegel described his work as “an attempt 
-to teach philosophy to speak in German.” 2 He succeeded. 
+of limiting clauses. Hegel described his work as "an attempt 
+to teach philosophy to speak in German." 2 He succeeded. 
 
 The Logic is an analysis not of methods of reasoning, but of 
 the concepts used in reasoning. These Hegel takes to be the 
@@ -15841,8 +15410,8 @@ The most pervasive of them all is Relation ; every idea is a
 group of relations ; we can think of something only by relat- 
 ing it to something else, and perceiving its similarities and 
 its differences. An idea without relations of any kind is 
-empty; this is all that is meant by saying that “Pure Being 
-and Nothing are the same” : Being absolutely devoid of rela- 
+empty; this is all that is meant by saying that "Pure Being 
+and Nothing are the same" : Being absolutely devoid of rela- 
 tions or qualities does not exist, and has no meaning whatever. 
 This proposition led to an endless progeny of witticisms which 
 still breed ; and it proved to be at once an obstacle and a 
@@ -15852,11 +15421,11 @@ Of all relations, the most universal is that of contrast or
 opposition. Every condition of thought or of things — every 
 idea and every situation in the world— leads irresistibly to its 
 opposite, and then unites with it to form a higher or more 
-complex whole. This “dialectical movement” runs through 
+complex whole. This "dialectical movement" runs through 
 everything that Hegel wrote. It is an old thought, of course, 
-foreshadowed by Empedocles, and embodied in the “golden 
-mean” of Aristotle, who, wrote that “the knowledge of op- 
-posites is one.” The truth (like an electron) is an organic 
+foreshadowed by Empedocles, and embodied in the "golden 
+mean" of Aristotle, who, wrote that "the knowledge of op- 
+posites is one." The truth (like an electron) is an organic 
 
 1 Ruthless critics, as we might have expected, challenge the authenticity of 
 this story. 
@@ -15876,13 +15445,13 @@ opinions on large issues is a decreasing oscillation between
 extremes ; and in all debatable questions veritas in medio stat. 
 The movement of evolution is a continuous development of 
 oppositions, and their merging and reconciliation. Schelling 
-was right — there is an underlying “identity of opposites”; 
+was right — there is an underlying "identity of opposites"; 
 and Fichte was right — thesis, antithesis and synthesis con- 
 stitute the formula and secret of all development and all 
 reality. 
 
 For not only do thoughts develop and evolve according to 
-this “dialectical movement,” but things do equally ; every con- 
+this "dialectical movement," but things do equally ; every con- 
 dition of affairs contains a contradiction which evolution must 
 resolve by a reconciling unity. So, no doubt, our present 
 social system secretes a self-corroding contradiction: the 
@@ -15923,8 +15492,8 @@ consciousness, and becomes the Absolute Idea — that is,
 thought realizing itself as part of the Absolute, transcending 
 individual limitations and purposes, and catching, underneath 
 the universal strife, the hidden harmony of all things* 
-“Reason is the substance of the universe; . . . the design of 
-the world is absolutely rational.” 1 
+"Reason is the substance of the universe; . . . the design of 
+the world is absolutely rational." 1 
 
 Not that strife and evil are mere negative imaginings ; they 
 are real enough ; but they are, in wisdom’s perspective, stages 
@@ -15933,13 +15502,13 @@ character is built in the storm and stress of the world; and a
 man reaches his full height only through compulsions, respon- 
 sibilities, and suffering. Even pain has its rationale; it is 
 a sign of life and a stimulus to reconstruction. Passion also 
-has a place in the reason of things : “nothing great in the world 
-has been accomplished without passion ” ; 2 and even the 
+has a place in the reason of things : "nothing great in the world 
+has been accomplished without passion " ; 2 and even the 
 egoistic ambitions of a Napoleon contribute unwittingly to 
 the development of nations. Life is not made for happi- 
-ness, but for achievement. “The history of the world is not 
+ness, but for achievement. "The history of the world is not 
 the theatre of happiness; periods of happiness are blank 
-pages in it, for they are periods of harmony ” ; 3 and this dull 
+pages in it, for they are periods of harmony " ; 3 and this dull 
 content is unworthy of a man. History is made only in those 
 periods in which the contradictions of reality are being 
 resolved by growth, as the hesitations and awkwardness of 
@@ -15948,55 +15517,55 @@ dialectical movement, almost a series of revolutions, in which
 people after people, and genius after genius, becomes the 
 instrument of the Absolute. Great men are not so much 
 begetters, as midwives, of the future ; what they bring forth 
-is mothered by the Zeitgeist , the Spirit of the Age. The 
+is mothered by the Zeitgeist, the Spirit of the Age. The 
 genius merely places another stone on the pile, as others have 
 
-1 Hegel: Philosophy of History , Bohn ed., pp. 9, IS. 
+1 Hegel: Philosophy of History, Bohn ed., pp. 9, IS. 
 
 2 Ibid., p. 2t . 
 
-« Ibid., p. 2 r ' , 
+« Ibid., p. 2 r ', 
 
 
 
 324 THE STORY OF PHILOSOPHY 
 
-done; “somehow his has the good fortune to come last, and 
-when he places his stone the arch stands self-supported.” 
-“Such individuals had no consciousness of the general Idea 
+done; "somehow his has the good fortune to come last, and 
+when he places his stone the arch stands self-supported." 
+"Such individuals had no consciousness of the general Idea 
 they were unfolding; . . . but they had an insight into the 
 requirements of the time — what was ripe for development. 
 This was the very Truth for their age, for their world; the 
 species next in order, so to speak, and which was already 
-formed in the womb of time.” 1 
+formed in the womb of time." 1 
 
 Such a philosophy of history seems to lead to revolutionary 
 conclusions. The dialectical process makes change the car- 
 dinal principle of life; no condition is permanent; in every 
-stage of things there is a contradiction which only the “strife 
-of opposites” can resolve. The deepest law of politics, there- 
+stage of things there is a contradiction which only the "strife 
+of opposites" can resolve. The deepest law of politics, there- 
 fore, is freedom — an open avenue to change ; history is the 
 growth of freedom, and the state is, or should be, freedom 
-organized. On the other hand, the doctrine that “the real 
-is rational” has a conservative color: every condition, though 
+organized. On the other hand, the doctrine that "the real 
+is rational" has a conservative color: every condition, though 
 destined to disappear, has the divine right that belongs to 
 it as a necessary stage in evolution; in a sense it is brutally 
-true that “whatever is, is right.” And as unity is the goal of 
+true that "whatever is, is right." And as unity is the goal of 
 development, order is the first requisite of liberty. 
 
 If Hegel inclined, in his later years, to the conservative 
 rather than to the radical implications of his philosophy, it 
 was partly because the Spirit of the Age (to use his own his- 
 toric phrase) was weary of too much change. After the 
-Revolution of 1830 he wrote: “Finally, after forty years of 
+Revolution of 1830 he wrote: "Finally, after forty years of 
 war and immeasurable confusion, an old heart might rejoice 
 to see an end of it all, and the beginning of a period of peace- 
-ful satisfaction.” 2 It was not quite in order that the phi- 
+ful satisfaction." 2 It was not quite in order that the phi- 
 losopher of strife as the dialectic of growth should become the 
 advocate of content; but at sixty a man has a right to ask 
 for peace. Nevertheless, the contradictions in Hegel’s 
 thought were too deep for peace; and in the next generation 
-his followers split with dialectical fatality into the “Hegelian 
+his followers split with dialectical fatality into the "Hegelian 
 
 ilbid., p. 31. 
 
@@ -16005,14 +15574,14 @@ ilbid., p. 31.
 
 HEGEL 325 
 
-Right” and the “Hegelian Left.” Weisse and the younger 
+Right" and the "Hegelian Left." Weisse and the younger 
 Fichte found, in the theory of the real as rational, a phil- 
 osophical expression of the doctrine of Providence, and 
 justification for a politics of absolute obedience. Feuerbach, 
 Moleschott, Bauer and Marx returned to the scepticism and 
-“higher criticism” of Hegel’s youth, and developed the phi- 
+"higher criticism" of Hegel’s youth, and developed the phi- 
 losophy of history into a theory of class struggles leading by 
-Hegelian necessity to “socialism inevitable.” In place of 
+Hegelian necessity to "socialism inevitable." In place of 
 the Absolute as determining history through the Zeitgeist, 
 Marx offered mass movements and economic forces as the 
 basic causes of every fundamental change, whether in the 
@@ -16023,12 +15592,12 @@ The old philosopher denounced the radicals as dreamers,
 and carefully hid away his early essays. He allied himself 
 with the Prussian Government, blessed it as the latest expres- 
 sion of the Absolute, and basked in the sun of its academic 
-favors. His enemies called him “the official philosopher.” 
+favors. His enemies called him "the official philosopher." 
 He began to think of the Hegelian system as part of the 
 natural laws of the world; he forgot that his own dialectic 
-condemned his thought to impermanence and decay. “Never 
+condemned his thought to impermanence and decay. "Never 
 did philosophy assume such a lofty tone, and never were its 
-royal honors so fully recognized and secured, as in 1830” in 
+royal honors so fully recognized and secured, as in 1830" in 
 Berlin. 1 
 
 But Hegel aged rapidly in those happy years. He be- 
@@ -16062,10 +15631,10 @@ mann, Chopin, and even the later Beethoven (a pessimist try-
 ing to convince himself that he is an optimist) ; and above all, 
 a profoundly pessimistic philosopher — Arthur Schopenhauer? 
 
-That great anthology of woe, The World as Will and Idea , 
-appeared in 1818. It was the age of the “Holy” Alliance. 
+That great anthology of woe, The World as Will and Idea, 
+appeared in 1818. It was the age of the "Holy" Alliance. 
 Waterloo had been fought, the Revolution was dead, and the 
-“Son of the Revolution” was rotting on a rock in a distant 
+"Son of the Revolution" was rotting on a rock in a distant 
 sea. Something of Schopenhauer’s apotheosis of Will was 
 due to that magnificent and bloody apparition of the Will 
 made flesh in the little Corsican ; and something of his despair 
@@ -16074,9 +15643,9 @@ defeated at last, and dark Death the only victor of all the
 wars. The Bourbons were restored, the feudal barons were 
 returning to claim their lands, and the pacific idealism of 
 Alexander had unwittingly mothered a league for the suppres- 
-sion of progress everywhere. The great age was over. “I 
-thank God,” said Goethe, “that I am not young in so thor- 
-oughly finished a world.” 
+sion of progress everywhere. The great age was over. "I 
+thank God," said Goethe, "that I am not young in so thor- 
+oughly finished a world." 
 
 All Europe lay prostrate. Millions of strong men had 
 perished; millions of acres of land had been neglected or laid 
@@ -16102,11 +15671,11 @@ every country. Moscow was in ashes. In England, proud
 victor in the strife, the farmers were ruined by the fall in the 
 price of wheat; and the industrial workers were tasting all 
 the horrors of the nascent and uncontrolled factory-system. 
-Demobilization added to unemployment. “I have heard my 
-father say,” wrote Carlyle, “that in the years when oatmeal 
+Demobilization added to unemployment. "I have heard my 
+father say," wrote Carlyle, "that in the years when oatmeal 
 was as high as ten shillings a stone, he had noticed the laborers 
 retire each separately to a brook, and there drink instead of 
-dining, anxious only to hide their misery from one another.” 1 
+dining, anxious only to hide their misery from one another." 1 
 Never had life seemed so meaningless, or so mean. 
 
 Yes, the Revolution was dead; and with it the life seemed 
@@ -16192,8 +15761,8 @@ philosopher whom he so despised. The father died, ap-
 parently by his own hand, in 1805. The paternal grand- 
 mother had died insane. 
 
-“The character or will,” says Schopenhauer, “is inherited 
-from the father ; the intellect from the mother.” 1 The 
+"The character or will," says Schopenhauer, "is inherited 
+from the father ; the intellect from the mother." 1 The 
 mother had intellect — she became one of the most popular 
 novelists of her day — but she had temperament and temper 
 too. She had been unhappy with her prosaic husband; and 
@@ -16203,12 +15772,12 @@ reacted to this as Hamlet to his mother’s re-marriage; and
 his quarrels with his mother taught him a large part of 
 those half-truths about women with which he was to season 
 his philosophy. One of her letters to him reveals the state of 
-their affairs: “You are unbearable and burdensome, and 
+their affairs: "You are unbearable and burdensome, and 
 very hard to live with; all your good qualities are over- 
 shadowed by your conceit, and made useless to the world 
 simply because you cannot restrain your propensity to pick 
-holes in other people.” 2 So they arranged to live apart ; he 
-was to come only to her “at homes,” and be one guest among 
+holes in other people." 2 So they arranged to live apart ; he 
+was to come only to her "at homes," and be one guest among 
 others ; they could then be as polite to each other as strangers, 
 instead of hating each other like relatives. Goethe, who liked 
 Mme. Schopenhauer because she let him bring his Christiane 
@@ -16234,7 +15803,7 @@ circumstance doomed to pessimism; a man who has not known
 a mother’s love — and worse, has known a mother’s hatred — 
 has no cause to be infatuated with the world. 
 
-Meanwhile Schopenhauer had gone through “gymnasium” 
+Meanwhile Schopenhauer had gone through "gymnasium" 
 and university, and had learned more than was on their 
 schedules. He had his fling at love and the world, with results 
 that affected his character and his philosophy. 1 He became 
@@ -16242,25 +15811,25 @@ gloomy, cynical, and suspicious; he was obsessed with fears
 and evil fancies ; he kept his pipes under lock and key, and 
 never trusted his neck to a barber’s razor; and he slept with 
 loaded pistols at his bedside — presumably for the convenience 
-of the burglar. He could not bear noise: “I have long 
-held the opinion,” he writes, “that the amount of noise which 
+of the burglar. He could not bear noise: "I have long 
+held the opinion," he writes, "that the amount of noise which 
 anyone can bear undisturbed stands in inverse proportion to 
 his mental capacity, and may therefore be regarded as a pretty 
 fair measure of it. . . . Noise is a torture to all intellectual 
 people. . . . The superabundant display of vitality which 
 takes the form of knocking, hammering, and tumbling things 
-about, has proved a daily torment to me all my life long.” 2 
+about, has proved a daily torment to me all my life long." 2 
 He had an almost paranoiac sense of unrecognized greatness ; 
 missing success and fame, he turned within and gnawed at his 
 own soul. 
 
 He had no mother, no wife, no child, no family, no country. 
-“He was absolutely alone, with not a single friend ; and be- 
-tween one and none there lies an infinity.” 3 Even more than 
+"He was absolutely alone, with not a single friend ; and be- 
+tween one and none there lies an infinity." 3 Even more than 
 
 *Cf. Wallace, 92. 
 
-2 The World as Will and Idea, ii, 199; Essays, “On Noise.” 
+2 The World as Will and Idea, ii, 199; Essays, "On Noise." 
 
 8 Nietzsche: Schopenhauer as Educator; London, 1910; p. 122. 
 
@@ -16271,10 +15840,10 @@ Goethe he was immune to the nationalistic fevers of his age.
 In 1813 he so far fell under the sway of Fichte’s enthusiasm 
 for a war of liberation against Napoleon, that he thought of 
 volunteering, and actually bought a set of arms. But pru- 
-dence seized him in time ; he argued that “Napoleon gave after 
+dence seized him in time ; he argued that "Napoleon gave after 
 all only concentrated and untrammeled utterance to that self- 
 assertion and lust for more life which weaker mortals feel 
-but must perforce disguise.” 1 Instead of going to war he 
+but must perforce disguise." 1 Instead of going to war he 
 went to the country and wrote a doctor’s thesis in philoso- 
 phy- 
 
@@ -16284,9 +15853,9 @@ all his power, to the work which was to be his masterpiece — -
 The World as Will and Idea. He sent the MS. to the pub- 
 lisher magna cum laude; here, he said, was no mere rehash of 
 old ideas, but a highly coherent structure of original thought- 
-“clearly intelligible, vigorous, and not without beauty”; a book 
+"clearly intelligible, vigorous, and not without beauty"; a book 
 ?f which would hereafter be the source and occasion of a hun- 
-dred other books.” 3 All of which was outrageously egotistic, 
+dred other books." 3 All of which was outrageously egotistic, 
 and absolutely true. Many years later Schopenhauer was so 
 sure of having solved the chief problems of philosophy that 
 he thought of having his signet ring carved with an image 
@@ -16298,53 +15867,53 @@ world was too poor and exhausted to read about its poverty and
 exhaustion. Sixteen years after publication Schopenhauer 
 was informed that the greater part of the edition had been sold 
 
-* Wallace: Article “Schopenhauer* In the Encyclopedia Brittanica, 
+* Wallace: Article "Schopenhauer* In the Encyclopedia Brittanica, 
 
 S Schopenhauer insists, hardly with sufficient reason, and almost to the point 
 of salesmanship, that this book must be read before the World as Will and 
 idea can be understood. The reader may nevertheless rest content with 
-knowing that the “principle of sufficient reason” is the “law of cause and ef- 
-fect,” in four forms: 1 — Logical, as the determination of conclusion by 
+knowing that the "principle of sufficient reason" is the "law of cause and ef- 
+fect," in four forms: 1 — Logical, as the determination of conclusion by 
 premises; 2 — Physical, as the determination of effect by cause; 3 — Mathemat- 
 ical, as the determination of structure by the laws of mathematics and me- 
 chanics; and 4 — Moral, as the determination of conduct by character, 
-s In Wallace, TAfe , p. 107. 
+s In Wallace, TAfe, p. 107. 
 
 
 
 332 THE STORY OF PHILOSOPHY 
 
-as waste paper. In his essay on Fame, in “The Wisdom of 
-Life,” he quotes, with evident allusion to his masterpiece, two 
-remarks of Lichtenberger’s : “Works like this are as a mirror : 
-if an ass looks in you camlot expect an angel to look out” ; and 
-“when a head and a book come into collision, and one sounds 
-hollow, is it always the book?” Schopenhauer goes on, with 
-the voice of wounded vanity : “The more a man belongs to pos- 
+as waste paper. In his essay on Fame, in "The Wisdom of 
+Life," he quotes, with evident allusion to his masterpiece, two 
+remarks of Lichtenberger’s : "Works like this are as a mirror : 
+if an ass looks in you camlot expect an angel to look out" ; and 
+"when a head and a book come into collision, and one sounds 
+hollow, is it always the book?" Schopenhauer goes on, with 
+the voice of wounded vanity : "The more a man belongs to pos- 
 terity — in other words, to humanity in general — so much the 
 more is he an alien to his contemporaries; for since his work is 
 not meant for them as such, but only in so far as they form part 
 of mankind at large, there is none of that familiar local color 
-about his productions which would appeal to them.” And then 
-he becomes as eloquent as the fox in the fable : “Would 
+about his productions which would appeal to them." And then 
+he becomes as eloquent as the fox in the fable : "Would 
 a musician feel flattered by the loud applause of an audience 
 if he knew that they were nearly all deaf, and that to con- 
 ceal their infirmity he saw one or two persons applauding? 
 And what would he say if he discovered that those one or two 
 persons had often taken bribes to secure the loudest applause 
-for the poorest player?” — In some men egotism is a compensa- 
+for the poorest player?" — In some men egotism is a compensa- 
 tion for the absence of fame; in others, egotism lends a gener- 
 ous cooperation to its presence. 
 
 So completely did Schopenhauer put himself into this book 
 that his later works are but commentaries on it; he became 
 Talmudist to his own Torah, exegete to his own Jeremiads. 
-In 1836 he published an essay On the Will in Nature , which 
+In 1836 he published an essay On the Will in Nature, which 
 was to some degree incorporated into the enlarged edition of 
 The World as Will and Idea which appeared in 18 4s4. In 
-1841 came The Two Ground-Problems of Ethics , and in 1851 
+1841 came The Two Ground-Problems of Ethics, and in 1851 
 two substantial volumes of Parerga et Paralipomena — liter- 
-ally, “By-products and Leavings” — which have been trans- 
+ally, "By-products and Leavings" — which have been trans- 
 lated into English as the Essays. For this, the most readable 
 of his works, and replete with wisdom and wit, Schopenhauer 
 received, as his total remuneration, ten free copies. Optimism 
@@ -16384,7 +15953,7 @@ full payment, and won. He had enough to engage two rooms
 in a boarding-house ; there he lived the last thirty years of his 
 life, with no comrade but a dog. He called the little poodle 
 Atma (the Brahmins’ term for the World-Soul), but the wags 
-of the town called it “Young Schopenhauer.” He ate his din- 
+of the town called it "Young Schopenhauer." He ate his din- 
 ners, usually, at the Englischer Hof. At the beginning of 
 each meal he would put a gold coin upon the table before him; 
 and at the end of each meal he would put the coin back into 
@@ -16402,9 +15971,9 @@ dogs. 1
 
 The universities ignored him and his books, as if to sub- 
 stantiate his claim that all advances in philosophy are made 
-outside of academic walls. “Nothing,” says Nietzsche, “so 
+outside of academic walls. "Nothing," says Nietzsche, "so 
 offended the German savants as Schopenhauer’s unlikeness to 
-them.” But he had learned some patience; he was confident 
+them." But he had learned some patience; he was confident 
 that, however belated, recognition would come. And at last, 
 slowly, it came. Men of the middle classes — lawyers, physi- 
 cians, merchants — found in him a philosopher who offered 
@@ -16471,16 +16040,16 @@ mvere, deinde philosophari? 2 These gentlemen desire to
 live, and indeed to live by philosophy. To philosophy they 
 are assigned, with their wives and children. ... The rule, 
 
-“I sing the song of him whose bread I eat,” has always held 
+"I sing the song of him whose bread I eat," has always held 
 
 1 One instance of his humor had better be buried in the obscurity of a 
-foot-note. “The actor Unzelmaim,” notorious for adding remarks of his 
-own to the lines of the playwright, “was forbidden, at the Berlin theatre, 
+foot-note. "The actor Unzelmaim," notorious for adding remarks of his 
+own to the lines of the playwright, "was forbidden, at the Berlin theatre, 
 to improvise. Soon afterwards he had to appear upon the stage on horse- 
-back.” Just as they entered, the horse was guilty of conduct seriously 
-unbecoming a public stage. “The audience began to laugh; whereupon 
+back." Just as they entered, the horse was guilty of conduct seriously 
+unbecoming a public stage. "The audience began to laugh; whereupon 
 Unzelmann severely reproached the horse. — ‘Do you not know that we are 
-forbidden to improvise ?’” — Vol. ii, p. 273. 
+forbidden to improvise ?’" — Vol. ii, p. 273. 
 
 2 First one must live, then one may philosophize. 
 
@@ -16498,7 +16067,7 @@ that an age which for twenty years has applauded a Hegel —
 that intellectual Caliban — as the greatest of the philoso- 
 phers, . . . could make him who has looked on at that 
 desirous of its approbation. . . . But rather, truth will al- 
-ways be paucorum hominum , 1 and must therefore quietly and 
+ways be paucorum hominum, 1 and must therefore quietly and 
 modestly wait for the few whose unusual mode of thought 
 may find it enjoyable. . . . Life is short, but truth works 
 far and lives long ; let us speak the truth. 
@@ -16508,21 +16077,21 @@ of sour grapes in it all ; no man was ever more anxious for ap-
 probation than Schopenhauer. It would have been nobler 
 still to say nothing ill of Hegel; de vivis nil nisi bonum — of 
 the living let us say nothing but good. And as for mod- 
-estly awaiting recognition, — “I cannot see,” says Schopen- 
-hauer, “that between Kant and myself anything has been done 
-in philosophy.” 2 “I hold this thought — that the world is will 
+estly awaiting recognition, — "I cannot see," says Schopen- 
+hauer, "that between Kant and myself anything has been done 
+in philosophy." 2 "I hold this thought — that the world is will 
 — to be that which has long been sought for under the name 
 of philosophy, and the discovery of which is therefore re- 
 garded, by those who are familiar with history, as quite as 
-impossible as the discovery of the philosopher’s stone.” 3 “I 
+impossible as the discovery of the philosopher’s stone." 3 "I 
 only intend to impart a single thought. Yet, notwithstand- 
 ing all my endeavors, I could find no shorter way of imparting 
 it than this whole book. . . . Read the book twice, and the 
-first time with great patience .” 4 So much for modesty ! 
-“What is modesty but hypocritical humility, by means of 
+first time with great patience ." 4 So much for modesty ! 
+"What is modesty but hypocritical humility, by means of 
 which, in a world swelling with envy, a man seeks to obtain 
 pardon for excellences and merits from those who have 
-none?” 5 “No doubt, when modesty was made a virtue, it 
+none?" 5 "No doubt, when modesty was made a virtue, it 
 
 1 Of few men. 
 
@@ -16539,13 +16108,13 @@ e I, 303.
 SCHOPENHAUER 337 
 
 was a very advantageous thing for the fools; for everybody 
-is expected to speak of himself as if he were one.” 1 
+is expected to speak of himself as if he were one." 1 
 
 There was no humility about the first sentence of Schopen- 
-hauer’s book. “The world,” it begins, “is my idea.” When 
+hauer’s book. "The world," it begins, "is my idea." When 
 Fichte had uttered a similar proposition even the metaphys- 
-ically sophisticated Germans had asked, — “What does his wife 
-say about this?” But Schopenhauer had no wife. His mean- 
+ically sophisticated Germans had asked, — "What does his wife 
+say about this?" But Schopenhauer had no wife. His mean- 
 ing, of course, was simple enough: he wished to accept at the 
 outset the Kantian position that the external world is known 
 to us only through our sensations and ideas. There follows 
@@ -16570,7 +16139,7 @@ condition of its very starting-point. Mere matter ; and
 when we imagined that we thought matter, we really thought 
 only the subject that perceives matter: the eye that sees it, 
 
-1 Essays, “On Pride.” 
+1 Essays, "On Pride." 
 
 2 Instead of recommending books about Schopenhauer it would be better 
 to send the reader to Schopenhauer himself: all three volumes of his main 
@@ -16608,11 +16177,11 @@ No: it is impossible to solve the metaphysical puzzle, to
 discover the secret essence of reality, by examining matter 
 first, and then proceeding to examine thought : we must begin 
 with that which we know directly and intimately — ourselves. 
-“We can never arrive at the real nature of things from with- 
+"We can never arrive at the real nature of things from with- 
 out. However much we may investigate, we can never reach 
 anything but images and names. We are like a man who 
 goes round a castle seeking in vain for an entrance, and some- 
-times sketching the fafades.” 5 Let us enter within. If we 
+times sketching the fafades." 5 Let us enter within. If we 
 can ferret out the ultimate nature of our own minds we shall 
 perhaps have the key to the external world. 
 
@@ -16636,21 +16205,21 @@ SCHOPENHAUER
 339 
 
 
-knowing animal, the animal rationale . “This ancient and 
-universal radical error, this enormous proton pseudos , 1 . . • 
-must before everything be set aside.” 2 * “Consciousness is the 
+knowing animal, the animal rationale . "This ancient and 
+universal radical error, this enormous proton pseudos, 1 . . • 
+must before everything be set aside." 2 * "Consciousness is the 
 mere surface of our minds, of which, as of the earth, we do 
-iiot know the inside but only the crust.” 8 Under the con- 
+iiot know the inside but only the crust." 8 Under the con- 
 scious intellect is the conscious or unconscious mil, a striving, 
 persistent vital force, a spontaneous activity, a will of im- 
 perious desire. The intellect may seem at times to lead the 
-will, but only as a guide leads his master; the will “is the 
+will, but only as a guide leads his master; the will "is the 
 strong blind man who carries on his shoulders the lame man 
-who can see.” 4 We do not want a thing because we have 
+who can see." 4 We do not want a thing because we have 
 found reasons for it, we find reasons for it because we want it ; 
 we even elaborate philosophies and theologies to cloak our 
-desires . 5 * Hence Schopenhauer calls man the “metaphysical 
-animal”: other animals desire without metaphysics. “Noth- 
+desires . 5 * Hence Schopenhauer calls man the "metaphysical 
+animal": other animals desire without metaphysics. "Noth- 
 ing is more provoking, when we are arguing against a man 
 with reasons and explanations, and taking all pains to con® 
 vince him, than to discover at last that he will not understand, 
@@ -16660,15 +16229,15 @@ cians use logic only as a source of income. To convince a
 man, you must appeal to his self-interest, his desires, his 
 will. Observe how long we remember our victories, and how 
 soon we forget our defeats; memory is the menial of will . 7 
-“In doing accounts we make mistakes much oftener in our 
+"In doing accounts we make mistakes much oftener in our 
 own favor than to our disadvantage; and this without the 
-slightest dishonest intention.” 8 “On the other hand, the un- 
+slightest dishonest intention." 8 "On the other hand, the un- 
 derstanding of the stupidest man becomes keen when objects 
 
 i First lie, initial mistake. 
 
 2 II, 409. Schopenhauer forgets (or does he take his lead from?) Spinoza’s 
-emphatic statement: “Desire is the very essence of man.”- — Ethics, part iv 0 
+emphatic statement: "Desire is the very essence of man."- — Ethics, part iv 0 
 $rop. 18. Fichte had also emphasized the will. 
 
 s II, 828. 
@@ -16679,7 +16248,7 @@ c A source of Freud.
 
 « III, 443. 
 
-* Essays, “Counsels and Maxims,” p. 12$. 
+* Essays, "Counsels and Maxims," p. 12$. 
 
 *11, 433. 
 
@@ -16690,7 +16259,7 @@ c A source of Freud.
 THE STORY OF PHILOSOPHY 
 
 
-are in question that closely concern his wishes ” ; 1 in general, 
+are in question that closely concern his wishes " ; 1 in general, 
 the intellect is developed by danger, as in the fox, or by want, 
 as in the criminal. But always it seems subordinate and in- 
 strumental to desire ; when it attempts to displace the will, con- 
@@ -16699,31 +16268,31 @@ who acts only on reflection . 2
 
 Consider the agitated strife of men for food, mates, or chil- 
 dren; can this be the work of reflection? Certainly not; the 
-cause is the half conscious will to live, and to live fully. “Men 
+cause is the half conscious will to live, and to live fully. "Men 
 are only apparently drawn from in front ; in reality they are 
-pushed from behind ” ; 8 they think they are led on by what 
+pushed from behind " ; 8 they think they are led on by what 
 they see, when in truth they are driven on by what they feel, 
 — by instincts of whose operation they are half the time un- 
 conscious. Intellect is merely the minister of foreign affairs ; 
-“nature has produced it for the service of the individual 
+"nature has produced it for the service of the individual 
 will. Therefore it is only designed to know things so far as 
 they afford motives for the will, but not to fathom them or 
-to comprehend their true being.” 4 “The will is the only per- 
+to comprehend their true being." 4 "The will is the only per- 
 manent and unchangeable element in the mind; ... it is the 
-will which,” through continuity of purpose, “gives unity to 
+will which," through continuity of purpose, "gives unity to 
 consciousness and holds together all its ideas and thoughts, ac- 
-companying them like a continuous harmony.” 6 It is the 
+companying them like a continuous harmony." 6 It is the 
 organ-point of thought. 
 
 Character lies in the will, and not in the intellect; charac- 
 ter too is continuity of purpose and attitude: and these are 
-will. Popular language is correct when it prefers the “heart” 
-to the “head”; it knows (because it has not reasoned about 
-it) that a “good will” is profounder and more reliable than a 
-clear mind; and when it calls a man “shrewd,” “knowing,” or 
-“cunning” it implies its suspicion and dislike. “Brilliant 
-qualities of mind win admiration, but never affection”; and 
-“all religions promise a reward . . . for excellences of the 
+will. Popular language is correct when it prefers the "heart" 
+to the "head"; it knows (because it has not reasoned about 
+it) that a "good will" is profounder and more reliable than a 
+clear mind; and when it calls a man "shrewd," "knowing," or 
+"cunning" it implies its suspicion and dislike. "Brilliant 
+qualities of mind win admiration, but never affection"; and 
+"all religions promise a reward . . . for excellences of the 
 
 i II, 437. 
 
@@ -16733,13 +16302,13 @@ i II, 437.
 
 * II, 468, 826; a source of Bergson. 
 
-* 11 , 888 . 
+* 11, 888 . 
 
 
 SCHOPENHAUER 341 
 
 will or heart, but none for excellences of the head or under- 
-standing.” 1 
+standing." 1 
 
 Even the body is the product of the will. The blood, 
 pushed on by that will which we vaguely call life, builds its 
@@ -16793,32 +16362,32 @@ THE STORY OF PHILOSOPHY
 seat in the brain ; muscles not connected with the cerebrum (like 
 the heart) never tire . 1 In sleep the brain feeds ; but the will 
 requires no food. Hence the need for sleep is greatest in 
-brain-workers. (This fact, however, “must not mislead us 
+brain-workers. (This fact, however, "must not mislead us 
 into extending sleep unduly ; for then it loses in intensity . . . 
-and becomes mere loss of time.”) 2 In sleep the life of man 
-sinks to the vegetative level, and then “the will works accord- 
+and becomes mere loss of time.") 2 In sleep the life of man 
+sinks to the vegetative level, and then "the will works accord- 
 ing to its original and essential nature, undisturbed from with- 
 out, with no diminution of its power through the activity of 
 the brain and the exertion of knowing, which is the heaviest 
 organic function; . . . therefore in sleep the whole power of 
 the will is directed to the maintenance and improvement of the 
 organism. Hence all healing, all favorable crises, take place 
-in sleep.” 8 Burdach was right when he declared sleep to be 
+in sleep." 8 Burdach was right when he declared sleep to be 
 the original state. The embryo sleeps almost continuously, 
-and the infant most of the time. Life is “a struggle against 
+and the infant most of the time. Life is "a struggle against 
 sleep : at first we win ground from it, which in the end it re- 
 covers. Sleep is a morsel of death borrowed to keep up and 
-renew that part of life which has been exhausted by the day.” 4 
+renew that part of life which has been exhausted by the day." 4 
 It is our eternal foe; even when we are awake it possesses us 
 partly. After all, what is to be expected of heads even the 
 wisest of which is every night the scene of the strangest and 
 the' most senseless dreams, and which has to take up its med- 
-itations again on awakening from them?” 5 
+itations again on awakening from them?" 5 
 
 Will, then, is the essence of man. Now what if it is also 
-the essence of life in all its forms, and even of “inanimate” 
+the essence of life in all its forms, and even of "inanimate" 
 matter? What if will is the long-sought-for, the long- 
-despaired-of, “thing-in-itself,” — the ultimate inner reality and 
+despaired-of, "thing-in-itself," — the ultimate inner reality and 
 secret essence of all things? 
 
 Let us try, then, to interpret the external world in terms of 
@@ -16830,7 +16399,7 @@ desire? In profound fatigue or sickness even the will to live fades.
 
 3 II, 468. 
 
-4 “Counsels and Maxims,” essay “On Our Relations to Ourselves.” 
+4 "Counsels and Maxims," essay "On Our Relations to Ourselves." 
 
 * II, 333. 
 
@@ -16846,14 +16415,14 @@ answer, Will. As will is the universal cause in ourselves, so is
 it in things ; and unless we so understand cause as will, caus- 
 ality will remain only a magic and mystic formula, really 
 meaningless. Without this secret we are driven to mere occult 
-qualities like “force,” or “gravity,” or “affinity”; we do not 
+qualities like "force," or "gravity," or "affinity"; we do not 
 know what these forces are, but we know — at least a little 
 more clearly — what will is ; let us say, then, that repulsion and 
 attraction, combination and decomposition, magnetism and 
 electricity, gravity and crystallization, are Will . 2 Goethe ex- 
 pressed this idea in the title of one of his novels, when he called 
 the irresistible attraction of lovers die Wahlverwandschaften 
-— “elective affinities.” The force which draws the lover, and 
+— "elective affinities." The force which draws the lover, and 
 the force which draws the planet, are one. 
 
 So in plant life. The lower we go among the forms of 
@@ -16889,7 +16458,7 @@ mains the foundation, and may be traced in the necessity fot
 sleep. 1 
 
 Aristotle was right: there is a power within that moulds 
-every form, in plants and planets, in animals and men. “The 
+every form, in plants and planets, in animals and men. "The 
 instinct of animals in general gives us the best illustration of 
 what remains of teleology in nature. For as instinct is an 
 action similar to that which is guided by the conception of 
@@ -16910,14 +16479,14 @@ of will. 3
 
 The will, of course, is a will to live, and a will to maximum 
 life. How dear life is to all living things! — and with what 
-silent patience it will bide its time ! “For thousands of years 
+silent patience it will bide its time ! "For thousands of years 
 galvanism slumbered in copper and zinc, and they lay quietly 
 beside silver, which must be consumed in flame as soon as all 
 three are brought together under the required conditions. 
 Even in the organic kingdom we see a dry seed preserve the 
 slumbering force of life through three thousand years, and, 
 when at last the favorable circumstances occur, grow up as a 
-plant.” Living toads found in limestone lead to the conclu- 
+plant." Living toads found in limestone lead to the conclu- 
 sion that even animal life is capable of suspension for thou- 
 
 H, 153; II, 418, 337. 
@@ -16954,7 +16523,7 @@ and works blindly, as in unconscious nature. . . . Accord-
 ingly, the reproductive organs are properly the focus of 
 will, and form the opposite pole to the brain, which is the 
 representative of knowledge. . . . The former are the life- 
-sustaining principle, — they ensure endless life ; “f or this rea- 
+sustaining principle, — they ensure endless life ; "f or this rea- 
 son they were worshipped by the Greeks in the phallus and 
 by the Hindus in the Ivngam . . . . Hesiod and Parmenides 
 said very significantly that Eros is the first, the creator, 
@@ -16968,7 +16537,7 @@ the meaning of all mysterious hints. 2 . . . We see it at
 
 H,178. 
 
-2 A source of Freud’s theory of “wit and the unconscious.” 
+2 A source of Freud’s theory of "wit and the unconscious." 
 
 
 THE STORY OF PHILOSOPHY 
@@ -16984,7 +16553,7 @@ prison it, or at least limit it and, wherever possible, keep it
 concealed, and even so to master it that it shall only appear 
 as a subordinate, secondary concern of life . 1 
 
-The “metaphysics of love” revolves about this subordination 
+The "metaphysics of love" revolves about this subordination 
 of the father to the mother, of the parent to the child, of the 
 individual to the species. And first, the law of sexual attrac- 
 tion is that the choice of mate is to a large extent determined, 
@@ -16999,7 +16568,7 @@ own . 2 . . . The physical qualities of two individuals can be
 such that for the purpose of restoring as far as possible the 
 type of the species, the one is quite specially and perfectly 
 the completion and supplement of the other, which therefore 
-desires it exclusively. . , . The profound consciousness with 
+desires it exclusively. ., . The profound consciousness with 
 which we consider and ponder every part of the body, . . . 
 the critical scrupulosity with which we look at a woman who 
 begins to please us . . . the individual here acts, without 
@@ -17027,19 +16596,19 @@ matter is not the reciprocation of love, but possession . 1
 Nevertheless, no unions are so unhappy as these love mar* 
 riages — and precisely for the reason that their aim is the per- 
 petuation of the species, and not the pleasure of the individ- 
-ual . 2 “He who marries from love must live in sorrow,” runs 
+ual . 2 "He who marries from love must live in sorrow," runs 
 a Spanish proverb. Half the literature of the marriage prob- 
 lem is stultified because it thinks of marriage as mating, in- 
 stead of thinking of it as an arrangement for the preservation 
 of the race. Nature does not seem to care whether the parents 
-are “happy forever afterwards,” or only for a day, so long as 
+are "happy forever afterwards," or only for a day, so long as 
 reproduction is achieved. Marriages of convenience, ar- 
 ranged by the parents of the mates, are often happier than 
 marriages of love. Yet the woman who marries for love, 
 against the advice of her parents, is in a sense to be admired ; 
-for “she has preferred what is of most importance, and has 
+for "she has preferred what is of most importance, and has 
 acted in the spirit of nature (more exactly, of the species), 
-while the parents advised in the spirit of individual egoism.” 3 
+while the parents advised in the spirit of individual egoism." 3 
 Love is the best eugenics. 
 
 Since love is a deception practiced by nature, marriage is 
@@ -17108,7 +16677,7 @@ immortality. . . . For the whole world, with all its phe-
 nomena, is the objectivity of the one indivisible will, the Idea, 
 which is related to all other Ideas as harmony is related to 
 the single voice. ... In Eckermann’s Conversations with 
-Goethe (vol. i, p. 161), Goethe says: “Our spirit is a being 
+Goethe (vol. i, p. 161), Goethe says: "Our spirit is a being 
 
 
 SCHOPENHAUER 
@@ -17117,19 +16686,19 @@ SCHOPENHAUER
 of a nature quite indestructible, and its activity continues 
 from eternity to eternity. It is like the sun, which seems to 
 set only to our earthly eyes, but which, in reality, never sets, 
-but shines on unceasingly.” Goethe has taken the simile 
+but shines on unceasingly." Goethe has taken the simile 
 from me, not I from him . 1 
 
 Only in space and time do we seem to be separate beings; 
-they constitute the “principle of individuation” which divides 
+they constitute the "principle of individuation" which divides 
 life into distinct organisms as appearing in different places or 
 periods; space and time are the Veil of Maya, — Illusion hid- 
 ing the unity of things. In reality there is only the species, 
-only life, only will. “To understand clearly that the individ- 
-ual is only the phenomenon, not the thing-in-itself,” to see in 
-“the constant change of matter the fixed permanence of form,” 
-— this is the essence of philosophy . 3 “The motto of history 
-should run: Eadem , sed aliter ” 8 The more things change, 
+only life, only will. "To understand clearly that the individ- 
+ual is only the phenomenon, not the thing-in-itself," to see in 
+"the constant change of matter the fixed permanence of form," 
+— this is the essence of philosophy . 3 "The motto of history 
+should run: Eadem, sed aliter " 8 The more things change, 
 the more they remain the same. 
 
 He to whom men and all things have not at all times ap- 
@@ -17140,7 +16709,7 @@ plexity of events, it is only the self-same unchangeable
 being that is before us, which today pursues the same ends 
 as it did yesterday and ever will. The historical philoso- 
 pher has accordingly to recognize the identical character in 
-all events, . . . and in , spite of all the variety of special 
+all events, . . . and in, spite of all the variety of special 
 circumstances, of costumes and manners and customs, has to 
 see everywhere the same humanity. . . . To have read 
 Herodotus is, from a philosophical point of view, to have 
@@ -17155,9 +16724,9 @@ HII, 310; I, 214; III, 312, 270, 2fS7; I, 206, 362.
 
 2 I, 357-8. 
 
-s III, 227. “The same things, but in different ways.” 
+s III, 227. "The same things, but in different ways." 
 
-4 III, 227, 267 ; Wallace, 97. Cf. Nietzsche’s “eternal recurrence ” 
+4 III, 227, 267 ; Wallace, 97. Cf. Nietzsche’s "eternal recurrence " 
 
 
 350 
@@ -17167,15 +16736,15 @@ THE STORY OF PHILOSOPHY
 
 
 and summit; but this notion of progress is mere conceit and 
-folly. “In general, the wise in all ages have always said the 
+folly. "In general, the wise in all ages have always said the 
 same things, and the fools, who at all times form the immense 
 majority, have in their way too acted alike, and done the 
 opposite; and so it will continue. For, as Voltaire says, 
 we shall leave the world as foolish and wicked as we found 
-it.” 1 
+it." 1 
 
 In the light of all this we get a new and grimmer sense of 
-the inescapable reality of determinism. “Spinoza says (Epis- 
+the inescapable reality of determinism. "Spinoza says (Epis- 
 tle 62) that if a stone which has been projected through the 
 air had consciousness, it would believe that it was moving of 
 its own free will. I add to this only that the stone would be 
@@ -17183,8 +16752,8 @@ right. The impulse given it is for the stone what the motive
 is for me ; and what in the stone appears as cohesion, gravita- 
 tion, rigidity, is in its inner nature the same as that which I 
 recognize in myself as will, and what the stone also, if knowl- 
-edge were given to it, would recognize as will.” 2 But in 
-neither the stone nor the philosopher is the will “free.” Will 
+edge were given to it, would recognize as will." 2 But in 
+neither the stone nor the philosopher is the will "free." Will 
 as a whole is free, for there is no other will beside it that could 
 limit it; but each part of the universal Will — each species, 
 each organism, each organ — is irrevocably determined by the 
@@ -17202,7 +16771,7 @@ must carry out the very character which he himself con-
 demns, and as it were, play the part which he hat’ under- 
 taken, to the very end. 8 
 
-* Introduction to “The Wisdom of Life.” 
+* Introduction to "The Wisdom of Life." 
 
 2 II, 164. 
 si, 147. 
@@ -17220,21 +16789,21 @@ But if the world is will, it must be a world of suffering.
 And first, because will itself indicates want, and its grasp is 
 always greater than its reach. For every wish that is satis- 
 fied there remain ten that are denied. Desire is infinite, ful- 
-filment is limited — “it is like the alms thrown to a beggar, that 
+filment is limited — "it is like the alms thrown to a beggar, that 
 keeps him alive today in order that his misery may be pro- 
 longed tomorrow. ... As long as our consciousness is filled 
 by our will, so long as we are given up to the throng of de- 
 sires with their constant hopes and fears, so long as we are 
 subject to willing, we can never have lasting happiness or 
-peace.” 1 And fulfilment never satisfies ; nothing is so fatal 
-to an ideal as its realization. “The satisfied passion oftener 
+peace." 1 And fulfilment never satisfies ; nothing is so fatal 
+to an ideal as its realization. "The satisfied passion oftener 
 leads to unhappiness than to happiness. For its demands 
 often conflict so much with the personal welfare of him who 
-is concerned that they undermine it.” 2 Each individual bears 
+is concerned that they undermine it." 2 Each individual bears 
 within himself a disruptive contradiction; the realized desire 
-develops a new desire, and so on endlessly. “At bottom this 
+develops a new desire, and so on endlessly. "At bottom this 
 results from the fact that the will must live on itself, for there 
-exists nothing besides it, and it is a hungry will.” 8 
+exists nothing besides it, and it is a hungry will." 8 
 
 In every individual the measure of the pain essential to 
 him was determined once for all by his nature; a measure 
@@ -17285,26 +16854,26 @@ pleasure? . . . The same truth is contained in that fine
 French proverb: le mieux est Vennemi du bien — leave well 
 enough alone . 1 
 
-Life is evil because “as soon as want and suffering permit 
+Life is evil because "as soon as want and suffering permit 
 rest to a man, emmi is at once so near that he necessarily re- 
-quires diversion,” 2 — i. e., more suffering. Even if the social-* 
+quires diversion," 2 — i. e., more suffering. Even if the social-* 
 ist Utopia were attained, innumerable evils would be left, be- 
 cause some of them — like strife — are essential to life; and if 
 every evil were removed, and strife were altogether ended, bore- 
-dom would become as intolerable as pain. So “life swings like 
+dom would become as intolerable as pain. So "life swings like 
 a pendulum backward and forward between pain and ennui. 
 . . . After man had transformed all pains and torments into 
 the conception of hell, there remained nothing for heaven ex- 
-cept ennui ” 3 The more successful we become, the more we 
-are bored. “ As want is the constant scourge of the people, so 
+cept ennui " 3 The more successful we become, the more we 
+are bored. " As want is the constant scourge of the people, so 
 ennui is the scourge of the fashionable world. In middle-class 
 life ennui is represented by the Sundays and want by the week- 
-days.” 4 
+days." 4 
 
 Life is evil because the higher the organism the greater the 
 suffering. The growth of knowledge is no solution. 
 
-1 1, 411 ; “Counsels and Maxims,” p. 5. “The better is enemy of the good.* 
+1 1, 411 ; "Counsels and Maxims," p. 5. "The better is enemy of the good.* 
 2 I, 404. 
 
 8 I, 402. 
@@ -17343,7 +16912,7 @@ of death than by death itself!
 Finally, and above all, life is evil because life is war. Ev- 
 erywhere in nature we see strife, competition, conflict, and a 
 •suicidal alternation of victory and defeat. Every species 
-“fights for the matter, space, and time of the others.” 
+"fights for the matter, space, and time of the others." 
 
 The young hydra, which grows like a bud out of the old 
 one, and afterwards separates itself from it, fights, while it 
@@ -17391,7 +16960,7 @@ places of execution; if we were to open to him all the dark
 abodes of misery, where it hides itself from the glance of cold 
 curiosity, and, finally, allow him to look into the starving 
 dungeons of Ugolino, he too would understand at last the 
-nature of this “best of all possible worlds.’* For whence did 
+nature of this "best of all possible worlds.’* For whence did 
 Dante take the materials of his hell but from our actual 
 world? And yet he made a very proper hell out of it. But 
 when, on the other hand, he came to describe heaven and its 
@@ -17402,7 +16971,7 @@ effort, a fight for happiness; never enduring and complete
 happiness itself. It conducts its heroes through a thousand 
 dangers and difficulties to the goal; as soon as this is reached 
 it hastens to let the curtain fall; for now there would remain 
-ll, 192; III, 112; I, 191. “Man is a wolf to man” 
+ll, 192; III, 112; I, 191. "Man is a wolf to man" 
 
 
 
@@ -17420,10 +16989,10 @@ We are unhappy married, and unmarried we are unhappy.
 We are unhappy when alone, and unhappy in society: we are 
 like hedge-hogs clustering together for warmth, uncomfortable 
 when too closely packed, and yet miserable when kept apart. 
-It is all very funny; and “the life of every individual, if we 
+It is all very funny; and "the life of every individual, if we 
 survey it as a whole, . . . and only lay stress on its most 
 significant features, is really always a tragedy; but gone 
-through in detail it has the character of a comedy.” 2 Think 
+through in detail it has the character of a comedy." 2 Think 
 of it : 
 
 At the age of five years to enter a spinning-cotton qr 
@@ -17439,18 +17008,18 @@ everything living upon it, as has already taken place at
 least three times upon our planet, and will probably take 
 place oftener still. The earthquake of Lisbon, the earth- 
 quake of Haiti, the destruction of Pompeii, are only small 
-playful hints of what is possible , 8 
+playful hints of what is possible, 8 
 
-In the face of all this, “optimism is a bitter mockery of 
-men’s woes ”; 4 and “we cannot ascribe to the Theodicy" of 
-Leibnitz, “as a methodical and broad unfolding of optimism, 
+In the face of all this, "optimism is a bitter mockery of 
+men’s woes "; 4 and "we cannot ascribe to the Theodicy" of 
+Leibnitz, "as a methodical and broad unfolding of optimism, 
 any other merit than this, that it gave occasion later for the 
 immortal Candide of the great Voltaire; whereby Leibnitz 5 oft- 
 repeated and lame excuse for the evil of the world — that the 
 
-1 1 , 419 , 413 . 
+1 1, 419, 413 . 
 
-2 1 , 415 . 
+2 1, 415 . 
 
 3 III, 389,895. 
 
@@ -17464,12 +17033,12 @@ THE STORY OF PHILOSOPHY
 
 
 bad sometimes brings about the good — received a confirmation 
-which was unexpected by him.” 1 In brief, “the nature of 
+which was unexpected by him." 1 In brief, "the nature of 
 life throughout presents itself to us as intended and calcu- 
 lated to awaken the conviction that nothing at all is worth 
 our striving, our efforts and struggles; that all good things 
 are vanity, the world in all its ends bankrupt, and life a busi- 
-ness which does not cover expenses.” 2 
+ness which does not cover expenses." 2 
 
 To be happy, one must be as ignorant as youth. Youth 
 thinks that willing and striving are joys; it has not yet dis- 
@@ -17506,7 +17075,7 @@ brought to an end by automata dressed in their clothes. 8
 
 2 III, 383. 
 
-* Counsels and Maxims,” 124-139. 
+* Counsels and Maxims," 124-139. 
 
 
 SCHOPENHAUER 
@@ -17517,14 +17086,14 @@ SCHOPENHAUER
 
 At the end, we meet death. Just as experience begins to co- 
 ordinate itself into wisdom, brain and body begin to decay. 
-“Everything lingers for but a moment, and hastens on to 
-death.” 1 And if death bides its time it is but playing with us 
-as a cat with a helpless mouse. “It is clear that as our walk- 
+"Everything lingers for but a moment, and hastens on to 
+death." 1 And if death bides its time it is but playing with us 
+as a cat with a helpless mouse. "It is clear that as our walk- 
 ing is admittedly nothing but a constantly-prevented falling, 
 so the life of our bodies is nothing but a constantly-prevented 
-dying, an ever-postponed death.” 2 “Among the magnificent 
+dying, an ever-postponed death." 2 "Among the magnificent 
 ornaments and apparel of Eastern despots there is always a 
-costly vial of poison.” 3 The philosophy of the East under- 
+costly vial of poison." 3 The philosophy of the East under- 
 stands the omnipresence of death, and gives to its students 
 that calm aspect and dignified slowness of carriage, which 
 comes of a consciousness of the brevity of personal existence. 
@@ -17535,8 +17104,8 @@ theologies ; the prevalence of a belief in immortality is a token
 of the awful fear of death. 
 
 Just as theology is a refuge from death, so insanity is a 
-refuge from pain. “Madness comes as a way to avoid the 
-memory of suffering ” ; 4 it is a saving break in the thread of 
+refuge from pain. "Madness comes as a way to avoid the 
+memory of suffering " ; 4 it is a saving break in the thread of 
 consciousness; we can survive certain experiences or fears only 
 by forgetting them. 
 
@@ -17553,7 +17122,7 @@ operation is not performed in its entirety, then certain ele-
 
 HI, 454; III, 269. 
 
-2 “Counsels and Maxims,” 28, note. 
+2 "Counsels and Maxims," 28, note. 
 
 3 1,119. 
 
@@ -17582,12 +17151,12 @@ to have put an end to himself by refusing to breathe ; — what
 a victory over the will to live! But this triumph is merely 
 individual; the will continues in the species. Life laughs at 
 suicide, and smiles at death; for every deliberate death there 
-are thousands of indeliberate births. “Suicide, the wilful de- 
+are thousands of indeliberate births. "Suicide, the wilful de- 
 struction of the single phenomenal existence, is a vain and 
 foolish act, for the thing-in-itself — the species, and life, and 
 will in general — remains unaffected by it, even as the rainbow 
 endures however fast the drops which support it for the mo- 
-ment may chance to fall.” 2 Misery and strife continue after 
+ment may chance to fall." 2 Misery and strife continue after 
 the death of the individual, and must continue, so long as will 
 is dominant in man. There can be no victory over the ills of 
 life until the will has been utterly subordinated to knowledge 
@@ -17602,7 +17171,7 @@ Consider, first, the absurdity of the desire for material
 goods. Fools believe that if they can only achieve wealth, 
 their wills can be completely gratified; a man of means is 
 supposed to be a man with means for the fulfilment of every 
-desire. “People are often reproached for wishing for money 
+desire. "People are often reproached for wishing for money 
 above ad things, and for loving it more than anything else; 
 
 i III, 167 - 0 . A source of Freud. 
@@ -17621,41 +17190,41 @@ which, like an unwearied Proteus, is always ready to turn it-
 self into whatever object their wandering wishes or their mani- 
 fold desires may fix upon. Everything else can satisfy only 
 one wish; money alone is absolutely good, . . . because it is 
-the abstract satisfaction of every wish.” 1 Nevertheless, a life 
+the abstract satisfaction of every wish." 1 Nevertheless, a life 
 devoted to the acquisition of wealth is useless unless we know 
 how to turn it into joy ; and this is an art that requires culture 
 and wisdom. A succession of sensual pursuits never satisfies 
 for long; one must understand the ends of life as well as the 
-art of acquiring means. “Men are a thousand times more 
+art of acquiring means. "Men are a thousand times more 
 intent on becoming rich than on acquiring culture, though it 
 is quite certain that what a man is contributes more to his 
-happiness than what he has.” 2 “A man who has no mental 
-needs is called a Philistine ”; 3 he does not know what to do 
+happiness than what he has." 2 "A man who has no mental 
+needs is called a Philistine "; 3 he does not know what to do 
 with his leisure — difficilis in otio quies; 4 he searches greedily 
 from place to place for new sensations; and at last he is con- 
 quered by that nemesis of the idle rich or the reckless volup- 
 tuary — ennui . 5 
 
-Not wealth but wisdom is the Way. “Man is at once im- 
+Not wealth but wisdom is the Way. "Man is at once im- 
 petuous striving of will (whose focus lies in the reproductive 
-system) , and eternal, free, serene subject of pure knowledge 
-(of which the focus is the brain ) .” 6 Marvelous to say, 
+system), and eternal, free, serene subject of pure knowledge 
+(of which the focus is the brain ) ." 6 Marvelous to say, 
 knowledge, though born of the will, may yet master the will. 
 The possibility of the independence of knowledge first appears 
 in the indifferent way in which the intellect occasionally re- 
-sponds to the dictates of desire. “Sometimes the intellect re- 
+sponds to the dictates of desire. "Sometimes the intellect re- 
 fuses to obey the will : e. g., when we try in vain to fix our 
 minds upon something, or when we call in vain upon the mem- 
 ory for something that was entrusted to it. The anger of the 
 will against the intellect on such occasions makes its relation 
 
-* Essays, “Wisdom of Life,” p. 47. 
+* Essays, "Wisdom of Life," p. 47. 
 
 2 Ibid., p. 11. 
 
 8P. 41. 
 
-4 P. 39. “Quiet in leisure is difficult.” 
+4 P. 39. "Quiet in leisure is difficult." 
 
 « P. 22. 
 
@@ -17672,28 +17241,28 @@ THE STORY OF PHILOSOPHY
 lo it, and the difference of the two, very plain. Indeed, vexed 
 by this anger, the intellect sometimes officiously brings what 
 was asked of it hours afterward, or even the following morn- 
-ing, quite unexpectedly and unseasonably.” 1 From this im- 
+ing, quite unexpectedly and unseasonably." 1 From this im- 
 perfect subservience the intellect may pass to domination. 
-“In accordance with previous reflection, or a recognized neces- 
+"In accordance with previous reflection, or a recognized neces- 
 sity, a man suffers, or accomplishes in cold blood, what is of 
 the utmost, and often terrible, importance to him: suicide, 
 execution, the duel, enterprises of every kind fraught with 
 danger to life ; and in general, things against which his whole 
 animal nature rebels. Under such circumstances we see to 
-what an extent reason has mastered the animal nature.” 2 
+what an extent reason has mastered the animal nature." 2 
 This power of the intellect over the will permits of deliber- 
 ate development ; desire can be moderated or quieted by knowl- 
 edge ; and above all by a determinist philosophy which 
 recognizes everything as the inevitable result of its antece- 
-dents. “Of ten things that annoy us, nine would not be able 
+dents. "Of ten things that annoy us, nine would not be able 
 to do so if we understood them thoroughly in their causes, 
 and therefore knew their necessity and true nature. . . . 
 For what bridle and bit are to an unmanageable horse, the in- 
-tellect is for the will in man .” 3 “It is with inward as with 
+tellect is for the will in man ." 3 "It is with inward as with 
 outward necessity: nothing reconciles us so thoroughly as dis- 
-tinct knowledge.” 4 The more we know of our passions, the 
-less they control us; and “nothing will protect us from ex- 
-ternal compulsion so much as the control of ourselves.” 5 6 Si 
+tinct knowledge." 4 The more we know of our passions, the 
+less they control us; and "nothing will protect us from ex- 
+ternal compulsion so much as the control of ourselves." 5 6 Si 
 vis tibi omnia subjicere, sub j ice te rationi .* The gpreatest of 
 all wonders is not the conqueror of the world, but the subduti- 
 of himself. 
@@ -17702,15 +17271,15 @@ So philosophy purifies the will. But philosophy is to be
 
 i II, 439. 
 
-2 1 , 112 . 
+2 1, 112 . 
 
 8 II, 426. 
 
 * I, 396. 
 
-» “Counsels and Maxims,” p. 51. 
+» "Counsels and Maxims," p. 51. 
 
-6 “If you would subject all things to yourself, subject yourself to reason.” 
+6 "If you would subject all things to yourself, subject yourself to reason." 
 —Seneca . 
 
 
@@ -17738,28 +17307,28 @@ two lines of text to forty lines of commentary. 2
 
 The first counsel, then, is Life before books ; and the second 
 is, Text before commentary. Read the creators rather than 
-the expositors and the critics. “Only from the authors them- 
+the expositors and the critics. "Only from the authors them- 
 selves can we receive philosophic thoughts: therefore whoever 
 feels himself drawn to philosophy must seek out its immortal 
-teachers in the still sanctuary of their own works.” 8 One 
+teachers in the still sanctuary of their own works." 8 One 
 work of genius is worth a thousand commentaries. 
 
 Within these limitations, the pursuit of culture, even 
 through books, is valuable, because our happiness depends on 
 what we have in our heads rather than on what we have in 
-our pockets. Even fame is folly; “other people’s heads are 
-a wretched place to be the home of a man’s true happiness.” * 
+our pockets. Even fame is folly; "other people’s heads are 
+a wretched place to be the home of a man’s true happiness." * 
 
 What one human being can be to another is not a very 
 great deal; in the end everyone stands alone; and the im- 
 
 i Vacuum suction. 
 
-2 II, 254; Essays, “Books and Reading”; “Counsels and Maxims,” p. 21. 
+2 II, 254; Essays, "Books and Reading"; "Counsels and Maxims," p. 21. 
 
 8 1, xxvii. 
 
-4 “Wisdom of Life,” p. 117. 
+4 "Wisdom of Life," p. 117. 
 
 
 THE STORY OF PHILOSOPHY 
@@ -17775,15 +17344,15 @@ in which he looks at it. . . . Since everything which exists
 or happens for a man exists only in his consciousness, and 
 happens for him alone, the most essential thing for a man 
 is the constitution of his consciousness. . . . Therefore it 
-is with great truth that Aristotle says, “To be happy means 
-to be self-sufficient.” 1 
+is with great truth that Aristotle says, "To be happy means 
+to be self-sufficient." 1 
 
 The way out of the evil of endless willing is the intelligent 
 contemplation of life, and converse with the achievements of 
 the great of all times and countries ; it is only for such loving 
-minds that these great ones have lived. “Unselfish intellect 
+minds that these great ones have lived. "Unselfish intellect 
 rises like a perfume above the faults and follies of the world 
-of Will.” 2 Most men never rise above viewing things as ob- 
+of Will." 2 Most men never rise above viewing things as ob- 
 jects of desire — hence their misery; but to see things purely 
 as objects of understanding is to rise to freedom. 
 
@@ -17807,7 +17376,7 @@ stands still. 3
 
 1 Ibid,, pp. 27, 4-9. 
 
-2 “Wisdom of Life,” 34, 108. 
+2 "Wisdom of Life," 34, 108. 
 
 8 1, 254. Ixion, according to classical mythology, tried to win Juno from 
 Jupiter, and was punished by being bound to a forever-revolving: wheel. 
@@ -17822,17 +17391,17 @@ SCHOPENHAUER
 Genius is the highest form of this will-less knowledge. The 
 lowest forms of life are entirely made up of will, without 
 knowledge ; man in general is mostly will and little knowledge; 
-genius is mostly knowledge and little will. “Genius consists 
+genius is mostly knowledge and little will. "Genius consists 
 in this, that the knowing faculty has received a considerably 
-greater development than the service of the will demands.” 1 
+greater development than the service of the will demands." 1 
 This involves some passage of force out of reproductive into 
-intellectual activity. “The fundamental condition of genius 
+intellectual activity. "The fundamental condition of genius 
 is an abnormal predominance of sensibility and irritability 
-over reproductive power.” 2 Hence the enmity between genius 
+over reproductive power." 2 Hence the enmity between genius 
 and woman, who represents reproduction and the subjugation 
-of the intellect to the will to live and make live. “Women may 
+of the intellect to the will to live and make live. "Women may 
 have great talent, but no genius, for they always remain sub- 
-jective ”; 3 with them everything is personal, and is viewed as 
+jective "; 3 with them everything is personal, and is viewed as 
 a means to personal ends. On the other hand, 
 
 genius is simply the completest objectivity,— i. e., the objec- 
@@ -17849,7 +17418,7 @@ and is directed merely by motives of personal interest and
 advantage . 4 
 
 Freed from will, the intellect can see the object as it is; 
-“genius holds up to us the magic glass in which all that is 
+"genius holds up to us the magic glass in which all that is 
 essential and significant appears to us collected and placed 
 in the clearest light, and what is accidental and foreign is left 
 
@@ -17868,9 +17437,9 @@ THE STORY OF PHILOSOPHY
 
 3 m 
 
-out.” 1 Thought pierces through passion as sunlight pours 
+out." 1 Thought pierces through passion as sunlight pours 
 through a cloud, and reveals the heart of things; it goes be- 
-hind the individual and particular to the “Platonic Idea” 
+hind the individual and particular to the "Platonic Idea" 
 or universal essence of which it is a form— just as the painter 
 sees, in the person whom he paints, not merely the individual 
 character and feature, but some universal quality and perma- 
@@ -17882,21 +17451,21 @@ universal.
 It is this removal of the personal equation which leaves the 
 genius so maladapted in the world of will-ful, practical, per- 
 sonal activity. By seeing so far he does not see what is near ; 
-he is imprudent and “queer” ; and while his vision is hitched to 
+he is imprudent and "queer" ; and while his vision is hitched to 
 a star he falls into a well. Hence, partly, Jhe unsociability of 
 the genius ; he is thinking of the fundamental, the universal, 
 the eternal; others are thinking of the temporary, the specific, 
 the immediate ; his mind and theirs have no common ground, 
-and never meet. “As a rule, a man is sociable just in the de- 
-gree in which he is intellectually poor and generally vulgar.” a 
+and never meet. "As a rule, a man is sociable just in the de- 
+gree in which he is intellectually poor and generally vulgar." a 
 The man of genius has his compensations, and does not need 
 company so much as people who live in perpetual dependence 
-on what is outside them. “The pleasure which he receives 
+on what is outside them. "The pleasure which he receives 
 from all beauty, the consolation which art affords, the enthusi- 
-asm of the artist, . . . enable him to forget the cares of life,” 
-and “repay him for the suffering that increases in propor- 
+asm of the artist, . . . enable him to forget the cares of life," 
+and "repay him for the suffering that increases in propor- 
 tion to the clearness of consciousness, and for his desert lone- 
-liness among a different race of men.” 3 
+liness among a different race of men." 3 
 
 The result, however, is that the genius is forced into isola- 
 tion, and sometimes into madness ; the extreme sensitiveness 
@@ -17906,7 +17475,7 @@ that hold the mind to reality. Aristotle was right again:
 
 1 1, S21. 
 
-2 “Wisdom of Life,” p. 24. An (apologia pro vita sua. 
+2 "Wisdom of Life," p. 24. An (apologia pro vita sua. 
 
 »I, 345. 
 
@@ -17916,27 +17485,27 @@ SCHOPENHAUER
 
 365 
 
-“Men distinguished in philosophy, politics, poetry or art ap- 
-pear to be all of a melancholy temperament.” 1 The direct 
-connection of madness and genius “is established by the biog- 
-raphies of great men, such as Rousseau, Byron, Alfieri, etc.” * 
-“By a diligent search in lunatic asylums, I have found individ- 
+"Men distinguished in philosophy, politics, poetry or art ap- 
+pear to be all of a melancholy temperament." 1 The direct 
+connection of madness and genius "is established by the biog- 
+raphies of great men, such as Rousseau, Byron, Alfieri, etc." * 
+"By a diligent search in lunatic asylums, I have found individ- 
 ual cases of patients who were unquestionably endowed with 
 great talents, and whose genius distinctly appeared through 
-their madness.” 8 
+their madness." 8 
 
 Yet in these semi-madmen, these geniuses, lies the true 
-aristocracy of mankind. “With regard to the intellect, nature 
+aristocracy of mankind. "With regard to the intellect, nature 
 is highly aristocratic. The distinctions which it has estab- 
 lished are greater than those which are made in any country 
-by birth, rank, wealth, or caste.” 3 4 * Nature gives genius 
+by birth, rank, wealth, or caste." 3 4 * Nature gives genius 
 only to a few because such a temperament would be a hin- 
 drance in the normal pursuits of life, which require con- 
-centration on the specific and immediate. “Nature really in- 
+centration on the specific and immediate. "Nature really in- 
 tended even learned men to be tillers of the soil; indeed, 
 professors of philosophy should be estimated according to this 
 standard; and then their achievements will be found to come 
-up to all fair expectations.” 6 * 
+up to all fair expectations." 6 * 
 
 
 3. Art 
@@ -17946,10 +17515,10 @@ this forgetting of the individual self and its material interest,
 this elevation of the mind to the will-less contemplation of 
 truth, is the function of art. The object of science is the 
 universal that contains many particulars; the object of art 
-is the particular that contains a universal. “Even the por- 
+is the particular that contains a universal. "Even the por- 
 trait ought to be, as Winckelmann says, the ideal of the in- 
 
-1 In •‘Wisdom of Life ” p. 19. 
+1 In •‘Wisdom of Life " p. 19. 
 
 2 The source of Lombroso — who adds Schopenhauer to the list. 
 
@@ -17969,14 +17538,14 @@ culture is a human invention, not a natural instinct.
 THE STORY OF PHILOSOPHY 
 
 
-dividual.” 1 In painting animals the most characteristic is 
+dividual." 1 In painting animals the most characteristic is 
 accounted the most beautiful, because it best reveals the spe- 
 cies. A work of art is successful, then, in proportion as it 
 suggests the Platonic Idea, or universal, of the group to which 
 the represented object belongs. The portrait of a man must 
 aim, therefore, not at photographic fidelity, but at exposing, 
 as far as possible, through one figure, some essential or uni- 
-versal quality of man.” 2 * Art is greater than science because 
+versal quality of man." 2 * Art is greater than science because 
 the latter proceeds by laborious accumulation and cautious 
 reasoning, while the former reaches its goal at once by intui- 
 tion and presentation ; science can get along with talent, but 
@@ -17987,13 +17556,13 @@ from contemplation of the object without admixture of per-
 sonal will. To the artist the Rhine is a varied series of be- 
 witching views, stirring the senses and the imagination with 
 suggestions of beauty ; but the traveler who is bent on his per- 
-sonal affairs “will see the Rhine and its banks only as a line, 
-and the bridges only as lines cutting the first line.” 8 The 
-artist so frees himself from personal concerns that “to artistic 
+sonal affairs "will see the Rhine and its banks only as a line, 
+and the bridges only as lines cutting the first line." 8 The 
+artist so frees himself from personal concerns that "to artistic 
 perception it is all one whether we see the sunset from a prison 
-or from a palace.” 4 “It is this blessedness of will-less percep- 
+or from a palace." 4 "It is this blessedness of will-less percep- 
 tion which casts an enchanting glamour over the past and the 
-distant, and presents them to us in so fair a light.” 5 Even 
+distant, and presents them to us in so fair a light." 5 Even 
 hostile objects, when we contemplate them without excitation 
 of the will, and without immediate danger, become sublime. 
 Similarly, tragedy may take an esthetic value, by delivering 
@@ -18020,19 +17589,19 @@ SCHOPENHAUER
 367 
 
 
-sitory and the individual. Spinoza was right: “in so far as 
+sitory and the individual. Spinoza was right: "in so far as 
 the mind sees things in their eternal aspect it participates in 
-eternity.” 1 
+eternity." 1 
 
 This power of the arts to elevate us above the strife of wills 
-is possessed above all by music. 2 “Music is by no means like 
-the other arts, the copy of the Ideas” or essences of things, but 
-it is “the copy of the will itself” ; it shows us the eternally mov- 
+is possessed above all by music. 2 "Music is by no means like 
+the other arts, the copy of the Ideas" or essences of things, but 
+it is "the copy of the will itself" ; it shows us the eternally mov- 
 ing, striving, wandering will, always at last returning to itself 
-to begin its striving anew. “This is why the effect of music 
+to begin its striving anew. "This is why the effect of music 
 is more powerful and penetrating than the other arts, for 
 they speak only of shadows, while it speaks of the things it- 
-self.” 3 It differs too from the other arts because it affects 
+self." 3 It differs too from the other arts because it affects 
 our feelings directly, 4 and not through the medium of ideas; 
 it speaks to something subtler than the intellect. What sym- 
 metry is to the plastic arts, rhythm is to music; hence music 
@@ -18047,15 +17616,15 @@ art — as the withdrawal of the will, and the contemplation of
 the eternal and universal — was also a theory of religion. In 
 youth he had received very little religious training; and his 
 temper did not incline him to respect the ecclesiastical organ- 
-izations of his time. He despised theologians: “As ultima 
-ratio” or the final argument, “of theologians we find among 
-many nations the stake” ; 5 and he described religion as “the 
+izations of his time. He despised theologians: "As ultima 
+ratio" or the final argument, "of theologians we find among 
+many nations the stake" ; 5 and he described religion as "the 
 
-1 1, 230. Cf. Goethe: “There is no better deliverance from the world” of 
-Strife “than through art .” — Elective A ffinities, New York, 1902, p. 336. 
+1 1, 230. Cf. Goethe: "There is no better deliverance from the world" of 
+Strife "than through art ." — Elective A ffinities, New York, 1902, p. 336. 
 
-2 “Schopenhauer was the first to recognize and designate with philosophic 
-clearness the position of music with reference to the other fine arts.”— 
+2 "Schopenhauer was the first to recognize and designate with philosophic 
+clearness the position of music with reference to the other fine arts."— 
 Wagner, Beethoven, Boston, 1872, p. 23. 
 
 3 1, 333. 
@@ -18073,22 +17642,22 @@ s II, 365.
 THE STORY OF PHILOSOPHY 
 
 
-metaphysics of the masses.” 1 But in later years he began 
+metaphysics of the masses." 1 But in later years he began 
 to see a profound significance in certain religious practices and 
-dogmas. “The controversy which is so perseveringly carried 
+dogmas. "The controversy which is so perseveringly carried 
 on in our own day between supernaturalists and rationalists 
 rests on the failure to recognize the allegorical nature of all 
-religion.” 2 Christianity, for example, is a profound philos- 
-ophy of pessimism ; “the doctrine of original sin (assertion of 
+religion." 2 Christianity, for example, is a profound philos- 
+ophy of pessimism ; "the doctrine of original sin (assertion of 
 the will) and of salvation (denial of the will) is the great 
-truth which constitutes the essence of Christianity.” 8 Past- 
+truth which constitutes the essence of Christianity." 8 Past- 
 ing is a remarkable expedient for weakening those desires that 
 lead never to happiness but either to disillusionment or to 
-further desire. “The power by virtue of which Christianity 
+further desire. "The power by virtue of which Christianity 
 was able to overcome first Judaism, and then the heathenism 
 of Greece and Rome, lies solely in its pessimism, in the confes- 
 sion that our state is both exceedingly wretched and sinful, 
-while Judaism and heathenism were both optimistic ”: 4 they 
+while Judaism and heathenism were both optimistic ": 4 they 
 thought of religion as a bribe to the heavenly powers for aid 
 towards earthly success; Christianity thought of religion as 
 a deterrent from the useless quest of earthly happiness. In 
@@ -18102,12 +17671,12 @@ preaches Nirvana as the goal of all personal development.
 The Hindus were deeper than the thinkers of Europe, because 
 their interpretation of the world was internal and intuitive, 
 not external and intellectual; the intellect divides everything, 
-intuition unites everything; the Hindus saw that the “I” is a 
+intuition unites everything; the Hindus saw that the "I" is a 
 delusion; that the individual is merely phenomenal, and that 
-the only reality is the Infinite One — “That art thou.” “Who- 
+the only reality is the Infinite One — "That art thou." "Who- 
 ever is able to say this to himself, with regard to every being 
 
-i Essays, “Religion,’* p. 2. 
+i Essays, "Religion,’* p. 2. 
 
 2 II, 369. 
 
@@ -18124,30 +17693,30 @@ SCHOPENHAUER
 369 
 
 
-with whom he comes in contact,” — whoever is clear-eyed and 
+with whom he comes in contact," — whoever is clear-eyed and 
 clear-souled enough to see that we are all members of one 
 organism, all of us little currents in an ocean of will, — he 
-“is certain of all virtue and blessedness, and is on the direct 
-road to salvation.” 1 Schopenhauer does not think that Chris- 
-tianity will ever displace Buddhism in the East: “it is just the 
-same as if we fired a bullet against a cliff.” 2 Rather, In- 
+"is certain of all virtue and blessedness, and is on the direct 
+road to salvation." 1 Schopenhauer does not think that Chris- 
+tianity will ever displace Buddhism in the East: "it is just the 
+same as if we fired a bullet against a cliff." 2 Rather, In- 
 dian philosophy streams into Europe, and will profoundly al- 
-ter our knowledge and our thought. “The influence of the 
+ter our knowledge and our thought. "The influence of the 
 Sanskrit literature will penetrate not less deeply than did 
-the revival of Greek letters in the fifteenth century.” 3 
+the revival of Greek letters in the fifteenth century." 3 
 
 The ultimate wisdom, then, is Nirvana: to reduce one’s self 
 to a minimum of desire and will. The world-will is stronger 
-than ours ; let us yield at once. “The less the will is excited, 
-the less we suffer.” 4 The great masterpieces of painting have 
-always represented countenances in which “we see the expres- 
+than ours ; let us yield at once. "The less the will is excited, 
+the less we suffer." 4 The great masterpieces of painting have 
+always represented countenances in which "we see the expres- 
 sion of the completest knowledge, which is not directed to par- 
-ticular things, but has . . . become the quieter of all will.” 6 
-“That peace which is above all reason, that perfect calm of 
+ticular things, but has . . . become the quieter of all will." 6 
+"That peace which is above all reason, that perfect calm of 
 the spirit, that deep rest, that inviolable confidence and seren- 
 ity, ... as Raphael and Correggio have represented it, is 
 an entire and certain gospel ; only knowledge remains, the will 
-has vanished.” 6 
+has vanished." 6 
 
 
 vn. THE WISDOM OF DEATH 
@@ -18165,7 +17734,7 @@ of others; even if his little stream of life runs dry there are
 »I, xiii. Perhaps we are witnessing a fulfillment of this prophecy in the 
 growth of theosophy and similar faiths. 
 
-* “Counsels and Maxims,” p. 19. 
+* "Counsels and Maxims," p. 19. 
 
 e I, 300. 
 
@@ -18184,9 +17753,9 @@ Nirvana for the race as well as for the individual?
 
 Obviously, the only final and radical conquest of the will 
 must lie in stopping up the source of life — the will to repro- 
-duce. “The satisfaction of the reproductive impulse is ut- 
+duce. "The satisfaction of the reproductive impulse is ut- 
 terly and intrinsically reprehensible because it is the strongest 
-affirmation of the lust for life.” 1 What crime have these chil- 
+affirmation of the lust for life." 1 What crime have these chil- 
 dren committed that they should be born? 
 
 If, now, we contemplate the turmoil of life, we behold all 
@@ -18237,10 +17806,10 @@ ger to the business of breeding; so, after giving birth to one
 or two children, a woman generally loses her beauty; prob- 
 ably, indeed, for similar reasons . 1 
 
-Young men ought to reflect that “if the object which in- 
+Young men ought to reflect that "if the object which in- 
 spires them today to write madrigals and sonnets had been 
 born eighteen years earlier, it would scarcely have won a 
-glance from them.” 2 After all, men are much more beautiful 
+glance from them." 2 After all, men are much more beautiful 
 in body than women. 
 
 It is only a man whose intellect is clouded by his sexual im- 
@@ -18263,7 +17832,7 @@ This veneration of women is a product of Christianity and
 of German sentimentality; and it is in turn a cause of that 
 Romantic movement which exalts feeling, instinct and will 
 above the intellect . 4 The Asiatics know better, and frankly 
-recognize the inferiority of woman. “When the laws gave 
+recognize the inferiority of woman. "When the laws gave 
 women equal rights with men, they ought also to have endowed 
 
 i Essay on Women, p. 73. 
@@ -18278,29 +17847,29 @@ i Essay on Women, p. 73.
 
 872 THE STORY OF PHILOSOPHY 
 
-them with masculine intellects.” 1 Asia again shows a finer 
+them with masculine intellects." 1 Asia again shows a finer 
 honesty than ours in its marriage institutions; it accepts as 
 normal and legal the custom of polygamy, which, though so 
 widely practiced among us, is covered with the fig-leaf of a 
-phrase. “Where are there any real monogamists?” 2 * — And 
-how absurd it is to give property-rights to women! “All 
-women are, with rare exceptions, inclined to extravagance,” 
+phrase. "Where are there any real monogamists?" 2 * — And 
+how absurd it is to give property-rights to women! "All 
+women are, with rare exceptions, inclined to extravagance," 
 because they live only in the present, and their chief out-door 
-sport is shopping. “Women think that it is men’s business to 
-earn money, and theirs to spend it”; 8 this is their conception 
-of the division of labor. “I am therefore of opinion that 
+sport is shopping. "Women think that it is men’s business to 
+earn money, and theirs to spend it"; 8 this is their conception 
+of the division of labor. "I am therefore of opinion that 
 women should never be allowed altogether to manage their own 
 concerns, but should always stand under actual male supervi- 
 sion, be it of father, of husband, of son, or of the state — as is 
 the case in Hindostan; and that consequently they should 
 never be given full power to dispose of any property they have 
-not themselves acquired.” 4 5 It was probably the luxury and 
+not themselves acquired." 4 5 It was probably the luxury and 
 extravagance of the women of Louis XIII’s court that brought 
 on the general corruption of government which culminated in 
 the French Revolution. 6 
 
 The less we have to do with women, then, the better. They 
-are not even a “necessary evil”; 6 life is safer and smoother 
+are not even a "necessary evil"; 6 life is safer and smoother 
 without them. Let inen recognize the snare that lies in wom- 
 en’s beauty, and the absurd comedy of reproduction will end. 
 The development, of intelligence will weaken or frustrate the 
@@ -18357,13 +17926,13 @@ The personal diagnosis can take its lead from Schopen-
 hauer’s admission that a man’s happiness depends on what he 
 is, rather than on external circumstance. Pessimism is an in- 
 dictment of the pessimist. Given a diseased constitution and 
-a neurotic mind, a life of empty leisure and gloomy ennui , 
+a neurotic mind, a life of empty leisure and gloomy ennui, 
 and there emerges the proper physiology for Schopenhauer’s 
 philosophy. One must have leisure to be a pessimist; an ac- 
 tive life almost always brings good spirits in body and in mind. 
 Schopenhauer admires the serenity that comes of modest aims 
 and a steady life, 2 but he could hardly speak of these from 
-personal experience. Difficilis in otio quies , truly; he had 
+personal experience. Difficilis in otio quies, truly; he had 
 money enough for continuous leisure, and he found continu- 
 
 1 Compare the apathy and despondency of Europe today (1924), and the 
@@ -18395,10 +17964,10 @@ Schopenhauer was the cover and apology of a diseased and
 indolent will. And no doubt his early experiences with women 
 and with men developed an abnormal suspiciousness and sensi- 
 tivity, as it did in Stendhal and Flaubert and Nietzsche. He 
-became cynical and solitary. He writes: “A friend in need 
-is not a friend indeed ; he is merely a borrower” ; 1 and, “Do not 
+became cynical and solitary. He writes: "A friend in need 
+is not a friend indeed ; he is merely a borrower" ; 1 and, "Do not 
 tell a friend anything that you would conceal from an en- 
-emy.” 2 He advises a quiet, monotonous, hermit life ; he fears 
+emy." 2 He advises a quiet, monotonous, hermit life ; he fears 
 society, and has no sense of the values or joys of human as- 
 sociation. 8 But happiness dies when it is not shared. 
 
@@ -18410,12 +17979,12 @@ merely human judgments, mostly irrelevant when applied to
 the cosmos as a whole. Perhaps our supercilious disgust with 
 existence is a cover for a secret disgust with ourselves: we 
 have botched and bungled our lives, and we cast the blame 
-upon the “environment,” or the “world,” which have no 
+upon the "environment," or the "world," which have no 
 tongues to utter a defense. The mature man accepts the nah 
 ural limitations of life; he does not expect Providence to be 
 prejudiced in his favor; he does not ask for loaded dice with 
 
-x “Counsels and Maxims,” p. 86. 
+x "Counsels and Maxims," p. 86. 
 
 2 Ibid,, p. 96. 
 
@@ -18443,14 +18012,14 @@ tions. Youth expects too much of the world ; pessimism is
 the morning after optimism, just as 1815 had to pay for 1789. 
 The romantic exaltation and liberation of feeling, instinct and 
 will, and the romantic contempt for intellect, restraint, and 
-order, brought their natural penalties; for “the world,” as 
-Horace Walpole said, “is a comedy for those who think, but 
-a tragedy for those who feel.” “Perhaps no movement has 
+order, brought their natural penalties; for "the world," as 
+Horace Walpole said, "is a comedy for those who think, but 
+a tragedy for those who feel." "Perhaps no movement has 
 been so prolific of melancholy as emotional romanticism. . . . 
 When the romanticist discovers that his ideal of happiness 
 works out into actual unhappiness, he does not blame his ideal. 
 He simply assumes that the world is unworthy of a being so 
-exquisitely organized as himself.” 1 How could a capricious 
+exquisitely organized as himself." 1 How could a capricious 
 universe ever satisfy a capricious soul? 
 
 The spectacle of Napoleon’s rise to empire, Rousseau’s 
@@ -18496,23 +18065,23 @@ plane or the bird ; we need obstacles against which to sharpen
 cur strength and stimulate our growth. Life without tragedy 
 fould be unwgrthy of a man . 1 
 
-Is it true that “he that increaseth knowledge increaseth sor- 
-row,” and that it is the most highly organized beings that 
+Is it true that "he that increaseth knowledge increaseth sor- 
+row," and that it is the most highly organized beings that 
 suffer most? Yes ; but it is also true that the growth of knowl- 
 edge increases joy as well as sorrow, and that the subtlest de- 
 lights, as well as the keenest pains, are reserved for the de- 
-veloped soul. Voltaire rightly preferred the Brahmin’s “un- 
-happy” wisdom to the blissful ignorance of the peasant woman; 
+veloped soul. Voltaire rightly preferred the Brahmin’s "un- 
+happy" wisdom to the blissful ignorance of the peasant woman; 
 we wish to experience life keenly and deeply, even at the cost 
 of pain ; we wish to venture into its innermost secrets, even at 
 the cost of disillusionment . 2 Virgil, who had tasted every 
 
-iCf. Schopenhauer himself: “To have no regular work, no set sphere of 
+iCf. Schopenhauer himself: "To have no regular work, no set sphere of 
 activity, — what a miserable thing it is! . . . Effort, struggles with difficulties! 
 that is as natural to a man as grubbing in the ground is to a mole. To 
 have all his wants satisfied is something intolerable — the feeling of stagnation 
 which comes from pleasures that last too long. To overcome difficulties is 
-to experience the full delight of existence.” — “Counsels and Maxims,” p. 53. 
+to experience the full delight of existence." — "Counsels and Maxims," p. 53. 
 One would like to know more of what the maturer Schopenhauer thought 
 of the brilliant philosophy of his youth. 
 
@@ -18526,7 +18095,7 @@ SCHOPENHAUER
 877 
 
 pleasure, and knew the luxuries of imperial favor, at last 
-“tired of everything except the joys of understanding.’* 
+"tired of everything except the joys of understanding.’* 
 When the senses cease to satisfy, it is something to have won 
 access, however arduously, to comradeship with those artists, 
 poets and philosophers whom only the mature mind can com- 
@@ -18560,9 +18129,9 @@ be inflicted upon man? And why is death terrible if not be-
 cause life is sweet? We need not say with Napoleon that all 
 who fear death are atheists at heart; but we may surely say 
 
-"the joy of understanding is a sad joy,” yet “those who have once tasted 
+"the joy of understanding is a sad joy," yet "those who have once tasted 
 it would not exchange it for all the frivolous gaieties and empty hopes of 
-the vulgar herd.” Cf. The Garden of Epicurus, New York, 1908, p. 120. 
+the vulgar herd." Cf. The Garden of Epicurus, New York, 1908, p. 120. 
 
 
 378 THE STORY OF PHILOSOPHY 
@@ -18603,9 +18172,9 @@ He scorns the beauty of woman, — as if there were any forms
 
 1 Finot, The Science of Happiness, New York, 1914, p. 70. 
 
-2 Cf., again, Schopenhauer himself: “It is just this not seeking of one’s 
+2 Cf., again, Schopenhauer himself: "It is just this not seeking of one’s 
 own things (which is everywhere the stamp of greatness) that gives tc 
-{passionate love the touch of sublimity.” — III, 368. 
+{passionate love the touch of sublimity." — III, 368. 
 
 s Essay on Women, p. 73. 
 
@@ -18623,22 +18192,22 @@ servant of the will, ever achieve independence and objectivity?
 Does genius lie in knowledge divorced from will, or does it con- 
 tain, as its driving force, an immense power of will, even a 
 large alloy of personal ambition and conceit? 1 Is madness 
-connected with genius in general, or rather with only the “ro- 
-mantic” type of genius (Byron, Shelley, Poe, Heine, Swin- 
-burne, Strindberg, Dostoievski, etc.) ; and is not the “classic” 
+connected with genius in general, or rather with only the "ro- 
+mantic" type of genius (Byron, Shelley, Poe, Heine, Swin- 
+burne, Strindberg, Dostoievski, etc.) ; and is not the "classic" 
 and profounder type of genius exceptionally sound (Socrates, 
 Plato, Spinoza, Bacon, Newton, Voltaire, Goethe, Darwin, 
 Whitman, etc.) ? What if the proper function of intellect 
 and philosophy is not the denial of the will but the coordina- 
 tion of desires into a united and harmonious will? What if 
-“will” itself, except as the unified product of such coordina- 
-tion, is a mythical abstraction, as shadowy as “force”? 
+"will" itself, except as the unified product of such coordina- 
+tion, is a mythical abstraction, as shadowy as "force"? 
 
 Nevertheless there is about this philosophy a blunt honesty 
 by the side of which most optimistic creeds appear as soporific 
 hypocrisies. It is all very well to say, with Spinoza, that good 
 and bad are subjective terms, human prejudices; and yet we 
-are compelled to judge this world not from any “impartial” 
+are compelled to judge this world not from any "impartial" 
 view, but from the standpoint of actual human sufferings 
 and needs. It was well that Schopenhauer should force 
 philosophy to face the raw reality of evil, and should point the 
@@ -18650,8 +18219,8 @@ realize that thought without action is a disease.
 After all, Schopenhauer opened the eyes of psychologists 
 to the subtle depth and omnipresent force of instinct. In- 
 
-i Cf. Schopenhauer: “The greatest intellectual capacities are only found 
-in connection with a vehement and passionate will.” — II, 413. 
+i Cf. Schopenhauer: "The greatest intellectual capacities are only found 
+in connection with a vehement and passionate will." — II, 413. 
 
 
 380 
@@ -18692,14 +18261,14 @@ HERBERT SPENCER
 I. COMTE AND DARWIN 
 
 T HE Kantian philosophy which announced itself as 
-“prolegomena to all future metaphysics,” was, by 
+"prolegomena to all future metaphysics," was, by 
 malicious intent, a murderous thrust at traditional 
 modes of speculation; and, contrary to intent, a damaging 
 blow to all metaphysics whatsoever. For metaphysics had 
 meant, throughout the history of thought, an attempt to dis- 
 cover the ultimate nature of reality ; now men learned, on the 
 most respectable authority, that reality could never be experi- 
-enced; that it was a “noumenon,” conceivable but not know- 
+enced; that it was a "noumenon," conceivable but not know- 
 able ; and that even the subtlest human intelligence could never 
 pass beyond phenomena, could never pierce the veil of Maya. 
 I’he metaphysical extravagances of Fichte, Hegel and Schell- 
@@ -18713,11 +18282,11 @@ pledge against metaphysics of any kind.
 Since the French had made a specialty of scepticism, it was 
 natural; that they should produce the founder (if therg are 
 SucE persons in philosophy, where every idea is hallowed witE 
-years) of the “positivist” movement. Auguste Comte — or, as 
+years) of the "positivist" movement. Auguste Comte — or, as 
 his parents called him, Isidore Auguste Marie Fran£ois 
 Xavier Comte — was born at Montpellier in 1798. The idol 
 of his youth was Benjamin Franklin, whom he called the 
-modem Socrates. “You know that at five-and-twenty he 
+modem Socrates. "You know that at five-and-twenty he 
 formed the design of becoming perfectly wise, and that he 
 
 381 
@@ -18729,7 +18298,7 @@ THE STORY OF PHILOSOPHY
 882 
 
 fulfilled his design. I have dared to undertake the same thing, 
-though I am not yet twenty.” He made a fair start by be- 
+though I am not yet twenty." He made a fair start by be- 
 coming secretary to the great Utopian, Saint-Simon, who 
 passed on to him the reforming enthusiasm of Turgot and 
 Condorcet, and the idea that social, like physical phenom- 
@@ -18745,8 +18314,8 @@ five volumes of Positive Philosophy which appeared between
 appeared between 1851 and 1854. 
 
 This was an undertaking which, in scope and patience^ 
-was second in modem times only to Spencer’s “Synthetic 
-Philosophy.” Here the sciences were classified according to 
+was second in modem times only to Spencer’s "Synthetic 
+Philosophy." Here the sciences were classified according to 
 the decreasing simplicity and generality of their subject- 
 matter: mathematics, astronomy, physics, chemistry, biology, 
 and sociology; each rested on the results of all the sciences be- 
@@ -18775,8 +18344,8 @@ HERBERT SPENCER
 
 pothesis, and experiment, and its phenomena were explained 
 through the regularities of natural cause and effect. The 
-“Will of God” yields to such airy entities as Plato’s “Ideas” 
-or Hegel’s “Absolute Idea,” and these in turn yield to the 
+"Will of God" yields to such airy entities as Plato’s "Ideas" 
+or Hegel’s "Absolute Idea," and these in turn yield to the 
 laws of science. Metaphysics is a stage of arrested develop- 
 ment: the time had come, said Comte, to abandon these 
 puerilities. Philosophy was not something different from 
@@ -18819,8 +18388,8 @@ Hegel laughed at the English habit of honoring physical and
 THE STORY OF PHILOSOPHY 
 
 
-chemical equipment with the name of “philosophical instru- 
-ments”; but such a term came naturally to men who agreed 
+chemical equipment with the name of "philosophical instru- 
+ments"; but such a term came naturally to men who agreed 
 with Comte and Spencer in defining philosophy as a generali- 
 zation of the results of all the sciences. So it was that the 
 positivist movement found more adherents in England than in 
@@ -18845,7 +18414,7 @@ Herbert Spencer was the growth of biology, and the doctrine
 of evolution. Science had been exemplarily international in 
 the development of this doctrine: Kant had spoken of the 
 possibility of apes becoming men; Goethe had written of 
-“the metamorphosis of plants ; Erasmus Darwin and Lamarck 
+"the metamorphosis of plants ; Erasmus Darwin and Lamarck 
 had propounded the theory that species had evolved from 
 simpler forms by the inheritance of the effects of use and 
 disuse; and in 1830 St. Hilaire shocked Europe, and glad- 
@@ -18855,8 +18424,8 @@ Ernani, another revolt against classic ideas of changeless rules
 and orders in a changeless world. 
 
 In the eighteen-fifties evolution was in the air. Spencer 
-expressed the idea, long before Darwin, in an essay on “The 
-Development Hypothesis” (1852), and in his Principles of 
+expressed the idea, long before Darwin, in an essay on "The 
+Development Hypothesis" (1852), and in his Principles of 
 
 
 
@@ -18868,9 +18437,9 @@ old world, as the good bishops thought, crashed to pieces with
 the publication of the Origm of Species . Here was no mere 
 vague notion of evolution, of higher species evolving somehow 
 from lower ones ; but a detailed and richly documented theory 
-of the actual mode and process of evolution “by means of 
+of the actual mode and process of evolution "by means of 
 natural selection, or the preservation of favored races in the 
-struggle for life.” In one decade all the world was talking 
+struggle for life." In one decade all the world was talking 
 about evolution. What lifted Spencer to the crest of this 
 wave of thought was the clarity of mind which suggested the 
 application of the evolution idea to every field of study, and 
@@ -18911,15 +18480,15 @@ and culminated in the almost obstinate individualism of
 Herbert Spencer himself. The father never used the super- 
 natural to explain anything; he was described by one ac- 
 quaintance (though Herbert considered this an exaggeration) 
-as “without faith or religion whatever, so far as one could 
-see.” 1 He was inclined to science, and wrote an Inventional 
+as "without faith or religion whatever, so far as one could 
+see." 1 He was inclined to science, and wrote an Inventional 
 Geometry. In politics he was an individualist like his son and 
-“would never take off his hat to anyone, no matter of what 
-rank.” 2 * “If he did not understand some question my mother 
+"would never take off his hat to anyone, no matter of what 
+rank." 2 * "If he did not understand some question my mother 
 put, he would remain silent; not asking what the question 
 was, and letting it go unanswered. He continued this course 
 all through his life, notwithstanding its futility; there re- 
-sulted no improvement.” 8 One is reminded (except for the 
+sulted no improvement." 8 One is reminded (except for the 
 silence) of Herbert Spencer’s resistance, in his later years, to 
 the extension of State functions. 
 
@@ -18937,7 +18506,7 @@ less he returned to Hinton after a few weeks, and stayed for
 three years. It was the only systematic schooling that he 
 ever received. He could not say, later, just what it was he 
 learned there ; no history, no natural science, no general litera- 
-ture. He says, with characteristic pride : “That neither in 
+ture. He says, with characteristic pride : "That neither in 
 boyhood nor youth did I receive a single lesson in English, 
 and that I have remained entirely without formal knowledge 
 of syntax down to the present hour, are facts which should 
@@ -18957,10 +18526,10 @@ m
 
 
 be known; since their implications are at variance with as- 
-sumptions universally accepted.” 1 At the age of forty he 
-tried to read the Iliad, but “after reading some six books I 
+sumptions universally accepted." 1 At the age of forty he 
+tried to read the Iliad, but "after reading some six books I 
 felt what a task it would be to go on — felt that I would rather 
-give a large sum than read to the end.” 2 Collier, one of his 
+give a large sum than read to the end." 2 Collier, one of his 
 secretaries, tells us that Spencer never finished any book of 
 science . 3 Even in his favorite fields he received no systematic 
 instruction. He burnt his fingers and achieved a few ex- 
@@ -18974,8 +18543,8 @@ outset, that Kant considered space and time to be forms of
 sense-perception rather than objective things, he decided that 
 Kant was a dunce, and threw the book away . 5 His secretary 
 tells us that Spencer composed his first book, Social Stat- 
-ics, “having read no other ethical treatise than an old and 
-now forgotten book by Jonathan Dymond.” He wrote his 
+ics, "having read no other ethical treatise than an old and 
+now forgotten book by Jonathan Dymond." He wrote his 
 Psychology after reading only Hume, Mansel and Reid; his 
 Biology after reading only Carpenter’s Comparative Physi- 
 ology (and not the Origin of Species ) ; his Sociology without 
@@ -18984,9 +18553,9 @@ Mill or any other moralist than Sedgwick . 6 What a contrast
 to the intensive and relentless education of John Stuart Mill! 
 
 Where, then, did he find those myriad facts with which he 
-propped up his thousand arguments? He “picked them up,” 
+propped up his thousand arguments? He "picked them up," 
 for the most part, by direct observation rather than by read- 
-ing. “His curiosity was ever awake, and he was continually 
+ing. "His curiosity was ever awake, and he was continually 
 directing the attention of his companion to some notable 
 
 IP. vii. 
@@ -19008,20 +18577,20 @@ IP. vii.
 THE STORY OF PHILOSOPHY 
 
 
-phenomenon . . . until then seen by his eyes alone.” At the 
+phenomenon . . . until then seen by his eyes alone." At the 
 Athenaeum Club he pumped Huxley and his other friends 
 almost dry of their expert knowledge ; and he ran through the 
 periodicals at the Club as he had run through those that 
 passed through his father’s hands for the Philosophical 
-Society at Derby, “lynx-eyed for every fact that was grist to 
-his mill.” 1 Having determined what he wanted to do, and 
+Society at Derby, "lynx-eyed for every fact that was grist to 
+his mill." 1 Having determined what he wanted to do, and 
 having found the central idea, evolution, about which all his 
 work would turn, his brain became a magnet for relevant 
 material, and the unprecedented orderliness of his thought 
 classified the material almost automatically as it came. No 
 wonder the proletaire and the business man heard him gladly ; 
 here was just such a mind as their own — a stranger to book- 
-learning, innocent of “culture” and yet endowed with the 
+learning, innocent of "culture" and yet endowed with the 
 natural, matter-of-fact knowledge of the man who learns as 
 he works and lives. 
 
@@ -19030,14 +18599,14 @@ tensified the practical tendency of his thought. He was sur-
 veyor, supervisor and designer of railway lines and bridges, 
 and in general an engineer. He dripped inventions at every 
 turn; they all failed, but he looked back upon them, in his 
-Autobiography , with the fondness of a father for a wayward 
+Autobiography, with the fondness of a father for a wayward 
 son; he sprinkled his reminiscent pages with patent salt- 
 cellars, jugs, candle-extinguishers, invalid-chairs, and the like. 
 As most of us do in youth, he invented new diets too ; for a 
 time he was vegetarian; but he abandoned it when he saw a 
 fellow-vegetarian develop anemia, and himself losing strength ; 
-“I found that I had to rewrite what I had written during the 
-time I was a vegetarian, because it was so wanting in vigor.” 2 
+"I found that I had to rewrite what I had written during the 
+time I was a vegetarian, because it was so wanting in vigor." 2 
 He was ready in those days to give everything a trial ; he even 
 thought of migrating to New Zealand, forgetting that a young 
 country has no use for philosophers. It was characteristic 
@@ -19059,7 +18628,7 @@ His character had the defects of its virtues. He paid for
 his resolute realism and practical sense by missing the spirit 
 and zest of poetry and art. The only poetical touch in his 
 twenty volumes was due to a printer who made Spencer speak 
-of “the daily versification of scientific predictions.” He had 
+of "the daily versification of scientific predictions." He had 
 a fine persistence whose other side was an opinionated ob- 
 stinacy; he could sweep the entire universe for proofs of his 
 hypotheses, but he could not see with any insight another’s 
@@ -19071,9 +18640,9 @@ originality; sternly resisting all flattery, rejecting proffered
 governmental honors, and pursuing his painful work for forty 
 years in chronic ill-health and modest seclusion; and yet 
 marked, by some phrenologist who gained access to him — 
-“Self-esteem very large.” 1 The son and grandson of 
+"Self-esteem very large." 1 The son and grandson of 
 teachers, he wielded the ferule in his books, and struck a high 
-didactic tone. “I am never puzzled,” he tells us. 2 His 
+didactic tone. "I am never puzzled," he tells us. 2 His 
 solitary bachelor life left him lacking in the warmly human 
 qualities, though he could be indignantly humane. He had 
 an affair with that great Englishman, George Eliot, but she 
@@ -19085,8 +18654,8 @@ expert in it. In his Autobiography he writes reviews of his
 own early books, to show how it should have been done. 4 
 
 Apparently the magnitude of his task compelled him to 
-look upon life with more seriousness than it deserves. “I was 
-at the Fete of St. Cloud on Sunday,” he writes from Paris; 
+look upon life with more seriousness than it deserves. "I was 
+at the Fete of St. Cloud on Sunday," he writes from Paris; 
 
 1 P. 228. 
 
@@ -19103,12 +18672,12 @@ at the Fete of St. Cloud on Sunday,” he writes from Paris;
 THE STORY OF PHILOSOPHY 
 
 
-“and was much amused by the juvenility of the adults. The 
+"and was much amused by the juvenility of the adults. The 
 French never entirely cease to be boys ; I saw gray-haired 
-people riding on whirligigs such as we have at our own fairs.” 1 
+people riding on whirligigs such as we have at our own fairs." 1 
 He was so busy analyzing and describing life that he had no 
 time to live it. After seeing Niagara Falls he jotted down 
-in his diary : “Much what I had expected.” 2 He describes 
+in his diary : "Much what I had expected." 2 He describes 
 the most ordinary incidents with the most magnificent ped- 
 antry— as when he tells us of the only time he ever swore . 8 
 He suffered no crises, felt no romance (if his memoirs record 
@@ -19117,9 +18686,9 @@ almost mathematically ; he plots the curves of his tepid friend-
 ships without any uplifting touch of passion. A friend said 
 of himself that he could not write well when dictating to a 
 young woman stenographer; Spencer said that it did not 
-bother him at all. His secretary says, “The passionless thin 
+bother him at all. His secretary says, "The passionless thin 
 lips told of a total lack of sensuality, and the light eyes be- 
-trayed a lack of emotional depth .” 4 Hence the monot- 
+trayed a lack of emotional depth ." 4 Hence the monot- 
 onous levelness of his style : he never soars, and needs no 
 exclamation-points; in a romantic century he stands like a 
 sculptured lesson in dignity and reserve. 
@@ -19129,10 +18698,10 @@ a prioris and his a posterioris with the precision of a chess
 player. He is the clearest expositor of complex subjects that 
 modern history can show; he wrote of difficult problems in 
 terms so lucid that for a generation all the world was in- 
-terested in philosophy. “It has been remarked,” he says, “that 
+terested in philosophy. "It has been remarked," he says, "that 
 I have an unusual faculty of exposition — set forth my data 
 and reasonings and conclusions with a clearness and coherence 
-not common.” B He loved spacious generalizations, and made 
+not common." B He loved spacious generalizations, and made 
 his works interesting rather with his hypotheses than with his 
 proofs. Huxley said that Spencer’s idea of a tragedy was 
 
@@ -19157,10 +18726,10 @@ HERBERT SPENCER
 a theory killed by a fact; 1 and there were so many theories 
 in Spencer’s mind that he was bound to have a tragedy every 
 day or two. Huxley, struck by the feeble and undecided 
-gait of Buckle, said of him to Spencer: “Ah, I see the 
-kind of man; he is top-heavy.” “Buckle,” Spencer adds, 
-“had taken in a much larger quantity of matter than he 
-could organize.” 2 With Spencer it was the other way : he 
+gait of Buckle, said of him to Spencer: "Ah, I see the 
+kind of man; he is top-heavy." "Buckle," Spencer adds, 
+"had taken in a much larger quantity of matter than he 
+could organize." 2 With Spencer it was the other way : he 
 organized much more than he had taken in. He was all for 
 coordination and synthesis ; he depreciated Carlyle for lack- 
 ing a similar turn. The fondness for order became in him 
@@ -19174,25 +18743,25 @@ frankly, it is because we love a great man better when we
 know his faults, and suspiciously dislike him when he shines in 
 unmitigated perfection. 
 
-“Up to this date,” wrote Spencer at forty, “my life 
-might fitly have been characterized as miscellaneous.” 8 
+"Up to this date," wrote Spencer at forty, "my life 
+might fitly have been characterized as miscellaneous." 8 
 Seldom has a philosopher’s career shown such desultory vacil- 
-lation. “About this time” (age twenty-three) “my attention 
-turned to the construction of watches.” 4 But gradually he 
+lation. "About this time" (age twenty-three) "my attention 
+turned to the construction of watches." 4 But gradually he 
 found his field, and tilled it with honest husbandry. As early 
 as 1842 he wrote, for the Non-conformist (note the medium 
-he chose), some letters on “The Proper Sphere of Govern- 
-ment,” which contained his later laissez-faire philosophy in 
+he chose), some letters on "The Proper Sphere of Govern- 
+ment," which contained his later laissez-faire philosophy in 
 ovo. Six years later he dropped engineering to edit The 
 Economist. At the age of thirty, when he spoke disparag- 
 ingly of Jonathan Dymond’s- Essays on the Principles of 
 Morality, and his father challenged him to do as well with 
 
-1 1 , 467 . 
+1 1, 467 . 
 
 2 II, 4. 
 
-811 , 67 . 
+811, 67 . 
 
 * I. 279. 
 
@@ -19206,22 +18775,22 @@ THE STORY OF PHILOSOPHY
 
 such a subject, he took the dare, and wrote his Social Statics . 
 It had only a small sale, but it won him access to the maga- 
-zines. In 1852 his essay on “The Theory of Population” 
+zines. In 1852 his essay on "The Theory of Population" 
 (one of the many instances of Malthus’ influence on the 
 thought of the nineteenth century) suggested that the strug- 
 gle for existence leads to a survival of the fittest, and coined 
-those historic phrases. In the same year his essay on “The 
-Development Hypothesis” met the trite objection — that the 
+those historic phrases. In the same year his essay on "The 
+Development Hypothesis" met the trite objection — that the 
 origin of new species by progressive modification of older ones 
 had never been seen — by pointing out that the same argument 
-told much more strongly against the theory of the “special 
-creation” of new species by God ; and it went on to show that 
+told much more strongly against the theory of the "special 
+creation" of new species by God ; and it went on to show that 
 the development of new species was no more marvelous or 
 incredible than the development of a man from ovum and 
 sperm, or of a plant from a seed. In 1855 his second book, 
-The Principles of Psychology , undertook to trace the evolu- 
-tion of mind. Then, in 1857, came an essay on “Progress, 
-Its Law and Cause,” which took up Von Baer’s idea of the 
+The Principles of Psychology, undertook to trace the evolu- 
+tion of mind. Then, in 1857, came an essay on "Progress, 
+Its Law and Cause," which took up Von Baer’s idea of the 
 growth of all living forms from homogeneous beginnings to 
 heterogeneous developments, and lifted it into a general prin- 
 ciple of history and progress. In short Spencer had grown 
@@ -19263,8 +18832,8 @@ capped for the work he chose, and never did a man choose, so
 late in life, so great a work. 
 
 He was poor. He had not given much thought to getting a 
-living. “I don’t mean to get on,” he said; “I don’t think 
-getting on is worth the bother.” 1 He had resigned the editor- 
+living. "I don’t mean to get on," he said; "I don’t think 
+getting on is worth the bother." 1 He had resigned the editor- 
 ship of The Economist on receiving $2,500 as bequest from an 
 uncle; but his idleness had consumed this gift. It occurred 
 to him now that he might seek advance subscriptions for his 
@@ -19279,8 +18848,8 @@ ica; the total promising a modest $1,500 a year. Spencer was
 satisfied, and set to work with a will. 
 
 But after the publication of First Principles, in 1862, many 
-subscribers withdrew their names because of the famous “Part 
-One,” which, attempting to reconcile science and religion, 
+subscribers withdrew their names because of the famous "Part 
+One," which, attempting to reconcile science and religion, 
 offended bishops and pundits alike. The way of the peace- 
 maker is hard. First Principles and The Origin of Species 
 became the center of a great Battle of the Books, in which 
@@ -19349,9 +18918,9 @@ HI. FIRST PRINCIPLES
 
 1 . The Unknowable 
 
-“We too often forget,” says Spencer at the outset, “that 
+"We too often forget," says Spencer at the outset, "that 
 not only is there ‘a soul of goodness in things evil/ hut 
-generally also a soul of truth in things erroneous.” He pro- 
+generally also a soul of truth in things erroneous." He pro- 
 poses, therefore, to examine religious ideas, with a view to 
 finding that core of truth which under the changing form of 
 many faiths, has given to religion its persistent power over 
@@ -19362,9 +18931,9 @@ the universe drives us into inconceivabilities. The atheist
 tries to think of a self-existent world, uncaused and without 
 beginning ; but we cannot conceive of anything beginningless 
 or uncaused. The theist merely puts back the difficulty 
-by a step ; and to the theologian who says, “God^ made the 
-world,” the child’s unanswerable query comes, “Who made 
-God?” All ultimate religious ideas are logically incon- 
+by a step ; and to the theologian who says, "God^ made the 
+world," the child’s unanswerable query comes, "Who made 
+God?" All ultimate religious ideas are logically incon- 
 ceivable. 
 
 All ultimate scientific ideas are equally beyond rational con- 
@@ -19390,7 +18959,7 @@ THE STORY OF PHILOSOPHY
 
 
 we come upon mind and consciousness: and here are greater 
-puzzles than before. “Ultimate scientific ideas,” then, “are 
+puzzles than before. "Ultimate scientific ideas," then, "are 
 all representations of realities that cannot be comprehended. 
 ... In all directions the scientist’s investigations bring him 
 face to face with an insoluble enigma ; and he ever more clearly 
@@ -19399,26 +18968,26 @@ the greatness and the littleness of the human intellect — its
 power in dealing with all that comes within the range of ex- 
 perience, its impotence in dealing with all that transcends 
 experience. He, more than any other, truly knows that in 
-its ultimate nature nothing can be known .” 1 The only 
+its ultimate nature nothing can be known ." 1 The only 
 honest philosophy, to use Huxley’s word, is agnosticism. 
 
 The common cause of these obscurities is the relativity of 
-all knowledge. “Thinking being relating, no thought can ex- 
+all knowledge. "Thinking being relating, no thought can ex- 
 press more than relations. . . . Intellect being framed simply 
 by and for converse with phenomena, involves us in nonsense 
-when we try to use it for anything beyond phenomena.” 2 
+when we try to use it for anything beyond phenomena." 2 
 And yet the relative and phenomenal imply by their names 
 and natures something beyond them, something ultimate and 
-absolute. “On watching our thoughts we see how impossible 
+absolute. "On watching our thoughts we see how impossible 
 it is to get rid of the consciousness of an Actuality lying 
 behind Appearances, and how from this impossibility results 
-our indestructible belief in that Actuality.” 3 But what that 
+our indestructible belief in that Actuality." 3 But what that 
 Actuality is we cannot know. 
 
 From this point of view the reconciliation of science and 
-religions is no longer very difficult. “Truth generally lies 
-in the coordination of antagonistic opinions.” 4 Let science 
-admit that its “laws” apply only to phenomena and the rela- 
+religions is no longer very difficult. "Truth generally lies 
+in the coordination of antagonistic opinions." 4 Let science 
+admit that its "laws" apply only to phenomena and the rela- 
 tive; let religion admit that its theology is a rationalizing 
 myth for a belief that defies conception. Let religion cease 
 to picture the Absolute as a magnified man; much worse, as 
@@ -19441,8 +19010,8 @@ HERBERT SPENCER
 397 
 
 
-with “a love of adulation such as would he despised in a 
-human being.” 1 Let science cease to deny, deity, or to take 
+with "a love of adulation such as would he despised in a 
+human being." 1 Let science cease to deny, deity, or to take 
 materialism for granted. Mind and matter are, equally, 
 relative phenomena, the double effect of an ultimate cause 
 whose nature must remain unknown. The recognition of this 
@@ -19453,12 +19022,12 @@ Evolution
 
 Having indicated the unknowable, philosophy surrenders 
 it, and turns its face to what can be known. Metaphysics is 
-a mirage : as Michelet put it, it is “the art of befuddling one’s 
-self methodically.” The proper field and function of phi- 
+a mirage : as Michelet put it, it is "the art of befuddling one’s 
+self methodically." The proper field and function of phi- 
 losophy lies in the summation and unification of the results 
-of science. “Knowledge of the lowest kind is un-unified 
+of science. "Knowledge of the lowest kind is un-unified 
 knowledge; science is partially-unified knowledge; philosophy 
-is completely-unified knowledge.” s Such complete unifica- 
+is completely-unified knowledge." s Such complete unifica- 
 tion requires a broad and universal principle that will include 
 all experience, and will describe the essential features of all 
 knowledge. Is there a principle of this kind? 
@@ -19492,25 +19061,25 @@ and perhaps to the rhythms of climatic change; from the
 oscillations of molecules to the rise and fall of nations and 
 the birth and death of stars. 
 
-All these “laws of the knowable” are reducible (by an 
+All these "laws of the knowable" are reducible (by an 
 analysis which must not here be followed in detail) to the final 
 law of the persistence of force. But there is something static 
 and inert about this principle ; it does not so much as hint 
 at the secret of life. What is the dynamic principle of 
 reality? What is the formula of the growth and decay of 
 all things? It must be a formula of evolution and dissolu- 
-tion, for “an entire history of anything must include its 
+tion, for "an entire history of anything must include its 
 appearance out of the imperceptible and its disappearance 
-into the imperceptible .” 1 
+into the imperceptible ." 1 
 
 So Spencer offers us his famous formula of evolution, which 
 made the intellect of Europe gasp for breath, and required 
-ten volumes and forty years for its explanation. “Evolution 
+ten volumes and forty years for its explanation. "Evolution 
 is an integration of matter and a concomitant dissipation of 
 motion ; during which the matter passes from an indefinite, in- 
 coherent homogeneity to a definite, coherent heterogeneity; 
 and during which the retained motion undergoes a -parallel- 
-transformation.” 2 What does this mean? 
+transformation." 2 What does this mean? 
 
 The growth of planets out of nebulae; the formation of 
 oceans and mountains on the earth; the metabolism of elements 
@@ -19519,8 +19088,8 @@ of the heart in the embryo, and the fusion of bones after
 hirth; the unification of sensations and memories into knowl- 
 edge and thought, and of knowledge into science and phi- 
 losophy; the development of families into clans and gentes 
-and cities and states and alliances and the “federation of the 
-world”: here is the integration of matter, — the aggregation 
+and cities and states and alliances and the "federation of the 
+world": here is the integration of matter, — the aggregation 
 of separate items into masses and groups and wholes. Such 
 integration of course involves a lessening of motion in the parts, 
 as the growing power of the state lessens the freedom of the 
@@ -19535,7 +19104,7 @@ HERBERT SPENCER
 
 
 dependence, a protective tissue of relationships, which consti- 
-tute “coherence” and promote corporate survival. The pro- 
+tute "coherence" and promote corporate survival. The pro- 
 cess brings, too, a greater definiteness of forms and func- 
 tions : the nebula is shapeless, nebulous ; and yet out of it come 
 the elliptical regularity of the planets, the sharp lines of 
@@ -19567,8 +19136,8 @@ in the ebb of dissolution.
 
 Not content with this synthetic formula, Spencer endeavors 
 to show how it follows by inevitable necessity from the natural 
-operation of mechanical forces. There is, first, a certain “In- 
-stability of the Homogeneous” : i. e., similar parts cannot long 
+operation of mechanical forces. There is, first, a certain "In- 
+stability of the Homogeneous" : i. e., similar parts cannot long 
 remain similar because they are unevenly subjected to external 
 forces ; outer parts, e. g., are sooner attacked, like coast-line 
 
@@ -19582,12 +19151,12 @@ THE STORY OP PHILOSOPHY
 
 towns in war; and the variety of occupations moulds simi- 
 lar men into the varied embodiments of a hundred profes- 
-sions and trades. There is, again, a “Multiplication of 
-Effects”: one cause may produce a vast variety of results, 
+sions and trades. There is, again, a "Multiplication of 
+Effects": one cause may produce a vast variety of results, 
 and help to differentiate the world; a word amiss, like Marie 
 Antoinette’s, or an altered telegram at Ems, or a wind at 
 Salamis, may play an endless role in history. And there is 
-the law of “Segregation”: the parts of a relatively homo- 
+the law of "Segregation": the parts of a relatively homo- 
 geneous whole, being driven separate into different areas, are 
 shaped by diverse environments into dissimilar products, — * 
 as . the English become Americans, or Canadians, or Aus- 
@@ -19595,7 +19164,7 @@ tralians, according to the genius of the place. In these many
 ways the forces of nature build the variety of this evolving 
 world. 
 
-But finally, and inescapably, comes “Equilibration.” 
+But finally, and inescapably, comes "Equilibration." 
 Every motion, being motion under resistance, must sooner or 
 later come to an end ; every rhythmic oscillation (unless exter- 
 nally reinforced) suffers some loss of rate and amplitude. 
@@ -19636,8 +19205,8 @@ is a prelude to decay and death.
 First Principles is a magnificent drama, telling with almost 
 classic calm the story of the rise and fall, the evolution and 
 dissolution, of planets and life and man; hut it is a tragic 
-drama, for which the fittest epilogue is Hamlet’s word — “The 
-rest is silence.” Is there any wonder that men and women 
+drama, for which the fittest epilogue is Hamlet’s word — "The 
+rest is silence." Is there any wonder that men and women 
 nurtured on faith and hope rebelled against this summary of 
 existence? We know that we must die; but as it is a matter 
 that will take care of itself, we prefer to think of life. There 
@@ -19695,9 +19264,9 @@ vading a specialist’s field; but they atoned for errors or
 detail by illuminating generalizations that gave a new unity 
 and intelligibility to vast areas of biological fact. 
 
-Spencer begins with a famous definition: “Life is the con- 
+Spencer begins with a famous definition: "Life is the con- 
 tinuous adjustment of internal relations to external rela- 
-tions.” 1 The completeness; of life depends on the complete- 
+tions." 1 The completeness; of life depends on the complete- 
 ness of this correspondence; and life is perfect when the cor- 
 respondence is perfect. The correspondence is not a merely 
 passive adaptation; what distinguishes life is the adjustment 
@@ -19719,11 +19288,11 @@ remoulding activity of the organism upon the environment^
 but in its failure to explain what is that subtle power whereby 
 an organism is enabled to make these prophetic adjustments 
 that characterize vitality. In a chapter added to later edi- 
-tions, Spencer was forced to discuss “The Dynamic Element 
-in Life,” and to admit that his definition had not really re- 
-vealed the nature of life. “We are obliged to confess that 
+tions, Spencer was forced to discuss "The Dynamic Element 
+in Life," and to admit that his definition had not really re- 
+vealed the nature of life. "We are obliged to confess that 
 Life in its essence cannot be conceived in physico-chemical 
-terms.” 1 He did not realize how damaging such an admis- 
+terms." 1 He did not realize how damaging such an admis- 
 sion was to the unity and completeness of his system. 
 
 As Spencer sees in the life of the individual an adjustment 
@@ -19743,13 +19312,13 @@ reproduction.
 
 On the average, growth varies inversely with the rate of 
 energy-expenditure ; and the rate of reproduction varies 
-inversely with the degree of growth. “It is well known to 
+inversely with the degree of growth. "It is well known to 
 breeders that if a filly is allowed to bear a foal, she is thereby 
 prevented from reaching her proper size. ... As a converse 
 fact, castrated animals, as capons and notably cats, often 
-become larger than their unmutilated associates.” 2 The rate 
+become larger than their unmutilated associates." 2 The rate 
 of reproduction tends to fall as the development and capa- 
-bility of the individual progress. “When, from lowness of 
+bility of the individual progress. "When, from lowness of 
 organization, the ability to contend with external dangers 
 
 H,120. 
@@ -19766,21 +19335,21 @@ is small, there must be great fertility to compensate for the
 consequent mortality ; otherwise the race must die out. When, 
 on the contrary, high endowments give much capacity for 
 self-preservation, a correspondingly low degree of fertility is 
-requisite,” lest the rate of multiplication should outrun the 
+requisite," lest the rate of multiplication should outrun the 
 supply of food . 1 In general, then, there is an opposition 
 of individuation and genesis, or individual development and 
 fertility. The rule holds for groups and species more regu- 
 larly than for individuals : the more highly developed the 
 species or the group, the lower will its birth-rate be. But 
 it holds for individuals too, on the average. For example, 
-intellectual development seems hostile to fertility. “Where 
+intellectual development seems hostile to fertility. "Where 
 exceptional fertility exists, there is sluggishness of mind, and 
 where there has been, during education, excessive expenditure 
 in mental action, there frequently follows a complete or 
 partial infertility. Hence the particular kind of further 
 evolution which Man is hereafter to undergo is one which, 
 more than any other, may be expected to cause a decline in 
-his power of reproduction.” 2 * Philosophers are notorious for 
+his power of reproduction." 2 * Philosophers are notorious for 
 shirking parentage. In woman, on the other hand, the arrival 
 of motherhood normally brings a diminution of intellectual 
 activity ; 8 and perhaps her shorter adolescence is due to her 
@@ -19789,7 +19358,7 @@ earlier sacrifice to reproduction.
 Despite this approximate adaptation of birth-rate to the 
 needs of group survival, the adaptation is never complete, and 
 Malthus was right in his general principle that population 
-tends to outrun the means of subsistence. “From the begin- 
+tends to outrun the means of subsistence. "From the begin- 
 ning this pressure of population has been the proximate cause 
 of progress. It produced the original diffusion of the race. 
 It compelled men to abandon predatory habits and take to 
@@ -19809,7 +19378,7 @@ HERBERT SPENCER
 
 405 
 
-merits in production, and to increased skill and intelligence.” 1 
+merits in production, and to increased skill and intelligence." 1 
 ft is the chief cause of that struggle for existence through 
 which the fittest are enabled to survive, and through winch the 
 level of the race is raised. 
@@ -19847,7 +19416,7 @@ transmission of acquired characters ; and a theory of the origin
 i Biology, ii, 636. 
 
 2 Cf., address of Sir Wm, Bateson before the American Association for 
-the Advancement of Science (Toronto, Dec. 28, 1921), in Science , Jan. 20, 192?. 
+the Advancement of Science (Toronto, Dec. 28, 1921), in Science, Jan. 20, 192?. 
 
 
 
@@ -19857,11 +19426,11 @@ the Advancement of Science (Toronto, Dec. 28, 1921), in Science , Jan. 20, 192?.
 THE STORY OF PHILOSOPHY 
 
 
-a theory of “transfigured realism”; 1 and a hundred other 
+a theory of "transfigured realism"; 1 and a hundred other 
 theories that have all the obfuscating power of metaphysics 
 rather than the clarifying virtue of a matter-of-fact psy- 
 chology. In these volumes we leave realistic England and 
-go “back to Kant.” 
+go "back to Kant." 
 
 What strikes us at once is that for the first time in the 
 history of psychology, we get here a resolutely evolutionist 
@@ -19887,15 +19456,15 @@ motion, becomes more than ever manifest when we bring the
 two into juxtaposition. And the immediate verdict of con- 
 sciousness thus given, might be analytically justified; . . . 
 for it might be shown that the conception of an oscillating 
-molecule is built out of many units of feeling.” (I. e., our 
+molecule is built out of many units of feeling." (I. e., our 
 knowledge of matter is built up out of units of mind — sensa- 
-tions and memories and ideas). “. . . Were we compelled 
+tions and memories and ideas). ". . . Were we compelled 
 to choose between the alternatives of translating mental 
 phenomena into physical phenomena, or of translating physi- 
 
 i Spencer means by this that although the objects of experience may very 
 well be transfigured by perception, and be quite other than they seem, they 
-have an existence which does not all depend upon perceiving them. — II, 494“ 
+have an existence which does not all depend upon perceiving them. — II, 494" 
 zAutob., ii, 549. 
 
 
@@ -19919,18 +19488,18 @@ of the continuity of life and the continuity of mind; he will
 see, as on. a retarded cinematograph, the formation of nerves, 
 the development of adaptive reflexes and instincts, and the 
 production of consciousness and thought through the clash 
-of conflicting impulses. “Intelligence has neither distinct 
+of conflicting impulses. "Intelligence has neither distinct 
 grades nor is it constituted by faculties that are truly inde- 
 pendent, but its highest manifestations are the effects of a 
 complication that has arisen by insensible steps out of the 
-simplest elements.” 2 There is no hiatus between instinct and 
+simplest elements." 2 There is no hiatus between instinct and 
 reason ; each is an adjustment of inner relations to outer rela- 
 tions, and the only difference is one of degree, in so far as the 
 relations responded to by instinct are comparatively stereo- 
 typed and simple, while those met by reason are comparatively 
 novel and complex. A rational action is simply an instinctive 
 response which has survived in a struggle with other instinc- 
-tive responses aroused by a situation ; “deliberation” is merely 
+tive responses aroused by a situation ; "deliberation" is merely 
 the internecine strife of rival impulses. 8 At bottom, reason 
 and instinct, mind and life, are one. 
 
@@ -19941,7 +19510,7 @@ action, an action is the last stage of an idea. Similarly, an
 emotion is the first stage of an instinctive action, and the ex- 
 pression of the emotion is a useful prelude to the completed 
 
-1 Principles of Psychology , New York, 1910; i, 158-9. 
+1 Principles of Psychology, New York, 1910; i, 158-9. 
 
 2 I, 388. 
 
@@ -19959,15 +19528,15 @@ THE STORY OF PHILOSOPHY
 
 response ; the baring of the teeth in anger gives a substantial 
 hint of that tearing of the enemy to pieces which used to be 
-the natural termination of such a beginning. 1 “Forms of 
-thought” like the perception of space and time, or the notions 
+the natural termination of such a beginning. 1 "Forms of 
+thought" like the perception of space and time, or the notions 
 of quantity and cause, which Kant supposed innate, are 
 merely instinctive ways of thinking; and as instincts are habits 
 acquired by the race but native to the individual, so these 
 categories are mental habits slowly acquired in the course of 
 evolution, and now part of our intellectual heritage. 2 All 
-these age-long puzzles of psychology can be explained by “the 
-inheritance of continually-accumulating modifications.” 3 — 
+these age-long puzzles of psychology can be explained by "the 
+inheritance of continually-accumulating modifications." 3 — 
 It is of course just this all-pervading assumption that makes 
 so much of these laborious volumes questionable, and perhaps 
 vain. 
@@ -19985,7 +19554,7 @@ almost half a century, his interest is predominantly in the
 problems of economics and government; he begins and ends, 
 like Plato, with discourses on moral and political justice. No 
 man, not even Comte (founder of the science and maker of the 
-word) , has done so much for sociology. 
+word), has done so much for sociology. 
 
 In a popular introductory volume, The Study of Sociology 
 (1873), Spencer argues eloquently for the recognition and 
@@ -20017,11 +19586,11 @@ society must yet overcome before it can deserve the name of
 science. 2 The young study is harassed by a multitude of 
 prejudices — personal, educational, theological, economic, po- 
 litical, national, religious ; and by the ready omniscience of 
-the uninformed. “There is a story of a Frenchman who, hav- 
+the uninformed. "There is a story of a Frenchman who, hav- 
 ing been three weeks here, proposed to write a book on Eng- 
 land; who, after three months, found that he was not quite 
 ready; and who, after three years, concluded that he knew 
-nothing about it.” 3 Such a man was ripe to begin the study 
+nothing about it." 3 Such a man was ripe to begin the study 
 of sociology. Men prepare themselves with life-long study 
 before becoming authorities in physics or chemistry or 
 biology ; but in the field of social and political affairs every 
@@ -20063,18 +19632,18 @@ rich in reward for every student of society.
 Nevertheless, the initial conception of the work is typical of 
 Spencer’s habit of rushing into generalizations. Society, he 
 believes, is an organism, having organs of nutrition, circula- 
-tion, coordination and reproduction , 1 very much as in the case 
+tion, coordination and reproduction, 1 very much as in the case 
 of individuals. It is true that in the individual, consciousness 
 m localized, while in society each of the parts retains its own 
 consciousness and its own will; but the centralization of gov- 
 ernment and authority tend to reduce the scope of this distinc- 
-tion. “A social organism is like an individual organism in 
+tion. "A social organism is like an individual organism in 
 these essential traits : that it grows ; that while growing it be- 
 comes more complex; that while becoming more complex, its 
 parts acquire increasing mutual dependence; that its life 
 is immense in length compared with the lives of its component 
 units ; . . . that in both cases there is increasing integration 
-accompanied by increasing heterogeneity.” 2 Thus the devel- 
+accompanied by increasing heterogeneity." 2 Thus the devel- 
 opment of society liberally carries out the formula of evolu- 
 tion: the growing size of the political unit, from family to 
 state and league, the growing size of the economic unit, from 
@@ -20112,18 +19681,18 @@ dreams and ghosts. 1 The word spirit was, and is, applied
 equally to ghosts and gods. The primitive mind believed that 
 in death, or sleep, or trance, the ghost or spirit left the body;; 
 even in a sneeze the forces of expiration might expel the spirit, 
-so that a protective “God bless you !” — or its equivalent — be- 
+so that a protective "God bless you !" — or its equivalent — be- 
 came attached to this dangerous adventure. Echoes and 
 reflections were sounds and sights of one’s ghost or double^ 
 the Basuto refuses to walk by a stream, lest a crocodile should 
-seize his shadow and consume it. God was, at first, only “a 
-permanently existing ghost.” 2 Persons who had been power- 
+seize his shadow and consume it. God was, at first, only "a 
+permanently existing ghost." 2 Persons who had been power- 
 ful during their earthly lives were believed to keep their 
 power in their ghostly appearance. Among the Tannese the 
-word for god means, literally, a dead man. 3 “Jehovah” meant 
-“the strong one,” “the warrior” : he had been a local potentate, 
-perhaps, who was worshiped after his death as the “god of 
-hosts.” Such dangerous ghosts had to be propitiated : funeral 
+word for god means, literally, a dead man. 3 "Jehovah" meant 
+"the strong one," "the warrior" : he had been a local potentate, 
+perhaps, who was worshiped after his death as the "god of 
+hosts." Such dangerous ghosts had to be propitiated : funeral 
 rites grew into worship, and all the modes of currying favor 
 with the earthly chief were applied to the ceremonial of 
 prayer and the appeasement of the gods. Ecclesiastical 
@@ -20139,13 +19708,13 @@ the answer to his query as to whether he would meet his un-
 baptized ancestors in heaven. 4 (Something of this belief 
 entered into the bravery of the Japanese in the war of 1905 ; 
 
-1 Principles of Sociology , New York, 1910; i, 286. 
+1 Principles of Sociology, New York, 1910; i, 286. 
 
 2 I, 296. 
 
 s I, 303. 
 
-4 I, 284, 422; Encycl. Brit., “Ancestor-worship” 
+4 I, 284, 422; Encycl. Brit., "Ancestor-worship" 
 
 
 
@@ -20183,14 +19752,14 @@ tism of the male. Because the death rate in warlike societies
 is high, they tend to polygamy and a low status of women. 
 Most states have been militant because war strengthens the 
 central power and makes for the subordination of all interests 
-to those of the state. Hence “history is little more than the 
-Newgate calendar of nations,” a record of robbery, treachery, 
+to those of the state. Hence "history is little more than the 
+Newgate calendar of nations," a record of robbery, treachery, 
 murder and national suicide. Cannibalism is the shame of 
 primitive societies; but some modem societies are sociophag- 
 ous, and enslave and consume whole peoples. Until war is 
 outlawed and overcome, civilization is a precarious interlude, 
-between catastrophies ; “the possibility of a high social . . • 
-state fundamentally depends on the cessation of war.” 1 
+between catastrophies ; "the possibility of a high social . . • 
+state fundamentally depends on the cessation of war." 1 
 HI, 663. 
 
 
@@ -20219,8 +19788,8 @@ thousand investments cross every frontier, international peace
 becomes a necessity as well. As foreign war diminishes, 
 domestic brutality decreases; monogamy replaces polygamy 
 because the life-tenure of men becomes almost equal to that 
-of women; the status of women rises, and the “emancipation 
-of women” becomes a matter of course . 2 Superstitious reli- 
+of women; the status of women rises, and the "emancipation 
+of women" becomes a matter of course . 2 Superstitious reli- 
 gions give way to liberal creeds whose focus of effort is the 
 amelioration and ennoblement of human life and character on 
 this earth. The mechanisms of industry teach men the mech- 
@@ -20231,8 +19800,8 @@ begins to study the people at work rather than the kings at
 war; it ceases to be a record of personalities and becomes the 
 history of great inventions and new ideas. The power of 
 government is lessened, and the power of productive groups 
-within the state increases; there is a passage “from status to 
-contract,” from equality in subordination to freedom in initia- 
+within the state increases; there is a passage "from status to 
+contract," from equality in subordination to freedom in initia- 
 
 i II, 634-5. 
 
@@ -20246,7 +19815,7 @@ m THE STORY OP PHILOSOPHY
 
 tives, from compulsory cooperation to cooperation in liberty. 
 The contrast between the militant and the industrial types of 
-society is indicated by “inversion of the belief that individuals 
+society is indicated by "inversion of the belief that individuals 
 exist for the benefit of the State into the belief that the Stat0 
 exists for the benefit of the individuals. 1 
 
@@ -20296,9 +19865,9 @@ a derivative of the militant and feudal type of state, and has
 no natural affiliation with industry. Like militarism, social- 
 ism involves the development of centralization, the extension of 
 governmental power, the decay of initiative, and the subordi- 
-nation of the individual. “Well may Prince Bismarck display 
-leanings towards State Socialism.” 1 “It is the law of all 
-organization that as it becomes complete it becomes rigid.” 2 
+nation of the individual. "Well may Prince Bismarck display 
+leanings towards State Socialism." 1 "It is the law of all 
+organization that as it becomes complete it becomes rigid." 2 
 Socialism would be in industry what a rigid instinctive equip- 
 ment is in animals; it would produce a community of human 
 ants and bees, and would issue in a slavery far more monot- 
@@ -20327,7 +19896,7 @@ laws of Revolutionary France. Economic relations must be
 left to the automatic self-adjustment (imperfect though it 
 may be) of supply and demand. What society most wants it 
 
-1 Social Statics , p. 329. 
+1 Social Statics, p. 329. 
 
 2 Sociology, i, 571. 
 
@@ -20355,9 +19924,9 @@ refractory medium of the London Times . 2 He pointed out
 that strikes are useless unless most strikes fail; for if all work- 
 ers should, at various times, strike and win, prices would pre- 
 sumably rise in accord with the raised wages, and the situation 
-would be as before . 8 “We shall presently see the injustices 
+would be as before . 8 "We shall presently see the injustices 
 once inflicted by the employing classes paralleled by the in- 
-justices inflicted by the employed classes.” 4 
+justices inflicted by the employed classes." 4 
 
 Nevertheless his conclusions were not blindly conservative. 
 He realized the chaos and brutality of the social system that 
@@ -20365,15 +19934,15 @@ surrounded him, and he looked about with evident eagerness to
 find a substitute. In the end he gave his sympathies to the co- 
 operative movement ; he saw in this the culmination of that pas- 
 sage from status to contract in which Sir Henry Maine had 
-found the essence of economic history. “The regulation of 
+found the essence of economic history. "The regulation of 
 labor becomes less coercive as society assumes a higher type. 
 Here we reach a form in which the coerciveness has diminished 
 to the smallest degree consistent with combined action. Each 
 member is his own master in respect of the work he does ; and 
-is subject only to such rules, established by majority , of the 
+is subject only to such rules, established by majority, of the 
 members, as are needful for maintaining order. The transi- 
 tion from the compulsory cooperation of militancy to the vol- 
-untary cooperation of industrialism is completed .” 5 He 
+untary cooperation of industrialism is completed ." 5 He 
 
 iCf. The Man vs. the State, 
 
@@ -20395,39 +19964,39 @@ doubts if human beings are yet honest and competent enough
 to make so democratic a system of industry efficient; but he 
 is all for trying. He foresees a time when industry will no 
 longer be directed by absolute masters, and men will no longer 
-sacrifice their lives in the production of rubbish. “As the 
+sacrifice their lives in the production of rubbish. "As the 
 contrast between the militant and the industrial types is indi- 
 cated by inversion of the belief that individuals exist for the 
 benefit of the state into the belief that the state exists for the 
 benefit of individuals; so the contrast between the industrial 
 type and the type likely to be evolved from it is indicated by 
 inversion of the belief that life is for work into the belief that 
-work is for life.” 1 
+work is for life." 1 
 
 
 vn. ETHICS : THE EVOLUTION OF MORALS 
 
 So important does this problem of industrial reconstruction 
 seem to Spencer that he devotes to it again the largest section 
-of The Principles of Ethics (1893) — “this last part of my 
+of The Principles of Ethics (1893) — "this last part of my 
 task ... to which I regard all the preceding parts as subsid- 
-iary.” 2 As a man with all the moral severity of the mid- 
+iary." 2 As a man with all the moral severity of the mid- 
 Victorian, Spencer was especially sensitive to the problem of 
 finding a new and natural ethic to replace the moral code 
-which had been associated with the traditional faith. “The 
+which had been associated with the traditional faith. "The 
 supposed supernatural sanctions of right conduct do not, if 
 rejected, leave a blank. There exist natural sanctions no less 
-pre-emptory, and covering a much wider field.” 3 
+pre-emptory, and covering a much wider field." 3 
 
-The new morality must be built upon biology. “Accept- 
+The new morality must be built upon biology. "Accept- 
 ance of the doctrine of organic evolution determines certain 
-ethical conceptions.” 4 Huxley, in his Romanes lectures at Ox- 
+ethical conceptions." 4 Huxley, in his Romanes lectures at Ox- 
 ford in 1893, argued that biology could not be taken as an 
-ethical guide ; that “nature red in tooth and claw” (as Tenny- 
+ethical guide ; that "nature red in tooth and claw" (as Tenny- 
 son was phrasing it) exalted brutality and cunning rather 
 than justice and love; but Spencer felt that a moral code 
 
-1 1 , 575 . 
+1 1, 575 . 
 
 2 Ethics, vol. i, p. xiii. 
 
@@ -20446,8 +20015,8 @@ which could not meet the tests of. natural selection and the
 struggle for existence, was from the beginning doomed to lip- 
 service and futility. Conduct, like anything else, should be 
 called good or bad as it is well adapted, or mal-adapted, to the 
-ends of life ; “the highest conduct is that which conduces to the 
-greatest length, breadth, and completeness of life .” 1 Or, in 
+ends of life ; "the highest conduct is that which conduces to the 
+greatest length, breadth, and completeness of life ." 1 Or, in 
 terms of the evolution formula, conduct is moral according as 
 it makes the individual or the group more integrated and co- 
 herent in the midst of a heterogeneity of ends. Morality, like 
@@ -20491,14 +20060,14 @@ HERBERT SPENCER
 self to her own people, insisted on the completion of the sac- 
 rifice which she had in a moment of weakness reluctantly 
 consented to forego 5 ; and Wilkes tells of another who loaded 
-her rescuer ‘with abuse , 5 and ever afterwards manifested the 
-most deadly hatred towards him . 55 1 “Livingstone says of 
+her rescuer ‘with abuse, 5 and ever afterwards manifested the 
+most deadly hatred towards him . 55 1 "Livingstone says of 
 the Makololo women, on the shores of the Zambesi, that they 
 were quite shocked to hear that in England a man had only 
 one wife: to have only one was not ‘respectable . 5 So, too, 
 in Equatorial Africa, according to Reade, ‘If a man marries, 
 and his wife thinks that he can afford another spouse, she 
-pesters him to marry again ; and calls him a “stingy fellow 55 
+pesters him to marry again ; and calls him a "stingy fellow 55 
 if he declines to do so . 5 2 
 
 Such facts, of course, conflict with the belief that there is 
@@ -20559,18 +20128,18 @@ and upon silent submission to multiple motherhood as the high-
 est virtue of a woman . 3 The Kaiser thought of God as the 
 leader of the German army, and followed up his approbation 
 of duelling by attending divine service . 4 The North Ameri- 
-can Indians “regarded the use of the bow and arrow, the 
+can Indians "regarded the use of the bow and arrow, the 
 war-club and spear, as the noblest employments of man. . . . 
 They looked upon agricultural and mechanical labor as de- 
 grading. . . . Only during recent times — only now that na- 
 tional welfare is becoming more and more dependent on supe- 
-rior powers of production,” and these “on the higher mental 
+rior powers of production," and these "on the higher mental 
 faculties, are other occupations than militant ones rising into 
-respectability.” 6 
+respectability." 6 
 
 Now war is merely wholesale cannibalism; and there is no 
 reason why it should not be classed with cannibalism and un- 
-equivocally denounced. “The sentiment and the idea of jus- 
+equivocally denounced. "The sentiment and the idea of jus- 
 tice can grow only as fast as the external antagonisms of 
 
 1 1, 458. 
@@ -20591,11 +20160,11 @@ m
 
 
 societies decrease, and the internal harmonious cooperations of 
-their members increase.” 1 How can this harmony be pro- 
+their members increase." 1 How can this harmony be pro- 
 moted? As we have seen, it comes more readily through free- 
 dom than through regulation. The formula of justice should 
-be: “Every man is free to do that which he wills, provided 
-he infringes not the equal freedom of any other man.” 2 This 
+be: "Every man is free to do that which he wills, provided 
+he infringes not the equal freedom of any other man." 2 This 
 is a formula hostile to war, which exalts authority, regimenta- 
 tion and obedience; it is a formula favorable to peaceful in- 
 dustry, for it provides a maximum of stimulus with an absolute 
@@ -20651,8 +20220,8 @@ that the poverty of their victims would not shield them from
 punishment; and all the expenses of the state should be met 
 by direct taxation, lest the invisibility of taxation should di- 
 vert public attention from governmental extravagance . 4 But 
-“beyond maintaining justice, the state cannot do anything else 
-without transgressing justice ” ; 6 for it would then be protect- 
+"beyond maintaining justice, the state cannot do anything else 
+without transgressing justice " ; 6 for it would then be protect- 
 ing inferior individuals from that natural apportionment of 
 reward and capacity, penalty and incapacity, on which the 
 survival and improvement of the group depend. 
@@ -20662,13 +20231,13 @@ of land, if we could separate the land from its improvements . 6
 In his first book, Spencer had advocated nationalization of the 
 soil, to equalize economic opportunity; but he withdrew his 
 contention later (much to the disgust of Henry George, who 
-called him “the perplexed philosopher”), on the ground that 
+called him "the perplexed philosopher"), on the ground that 
 land is carefully husbanded only by the family that owns 
 it, and that can rely on transmitting to its own descendants 
 the effects of the labor put into it. As for private property, 
 it derives immediately from the law of justice, for each man 
 should be equally free to retain the products of his thrift. 
-The justice of bequests is not so obvious ; but the “right to be- 
+The justice of bequests is not so obvious ; but the "right to be- 
 queath is included in the right of ownership, since otherwise 
 
 1 I I, 4, 217. 
@@ -20687,12 +20256,12 @@ HERBERT SPENCER
 
 423 
 
-the ownership is not complete.” 1 Trade should be as free 
+the ownership is not complete." 1 Trade should be as free 
 among nations as among individuals ; the law of justice should 
 be no merely tribal code, but an inviolable maxim of interna- 
 tional relations. 
 
-These are, in outline, the real “rights of man” — the right to 
+These are, in outline, the real "rights of man" — the right to 
 life, liberty, and the pursuit of happiness on equal terms with 
 all. Besides these economic rights, political rights are unim- 
 portant unrealities . 1 Changes in the form of government 
@@ -20755,15 +20324,15 @@ vidual with his family, his group, and his race. Presumably
 egoism will remain dominant; but perhaps that is desirable. 
 If everybody thought more of the interests of others than of 
 his own we should have a chaos of curtsies and retreats ; and 
-probably “the pursuit of individual happiness within the lim- 
+probably "the pursuit of individual happiness within the lim- 
 its prescribed by social conditions is the first requisite to the 
-attainment of the greatest general happiness.” 8 What we 
+attainment of the greatest general happiness." 8 What we 
 may expect, however, is a great enlargement of the sphere of 
 sympathy, a great development of the impulses to altruism. 
 Even now the sacrifices entailed by parentage are gladly made ; 
-“the wish for children among the childless, and the occasional 
+"the wish for children among the childless, and the occasional 
 adoption of children, show how needful for the attainment of 
-certain egoistic satisfactions are these altruistic activities.” * 
+certain egoistic satisfactions are these altruistic activities." * 
 The intensity of patriotism is another instance of the passion- 
 ate preference of larger interests to one’s immediate concerns. 
 Every generation of social living deepens the impulses to mu- 
@@ -20781,9 +20350,9 @@ HERBERT SPENCER
 
 m 
 
-tual aid . 1 “Unceasing social discipline will so mould human 
+tual aid . 1 "Unceasing social discipline will so mould human 
 nature that eventually, sympathetic pleasures will be spon- 
-taneously pursued to the fullest extent advantageous to all.” 2 
+taneously pursued to the fullest extent advantageous to all." 2 
 The sense of duty which is the echo of generations of compul- 
 sion to social behavior, will then disappear ; altruistic actions, 
 having become instinctive through their natural selection for 
@@ -20795,7 +20364,7 @@ fect state.
 
 vm. CRITICISM 
 
-The intelligent reader, in the course of this brief analysis , 3 
+The intelligent reader, in the course of this brief analysis, 3 
 will have perceived certain difficulties in the argument, and 
 will need no more than some scattered reminders as to where 
 the imperfections lie. Negative criticism is always unpleas- 
@@ -20812,13 +20381,13 @@ which we are merely a transient wave. But we must not dog-
 matize on the subject, since in strict logic the assertion that 
 anything is unknowable already implies some knowledge of 
 the thing. Indeed, as Spencer proceeds through his ten vol- 
-umes, he shows “a prodigious knowledge of the unknowable.” 4 
+umes, he shows "a prodigious knowledge of the unknowable." 4 
 
 1 1, 466. 
 
 2 I, 250. 
 
-8 The analysis, of course, is incomplete. "Space forbids” (the authoT has 
+8 The analysis, of course, is incomplete. "Space forbids" (the authoT has 
 often smiled at this cloak for laziness, but must offer it here), a discussion of 
 the Education, the Essays, and large sections of the Sociology . The lesson of 
 the Education has been too well learned; and we require today some corrective 
@@ -20826,7 +20395,7 @@ of Spencer’s victorious assertion of the claims of science as against letters 
 the arts. Of the essays, the best are those on style, laughter, and music. 
 Hugh Elliott’s Herbert Spencer is an admirable exposition. 
 
-*.bowne: Kant and Spencer , p. 253. 
+*.bowne: Kant and Spencer, p. 253. 
 
 
 
@@ -20835,7 +20404,7 @@ THE STORY OF PHILOSOPHY
 
 As Hegel put it : to limi t reason by reasoning is like trying to 
 swim without entering the water. And all this logic-chopping 
-about “inconceivability” — how far away that seems to us now, 
+about "inconceivability" — how far away that seems to us now, 
 how like those sophomoric days when to be alive was to de- 
 bate! And for that matter, an unguided machine is not much 
 more conceivable than a First Cause, particularly if, by this 
@@ -20846,9 +20415,9 @@ ruthless individual competition, saw only the struggle for ex-
 istence. 
 
 What shall we say of that tremendous definition of evolu- 
-tion? Does it explain anything? “To say, ‘first there was 
+tion? Does it explain anything? "To say, ‘first there was 
 the simple, and then the complex was evolved out of it,’ and so 
-on, is not to explain nature.” 1 Spencer, says Bergson, re- 
+on, is not to explain nature." 1 Spencer, says Bergson, re- 
 pieces, he does not explain ; 2 he misses, as he at last perceives, 
 the vital element in the world. The critics, evidently, have 
 been irritated by the definition: its Latinized English is es- 
@@ -20860,8 +20429,8 @@ to the heed of concentrating in a brief statement the' flow of
 all existence. But in truth he is a little too fond of his defini- 
 tion; he rolls it over his tongue like a choice morsel, and takes 
 it apart and puts it together again interminably. The weak 
-point of the definition lies in the supposed “instability of the 
-homogeneous.” Is a whole composed pf like parts more un- 
+point of the definition lies in the supposed "instability of the 
+homogeneous." Is a whole composed pf like parts more un- 
 stable, more subject to change, than a whole composed of un- 
 like parts? The heterogeneous, as more complex, would 
 presumably be more unstable than the homogeneously simple. 
@@ -20869,7 +20438,7 @@ In ethnology and politics it is taken for granted that heter-
 ogeneity makes for instability, and that the fusion of immi- 
 grant stocks into one national type would strengthen a society. 
 
-1 Ritchie: Darwin and Hegel , p. 60. 
+1 Ritchie: Darwin and Hegel, p. 60. 
 
 2 Creative Evolution, p. 64>. 
 
@@ -20899,20 +20468,20 @@ losophies — would be more illuminating than the formula of in-
 coherence and coherence, of homo- and heterogeneity, of 
 dissipation and integration? 
 
-“I am a bad observer of humanity in the concrete,” says 
-Spencer, “being too much given to wandering into the ab- 
-stract.” 2 * This is dangerous honesty. Spencer’s method, of 
+"I am a bad observer of humanity in the concrete," says 
+Spencer, "being too much given to wandering into the ab- 
+stract." 2 * This is dangerous honesty. Spencer’s method, of 
 course, was too deductive and ci priori, very different from 
 Bacon’s ideal or the actual procedure of scientific thought. 
-He had, says his secretary, “an inexhaustible faculty of de- 
+He had, says his secretary, "an inexhaustible faculty of de- 
 veloping a, priori and a posteriori, inductive and deductive, 
-arguments in support of any imaginable proposition ;” 8 and 
+arguments in support of any imaginable proposition ;" 8 and 
 the a priori arguments were probably prior to the others. 
 Spencer began, like a scientist, with observation ; he proceeded, 
 like a scientist, to make hypotheses; but then, unlike a scien- 
 tist, he resorted not to experiment, nor to impartial observa- 
 tion, but to the selective accumulation of favorable data. He 
-had no nose at all for “negative instances.” Contrast the 
+had no nose at all for "negative instances." Contrast the 
 procedure of Darwin, who, when he came upon data unfav- 
 
 1 Cf. Boas : The Mind of Primitive Man . 
@@ -20934,7 +20503,7 @@ readily than the welcome facts !
 
 2. Biology and Psychology 
 
-In a foot-note to his essay on “Progress,” Spencer candidly 
+In a foot-note to his essay on "Progress," Spencer candidly 
 confesses that his ideas of evolution were based on Lamarck’s 
 theory of the transmissibility of acquired characters, and were 
 not really an anticipation of Darwin, whose essential idea was 
@@ -20949,10 +20518,10 @@ development advances — with such facts as the higher rate of
 reproduction in civilized Europe as compared with savage 
 peoples, the major defects of his biological theory are his re- 
 liance on Lamarck and his failure to find a dynamic concep- 
-tion of life. When he confesses that life “cannot be conceived 
-in physico-chemical terms,” 1 the “admission is fatal to his 
+tion of life. When he confesses that life "cannot be conceived 
+in physico-chemical terms," 1 the "admission is fatal to his 
 formula of evolution, to his definition of life, and to the co- 
-herence of the Synthetic Philosophy.” 2 The secret of life 
+herence of the Synthetic Philosophy." 2 The secret of life 
 might better have been sought in the power of mind to adjust 
 external to internal relations than in the almost passive ad- 
 justment of the organism to the environment. On Spencer’s 
@@ -20990,7 +20559,7 @@ ual assumption that evolution and progress are synonymous,
 whereas it may well be that evolution will give to insects and 
 bacteria the final victory in their relentless war with man. It 
 is not quite evident that the industrial state is either more pa- 
-cific or more moral than the “militant” feudalism that pre- 
+cific or more moral than the "militant" feudalism that pre- 
 ceded it. Athens’ most destructive wars came long after her 
 feudal lords had yielded power to a commercial bourgeoisie; 
 and the countries of modern Europe seem to make war with 
@@ -21021,9 +20590,9 @@ THE STORY OF PHILOSOPHY
 
 the industrial regime; he was almost blind to the brutal ex- 
 ploitation that flourished in England before the state inter- 
-fered to mitigate it ; all that he could see “in the middle of 
-our century, especially in England,” was “a degree of individ- 
-ual freedom greater than ever before existed.” 1 No wonder 
+fered to mitigate it ; all that he could see "in the middle of 
+our century, especially in England," was "a degree of individ- 
+ual freedom greater than ever before existed." 1 No wonder 
 that Nietzsche reacted in disgust from industrialism, and ex- 
 aggerated, in his turn, the virtues of the military life . 2 
 
@@ -21037,14 +20606,14 @@ highly evolved of modern states. He tried to meet this point
 by arguing that heterogeneity involves the freedom of the 
 parts, and that such freedom implies a minimum of govern- 
 ment; but this is quite a different note than that which we 
-heard in “ coherent heterogeneity.” In the human body inte- 
+heard in " coherent heterogeneity." In the human body inte- 
 gration and evolution leave rather little freedom to the parts. 
 Spencer replies that in a society consciousness exists only 
 in the parts, while in the body consciousness exists only in 
 the whole. But social consciousness — consciousness of the in- 
 terests and processes of the group — is as centralized in society 
 as personal consciousness is in the individual; very few of us 
-have any “sense of the state.” Spencer helped to save us from 
+have any "sense of the state." Spencer helped to save us from 
 a regimental state socialism, but only by the sacrifice of his 
 consistency and his logic. 
 
@@ -21054,9 +20623,9 @@ political thinking had been formed in the days of laissez-faire,
 and under the influence of Adam Smith ; while his later years 
 were lived in a period when England was struggling to correct, 
 
-1 Sociology, iii, 607. Cf. The Study of Sociology , p. 335: “The testimony is 
+1 Sociology, iii, 607. Cf. The Study of Sociology, p. 335: "The testimony is 
 that higher wages commonly result only in more extravagant living or in 
-drinking to greater excess.” 
+drinking to greater excess." 
 
 2 Cf . The Joyful Wisdom, sect. 40. 
 
@@ -21073,8 +20642,8 @@ interference ; he objected to state-financed education, or to
 governmental protection of citizens against fraudulent fi- 
 nance ; 1 at one time he argued that even the management of 
 war should be a private, and not a state, concern ; 2 he wished, 
-as Wells put it, “to raise public shiftlessness to the dignity of a 
-national policy.” He carried his MSS. to the printer him- 
+as Wells put it, "to raise public shiftlessness to the dignity of a 
+national policy." He carried his MSS. to the printer him- 
 self, having too little confidence in a government institution 
 to entrust them to the Post Office . 8 He was a man of intense 
 individuality, irritably insistent on being let alone ; and every 
@@ -21129,17 +20698,17 @@ When Czar Alexander II visited London, and expressed to
 Lord Derby a desire to meet the distinguished savants of 
 England, Derby invited Spencer, Huxley, Tyndall, etc. The 
 others attended, but Spencer declined. He associated with 
-only a few intimates. “No man is equal to his book,” he wrote. 
-“All the best products of his mental activity go into his book, 
+only a few intimates. "No man is equal to his book," he wrote. 
+"All the best products of his mental activity go into his book, 
 where they come separated from the mass of inferior products 
-with which they are mingled in his daily talk.” 2 When peo- 
+with which they are mingled in his daily talk." 2 When peo- 
 ple insisted on coming to see him he inserted stopping into his 
 %ars, and listened placidly to their conversation. 
 
 Strange to say, his fame vanished almost as suddenly as it 
 had come. He outlived the height of his own repute, and was 
 saddened, in his last years, by seeing what little power his 
-tirades had had to stop the tide of “paternalistic” legislation. 
+tirades had had to stop the tide of "paternalistic" legislation. 
 He had become unpopular with almost every class. Scientific 
 specialists whose privileged fields he had invaded damned him 
 with faint praise, ignoring his contributions and emphasizing 
@@ -21148,8 +20717,8 @@ to an eternity of punishment. Laborites who liked his de-
 nunciations of war turned from him in anger when he spoke 
 his mind on socialism and on trade-union politics; while con- 
 servatives who liked his views on socialism shunned him because 
-of his agnosticism. “I am more Tory than any Tory and 
-more radical than any Radical,” he said, wistfully. 3 He was 
+of his agnosticism. "I am more Tory than any Tory and 
+more radical than any Radical," he said, wistfully. 3 He was 
 
 i Autob,, ii, 242. 
 
@@ -21247,7 +20816,7 @@ dare cease to be Christians. — So argued Friedrich Nietz-
 sche. 
 
 
-“The secret stimulus of the French free-thinkers from 
+"The secret stimulus of the French free-thinkers from 
 Voltaire to August Comte was not to remain behind the 
 Christian ideal, . . . but to outbid it if possible. Comte, 
 with his ‘Live for others,’ out-Christianizes Christianity. 
@@ -21266,7 +20835,7 @@ Stuart Mill, who gave the greatest fame to the theory of
 sympathetic affections, of pity, and of usefulness to others 
 as the principle of action. . . . All the systems of socialism 
 placed themselves unwittingly . . . upon the common ground 
-of these doctrines.” 1 
+of these doctrines." 1 
 
 Darwin unconsciously completed the work of the Encyclo- 
 pedists: they had removed the theological basis of modern 
@@ -21279,26 +20848,26 @@ battle we call life, what we need is not goodness but strength,
 not humility but pride, not altruism but resolute intelligence; 
 that equality and democracy are against the grain of selection 
 and survival; that not masses but geniuses are the goal of ev- 
-olution; that not “justice” but power is the arbiter of all dif- 
+olution; that not "justice" but power is the arbiter of all dif- 
 ferences and all destinies.— So it seemed to Friedrich Nietzsche. 
 
 Now if all this were true, nothing could be more magnificent 
 or significant than Bismarck. Here was a man who knew the 
-realities of life, who said bluntly that “there is no altruism 
-among nations,” and that modern issues are to be decided not 
+realities of life, who said bluntly that "there is no altruism 
+among nations," and that modern issues are to be decided not 
 by votes and rhetoric, but by blood and iron. What a cleans- 
 ing whirlwind he was for a Europe rotten with delusions and 
-democracy and “ideals” ! In a few brief months he had 
+democracy and "ideals" ! In a few brief months he had 
 brought decadent Austria to accept his leadership; in a few 
 brief months he had humbled a France drunk with the legend 
 of Napoleon ; and in those brief months had he not also forced 
-all those little German “states/ 5 all those petty potentates, 
+all those little German "states/ 5 all those petty potentates, 
 principalities and powers to fuse themselves into a mighty 
 empire, the very symbol of the new morality of strength? 
 The growing military and industrial vigor of this new Ger- 
 many needed a voice ; the arbitrament of war needed a philos** 
 
-1 Quoted in Faguet, On Beading Nietzsche , New York, 1918; p. 7k 
+1 Quoted in Faguet, On Beading Nietzsche, New York, 1918; p. 7k 
 
 
 FRIEDRICH NIETZSCHE 
@@ -21322,7 +20891,7 @@ cause there was so much of its moral spirit in him; his
 philosophy was an attempt to balance and correct, by violent 
 contradiction, an irresistible tendency to gentleness and kind- 
 ness and peace ; was it not the final insult that the good peo- 
-ple of Genoa should call him II Santo — “the Saint”? His 
+ple of Genoa should call him II Santo — "the Saint"? His 
 mother was a pious and Puritan lady, of the same sort that 
 had fostered Immanuel Kant; and, with perhaps one disas- 
 trous exception, Nietzsche remained pious and Puritan, chaste 
@@ -21334,10 +20903,10 @@ He was born at Rocken, Prussia, on October 15, 1844, —
 which, happened to be the birthday of the reigning Prussian 
 king, Frederick William IV. His father, who had tutored 
 several members of the royal family, rejoiced at this patriotic 
-coincidence, and named the boy after the King. “There was 
+coincidence, and named the boy after the King. "There was 
 at all events one advantage in the choice of this day for my 
 birth; my birthday throughout the whole of my childhood 
-was a day of public rejoicing.” 1 
+was a day of public rejoicing." 1 
 
 The early death of his father left him a victim to the holy 
 women of the household, who petted him into an almost fem- 
@@ -21351,8 +20920,8 @@ played soldier, and told lies. His school-mates called him ‘'the
 
 438 THE STOEY OF PHILOSOPHY 
 
-little minister,” and one of them described him as “a Jesus in 
-the Temple.” It was his delight to seclude himself and read 
+little minister," and one of them described him as "a Jesus in 
+the Temple." It was his delight to seclude himself and read 
 the Bible, or to read it to others so feelingly as to bring 
 tears to their eyes. But there was a hidden nervous stoicism 
 and pride in him : when his school-fellows doubted the story of 
@@ -21360,8 +20929,8 @@ Mutius Scaevola he ignited a batch of matches in the palm
 of his hand and let them lie there till they were burnt out. 1 
 It was a typical incident: all his life long he was to seek 
 physical and intellectual means of hardening himself into an 
-idealized masculinity. “What I am not, that for me is God 
-and virtue.” 2 
+idealized masculinity. "What I am not, that for me is God 
+and virtue." 2 
 
 At eighteen he lost his faith in the God of his fathers, 
 and spent the remainder of his life looking for a new deity ; 
@@ -21379,10 +20948,10 @@ disgusted him ; he reacted into a great scorn of the whole bier-
 gemiitblichkeit of his country and his time ; people who drank 
 
 
-i Mencken, The Philosophy of Friedrich Nietzsche , Boston, 1913; p. 10. 
+i Mencken, The Philosophy of Friedrich Nietzsche, Boston, 1913; p. 10. 
 
 z Thus Spake Zarathustra, p. 129. This work will be referred to hereafter 
-as “Z”; and the following (in the English translation) will be referred to by 
+as "Z"; and the following (in the English translation) will be referred to by 
 their initials: The Birth of Tragedy (1872), Thoughts Out of Season 
 (1873-76), Human All Too Human (1876-80), The Dawn of Day (1881), The 
 Joyful Wisdom (1882), Beyond Good and Evil (1886), The Genealogy of 
@@ -21402,16 +20971,16 @@ beer and smoked pipes were incapable of clear perception or
 subtle thought. 
 
 It was about this time, in 1865, that he discovered Schopen- 
-hauer’s World as Will and Idea, and found in it “a mirror in 
+hauer’s World as Will and Idea, and found in it "a mirror in 
 which I espied the world, life, and my own nature depicted with 
-frightful grandeur.” 1 He took the book to his lodgings, and 
-read every word of it hungrily. “It seemed as if Schopen- 
+frightful grandeur." 1 He took the book to his lodgings, and 
+read every word of it hungrily. "It seemed as if Schopen- 
 hauer were addressing me personally. I felt his enthusiasm, 
 and seemed to see him before me. Every line cried aloud for 
-renunciation, denial, resignation.” 2 The dark color of 
+renunciation, denial, resignation." 2 The dark color of 
 Schopenhauer’s philosophy impressed itself permanently upon 
 his thought: and not only when he was a devoted follower of 
-“Schopenhauer as Educator” (the title of one of his essays), 
+"Schopenhauer as Educator" (the title of one of his essays), 
 but even when he came to denounce pessimism as a form of de- 
 cadence, he remained at bottom an unhappy man, whose nerv- 
 ous system seemed to have been carefully designed for suffer- 
@@ -21459,8 +21028,8 @@ He had queer regrets on taking up this unheroically sedentary
 work : on the one hand he wished he had gone into a practical 
 and active profession, such as medicine; and at the same time 
 he found himself drawn towards music. He had become 
-something of a pianist, and had written sonatas ; “without mu- 
-sic,” he said, “life would be a mistake.” 1 
+something of a pianist, and had written sonatas ; "without mu- 
+sic," he said, "life would be a mistake." 1 
 
 Not far from Basle was Tribschen, where that giant of 
 music, Richard Wagner, was living with another man’s wife. 
@@ -21479,7 +21048,7 @@ Germany and France had gone to war.
 He hesitated; the spirit of Greece, and all the muses of 
 poetry and drama and philosophy and music had laid their 
 consecrating hands upon him. But he could not resist the call 
-of his country ; here was poetry too. “Here,” he wrote, “you 
+of his country ; here was poetry too. "Here," he wrote, "you 
 have the state, of shameful origin ; for the greater part of 
 men a well of suffering that is never dried, a flame that con- 
 sumes them in its frequent crises. And yet when it calls, our 
@@ -21494,14 +21063,14 @@ FRIEDRICH NIETZSCHE
 441 
 
 
-multitude is urged to courage and uplifted to heroism.” 1 At 
+multitude is urged to courage and uplifted to heroism." 1 At 
 Frankfort, on his way to the front, he saw a troop of cavalry 
 passing with magnificent clatter and display through the 
 town ; there and then, he says, came the perception, the vision, 
-out of which was to grow his entire philosophy. “I felt for 
+out of which was to grow his entire philosophy. "I felt for 
 the first time that the strongest and highest Will to Life does 
 not find expression in a miserable struggle for existence, but 
-in a Will to War, a Will to Power, a Will to Overpower !” 2 
+in a Will to War, a Will to Power, a Will to Overpower !" 2 
 Bad eyesight disqualified him from active soldiering, and he 
 had to be content with nursing; and though he saw horrors 
 enough, he never knew the actual brutality of those battle- 
@@ -21534,7 +21103,7 @@ The noblest Greek art was a union of the two ideals, — the
 2 In Forster-Nietzsche, The Young Nietzsche, London, 1912; p. 235. 
 
 8 It falls in with their later break that Wagner wrote about the same time 
-en essay “On the Evolution of Music Out of the Drama” {Prose Works, 
+en essay "On the Evolution of Music Out of the Drama" {Prose Works, 
 vol. x). 
 
 
@@ -21557,28 +21126,28 @@ conquest of pessimism through art. The Greeks were not the
 Cheerful and optimistic people whom we meet with in modem 
 rhapsodies about them; they knew the stings of life intimately, 
 and its tragic brevity. When Midas asked Silenus what fate 
-is best for a man, Silenus answered: “Pitiful race of a day, 
+is best for a man, Silenus answered: "Pitiful race of a day, 
 children of accidents and sorrow, why do you force me to say 
 what were better left unheard? The best of all is unobtain- 
 able — not to be born, to be nothing. The second best is to 
-die early.” Evidently these men had little to learn from 
+die early." Evidently these men had little to learn from 
 Schopenhauer, or from the Hindus. But the Greeks over- 
 came the gloom of their disillusionment with the brilliance of 
 their art : out of their own suffering they made the spectacle of 
-the drama, and found that “it is only as an esthetic phenom- 
-enon,” as an object of artistic contemplation or reconstruction, 
-“that existence and the world appear justified.” 1 “The sub- 
-lime is the artistic subjugation of the awful.” 2 Pessimism is 
-a sign of decay, optimism is a sign of superficiality; “tragic 
-optimism” is the mood of the strong man who seeks intensity 
+the drama, and found that "it is only as an esthetic phenom- 
+enon," as an object of artistic contemplation or reconstruction, 
+"that existence and the world appear justified." 1 "The sub- 
+lime is the artistic subjugation of the awful." 2 Pessimism is 
+a sign of decay, optimism is a sign of superficiality; "tragic 
+optimism" is the mood of the strong man who seeks intensity 
 and extent of experience, even at the cost of woe, and is de- 
-lighted to find that strife is the law of life. “Tragedy itself 
+lighted to find that strife is the law of life. "Tragedy itself 
 is the proof of the fact that the Greeks were not pessimists.’* 
 The days when this mood begot the Aeschylean drama and 
-the pre-Socratic philosophy were the “tremendous days of 
-Greece.” 3 
+the pre-Socratic philosophy were the "tremendous days of 
+Greece." 3 
 
-Socrates — “the type of the theoretical man” 4 — was .a sign 
+Socrates — "the type of the theoretical man" 4 — was .a sign 
 
 
 1 B. T, 60, 183. 
@@ -21593,16 +21162,16 @@ Socrates — “the type of the theoretical man” 4 — was .a sign
 
 FRIEDRICH NIETZSCHE 443 
 
-of the loosened fibre of the Greek character; “the old Mar- 
+of the loosened fibre of the Greek character; "the old Mar- 
 athonian stalwart capacity of body and soul was more and 
 more sacrificed to a dubious enlightenment, involving progres- 
-sive degeneration of the physical and mental powers.” 1 Crit- 
+sive degeneration of the physical and mental powers." 1 Crit- 
 ical philosophy replaced the philosophical poetry of the pre- 
 Socratics ; science replaced art ; intellect replaced instinct ; di- 
 alectic replaced the games. Under the influence of Socrates, 
 Plato the athlete became an esthete, Plato the dramatist be- 
 came a logician, an enemy of passion, a deporter of poets, a 
-“pre-Christian Christian,’? an epistemologist. On the temple 
+"pre-Christian Christian,’? an epistemologist. On the temple 
 of Apollo at Delphi those words of passionless wisdom were in- 
 scribed — gnothe seauton and meden agan 2 — which became, in 
 Socrates and Plato, the delusion that intelligence is the only 
@@ -21618,19 +21187,19 @@ dialecticians and orators.
 
 . No wonder the Delphic oracle of Apollo had named Socrates 
 the wisest of the Greeks, and Euripides the wisest after him; 
-and no wonder that “the unerring instinct of Aristophanes 
+and no wonder that "the unerring instinct of Aristophanes 
 . . . comprised Socrates and Euripides ... in the same feel- 
 ing of hatred, and saw in them the symptoms of a degenerate 
-Culture.” 3 It is true that they recanted ; that Euripides’ last 
+Culture." 3 It is true that they recanted ; that Euripides’ last 
 play — The Bacchce — is his surrender to Dionysus, and the 
 prelude to his suicide ; and that Socrates in prison took to 
 practicing the music of Dionysus to ease his conscience. 
-“ ‘Perhaps’ — thus he had to ask himself — ‘what is not intel- 
+" ‘Perhaps’ — thus he had to ask himself — ‘what is not intel- 
 ligible to me is not therefore unreasonable? Perhaps there is 
 
 t p. ice. 
 
-2 “Know thyself” and “nothing in excess.” 
+2 "Know thyself" and "nothing in excess." 
 
 « B. T., 182. 
 
@@ -21641,11 +21210,11 @@ THE STORY OF PHILOSOPHY
 
 a realm of wisdom from which the logician is banished? Per- 
 haps art is even a necessary correlative of and supplement to 
-science?” 1 But it was too late; the work of the logician and 
+science?" 1 But it was too late; the work of the logician and 
 the rationalist could not be undone ; Greek drama and Greek 
-character decayed. “The surprising thing had happened: 
-when the poet” and the philosopher “recanted, their tendency 
-had already conquered.” 2 With them ended the age of he- 
+character decayed. "The surprising thing had happened: 
+when the poet" and the philosopher "recanted, their tendency 
+had already conquered." 2 With them ended the age of he- 
 roes, and the art of Dionysus. 
 
 But perhaps the age of Dionysus may return? Did not 
@@ -21654,11 +21223,11 @@ theoretical man? — and did not Schopenhauer teach us again
 the profundity of instinct and the tragedy of thought? — and is 
 not Richard Wagner another JSschylus, restoring myths and 
 symbols, and uniting music and drama again in Dionysian ec- 
-stasy? “Out of the Dionysian root of the German spirit a 
+stasy? "Out of the Dionysian root of the German spirit a 
 power has arisen which has nothing in common with the primi- 
 tive conditions of Socratic culture, . . . — namely, German 
 music, ... in its vast solar orbit from Bach to Beethoven, 
-from Beethoven to Wagner.” 8 The German spirit has too 
+from Beethoven to Wagner." 8 The German spirit has too 
 long reflected passively the Apollonian art of Italy and France ; 
 let the German people realize that their own instincts are 
 sounder than these decadent cultures; let them make a Ref- 
@@ -21670,9 +21239,9 @@ reborn?
 
 In 1872 Nietzsche returned to Basle, still weak in body, but 
 with a spirit burning with ambition, and loath to consume 
-itself in the drudgery of lecturing. “I have before me work 
+itself in the drudgery of lecturing. "I have before me work 
 enough for fifty years, and I must mark time under the 
-yoke.” 4 Already he was a little disillusioned with the war; 
+yoke." 4 Already he was a little disillusioned with the war; 
 
 1 P. 113. 
 
@@ -21689,46 +21258,46 @@ FRIEDRICH NIETZSCHE
 MB 
 
 
-“the German Empire is extirpating the German spirit,” he 
+"the German Empire is extirpating the German spirit," he 
 wrote. 1 The victory of 1871 had brought a certain coarse 
 conceit into the soul of Germany ; and nothing could be more 
 hostile to spiritual growth. An impish quality in Nietzsche 
 made him restless before every idol ; and he determined to as- 
 sail this dulling complacency by attacking its most respected 
-exponent — David Strauss. “I enter society with a duel: 
-Stendhal gave that advice.” 2 
+exponent — David Strauss. "I enter society with a duel: 
+Stendhal gave that advice." 2 
 
 In the second of his well-named Thoughts out of Season — 
-“Schopenhauer as Educator” — he turned his fire upon the 
-chauvinistic universities. “Experience teaches us that nothing 
+"Schopenhauer as Educator" — he turned his fire upon the 
+chauvinistic universities. "Experience teaches us that nothing 
 stands so much in the way of developing great philosophers as 
 the custom of supporting bad ones in state universities. . . . 
 No state would ever dare to patronize such men as Plato and 
-Schopenhauer. . . . The state is always afraid of them.” 8 
-He renewed the attack in “The Future of Our Educational In- 
-stitutions”; and in “The Use and Abuse of History” he ridi- 
+Schopenhauer. . . . The state is always afraid of them." 8 
+He renewed the attack in "The Future of Our Educational In- 
+stitutions"; and in "The Use and Abuse of History" he ridi- 
 culed the submergence of the German intellect in the minutiae 
 of antiquarian scholarship. Already in these essays two of 
 his distinctive ideas found expression : that morality, as well as 
 theology, must be reconstructed in terms of the evolution 
-theory; and that the function of life is to bring about “not the 
+theory; and that the function of life is to bring about "not the 
 betterment of the majority, who, taken as individuals, are the 
-most worthless types,” but “the creation of genius,” the de- 
+most worthless types," but "the creation of genius," the de- 
 velopment and elevation of superior personalities. 4 
 
-The most enthusiastic of these essays was called “Richard 
-Wagner in Bayreuth.” It hailed Wagner as a Siegfried 
-“who has never learned the meaning of fear,” 5 and as founder 
+The most enthusiastic of these essays was called "Richard 
+Wagner in Bayreuth." It hailed Wagner as a Siegfried 
+"who has never learned the meaning of fear," 5 and as founder 
 of the only real art, because the first to fuse all the arts into 
 a great esthetic synthesis; and it called upon Germany to 
 realize the majestic significance of the coming Wagner festival 
-— “Bayreuth signifies for us the morning sacrament on the 
+— "Bayreuth signifies for us the morning sacrament on the 
 
 1 Ibid., 151. 
 
 2 Ibid, 
 
-8 “Schopenhauer as Educator,” sect, 8. 
+8 "Schopenhauer as Educator," sect, 8. 
 
 4 Ibid,, sect. 6. 
 
@@ -21742,7 +21311,7 @@ realize the majestic significance of the coming Wagner festival
 THE STORY OF PHILOSOPHY 
 
 
-day of battle.” 1 This was the voice of youthful worship, the 
+day of battle." 1 This was the voice of youthful worship, the 
 voice of an almost femininely refined spirit who saw in Wag- 
 ner something of that masculine decisiveness and courage 
 which went later into the conception of the Superman. But 
@@ -21752,8 +21321,8 @@ cratic soul. He could not bear Wagner’s attack upon the
 French in 1871 (Paris had not been kind to Tarvnhauser !) ; 
 and he was astounded at Wagner’s jealousy of Brahms. 2 The 
 central theme even of this laudatory essay boded no good for 
-Wagner : “The world has been Orientalized long enough ; and 
-men now yearn to be Hellenized.” 8 But Nietzsche already 
+Wagner : "The world has been Orientalized long enough ; and 
+men now yearn to be Hellenized." 8 But Nietzsche already 
 knew that Wagner was half Semitic. 
 
 And then, in 1876, came Bayreuth itself, and Wagnerian 
@@ -21763,18 +21332,18 @@ crowding out the impecunious devotees. Suddenly it dawned
 upon Nietzsche how much of Geyer there was in Wagner, 4 
 how much The Ring of the Nibelungs owed to the theatrical 
 effects which abounded in it, and how far the melos that some 
-missed in the music had passed into the drama. “I had had 
+missed in the music had passed into the drama. "I had had 
 visions of a drama overspread with a symphony, a form grow- 
 ing out of the Lied. But the alien appeal of the opera drew 
-Wagner irresistibly in the other direction.” 8 Nietzsche could 
+Wagner irresistibly in the other direction." 8 Nietzsche could 
 not go in that direction; he detested the dramatic and the op- 
-eratic. “I should be insane to stay here,” he wrote. “I await 
+eratic. "I should be insane to stay here," he wrote. "I await 
 with terror each of these long musical evenings ... I can 
-bear no more.” 6 
+bear no more." 6 
 
 And so he fled, without a word to Wagner and in the midst 
 of Wagner’s supreme triumph, while all the world worshiped ; 
-fled, “tired with disgust of all that is feminism and undis- 
+fled, "tired with disgust of all that is feminism and undis- 
 
 1 Ibid., 104. 
 
@@ -21796,17 +21365,17 @@ FRIEDRICH NIETZSCHE
 
 ciplined rhapsody in that romanticism, that idealistic lying, 
 that softening of the human conscience, which had conquered 
-here one of the bravest souls.” 1 And then, in far-away Sor- 
+here one of the bravest souls." 1 And then, in far-away Sor- 
 rento, whom should he encounter but Wagner himself, resting 
 from his victory, and full of a new opera he was writing — 
 Parsifal. It was to be an exaltation of Christianity, pity, and 
-fleshless love, and a world redeemed by a “pure fool,” “the fool 
-in Christ.” Nietzsche turned away without a word, and never 
-spoke to Wagner thereafter. “It is impossible for me to rec- 
+fleshless love, and a world redeemed by a "pure fool," "the fool 
+in Christ." Nietzsche turned away without a word, and never 
+spoke to Wagner thereafter. "It is impossible for me to rec- 
 ognize greatness which is not united with candor and sin- 
 cerity towards one’s self. The moment I make a discovery 
 of this sort, a man’s achievements count for absolutely noth- 
-ing with me.” 2 He preferred Siegfried the rebel to Parsifal 
+ing with me." 2 He preferred Siegfried the rebel to Parsifal 
 the saint, and could not forgive Wagner for coming to see in 
 Christianity a moral value and beauty far outweighing its 
 theological defects. In The Case of Wagner he lays about 
@@ -21824,13 +21393,13 @@ corrupt Wagnerians. . . . Well, I am the child of this age,
 just like Wagner, — i. e., a decadent; but I am conscious of 
 it ; I defended myself against it. 8 
 
-Nietzsche was more “Apollonian” than he supposed : a lover 
+Nietzsche was more "Apollonian" than he supposed : a lover 
 of the subtle and delicate and refined, not of wild Dionysian 
-vigor, nor of the tenderness of wine and song and love. “Your 
+vigor, nor of the tenderness of wine and song and love. "Your 
 brother, with his air of delicate distinction, is a most uncom- 
-fortable fellow,” said Wagner to Frau Forster-Nietzsche ; 
+fortable fellow," said Wagner to Frau Forster-Nietzsche ; 
 
-1 Correspondence , p. 310. 
+1 Correspondence, p. 310. 
 
 2 Ibid., p. 295. 
 
@@ -21845,7 +21414,7 @@ THE STORY OF PHILOSOPHY
 
 
 . . sometimes he is quite embarrassed at my jokes — and then 
-I crack them more madly than ever.” 1 There was so much 
+I crack them more madly than ever." 1 There was so much 
 of Plato in Nietzsche; he feared that art would unteach men 
 to be hard ; 2 being tender-minded, he supposed that all the 
 world was like himself, — dangerously near to practising Chris- 
@@ -21854,21 +21423,21 @@ professor. And yet, in his quiet hours, he knew that Wagner
 was as right as Nietzsche, that Parsifal’s gentleness was as 
 necessary as Siegfried’s strength, and that in some cosmic way 
 these cruel oppositions merged into wholesome creative unities. 
-He liked to think of this “stellar, friendship” 8 that still 
+He liked to think of this "stellar, friendship" 8 that still 
 bound him, silently, to the man who had been the most valuable 
 and fruitful experience of his life. And when, in a lucid mo- 
 ment of his final insanity, he saw a picture of the long-dead 
-Wagner, he said softly, “Him I loved much.” 
+Wagner, he said softly, "Him I loved much." 
 
 IV. THE SONG OF ZARATHUSTRA 
 
 And now from art, which seemed to have failed him, he took 
 refuge in science — whose cold Apollonian air cleansed his soul 
 after the Dionysian heat and riot of Tribschen and Bayreuth — 
-and in philosophy, which “offers an asylum where no tyranny 
-can penetrate.” 4 Like Spinoza, he tried to calm his pas- 
-sions by examining them; we need, he said, “a chemistry of 
-the emotions.” And so, in his next book, Human All Too 
+and in philosophy, which "offers an asylum where no tyranny 
+can penetrate." 4 Like Spinoza, he tried to calm his pas- 
+sions by examining them; we need, he said, "a chemistry of 
+the emotions." And so, in his next book, Human All Too 
 Human (1878-80), he became psychologist, and analyzed 
 with a surgeon’s ruthlessness the tenderest feelings and the 
 most cherished beliefs, — dedicating it all bravely, in the midst 
@@ -21882,7 +21451,7 @@ And then, at the very prime of life, in 1879, he broke down,
 
 2 Cf. Z., pp. 258-264, and 364-374, which refer to Wagner. 
 
-a Cf. Correspondence , p. 311. 
+a Cf. Correspondence, p. 311. 
 
 *T. O. S., ii, 122. 
 
@@ -21892,20 +21461,20 @@ FRIEDRICH NIETZSCHE
 
 
 physically and mentally, and sank into the vicinity of death. 
-He prepared for the end defiantly: “Promise me,” he said 
-to his sister, “that when I die only my friends shall stand about 
+He prepared for the end defiantly: "Promise me," he said 
+to his sister, "that when I die only my friends shall stand about 
 my coffin, and no inquisitive crowd. See that no priest or any- 
 one else utter falsehoods at my graveside, when I can no longer 
 protect myself; and let me descend into my tomb as an honest 
-pagan.” 1 But he recovered, and this heroic funeral had to be 
+pagan." 1 But he recovered, and this heroic funeral had to be 
 postponed. Out of such illness came his love of health and 
-the sun, of life and laughter and dance, and Carmen 9 s “music 
-of the south”; out of it too came a stronger will, born of fight- 
-ing death, a “Yea-saying” that felt life’s sweetness even in its 
+the sun, of life and laughter and dance, and Carmen 9 s "music 
+of the south"; out of it too came a stronger will, born of fight- 
+ing death, a "Yea-saying" that felt life’s sweetness even in its 
 bitterness and pain; and out of it perhaps a pitiful effort to 
 rise to Spinoza’s cheerful acceptance of natural limitations 
-and human destiny. “My formula for greatness is Amor fati: 
-. . . not only to bear up under every necessity, but to love it.” 
+and human destiny. "My formula for greatness is Amor fati: 
+. . . not only to bear up under every necessity, but to love it." 
 Alas, it is more easily said than done. 
 
 The titles of his next books — The Dawn of Day (1881) and 
@@ -21923,8 +21492,8 @@ astic, romantic, tender to simplicity; his war against ten-
 derness was an attempt to exorcise a virtue which had led to 
 a bitter deception and to a wound that never healed. 
 
-He could not find solitude enough now : “it is difficult to live 
-with men, because silence is difficult.” 2 He passed from Italy 
+He could not find solitude enough now : "it is difficult to live 
+with men, because silence is difficult." 2 He passed from Italy 
 to the heights of the Alps at Sils-Maria in the Upper Enga- 
 
 1 The Lonely Nietzsche u p. 65. 
@@ -21952,28 +21521,28 @@ Then, my friend, suddenly one became two,
 
 And Zarathustra passed by me. 1 
 
-Now his “soul rose and overflowed all its margins.” 2 He 
+Now his "soul rose and overflowed all its margins." 2 He 
 had found a new teacher — Zoroaster ; a new god — the Super- 
 man; and a new religion- — eternal recurrence : he must sing 
 now— philosophy mounted into poetry under the ardor of his 
-inspiration. “I could sing a song, and will sing it, although 
+inspiration. "I could sing a song, and will sing it, although 
 I am alone in an empty house and must sing it into mine own 
-ears.” 3 (What loneliness is in that phrase !) “Thou great 
+ears." 3 (What loneliness is in that phrase !) "Thou great 
 star! — what would be thy happiness, were it not for those for 
 whom thou shinest? . . . Lo! I am weary of my wisdom, like 
 the bee that hath collected too much honey; I need hands 
-reaching out for it.” 4 So he wrote Thus SpaJce Zarathustra 
-(1883) and finished it in that “hallowed hour when Richard 
-Wagner gave up the ghost in Venice.” 5 It was his magnifi- 
+reaching out for it." 4 So he wrote Thus SpaJce Zarathustra 
+(1883) and finished it in that "hallowed hour when Richard 
+Wagner gave up the ghost in Venice." 5 It was his magnifi- 
 cent answer to Parsifal; but the maker of Parsifal was dead. 
 
-It was his masterpiece, and he knew it. “This work stands 
-alone,” he wrote of it later. “Do not let us mention the poets 
+It was his masterpiece, and he knew it. "This work stands 
+alone," he wrote of it later. "Do not let us mention the poets 
 in the same breath; nothing perhaps had ever been produced 
 out of such a superabundance of strength. ... If all the 
 spirit and goodness of every great soul were collected together, 
 the whole could not create a single one of Zarathustra’s dis- 
-courses.” 6 A slight exaggeration ! — but assuredly it is one 
+courses." 6 A slight exaggeration ! — but assuredly it is one 
 of the great books of the nineteenth century. Yet Nietzsche 
 
 1 In Hal6vy, 234. 
@@ -22008,17 +21577,17 @@ Zarathustra, aged thirty, comes down from his meditative
 mountain to preach to the crowd, like his Persian prototype 
 Zoroaster ; but the crowd turns from him to see a rope-walker 
 perform. The rope-walker falls, and dies. Zarathustra 
-takes him upon his shoulders and carries him away; “because 
+takes him upon his shoulders and carries him away; "because 
 thou hast made danger thy calling, therefore shall I bury thee 
-with my own hands.” “Live dangerously,” he preaches. 
-“Erect your cities beside Vesuvius. Send out your ships to 
-unexplored seas. Live in a state of war.” 
+with my own hands." "Live dangerously," he preaches. 
+"Erect your cities beside Vesuvius. Send out your ships to 
+unexplored seas. Live in a state of war." 
 
 And remember to disbelieve. Zarathustra, coming down 
 from the mountain, meets an old hermit who talks to him about 
-God. “But when Zarathustra was alone, he spake thus with 
-his heart: “Can it actually be possible? This old saint in 
-his forest hath not yet heard aught of God being dead!” 1. 
+God. "But when Zarathustra was alone, he spake thus with 
+his heart: "Can it actually be possible? This old saint in 
+his forest hath not yet heard aught of God being dead!" 1. 
 But of course God was dead, all the Gods were dead. 
 
 For the old Gods came to an end long ago. And verily 
@@ -22029,8 +21598,8 @@ lie is told! 8 On the contrary, they once upon a time —
 laughed themselves unto death! 
 
 That came to pass when, by a God himself, the most 
-ungodly word was uttered, the word: “there is but one God! 
-Thou shalt have no other gods before me.” 
+ungodly word was uttered, the word: "there is but one God! 
+Thou shalt have no other gods before me." 
 
 1 Halivy, 261. 
 
@@ -22046,27 +21615,27 @@ An old grim beard of a God, a jealous one, forgot him-
 self thus. 
 
 And then all Gods laughed and shook on their chairs and 
-cried: “Is godliness not just that there are Gods, but no 
-God?” 
+cried: "Is godliness not just that there are Gods, but no 
+God?" 
 
 Whoever hath ears let him hear. 
 
 Thus spake Zarathustra . 1 
 
-What hilarious atheism! “Is not just this godliness, that 
-there are no gods?” “What could be created if there were 
+What hilarious atheism! "Is not just this godliness, that 
+there are no gods?" "What could be created if there were 
 Gods? . . . If there were Gods, how could I bear to be no God? 
-Consequently there are no Gods.” 2 “Who is more ungodly 
-than I, that I may enjoy his teachings?” 3 “I conjure you* 
+Consequently there are no Gods." 2 "Who is more ungodly 
+than I, that I may enjoy his teachings?" 3 "I conjure you* 
 my brethren, remain faithful to earth, and do not believe thoss 
 who speak unto you of superterrestrial hopes ! Poisoners they 
-are, whether they know it or not.” 4 Many an erstwhile rebel 
+are, whether they know it or not." 4 Many an erstwhile rebel 
 returns to this sweet poison at last, as a necessary anesthesia 
-for life. The “higher men” gather in Zarathustra’s cave to 
+for life. The "higher men" gather in Zarathustra’s cave to 
 prepare themselves to preach his doctrine; he leaves them 
 for a while, and returns to find them offering incense to a 
-donkey who has “created the world in his own image — i. e., as 
-stupid as possible.” 5 This is not edifying ; but then, says our 
+donkey who has "created the world in his own image — i. e., as 
+stupid as possible." 5 This is not edifying ; but then, says our 
 text : 
 
 He who must be a creator in good and evil — verily, he must 
@@ -22079,7 +21648,7 @@ Let us speak thereon, ye wisest men, however bad it be.
 To be silent is worse; all unuttered truths become poison- 
 ous. 
 
-And whatever will break on our truths ; , let it break! 
+And whatever will break on our truths ;, let it break! 
 Many a house hath yet to be built. 
 
 Thus spake Zarathustra . 6 
@@ -22103,12 +21672,12 @@ FRIEDRICH NIETZSCHE
 453 
 
 
-Is this irreverent? But Zarathustra complains that “no- 
-body knoweth any longer how to revere,” 1 and he calls him- 
-self “the most pious of all those who believe not in God.” 2 * 
-He longs for belief, and pities “all who, like myself, suffer 
+Is this irreverent? But Zarathustra complains that "no- 
+body knoweth any longer how to revere," 1 and he calls him- 
+self "the most pious of all those who believe not in God." 2 * 
+He longs for belief, and pities "all who, like myself, suffer 
 from the great loathing, for whom the old God died and no 
-new God yet lieth in cradles and napkins.” 8 And then he 
+new God yet lieth in cradles and napkins." 8 And then he 
 pronounces the name of the new God: 
 
 Dead are all Gods ; now we will that superman live. ... 
@@ -22143,7 +21712,7 @@ your neighbor . 4
 Nietzsche appears to foresee that every reader will think 
 himself the superman; and tries to guard against this by 
 confessing that the superman is not yet born; we can only 
-be his fore-runners and his soil. “Will nothing beyond your 
+be his fore-runners and his soil. "Will nothing beyond your 
 -capacity. ... Be not tortuous beyond your ability; *and 
 
 i Z., 354. 
@@ -22161,10 +21730,10 @@ i Z., 354.
 THE STORY OF PHILOSOPHY 
 
 
-demand nothing of yourselves contrary to probability.” 1 
+demand nothing of yourselves contrary to probability." 1 
 Not for us is the happiness which only the superman will 
-know; our best goal is work. “For a long time I ceased not 
-to strive for my happiness ; now I strive for my work.” 2 
+know; our best goal is work. "For a long time I ceased not 
+to strive for my happiness ; now I strive for my work." 2 
 Nietzsche is not content with having created God in his own 
 image ; he must make himself immortal. After the superman 
 comes Eternal Recurrence. All things will return, in precise 
@@ -22180,8 +21749,8 @@ and out of that fatal repetition all history must unwind its
 devious course again. To such a pass determinism brings us. 
 No wonder Zarathustra feared to speak this his last lesson; 
 feared and trembled and held back, until a voice spoke to 
-him: “What matter about thyself, Zarathustra? Say thy 
-word and break in pieces !” 3 
+him: "What matter about thyself, Zarathustra? Say thy 
+word and break in pieces !" 3 
 
 
 V. HERO-MORAUTY 
@@ -22220,11 +21789,11 @@ a communistic colony. She asked her pale, frail brother to
 come along, for the sake of his health; but Nietzsche valued 
 the life of the mind more than the health of the body; he 
 wished to stay where the battle was ; Europe was necessary to 
-him “as a culture museum.” 1 He lived irregularly in place 
+him "as a culture museum." 1 He lived irregularly in place 
 and time; he tried Switzerland and Venice and Genoa and 
 Nice and Turin. He liked to write amid the doves that flock 
-about the lions of St. Mark — “this Piazza San Marco is my 
-finest work-room.” But he had to follow Hamlet’s, advice 
+about the lions of St. Mark — "this Piazza San Marco is my 
+finest work-room." But he had to follow Hamlet’s, advice 
 about staying out of the sun, which hurt his ailing eyes ; he 
 shut himself up in dingy, heatless attics, and worked behind 
 closed blinds. Because of his failing eyes he wrote henceforth 
@@ -22244,7 +21813,7 @@ worthless, bad. Bose was applied by the lower to the upper
 classes, and meant unfamiliar, irregular, incalculable, dan- 
 gerous, harmful, cruel; Napoleon was hose. Many simple 
 peoples feared the exceptional individual as a disintegrating 
-force; there is a Chinese proverb that “the great man is a 
+force; there is a Chinese proverb that "the great man is a 
 public misfortune. Likewise, gut had two meanings, as 
 i In Figgis, The WiU to Freedom, New York, 1917; ij. 249. 
 
@@ -22273,7 +21842,7 @@ of honor by the whip of conscience. Honor is pagan, Roman;
 feudal, aristocratic; conscience is Jewish, Christian, bour- 
 geois, democratic. 1 It was the eloquence of the prophets, 
 from Amos to Jesus, that made the view of a subject class an 
-almost universal ethic; the “world” and the “flesh” became 
+almost universal ethic; the "world" and the "flesh" became 
 synonyms of evil, and poverty a proof of virtue. 2 
 
 This valuation was brought to a peak by Jesus: with him 
@@ -22283,8 +21852,8 @@ ress was now defined in terms of these plebeian philosophies,
 in terms of progressive equalization and vulgarization, in terms 
 of decadence and descending life. 2 ; The final stage in this 
 decay is the exaltation of pity and self-sacrifice, the senti- 
-mental comforting of criminals, “the inability of a society ta 
-excrete.” Sympathy is legitimate if it is active ; but pity 
+mental comforting of criminals, "the inability of a society ta 
+excrete." Sympathy is legitimate if it is active ; but pity 
 
 lCf. Taine, The French Revolution, New York, 1885; voL iii, p. 94. 
 
@@ -22303,28 +21872,28 @@ FRIEDRICH NIETZSCHE
 is a paralyzing mental luxury, a waste of feeling for the ir- 
 remediably botched, the incompetent, the defective, the vicious, 
 the culpably diseased and the irrevocably criminal. There is 
-a certain indelicacy and intrusiveness in pity; “visiting the 
-sick” is an orgasm of superiority in the contemplation of our 
+a certain indelicacy and intrusiveness in pity; "visiting the 
+sick" is an orgasm of superiority in the contemplation of our 
 neighbor’s helplessness . 1 
 
-Behind all this “morality” is a secret will to power. Love 
+Behind all this "morality" is a secret will to power. Love 
 itself is only a desire for possession; courtship is combat and 
 mating is mastery: Don Jose kills Carmen to prevent her from 
-becoming the property of another. “People imagine that 
+becoming the property of another. "People imagine that 
 they are unselfish in love because they seek the advantage of 
 another being, often in opposition to their own. But for so 
 doing they want to possess the other being. . . . Uamour 
-est de tons les sentiments le plus egoiste, et, par consequent , 
-lor$qu 9 il est blesse , le moins genereux” 2 Even in the love 
+est de tons les sentiments le plus egoiste, et, par consequent, 
+lor$qu 9 il est blesse, le moins genereux" 2 Even in the love 
 of truth is the desire to possess it, perhaps to be its first pos< 
 sessor, to find it virginal. Humility is the protective colora- 
 tion of the will to power. 
 
 Against this passion for power, reason and morality are 
 helpless ; they are but weapons in its hands, dupes of its game. 
-“Philosophical systems are shining mirages”; what we see is 
+"Philosophical systems are shining mirages"; what we see is 
 not the long-sought truth, but the reflection of our own 
-desires. “The philosophers all pose as though their real 
+desires. "The philosophers all pose as though their real 
 opinions had been discovered through the self-evolving of a 
 cold, pure, divinely indifferent dialectic ; . . . whereas in fact 
 a prejudicial proposition, idea or ‘suggestion,’ which ia 
@@ -22332,16 +21901,16 @@ generally their heart’s desire abstracted and refined, is de-
 
 1D. D., 232. 
 
-2 C. W., 9, quoting Benjamin Constant: “Love is of all feelings the most 
-egoistic; and in consequence it is, when crossed, the least generous.” But 
-Nietzsche can speak more gently of love. “Whence arises the sudden passion 
+2 C. W., 9, quoting Benjamin Constant: "Love is of all feelings the most 
+egoistic; and in consequence it is, when crossed, the least generous." But 
+Nietzsche can speak more gently of love. "Whence arises the sudden passion 
 of a man for a woman? . . . Least of all from sensuality only: but when a 
 man finds weakness, need of help, and high spirits, all united in the same 
 creature, he suffers a sort of over-flowing of soul, and is touched and offended 
-at the same moment. At this point arises the source of great love” (H. A. 
-ii, 287). And he quotes from the French “the chastest utterance I ever heard: 
-Dans le veritable amour if est VAme qui erweloppe le corps ” — “in true love it 
-is the soul that embraces the body.” 
+at the same moment. At this point arises the source of great love" (H. A. 
+ii, 287). And he quotes from the French "the chastest utterance I ever heard: 
+Dans le veritable amour if est VAme qui erweloppe le corps " — "in true love it 
+is the soul that embraces the body." 
 
 
 
@@ -22351,41 +21920,41 @@ is the soul that embraces the body.”
 THE STORY OF PHILOSOPHY 
 
 
-fended by them with arguments sought out after the event.” 
+fended by them with arguments sought out after the event." 
 
 It is these underground desires, these pulsations of the will 
-to power, that determine our thoughts. “The greater part of 
+to power, that determine our thoughts. "The greater part of 
 our intellectual activity goes on unconsciously, and unfelt by 
-us; . . . conscious thinking ... is the weakest.” Because 
+us; . . . conscious thinking ... is the weakest." Because 
 instinct is the direct operation of the will to power, undis- 
-turbed by consciousness, “instinct is the most intelligent of 
+turbed by consciousness, "instinct is the most intelligent of 
 all kinds of intelligence which have hitherto been discov- 
-ered.” Indeed, the role of consciousness has been senselessly 
-over-estimated ; “Consciousness may be regarded as sec- 
+ered." Indeed, the role of consciousness has been senselessly 
+over-estimated ; "Consciousness may be regarded as sec- 
 ondary, almost as indifferent and superfluous, probably des- 
 tined to disappear and to be superseded by perfect autom- 
-atism.” 1 
+atism." 1 
 
 In strong men there is very little attempt to conceal desire 
-under the cover of reason ; their simple argument is, “I will.” 
+under the cover of reason ; their simple argument is, "I will." 
 In the uncorrupted vigor of the master soul, desire is its own 
 justification; and conscience, pity or remorse can find no 
 entrance. But so far has the Judaeo-Christian-deinocratic 
 point-of-view prevailed in modem times, that even the strong 
 are now ashamed of their strength and their health, and 
-begin to seek “reasons.” The aristocratic virtues and valua- 
-tions are dying out. “Europe is threatened with a new 
-Buddhism”; even Schopenhauer and Wagner become pity-ful 
-Buddhists. “The whole of the morality of Europe is based 
-upon the values which are useful to the herd.” The strong 
+begin to seek "reasons." The aristocratic virtues and valua- 
+tions are dying out. "Europe is threatened with a new 
+Buddhism"; even Schopenhauer and Wagner become pity-ful 
+Buddhists. "The whole of the morality of Europe is based 
+upon the values which are useful to the herd." The strong 
 are no longer permitted to exercise their strength; they must 
-become as far as possible like the weak ; “goodness is to do 
-nothing for which we are not strong enough.” Has not Kant, 
-that “great Chinaman of Konigsberg,” proved that men must 
+become as far as possible like the weak ; "goodness is to do 
+nothing for which we are not strong enough." Has not Kant, 
+that "great Chinaman of Konigsberg," proved that men must 
 never be used as means? Consequently the instincts of the 
 strong — to hunt, to fight, to conquer and to rule — are 
 introverted into self-laceration for lack of outlet; they beget 
-asceticism and the “bad conscience”; “all instincts which do 
+asceticism and the "bad conscience"; "all instincts which do 
 not find a vent turn inward— this is what I mean by the grow- 
 l H. A. H., il, 26} B. G. E., 9} J. W, 268; B. G. E., 162} W. P., ii, 88. 
 
@@ -22393,17 +21962,17 @@ l H. A. H., il, 26} B. G. E., 9} J. W, 268; B. G. E., 162} W. P., ii, 88.
 FRIEDRICH NIETZSCHE 459 
 
 ing ‘internalization’ of man : here we have the first form of what 
-came to be called the soul.” 1 
+came to be called the soul." 1 
 
 The formula for decay is that the virtues proper to the 
 herd infect the leaders, and break them into common clay. 
-“Moral systems must be compelled first of all to bow before 
+"Moral systems must be compelled first of all to bow before 
 the gradations of rank; their presumption must be driven 
 home to their conscience — until they thoroughly understand 
 at last that it is immoral to say that ‘what is right for one is 
-proper for another.’ ” Different functions require different 
-qualities ; and the “evil” virtues of the strong are as necessary 
-in a society as the “good” virtues of the weak. Severity, 
+proper for another.’ " Different functions require different 
+qualities ; and the "evil" virtues of the strong are as necessary 
+in a society as the "good" virtues of the weak. Severity, 
 violence, danger, war, are as valuable as kindliness and peace ; 
 great individuals appear only in times of danger and violence 
 and merciless necessity. The best thing in man is strength 
@@ -22413,22 +21982,22 @@ hatred, are indispensable items in the process of struggle,
 selection and survival. Evil is to good as variation to 
 heredity, as innovation and experiment to custom ; there is no 
 development without an almost-criminal violation of precedents 
-and “order.” If evil were not good it would have disap- 
-peared. We must beware of being too good; “man must be- 
-come better and more evil.” 2 
+and "order." If evil were not good it would have disap- 
+peared. We must beware of being too good; "man must be- 
+come better and more evil." 2 
 
 Nietzsche is consoled to find so much evil and cruelty in 
 the world ; he takes a sadistic pleasure in reflecting on the 
-extent to which, he thinks, “cruelty constituted the great joy 
-and delight of ancient man” ; and he believes that our pleasure 
+extent to which, he thinks, "cruelty constituted the great joy 
+and delight of ancient man" ; and he believes that our pleasure 
 in the tragic drama, or in anything sublime, is a refined and 
-vicarious cruelty. “Man is the crudest animal,” says Zara- 
-thustra. “When gazing at tragedies, bull-fights and cruci- 
+vicarious cruelty. "Man is the crudest animal," says Zara- 
+thustra. "When gazing at tragedies, bull-fights and cruci- 
 
 1B. G. E., 128, 14, 177; W. P., i. 228; G. M., 46, 100. The student of psy- 
 chology may be interested to follow up psychoanalytic sources in H. A. H., i, 
 23-27 and D. D., 125-131 (theory of dreams) ; H. A. H., i. 215 (Adler’s theory 
-of the neurotic constitution); and D. D,, 293 (“overcorrection”). Those who 
+of the neurotic constitution); and D. D,, 293 ("overcorrection"). Those who 
 are interested in pragmatism will find a fairly complete anticipation of it in 
 B. G. E., 9, 50, 53; and W. P., ii, 20, 24, 26, 50. 
 
@@ -22443,13 +22012,13 @@ mo
 
 fixions he hath hitherto felt happier than at any other time 
 on earth. And when he invented hell . . . lo, hell was his 
-heaven on earth”; he could put up with suffering now, by 
+heaven on earth"; he could put up with suffering now, by 
 contemplating the eternal punishment of his oppressors in the 
 other world . 1 
 
 The ultimate ethic is biological; we must judge things 
 according to their value for life; we need a physiological 
-“transvaluation of all values.” The real test of a man, or a 
+"transvaluation of all values." The real test of a man, or a 
 group, or a species, is energy, capacity, power. We may be 
 partly reconciled to the nineteenth century — otherwise so 
 destructive of all the higher virtues — by its emphasis on the 
@@ -22460,8 +22029,8 @@ ing foods have varying mental effects: rice makes for Bud-
 dhism, and German metaphysics is the result of beer. A 
 philosophy therefore is true or false according as it is the 
 expression and exaltation of ascending or of descending life. 
-The decadent says, “Life is worth nothing”; let him rather 
-say, “J am worth nothing.” Why should life be worth living 
+The decadent says, "Life is worth nothing"; let him rather 
+say, "J am worth nothing." Why should life be worth living 
 when all the heroic values in it have been permitted to decay, 
 and democracy — that is, disbelief in all great men — ruins, 
 with every decade, another people? 
@@ -22500,8 +22069,8 @@ VI. THE SUPERMAN
 
 Just as morality lies not in kindness but in strength, so 
 the goal of human effort should be not the elevation of all but 
-the development of finer and stronger individuals. “Not 
-mankind, but superman is the goal.” The very last thing a 
+the development of finer and stronger individuals. "Not 
+mankind, but superman is the goal." The very last thing a 
 sensible man would undertake would be to improve mankind; 
 mankind does not improve, it does not even exist — it is an ab- 
 straction; all that exists is a vast ant-hill of individuals. 
@@ -22512,10 +22081,10 @@ not the happiness of the mass but the improvement of the
 type. Better that societies should come to an end than that 
 no higher type should appear. Society is an instrument for 
 the enhancement of the power and personality of the in- 
-dividual; the group is not an end in itself. “To what pur- 
+dividual; the group is not an end in itself. "To what pur- 
 pose then are the machines, if all individuals are only of use 
-in maintaining them? Machines” — or social organizations — 
-“that are ends in themselves — is that the umana commedia ?” 2 
+in maintaining them? Machines" — or social organizations — 
+"that are ends in themselves — is that the umana commedia ?" 2 
 At first Nietzsche spoke as if his hope were for the produc- 
 tion of a new species ; 3 later he came to think of his superman 
 as the superior individual rising precariously out of the mire 
@@ -22566,7 +22135,7 @@ riage: thus I call the will of two to create that one which is
 more than they who created it. I call marriage reverence 
 unto each other as unto those who will such a will . 2 
 
-Without good birth, nobility is impossible. “Intellect alone 
+Without good birth, nobility is impossible. "Intellect alone 
 does not ennoble ; on the contrary, something is always needed 
 to ennoble intellect. What then is needed? Blood ... (I 
 do not refer here to the prefix ‘Lords,* or the ‘Almanac de 
@@ -22590,30 +22159,30 @@ there will be few comforts and many responsibilities; where
 the body will be taught to suffer in silence, and the will may 
 learn to obey and to command. No libertarian nonsense! — • 
 no weakening of the physical and moral spine by indulgence 
-and “freedom” ! And yet a school where one will learn to 
+and "freedom" ! And yet a school where one will learn to 
 laugh heartily; philosophers should be graded according to 
-their capacity for laughter ; “he who strideth across the 
-highest mountains laugheth at all tragedies.” And there will 
+their capacity for laughter ; "he who strideth across the 
+highest mountains laugheth at all tragedies." And there will 
 be no moralic acid in this education of the superman ; an 
 asceticism of the will, but no condemnation of the flesh. 
-“Cease not to dance, ye sweet girls ! No spoil-sport hath 
+"Cease not to dance, ye sweet girls ! No spoil-sport hath 
 come unto you with an evil eye, ... no enemy of girls with 
-beautiful ankles.” 1 Even a superman may have a taste for 
+beautiful ankles." 1 Even a superman may have a taste for 
 beautiful ankles. 
 
 A man so born and bred would be beyond good and evil; 
 he would not hesitate to be hose if his purpose should require 
-it; he would be fearless rather than good. “What, is 
-good? . . . To be brave is good.” “What is good? All 
+it; he would be fearless rather than good. "What, is 
+good? . . . To be brave is good." "What is good? All 
 that increases the feeling of power, the will to power, power 
 itself, in man. What is bad ( schlecht ) ? All that comes from 
-weakness.” Perhaps the dominant mark of the superman 
+weakness." Perhaps the dominant mark of the superman 
 will be love of danger and strife, provided they have a pur- 
 pose; he will not seek safety first; he will leave happiness to 
-the greatest number. “Zarathustra was fond of all such as 
-makes distant voyages, and like not to live without danger.” 2 
+the greatest number. "Zarathustra was fond of all such as 
+makes distant voyages, and like not to live without danger." 2 
 Hence all war is good, despite the vulgar pettiness of its causes 
-in modern times; “a good war halloweth any cause.” Even 
+in modern times; "a good war halloweth any cause." Even 
 revolution is good: not in itself, for nothing could be more 
 unfortunate than the supremacy of the masses; but because 
 times of strife bring out the latent greatness of individuals who 
@@ -22636,21 +22205,21 @@ Energy, intellect, and pride, — these make the superman.
 But they must be harmonized: the passions will become powers 
 only when they are selected and unified by some great purpose 
 which moulds a chaos of desires into the power of a person- 
-ality. “Woe to the thinker who is not the gardener but the 
-soil of his plants!” Who is it that follows his impulses? 
+ality. "Woe to the thinker who is not the gardener but the 
+soil of his plants!" Who is it that follows his impulses? 
 The weakling : he lacks the power to inhibit ; he is not strong 
 enough to say No; he is a discord, a decadent. To disci- 
-pline one’s self — that is the highest thing. “The man who 
+pline one’s self — that is the highest thing. "The man who 
 does not wish to be merely one of the mass only needs to cease 
-to be easy on himself.” To have a purpose for which one can 
+to be easy on himself." To have a purpose for which one can 
 be hard upon others, but above all upon one’s self; to have 
 a purpose for which one will do almost anything except betray 
-a friend , — that is the final patent of nobility, the last formula 
+a friend, — that is the final patent of nobility, the last formula 
 of the superman . 1 
 
 Only by seeing such a man as the goal and reward of our 
-labors can we love life and live upward. “We must have an 
-aim for whose sake we are all dear to one another.” 2 Let 
+labors can we love life and live upward. "We must have an 
+aim for whose sake we are all dear to one another." 2 Let 
 Us be great, or servants and instruments to the great; what 
 a fine sight it was when millions of Europeans offered them- 
 selves as means to the ends of Bonaparte, and died for him 
@@ -22660,10 +22229,10 @@ not be, and can straighten the way for his coming; we, in-
 different of lands, indifferent of times, can work together, how- 
 ever separated, for this end. Zarathustra will sing, even in 
 his suffering, if he can but hear the voices of these hidden 
-helpers, these lovers of the higher man. “Ye lonely ones of 
+helpers, these lovers of the higher man. "Ye lonely ones of 
 
-iD. D., 295, 194-7; T. I., 57; W. P., ii, 221-2, 369, 400; “Schopenhauer as 
-Educator,” sect. 1. 
+iD. D., 295, 194-7; T. I., 57; W. P., ii, 221-2, 369, 400; "Schopenhauer as 
+Educator," sect. 1. 
 
 2 Quoted in Salter, 446, 
 
@@ -22675,39 +22244,39 @@ m
 
 to-day, ye who stand apart, ye shall one day be a people; 
 from you who have chosen yourselves, a chosen people shall 
-~rise; and from it the superman.” 1 
+~rise; and from it the superman." 1 
 
 VH. DECADENCE 
 
 Consequently, the road to the superman must lie through 
-aristocracy. Democracy — “this mania for counting noses” 
+aristocracy. Democracy — "this mania for counting noses" 
 
 « — must be eradicated before it is too late. The first step here 
 is the destruction of Christianity so far as all higher men are 
 concerned. The triumph of Christ was the beginning of 
-democracy; “the first Christian was in his deepest instincts a 
+democracy; "the first Christian was in his deepest instincts a 
 rebel against everything privileged ; he lived and struggled 
-unremittingly for ‘equal rights’ ” ; in modern times he would 
-have been sent to Siberia. “He that is greatest among you, 
-let him be your servant” — this is the inversion of all political 
+unremittingly for ‘equal rights’ " ; in modern times he would 
+have been sent to Siberia. "He that is greatest among you, 
+let him be your servant" — this is the inversion of all political 
 wisdom, of all sanity; indeed, as one reads the Gospel one 
 feels the atmosphere of a Russian novel; they are a sort of 
 plagiarism from Dostoievski. Only among the lowly could? 
 such notions take root; and only in an age whose rulers had 
-degenerated and ceased to rule. “When Nero and Caracalla 
+degenerated and ceased to rule. "When Nero and Caracalla 
 sat on the throne, the paradox arose that the lowest man was 
-worth more than the man on top.” 2 
+worth more than the man on top." 2 
 
 As the conquest of Europe by Christianity was the end of 
 ancient aristocracy, so the overrunning of Europe by Teutonic 
 warrior barons brought a renewal of the old masculine virtues, 
 and planted the roots of the modern aristocracies. These 
-men were not burdened with “morals”: they “were free from 
+men were not burdened with "morals": they "were free from 
 every social restraint; in the innocence of their wild-beast 
 conscience they returned as exultant monsters from a horrible 
 train of murder, incendiarism, rapine, torture, with an ar- 
 rogance and compromise as if nothing but a student’s freak 
-had been perpetrated.” It was such men who supplied the 
+had been perpetrated." It was such men who supplied the 
 ruling classes for Germany, Scandinavia, France, England, 
 Italy, and Russia. 
 
@@ -22737,26 +22306,26 @@ Puritan and plebeian ideals of the Reformation, and thirdly
 by inter-marriage with inferior stock. Just as Catholicism 
 was mellowing into the aristocratic and unmoral culture of 
 the Renaissance, the Reformation crushed it with a revival of 
-Judaic rigor and solemnity. “Does anybody at last under- 
+Judaic rigor and solemnity. "Does anybody at last under- 
 stand, will anybody understand what the Renaissance was? 
-The tra/nsvaliuition of Christian values , the attempt under- 
+The tra/nsvaliuition of Christian values, the attempt under- 
 taken with all means, all instincts and all genius to make the 
 opposite values, the noble values triumph ... I see before 
 me a possibility perfectly magical in its charm and glorious 
 coloring. . . . Ccesar Borgia as Pope. . . . Do you under- 
-stand me?” 2 
+stand me?" 2 
 
 Protestantism and beer have dulled German wit ; add, now, 
-Wagnerian opera. As a result, “the present-day Prussian is 
-one of the most dangerous enemies of culture.” “The pres- 
-ence of a German retards my digestion.” “If, as Gibbon 
+Wagnerian opera. As a result, "the present-day Prussian is 
+one of the most dangerous enemies of culture." "The pres- 
+ence of a German retards my digestion." "If, as Gibbon 
 says, nothing but time — though a long time — is required for 
 a world to perish; so nothing but time — though still more time 
-— is required for a false idea to be destroyed in Germany.” 
+— is required for a false idea to be destroyed in Germany." 
 When Germany defeated Napoleon it was as disastrous to cul- 
 ture as when Luther defeated the Church ; thenceforward Ger- 
 many put away her Goethes, her Schopenhauers and her Bee- 
-thovens, and began to worship “patriots” ; “Deutschland iiber 
+thovens, and began to worship "patriots" ; "Deutschland iiber 
 
 l G. M., 40. 
 
@@ -22769,7 +22338,7 @@ FRIEDRICH NIETZSCHE
 467 
 
 
-Alles — I fear that was the end of German philosophy.” 1 YeS 
+Alles — I fear that was the end of German philosophy." 1 YeS 
 there is a natural seriousness and depth in the Germans that 
 gives ground for the hope that they may yet redeem Europe; 
 they have more of the masculine virtues than the French or the 
@@ -22778,33 +22347,33 @@ their scholarship, their science, and their military discipline;
 it is delightful to see how all Europe is worried about the Ger- 
 man army. If the German power of organization could co- 
 operate with the potential resources of Russia, in materials and 
-in men, then would come the age of great politics. “We re- 
+in men, then would come the age of great politics. "We re- 
 quire an intergrowth of the German and Slav races ; and we re- 
 quire, too, the cleverest financiers, the Jews, that we may be- 
 come the masters of the world. . . . We require an uncondi- 
-tional union with Russia.” The alternative was encirclement 
+tional union with Russia." The alternative was encirclement 
 and strangulation. 
 
 The trouble with Germany is a certain stolidity of mind 
 which pays for this solidity of character; Germany misses the 
 long traditions of culture which have made the French the 
-most refined and subtle of all the peoples of Europe. “1 be- 
+most refined and subtle of all the peoples of Europe. "1 be- 
 lieve only in French culture, and I regard everything else in 
-Europe which calls itself culture as a misunderstanding.” 
-“When one reads Montaigne, La Rochefoucauld, . . . Vau- 
+Europe which calls itself culture as a misunderstanding." 
+"When one reads Montaigne, La Rochefoucauld, . . . Vau- 
 venargues, and Chamfort, one is nearer to antiquity than with 
-any group of authors in any other nation.” Voltaire is “a 
-grand seigneur of the mind” ; and Taine is “the first of living 
-historians.” Even the later French writers Flaubert, Bour- 
+any group of authors in any other nation." Voltaire is "a 
+grand seigneur of the mind" ; and Taine is "the first of living 
+historians." Even the later French writers Flaubert, Bour- 
 get, Anatole France, etc. — are infinitely beyond other Eu- 
-ropeans in clarity of thought and language — “what clearness 
-and delicate precision in these Frenchmen !” European 
+ropeans in clarity of thought and language — "what clearness 
+and delicate precision in these Frenchmen !" European 
 nobility of taste, feeling and manners is the work of France. 
 But of the old France, of the sixteenth and seventeenth cen- 
 turies; the Revolution, by destroying the aristocracy, de- 
 stroyed the vehicle and nursery of culture, and now the French 
 soul is thin and pale in comparison with what it used to be. 
-Nevertheless it has still some fine qualities ; “in France almost 
+Nevertheless it has still some fine qualities ; "in France almost 
 
 ■v Figgis, 47. note; T. L, 
 
@@ -22819,29 +22388,29 @@ MI psychological and artistic questions are considered with
 incomparably more subtlety and thoroughness than they are 
 in Germany. ... At the very moment when Germany arose 
 as a great power in the world of politics, France won new 
-importance in the world of culture.” 1 
+importance in the world of culture." 1 
 
 Russia is the blond beast of Europe. Its people have a 
-“stubborn and resigned fatalism which gives them even nowa- 
-days the advantage over us Westerners.” Russia has a strong 
-government, without “parliamentary imbecility.” Force of 
+"stubborn and resigned fatalism which gives them even nowa- 
+days the advantage over us Westerners." Russia has a strong 
+government, without "parliamentary imbecility." Force of 
 will has long been accumulating there, and now threatens to 
 find release; it would not be surprising to find Russia be- 
-coming master of Europe. “A thinker who has at heart the 
+coming master of Europe. "A thinker who has at heart the 
 future of Europe will in all his perspectives concerning the 
 future calculate upon the Jews and the Russians as above all 
 the surest and the likeliest factors in the great play and 
-battle of forces.” But all in all it is the Italians who are the 
+battle of forces." But all in all it is the Italians who are the 
 finest and most vigorous of existing peoples; the man-plant 
 grows strongest in Italy, as Alfieri boasted. There is a manly 
-bearing, an aristocratic pride in even the lowliest Italian; “a 
+bearing, an aristocratic pride in even the lowliest Italian; "a 
 poor Venetian gondolier is always a better figure than a 
-Berlin Geheimrath, and in the end, indeed, a better man.” 2 
+Berlin Geheimrath, and in the end, indeed, a better man." 2 
 
 Worst of all are the English; it is they who corrupted the 
-French mind with the democratic delusion; “shop-keepers, 
+French mind with the democratic delusion; "shop-keepers, 
 Christians, cows, women, Englishmen, and other democrats 
-belong together.” English utilitarianism and philistinism 
+belong together." English utilitarianism and philistinism 
 are the nadir of European culture. Only in a land of cut- 
 throat competition could anyone conceive of life as a struggle 
 for mere existence. Only in a land where shop-keepers and 
@@ -22872,9 +22441,9 @@ liberty and chaos. It means the worship of mediocrity, and
 the hatred of excellence. It means the impossibility of great 
 men — how could great men submit to the indignities and 
 indecencies of an election? What chance would they have? 
-“What is hated by the people, as a wolf by the dogs, is the 
-free spirit, the enemy of all fetters, the not-adorer,” the man 
-who is not a “regular party-member.” How can the superman 
+"What is hated by the people, as a wolf by the dogs, is the 
+free spirit, the enemy of all fetters, the not-adorer," the man 
+who is not a "regular party-member." How can the superman 
 arise in such a soil? And how can a nation become great when 
 its greatest men lie unused, discouraged, perhaps unknown? 
 Such a society loses character; imitation is horizontal instead 
@@ -22884,13 +22453,13 @@ everybody else; even the sexes approximate — the men become
 women and the women become men . 1 
 
 Feminism, then, is the natural corollary of democracy and 
-Christianity. “Here is little of man ; therefore women try 
+Christianity. "Here is little of man ; therefore women try 
 to make themselves manly. For only he who is enough of a 
-man will save the woman in woman.” Ibsen, “that typical 
-old maid,” created the “emancipated woman.” ‘Woman was 
+man will save the woman in woman." Ibsen, "that typical 
+old maid," created the "emancipated woman." ‘Woman was 
 created out of man’s rib? — ‘wonderful is the poverty of my 
-ribs!’ says man.” Woman has lost power and prestige by 
-her “emancipation” ; where have women now the position they 
+ribs!’ says man." Woman has lost power and prestige by 
+her "emancipation" ; where have women now the position they 
 enjoyed under the Bourbons? Equality between man and 
 woman is impossible, because war between them is eternal; 
 there is here no peace without victory — peace comes only when 
@@ -22909,15 +22478,15 @@ i W. P., i, 382-4; ii, 206; Z., Ml.
 THE STORY OF PHILOSOPHY 
 
 
-hood. “Everything in woman is a riddle, and everything in 
-woman hath one answer : its name is child-bearing.” “Man is 
+hood. "Everything in woman is a riddle, and everything in 
+woman hath one answer : its name is child-bearing." "Man is 
 for woman a means; the end is always the child. But what 
-is woman for man? ... A dangerous toy.” “Man shall be 
+is woman for man? ... A dangerous toy." "Man shall be 
 educated for war, and woman for the recreation of the 
-warrior; everything else is folly.” Yet “the perfect woman 
+warrior; everything else is folly." Yet "the perfect woman 
 is a higher type of humanity than the perfect man, and also 
 something much rarer. . . . One cannot be gentle enough 
-towards women.” 1 
+towards women." 1 
 
 Part of the tension of marriage lies in its fulfilment of the 
 woman and its narrowing and emptying of the man. When 
@@ -22925,26 +22494,26 @@ a man woos a woman he offers to give all the world for her ;
 and when she marries him he does; he must forget the world 
 as soon as the child comes; the altruism of love becomes the 
 egoism of the family. Honesty and innovation are luxuries 
-of celibacy. “Where the highest philosophical thinking is 
+of celibacy. "Where the highest philosophical thinking is 
 concerned, all married men are suspect. ... It seems to me 
 absurd that one who has chosen for his sphere the assessment 
 of existence as a whole should burden himself with the cares 
 of a family, with winning bread, security, and social position 
-for wife and children.” Many a philosopher has died when 
-his child was born. “The wind blew through my key hole, 
+for wife and children." Many a philosopher has died when 
+his child was born. "The wind blew through my key hole, 
 saying, ‘Come !’ My door cunningly opened of itself, saying, 
-‘Go !’ But I lay fettered by my love unto my children.” 2 
+‘Go !’ But I lay fettered by my love unto my children." 2 
 
 With feminism come socialism and anarchism; all of them 
 are of the litter of democracy; if equal political power is just, 
 why not equal economic power? Why should there be leaders 
 anywhere? There are socialists who will admire the book of 
-Zarathustra; but their admiration is not wanted. “There 
+Zarathustra; but their admiration is not wanted. "There 
 are some that preach my doctrine of life but at the same time 
 are preachers of equality. ... I do not wish to be confounded 
 with these preachers of equality. For within me justice saith, 
-‘Men are not equal.’ ” “We wish to possess nothing in com- 
-mon.” “Ye preachers of equality, the tyrant-insanity of 
+‘Men are not equal.’ " "We wish to possess nothing in com- 
+mon." "Ye preachers of equality, the tyrant-insanity of 
 
 1 Z., 248, 169; Huneker, Egoists, 266. 
 
@@ -22957,14 +22526,14 @@ FRIEDRICH NIETZSCHE
 471 
 
 
-impotence thus crieth out of yourselves for equality.” Na- 
+impotence thus crieth out of yourselves for equality." Na- 
 ture abhors equality, it loves differentiation of individuals 
 and classes and species. Socialism is anti-biological: the 
 process of evolution involves the utilization of the inferior 
 species, race, class, or individual by the superior; all life is 
 exploitation, and subsists ultimately on other life; big fishes 
 catch little fishes and eat them, and that is the whole story. 
-Socialism is envy : “they want something which we have.” 1 
+Socialism is envy : "they want something which we have." 1 
 It is however, an easily managed movement ; all that is neces- 
 sary to control it is to open occasionally the trap-door between 
 masters and slaves and let the leaders of discontent come up 
@@ -22981,19 +22550,19 @@ of so much worship and envy. But these business men too
 are slaves, puppets of routine, victims of busy-ness; they 
 have no time for new ideas; thinking is taboo among them, 
 and the joys of the intellect are beyond their reach. Hence 
-their restless and perpetual search for “happiness,” their 
+their restless and perpetual search for "happiness," their 
 great houses which are never homes, their vulgar luxury with- 
-out taste, their picture-galleries of “originals,” with cost at- 
+out taste, their picture-galleries of "originals," with cost at- 
 tached, their sensual amusements that dull rather than refresh 
-or stimulate the mind. “Look at these superfluous ! They 
-acquire riches and become poorer thereby”; they accept all 
+or stimulate the mind. "Look at these superfluous ! They 
+acquire riches and become poorer thereby"; they accept all 
 the restraints of aristocracy without its compensating access 
-to the kingdom of the mind. “See how they climb, these 
+to the kingdom of the mind. "See how they climb, these 
 swift apes! They climb over one another, and thus drag 
 
-iZ., 137-8; B. G. E., 225; W. P., i, 102 (which predicts a revolution “com- 
+iZ., 137-8; B. G. E., 225; W. P., i, 102 (which predicts a revolution "com- 
 pared with which the Paris Commune . . . will seem to have been but a slight 
-indigestion”) ; ii, 208; D. D., 362. Nietzsche, when he wrote these aristocratic 
+indigestion") ; ii, 208; D. D., 362. Nietzsche, when he wrote these aristocratic 
 passages, was living in a dingy attic on $1000 a year, most of which went into 
 the publication of his books. 
 
@@ -23002,30 +22571,30 @@ the publication of his books.
 THE STORY OF PHILOSOPHY 
 
 themselves into the mud and depths. . . . The stench of 
-shop-keepers, the wriggling of ambition, the evil breath.” 
+shop-keepers, the wriggling of ambition, the evil breath." 
 There is no use in such men having wealth, for they cannot 
 -give it dignity by noble use, by the discriminating patronage 
-of letters or the arts. “Only a man of intellect should hold 
-property”; others think of property as an end in itself, and 
-pursue it more and more recklessly, — look at “the present 
+of letters or the arts. "Only a man of intellect should hold 
+property"; others think of property as an end in itself, and 
+pursue it more and more recklessly, — look at "the present 
 madness of nations, which desire above all to produce as much 
-as possible, and to be as rich as possible.” At last man be- 
-comes a bird of prey: “they live in ambush for one another; 
+as possible, and to be as rich as possible." At last man be- 
+comes a bird of prey: "they live in ambush for one another; 
 they obtain things from each other by lying in wait. That 
 is called by them good neighborliness. . . . They seek the 
-smallest profits out of every sort of rubbish.” “To-day, 
+smallest profits out of every sort of rubbish." "To-day, 
 mercantile morality is really nothing but a refinement on 
 piratical morality — buying in the cheapest market and se lling 
-in the dearest.” And these men cry out for laissez-faire, to 
+in the dearest." And these men cry out for laissez-faire, to 
 be let alone, — these very men who most need supervision and 
 control. Perhaps even some degree of socialism, dangerous as 
-that is, would be justified here: “We should take all the 
+that is, would be justified here: "We should take all the 
 branches of transport and trade which favor the accumula- 
 tion of large fortunes — especially therefore the money market 
 — out of the hands of private persons or private companies, 
 and look upon those who own too much, just as upon those 
 who own nothing, as types fraught with danger to the com- 
-munity.” 1 
+munity." 1 
 
 Higher than the bourgeois, and lower than the aristocrat, is 
 the soldier. A general who uses up soldiers on the battle- 
@@ -23045,21 +22614,21 @@ FRIEDRICH NIETZSCHE
 
 $79 
 
-million collar-buttons. “It is to Napoleon that the honor 
+million collar-buttons. "It is to Napoleon that the honor 
 shall one day be given of having made for a time a world in 
 which the man, the warrior, outweighed the tradesman and 
-the Philistine.” War is an admirable remedy for peoples 
+the Philistine." War is an admirable remedy for peoples 
 that are growing weak and comfortable and contemptible; it 
 excites instincts that rot away in peace. War and universal 
 military service are the necessary antidotes to democratic 
-effeminacy. “When the instincts of a society ultimately 
+effeminacy. "When the instincts of a society ultimately 
 make it give up war and conquest, it is decadent; it is ripe 
-for democracy and the rule of shop-keepers.” Yet the 
+for democracy and the rule of shop-keepers." Yet the 
 causes of modern war are anything but noble; dynastic and 
 religious wars were a little finer than settling trade disputes 
-with guns . 1 “Within fifty years these Babel governments” 
-(the democracies of Europe) “will clash in a gigantic war 
-for the markets of the world.” 2 But perhaps out of that 
+with guns . 1 "Within fifty years these Babel governments" 
+(the democracies of Europe) "will clash in a gigantic war 
+for the markets of the world." 2 But perhaps out of that 
 madness will come the unification of Europe; — an end for 
 which even a trade-war would not be too great a price to pay. 
 For only out of a unified Europe can come that higher aristoc- 
@@ -23072,14 +22641,14 @@ the born aristocrat trained to statesmanship. The finer man
 has a divine right to rule — i. e., the right of superior ability. 
 The simple man has his place, but it is not on the throne. 
 In his place the simple man is happy, and his virtues are as 
-necessary to society as those of the leader; “it would be ab- 
+necessary to society as those of the leader; "it would be ab- 
 solutely unworthy a deeper mind to consider mediocrity in 
-itself as an objection.” Industriousness, thrift, regularity, 
+itself as an objection." Industriousness, thrift, regularity, 
 moderation, strong conviction, — with such virtues the mediocre 
 man becomes perfect, but perfect only as an instrument. 
-“A high civilization is a pyramid; it can stand only upon a 
+"A high civilization is a pyramid; it can stand only upon a 
 broad base; its prerequisite is a strongly and soundly con- 
-solidated mediocrity.” Always and everywhere, some will be 
+solidated mediocrity." Always and everywhere, some will be 
 
 * J. W., 77-8; B. G. E., 121; Faguet, 22; H. A. H., ii, 288. 
 
@@ -23120,12 +22689,12 @@ They will be Plato’s guardians again; Plato was right —
 philosophers are the highest men. They will be men of refine- 
 ment as well as of courage and strength; scholars and gen- 
 erals in one. They will be united by courtesy and corps 
-d’ esprit: “These men are kept rigorously within bounds by 
-morality , 8 veneration, custom, gratitude, still more* by re- 
+d’ esprit: "These men are kept rigorously within bounds by 
+morality, 8 veneration, custom, gratitude, still more* by re- 
 ciprocal surveillance, by jealousy inter pares ; and on the other 
 hand, in their attitude towards one another they will be in- 
 ventive in consideration, self-command, delicacy, pride, and 
-friendship.” 4 
+friendship." 4 
 
 Will this aristocracy be a caste, and their power hereditary? 
 
@@ -23135,7 +22704,7 @@ i Antichrist, 219-220.
 
 8 When did this poor exile re-enter? 
 
-4 Quoted by Nordau, Degeneration , New York, 1895; p. 439. 
+4 Quoted by Nordau, Degeneration, New York, 1895; p. 439. 
 
 
 
@@ -23150,19 +22719,19 @@ new blood. But nothing can so contaminate and weaken an
 aristocracy as marrying rich vulgarians, after the habit of 
 the English aristocracy ; it was such intermarriage that ruined 
 the greatest governing body the world has ever seen — the 
-aristocratic Roman senate. There is no “accident of birth”; 
+aristocratic Roman senate. There is no "accident of birth"; 
 every birth is the verdict of nature upon a marriage ; and the 
 perfect man comes only after generations of selection and 
-preparation; “a man’s ancestors have paid the price of what 
-he is.” 
+preparation; "a man’s ancestors have paid the price of what 
+he is." 
 
 Does this offend too much our long democratic ears? But 
-“those races that cannot bear this philosophy are doomed ; and 
+"those races that cannot bear this philosophy are doomed ; and 
 those that regard it as the greatest blessing are destined to be 
-the masters of the world.” Only such an aristocracy can have 
+the masters of the world." Only such an aristocracy can have 
 the vision and the courage to make Europe a nation, to end 
 J this bovine nationalism, this petty Vaterlanderei. Let us be 
-“good Europeans,” as Napoleon was, and Goethe, and Bee- 
+"good Europeans," as Napoleon was, and Goethe, and Bee- 
 thoven, and Schopenhauer, and Stendhal, and Heine. Too 
 long we have been fragments, shattered pieces of what might 
 be a whole. How can a great culture grow in this air of 
@@ -23199,17 +22768,17 @@ every line, and we must love him even where we question him.
 There is a time when we tire of sentimentality and delusion, 
 and relish the sting of doubt and denial; and then Nietzsche 
 comes to us as a tonic, like open spaces and fresh winds after 
-a long ceremony in a crowded church. “He who knows how to 
+a long ceremony in a crowded church. "He who knows how to 
 breathe in the air of my writings is conscious that it is the 
 air of the heights, that it is bracing. A man must be built 
-for it ; otherwise the chances are that it will kill him.” 1 Let 
+for it ; otherwise the chances are that it will kill him." 1 Let 
 none mistake this acid for infant’s milk. 
 
-And then what style! “People will say, some day, that 
+And then what style! "People will say, some day, that 
 Heine and I were the greatest artists, by far, that ever wrote 
 in German, and that we left the best any mere German could 
-do an incalculable distance behind us.” And it is almost so. 2 
-“My style dances,” he says ; every sentence is a lance ; the lan- 
+do an incalculable distance behind us." And it is almost so. 2 
+"My style dances," he says ; every sentence is a lance ; the lan- 
 guage is supple, vigorous, nervous, — the style of a fencer, too 
 quick and brilliant for the normal eye. But on rereading 
 him we perceive that something of this brilliance is due to 
@@ -23244,27 +22813,27 @@ nor yet only a poem, but a new faith, a new hope, a new re-
 ligion. 
 
 His thought, as much as his style, reveals him as a son of 
-the Romantic movement. “What,” he asks, “does a philoso- 
+the Romantic movement. "What," he asks, "does a philoso- 
 pher firstly and lastly require of himself? To overcome his 
-age in himself, to become ‘timeless.’ ” But this was a counsel 
+age in himself, to become ‘timeless.’ " But this was a counsel 
 of perfection which he more honored in the breach than in the 
 observance; he was baptized with the spirit of his age, and 
 by total immersion. He did not realize how Kant’s sub- 
-jectivism — “the world is my idea,” as Schopenhauer honestly 
-put it- — had led to Fichte’s “absolute ego,” and this to 
+jectivism — "the world is my idea," as Schopenhauer honestly 
+put it- — had led to Fichte’s "absolute ego," and this to 
 Stimer’s unbalanced individualism, and this to the unmoralism 
 of the superman. 3 The superman is not merely Schopen- 
-hauer’s “genius,” and Carlyle’s “hero,” and Wagner’s Sieg- 
+hauer’s "genius," and Carlyle’s "hero," and Wagner’s Sieg- 
 fried; he looks suspiciously like Schiller’s Karl Moor and 
 Goethe’s Gotz; Nietzsche took more than the word Ueber- 
 mensch from the young Goethe whose later Olympian calm he 
 scorned so enviously. His letters are full of romantic senti- 
-ment and tenderness; “I suffer” recurs in them almost as 
-frequently as “I die” in Heine. 8 He calls himself “a mystic 
-and almost msenadic soul,” and speaks of The Birth of 
-Tragedy as “the confession of a romanticist.” 4 “I am 
-afraid,” he writes to Brandes, “that I am too much of a 
-musician not to be a romanticist.” 6 “An author must become 
+ment and tenderness; "I suffer" recurs in them almost as 
+frequently as "I die" in Heine. 8 He calls himself "a mystic 
+and almost msenadic soul," and speaks of The Birth of 
+Tragedy as "the confession of a romanticist." 4 "I am 
+afraid," he writes to Brandes, "that I am too much of a 
+musician not to be a romanticist." 6 "An author must become 
 
 1 Figgis, 230, 56. 
 
@@ -23280,16 +22849,16 @@ sE. g., cf. Halivy, 231.
 
 478 THE STORY OF PHILOSOPHY 
 
-silent when his work begins to speak” ; 1 but Nietzsche never 
+silent when his work begins to speak" ; 1 but Nietzsche never 
 conceals himself, and rushes into the first person on every 
 page. His exaltation of instinct against thought, of the 
-individual against society, of the “Dionysian” against the 
-“Apollonian” (i. e., the romantic against the classic type) , 
+individual against society, of the "Dionysian" against the 
+"Apollonian" (i. e., the romantic against the classic type), 
 betrays his time as definitely as the dates of his birth and his 
 death. He was, for the philosophy of his age, what Wagner 
 was for its music, — the culmination of the Romantic move- 
 ment, the high tide of the Romantic stream; he liberated and 
-exalted the “will” and the “genius” of Schopenhauer from 
+exalted the "will" and the "genius" of Schopenhauer from 
 all social restraint, as Wagner liberated and exalted the 
 passion that had torn at its classic bonds in the Sonata 
 Pathetique and the Fifth and Ninth Symphonies. He was 
@@ -23304,11 +22873,11 @@ Birth of Tragedy . 2 * Scholars like Wilamowitz-Moellendorff
 laughed the book out of the philologic court. The attempt to 
 deduce Wagner from JSschylus was the self-immolation of 
 young devotee before a despotic god. Who would have 
-thought that the Reformation was “Dionysian” — i. e., wild, 
+thought that the Reformation was "Dionysian" — i. e., wild, 
 unmoral, vinous, Bacchanalian ; and that the Renaissance, was 
-quite the opposite of these, quiet, restrained, moderate, “Apol- 
-lonian”? Who would have suspected that “Socratism was the 
-culture of the opera”? 8 The attack on Socrates was the dis- 
+quite the opposite of these, quiet, restrained, moderate, "Apol- 
+lonian"? Who would have suspected that "Socratism was the 
+culture of the opera"? 8 The attack on Socrates was the dis- 
 dain of a Wagnerian for logical thought; the admiration 
 for Dionysus was a sedentary man’s idolatry of action (hence 
 ailso the apotheosis of Napoleon), and a bashful bachelor’s 
@@ -23350,19 +22919,19 @@ and desire ; 1 that Apollo must limit Dionysus. Some have
 described Nietzsche as a pagan; but he was not that: neither 
 Greek pagan like Pericles nor German pagan like Goethe; 
 he lacked the balance and restraint that made these men 
-strong. “I shall give back to men the serenity which is the 
-condition of all culture,” he writes , 2 but alas, how can one 
+strong. "I shall give back to men the serenity which is the 
+condition of all culture," he writes, 2 but alas, how can one 
 give what one has not? 
 
 Of all Nietzsche’s books, Zarathustra is safest from criti- 
 cism, partly because it is obscure, and partly because its 
 inexpugnable merits dwarf all fault-finding. The idea of 
-eternal recurrence, though common to the “Apollonian” 
-Spencer as well as to the “Dionysian” Nietzsche, strikes one 
+eternal recurrence, though common to the "Apollonian" 
+Spencer as well as to the "Dionysian" Nietzsche, strikes one 
 as unhealthy fancy, a weird last-minute effort to recover the 
 belief in immortality. Every critic has seen the contradiction 
-between the bold preachment of egoism (Zarathustra “pro- 
-claims the Ego whole and holy, and selfishness blessed” — an 
+between the bold preachment of egoism (Zarathustra "pro- 
+claims the Ego whole and holy, and selfishness blessed" — an 
 unmistakable echo of Stirner) and the appeal to altruism and 
 
 lCf. Santayana, 141. 
@@ -23377,19 +22946,19 @@ But who, reading this philosophy, will classify himself as
 servant, and not as superman? 
 
 As for the ethical system of Beyond Good and Evil and The 
-Genealogy of Morals , it is stimulating exaggeration. We 
+Genealogy of Morals, it is stimulating exaggeration. We 
 acknowledge the need of asking men to be braver, and harder 
 on themselves, — almost all ethical philosophies have asked 
 that ; but there is no urgent necessity for asking people to be 
-crueler and “more evil” 1 — surely this is a work of supereroga- 
+crueler and "more evil" 1 — surely this is a work of supereroga- 
 tion? And there is no great call to complain that morality 
 is a weapon used by the weak to limit the strong ; the strong 
 are not too deeply impressed by it, and make rather clever 
 use of it in turn: most moral codes are imposed from above 
 rather than from below; and the crowd praises and blames 
 by prestige imitation. It is well, too, that humility should 
-be occasionally maltreated; “we have had deprecation and 
-ducking long enough,” as the good gray poet said; but one 
+be occasionally maltreated; "we have had deprecation and 
+ducking long enough," as the good gray poet said; but one 
 does not observe any superabundance of this quality in 
 modern character. Nietzsche here fell short of that historical 
 sense which he lauded as so necessary to philosophy; or he 
@@ -23400,7 +22969,7 @@ millennium of the Christian era, that very culture to which
 Nietzsche always returns for nourishment and refuge. 
 Surely this wild emphasis on power and movement is the echo 
 of a feverish and chaotic age? This supposedly universal 
-“will to power” hardly expresses the quiescence of the Hindu, 
+"will to power" hardly expresses the quiescence of the Hindu, 
 the calm of the Chinese, or the satisfied routine of the 
 medieval peasant. Power is the idol of some of us ; but most 
 of us long rather for security and peace. 
@@ -23447,12 +23016,12 @@ live long enough, or widely enough, to mature his half-truths
 into wisdom. Perhaps if he had lived longer he would have 
 turned his strident chaos into a harmonious philosophy. 
 Truer of him than of the Jesus to whom he applied them, were 
-his own words: “He died too early; he himself would have 
-revoked his doctrine had he reached” a riper age; “noble 
-enough to revoke he was !” 1 But death had other plans. 
+his own words: "He died too early; he himself would have 
+revoked his doctrine had he reached" a riper age; "noble 
+enough to revoke he was !" 1 But death had other plans. 
 
 Perhaps in politics his vision is sounder than in morals. 
-Aristocracy is the ideal government; who shall deny it? “O 
+Aristocracy is the ideal government; who shall deny it? "O 
 ye kind heavens! there is in every nation ... a fittest, a 
 wisest, bravest, best; whom could we find and make king over 
 us, all were in truth well. . . . By what art discover him? 
@@ -23463,7 +23032,7 @@ iz., 99-100.
 
 482 THE STORY OF PHILOSOPHY 
 
-of him is great!” 1 But who are the best? Do the best 
+of him is great!" 1 But who are the best? Do the best 
 appear only in certain families, and must we therefore have 
 hereditary aristocracy? But we had it; and it led to clique- 
 pursuits, class-irresponsibility, and stagnation. Perhaps 
@@ -23479,7 +23048,7 @@ nationalism they would lose a main source of their power —
 the manipulation of foreign relations. And perhaps a world- 
 state would not be so beneficial to culture as Nietzsche thinks; 
 large masses move slowly; and Germany probably did more 
-for culture when she was merely “a geographical expression,” 
+for culture when she was merely "a geographical expression," 
 with independent courts rivalling one another in the patronage 
 of art, than in her days of unity and empire and expansion; 
 it was not an emperor who cherished Goethe and rescued 
@@ -23499,8 +23068,8 @@ creation ; ages in which a new and vigorous class is rising to
 
 1 Carlyle, Past and Present, New York, 1901. 
 
-2 “In my youth,” says Nietzsche somewhere, “I flung at the world with 
-Yea and Nay; now in my old age I do penance *or it.” 
+2 "In my youth," says Nietzsche somewhere, "I flung at the world with 
+Yea and Nay; now in my old age I do penance *or it." 
 
 
 FRIEDRICH NIETZSCHE 
@@ -23511,8 +23080,8 @@ FRIEDRICH NIETZSCHE
 
 power and pride. And so in politics: it would be suicidal to 
 exclude from statesmanship such genius as lacked aristocratic 
-pedigree; the better formula, surely, is a “career open to 
-talent” wherever bom ; and genius has a way of getting bora 
+pedigree; the better formula, surely, is a "career open to 
+talent" wherever bom ; and genius has a way of getting bora 
 in the most outlandish places. Let us be ruled by all the 
 best. An aristocracy is good only if it is a fluent body of 
 men whose patent to power lies not in birth but in ability, — 
@@ -23525,7 +23094,7 @@ sche has been refuted by every aspirant to respectability ; and
 yet he stands as a milestone in modern thought, and a 
 mountain-peak in German prose. No doubt he was guilty of 
 a little exaggeration when he predicted that the future would 
-divide the past into “Before Nietzsche” and “After Nietzsche” ; 
+divide the past into "Before Nietzsche" and "After Nietzsche" ; 
 but he did succeed in effecting a wholesome critical review 
 of institutions and opinions that for centuries had been taken 
 for granted. It remains that he opened a new vista into 
@@ -23534,8 +23103,8 @@ the seeds of romantic decadence in the music of Wagner;
 that he analyzed our human nature with a subtlety as sharp as 
 a surgeon’s knife, and perhaps as salutary ; that he laid bare 
 some hidden roots of morality as no other modern thinker had 
-done ; 1 that “he introduced a value hitherto practically un- 
-known in the realms of ethics — namely, aristocracy ” ; 2 that 
+done ; 1 that "he introduced a value hitherto practically un- 
+known in the realms of ethics — namely, aristocracy " ; 2 that 
 he compelled an honest taking of thought about the ethical 
 implications of Darwinism; that he wrote the greatest prose 
 poem in the literature of his century; and (this above all) 
@@ -23562,23 +23131,23 @@ because Nietzsche wrote . 1
 
 X. FINALE 
 
-“I love him who willeth the creation of something beyond 
-himself, and then perisheth,” said Zarathustra . 2 
+"I love him who willeth the creation of something beyond 
+himself, and then perisheth," said Zarathustra . 2 
 
 Undoubtedly Nietzsche’s intensity of thought consumed 
 him prematurely. His battle against his time unbalanced his 
-mind; “it has always been found a terrible thing to war with 
+mind; "it has always been found a terrible thing to war with 
 the moral system of one’s age ; it will have its revenge ... 
-from within and from without.” 8 Towards the end Nietz- 
+from within and from without." 8 Towards the end Nietz- 
 sche’s work grew in bitterness; he attacked persons as well 
-as ideas, — Wagner, Christ, etc. “Growth in wisdom,” he 
-wrote, “may be exactly measured by decrease in bitterness ” : 4 
+as ideas, — Wagner, Christ, etc. "Growth in wisdom," he 
+wrote, "may be exactly measured by decrease in bitterness " : 4 
 but he could not convince his pen. Even his laughter be- 
 came neurotic as his mind broke down; nothing could better 
 reveal the poison that was corroding him than the reflection; 
-“Perhaps I know best why man is the only animal that laughs : 
+"Perhaps I know best why man is the only animal that laughs : 
 he alone suffers so excruciatingly that he was compelled to 
-invent laughter .” 8 Disease and increasing blindness were 
+invent laughter ." 8 Disease and increasing blindness were 
 the physiological side of his breakdown . 8 He began to give 
 way to paranoic delusions of grandeur and persecution ; he sent 
 one of his books to Taine with a note assuring the great critic 
@@ -23618,19 +23187,19 @@ better hold upon perspective and sanity. But appreciation
 came too late. Taine sent him a generous word of praise 
 when almost all others ignored or reviled him ; Brandes wrote 
 to tell him that he was giving a course of lectures on thei 
-“aristocratic radicalism” of Nietzsche at the University of 
+"aristocratic radicalism" of Nietzsche at the University of 
 Copenhagen; Strindberg wrote to say that he was turning 
 Nietzsche’s ideas to dramatic use; perhaps best of all, an 
 anonymous admirer sent a check for $400. But when these 
 bits of light came, Nietzsche was almost blind in sight and 
-soul; and he had abandoned hope. “My time is not yet,” 
-he wrote ; “only the day after tomorrow belongs to me.” 1 
+soul; and he had abandoned hope. "My time is not yet," 
+he wrote ; "only the day after tomorrow belongs to me." 1 
 
 The last blow came at Turin in January, 1889, in the form 
 of a stroke of apoplexy. He stumbled blindly back to his 
 attic room, and dashed off mad letters: to Cosima Wagner 
-four words — “Ariadne, I love you”; to Brandes a longer 
-message, signed “The Crucified”; and to Burckhardt and 
+four words — "Ariadne, I love you"; to Brandes a longer 
+message, signed "The Crucified"; and to Burckhardt and 
 Overbeck such fantastic missives that the latter hurried to 
 his aid. He found Nietzsche ploughing the piano with his 
 elbows, singing and crying his Dionysian ecstasy. 
@@ -23651,7 +23220,7 @@ He caught his sister once weeping as she looked at him, and
 
 1 E. H., 55. 
 
-2 “The right man in the right place,” says the. brutal Nordau 
+2 "The right man in the right place," says the. brutal Nordau 
 
 
 
@@ -23661,10 +23230,10 @@ He caught his sister once weeping as she looked at him, and
 THE STORY OF PHILOSOPHY 
 
 
-he could not understand her tears: “Lisbeth,” he asked, 
-“why do you cry? Are we not happy?” On one occasion he 
-heard talk of books; his pale face lit up: “Ah!” he said, 
-brightening, “I too have written some good books” — and the 
+he could not understand her tears: "Lisbeth," he asked, 
+"why do you cry? Are we not happy?" On one occasion he 
+heard talk of books; his pale face lit up: "Ah!" he said, 
+brightening, "I too have written some good books" — and the 
 lucid moment passed. 
 
 He died in 1900. Seldom has a man paid so great a price 
@@ -23700,8 +23269,8 @@ zation of Western Europe drove thought away from thought
 and in the direction of material things. 
 
 Spencer’s system was the culminating expression of this 
-mechanical point of view. Hailed though he was as “the 
-philosopher of Darwinism,” he was more truly the reflex and 
+mechanical point of view. Hailed though he was as "the 
+philosopher of Darwinism," he was more truly the reflex and 
 exponent of industrialism; he endowed industry with glories 
 and virtues which to our hind-sight seem ridiculous; and his 
 outlook was rather that of a mechanician and an engineer 
@@ -23745,7 +23314,7 @@ losophy. In 1878 he entered the Ecole Normale Superieure,
 and on graduating, was appointed to teach philosophy at 
 the Lycee of Clermont-Ferrand. There, in 1888, he wrote 
 his first major work — the Essai sur les donnees immediate s 
-de la conscience , translated as Time and Free-will . Eight 
+de la conscience, translated as Time and Free-will . Eight 
 quiet years intervened before the appearance of his next (and 
 his most difficult) book — Matter e et memoir e. In 1898 he 
 became professor at the Ecole Normale, and in 1900 at the 
@@ -23783,7 +23352,7 @@ were obviously connected, the mode of connection was as
 far from obvious as it had ever been. If mind was matter, 
 and every mental act a mechanical resultant of neural states, 
 of what use was consciousness? Why could not the material 
-mechanism of the brain dispense with this “epiphenomenon,” 
+mechanism of the brain dispense with this "epiphenomenon," 
 as the honest and logical Huxley called it, this apparently 
 useless flame thrown up by the heat of cerebral commotion? 
 Finally, was determinism any more intelligible than free will? 
@@ -23822,22 +23391,22 @@ cause we tend to think in terms of space ; we are geometricians
 all. But time is as fundamental as space; and it is time, 
 bo doubt, that holds the essence of life, and perhaps of all 
 reality. What we have to understand is that time is an accu- 
-mulation, a growth, a duration. “Duration is the continuous 
+mulation, a growth, a duration. "Duration is the continuous 
 progress of the past which gnaws into the future and which 
-swells as it advances”; it means that “the past in its entirety 
+swells as it advances"; it means that "the past in its entirety 
 is prolonged into the present and abides there actual and act- 
-ing.” Duration means that the past endures, that nothing of 
-it is quite lost. “Doubtless we think with only a small part 
+ing." Duration means that the past endures, that nothing of 
+it is quite lost. "Doubtless we think with only a small part 
 of our past; but it is with our entire past . . . that we 
-desire, will, and act.” And since time is an accumulation, 
+desire, will, and act." And since time is an accumulation, 
 the future can never be the same as the past, for a new accu- 
-mulation arises at every step. “Each moment is not only 
+mulation arises at every step. "Each moment is not only 
 something new, but something unforeseeable; . . . change is 
-far more radical than we suppose”; and that geometrical 
+far more radical than we suppose"; and that geometrical 
 predictability of all things which is the goal of a mechanist 
-science is only an intellectualist delusion. At least “for a 
+science is only an intellectualist delusion. At least "for a 
 conscious being, to exist is to change, to change is to mature, 
-to mature is to go on creating one’s self endlessly.” What 
+to mature is to go on creating one’s self endlessly." What 
 if this is true of all things? Perhaps all reality ia time and 
 duration, becoming and change? 1 
 
@@ -23857,15 +23426,15 @@ retained that rich alternatives present themselves for every sit-
 uation. As life grows richer in its scope, its heritage and its 
 memories, the field of choice widens, and at last the variety of 
 possible responses generates consciousness, which is the re- 
-hearsal of response. “Consciousness seems proportionate to 
+hearsal of response. "Consciousness seems proportionate to 
 the living being’s power of choice. It lights up the zone of 
 potentialities that surrounds the act. It fills the interval be- 
-tween what is done and what might be done.” It is no useless 
+tween what is done and what might be done." It is no useless 
 appendage ; it is a vivid theatre of imagination, where alterna- 
 tive responses are pictured and tested before the irrevocable 
-choice. “In reality,” then, “a living being is a center of 
+choice. "In reality," then, "a living being is a center of 
 action; it represents a sum of contingency entering into the 
-world; that is to say, a certain quantity of possible action.” 
+world; that is to say, a certain quantity of possible action." 
 Man is no passively adaptive machine; he is a focus of re- 
 directed force, a center of creative evolution . 1 
 
@@ -23906,11 +23475,11 @@ THE STORY OF PHILOSOPHY
 gravitation of impulse or habit or sloth. Choice is creation, 
 and creation is labor. Hence the worried features of men; 
 and their weary envy of the choiceless routine of animals, 
-who “are so placid and self-contained.” Rut the Confucian 
+who "are so placid and self-contained." Rut the Confucian 
 peacefulness of your dog is no philosophic calm, no! quiet 
 surface of unfathomed depth; it is the certainty of instinct, 
 the orderliness of an animal that need not, and cannot, choose. 
-“In the animal, invention is never anything but a variation on 
+"In the animal, invention is never anything but a variation on 
 the theme of routine. Shut up in the habits of the species, 
 it succeeds, no doubt, in enlarging them by its individual 
 initiative ; but it escapes automatism only for an instant, for 
@@ -23918,18 +23487,18 @@ just the time to create a new automatism. The gates of its
 prison close as soon as they are opened; by pulling at its 
 chain it succeeds only in stretching it. With man, conscious- 
 ness breaks the chain. In man, and man alone, it sets itself 
-free.” 1 
+free." 1 
 
 Mind, then, is not identical with brain. Consciousness 
 depends upon the brain, and falls with it; but so does a 
 coat fall with the nail on which it hangs, — which does not 
-prove that the coat is an “epiphenomenon,” an ornamental 
+prove that the coat is an "epiphenomenon," an ornamental 
 ectoplasm of the nail. The brain is the system of images and 
 reaction-patterns ; consciousness is the recall of images and 
-the choice of reactions. “The direction of the stream is dis- 
+the choice of reactions. "The direction of the stream is dis- 
 tinct from the river bed, although it must adopt its wind- 
 ing course. Consciousness is distinct from the organism 
-which it animates, although it must undergo its vicissitudes.” 2 
+which it animates, although it must undergo its vicissitudes." 2 
 
 It is sometimes said that in ourselves, consciousness is 
 directly connected with a brain, and that we must therefore 
@@ -23939,9 +23508,9 @@ and deny it to those which have none. But it is easy tp
 1 Creative Evolution, p. 264. This is an example of Bergson’s facility iff 
 replacing argument with analogy, and of his tendency to exaggerate the gap 
 between animals and men. Philosophy should not flatter. Jerome Coignard 
-was wiser, and “would have refused to sign the Declaration of the Rights 
+was wiser, and "would have refused to sign the Declaration of the Rights 
 of Man, because of the sharp and unwarranted distinction it drew between 
-man and the gorilla.” 
+man and the gorilla." 
 
 2 Ibid,, p. 270. 
 
@@ -23959,7 +23528,7 @@ digests, although it is an almost undifferentiated proto-
 plasmic mass. What is true is that in proportion to the 
 complexity and perfection of an organism, there is a division 
 of labor; special organs are assigned special functions, and 
-the faculty of digesting ,is localized in the stomach, or 
+the faculty of digesting,is localized in the stomach, or 
 rather is a general digestive apparatus, which works* better 
 because confined to that one function alone. In like manner, 
 consciousness in man is unquestionably connected with the 
@@ -23975,17 +23544,17 @@ system down its whole descent, and that when at last the
 nerve stuff is merged in the yet undifferentiated living 
 matter, consciousness is still there, diffused, confused, but 
 not reduced to nothing? Theoretically, then, everything 
-living might be conscious. In principle , consciousness is co- 
+living might be conscious. In principle, consciousness is co- 
 extensive with life . 1 
 
 Why is it, nevertheless, that we seem to think of mind 
 and thought in terms of matter and the brain? It is because 
-that part of our minds which we call the “intellect” is a 
+that part of our minds which we call the "intellect" is a 
 constitutional materialist; it was developed, in the process 
 of evolution, to understand and deal with material, spatial 
 objects; from this field it derives all its concepts and its 
-“laws,” and its notion of a fatalistic and predictable regu- 
-larity everywhere. “Our intellect, in the narrow sense of 
+"laws," and its notion of a fatalistic and predictable regu- 
+larity everywhere. "Our intellect, in the narrow sense of 
 
 i Mind-Energy, New York, 1920; p. 11. 
 
@@ -23999,8 +23568,8 @@ THE STORY OF PHILOSOPHY
 the word, is intended to secure the perfect fitting of our 
 body to its environment, to represent the relations of ex- 
 ternal things among themselves,— in short, to think mat- 
-ter.” 1 It is at home with solids, inert things ; it sees all be- 
-coming as being , 2 as a series of states ; it misses the connective 
+ter." 1 It is at home with solids, inert things ; it sees all be- 
+coming as being, 2 as a series of states ; it misses the connective 
 tissue of things, the flow of duration that constitutes their very 
 life. 
 
@@ -24010,7 +23579,7 @@ mechanism have caught the continuity of life. On the con-
 trary, it is just here that science and the intellect reveal 
 their limitations. The moving picture does not move, is 
 not a picture of motion ; it is only a series of instantane- 
-ous photographs, “snap-shots,” taken in such rapid succession 
+ous photographs, "snap-shots," taken in such rapid succession 
 that when they are thrown in rapid succession upon the screen, 
 the willing spectator enjoys the illusion of continuity, as he 
 did in his boyhood with thumb-nail movies of his pugilistic 
@@ -24018,24 +23587,24 @@ heroes. But it is an illusion none the less; and the cinema
 film is obviously a series of pictures in which everything is 
 as still as if eternally congealed. 
 
-And as the “motion”-picture camera divides into static poses 
+And as the "motion"-picture camera divides into static poses 
 the vivid current of reality, so the human intellect catches a 
 series of states, but loses the continuity that weaves them into 
 life. We see matter and we miss energy; we think that we 
 know what matter is ; but when at the heart of the atom we find 
 energy, we are bewildered, and our categories melt away. 
-“No doubt, for greater strictness, all considerations of mo- 
+"No doubt, for greater strictness, all considerations of mo- 
 tion may be eliminated from mathematical processes; but the 
 introduction of motion into the genesis of figures is neverthe- 
-less the origin of modern mathematics” ; 8 — nearly all the 
+less the origin of modern mathematics" ; 8 — nearly all the 
 progress of mathematics in the nineteenth century was due to 
 the use of the concepts of time and motion in addition to the 
 traditional geometry of space. All through contemporary 
 
 1 Creative Evolution, p. ix. 
 
-2 Cf. Nietzsche: “Being is a fiction invented by those who suffer from be- 
-coming .” — Birth of Tragedy, p. xxvii. 
+2 Cf. Nietzsche: "Being is a fiction invented by those who suffer from be- 
+coming ." — Birth of Tragedy, p. xxvii. 
 
 s Creative Evolution, p. 32. 
 
@@ -24047,7 +23616,7 @@ EUROPEAN PHILOSOPHERS
 
 
 science, as one sees in Mach and Pearson and Henri Poincare, 
-there runs the uncomfortable suspicion that “exact” science 
+there runs the uncomfortable suspicion that "exact" science 
 is merely an approximation, which catches the inertia of re- 
 ality better than its life. 
 
@@ -24093,8 +23662,8 @@ tlbid., p. 31.
 THE STORY OF PHILOSOPHIC 
 
 
-life in its subtle and penetrating flow, not in its “states of 
-mind,” not in its devitalized and separated parts, as when 
+life in its subtle and penetrating flow, not in its "states of 
+mind," not in its devitalized and separated parts, as when 
 the zoologist examines a dead frog’s legs, or studies prepara- 
 tions under a microscope, and thinks that he is a biologist 
 studying life! This direct perception, this simple and steady 
@@ -24103,10 +23672,10 @@ process, but the most direct examination possible to the human
 mind. Spinoza was right : reflective thought is not by any 
 means the highest form of knowledge; it is better, no doubt, 
 than hearsay ; but how weak it is beside the direct perception 
-of the thing itself ! “A true empiricism is one that sets itself 
+of the thing itself ! "A true empiricism is one that sets itself 
 the task of getting as close as possible to the original, of 
 sounding the depths of life, of feeling the pulse of its spirit 
-by a sort of intellectual auscultation’* ; 1 we “listen in” on the 
+by a sort of intellectual auscultation’* ; 1 we "listen in" on the 
 current of life. By direct perception we feel the presence 
 of mind; by intellectual circumlocution we arrive at the notion 
 that thought is a dance of molecules in the brain. Is there 
@@ -24120,40 +23689,40 @@ mal function of dealing with the material and spatial world;
 and with the material aspects or spatial expressions of life 
 and mind; intuition is limited to the direct feeling of life and 
 mind, not in their external embodiments but in their inner 
-being. “I have never maintained that it was necessary ‘to put 
+being. "I have never maintained that it was necessary ‘to put 
 something different in the place of intellect,’ or to set instinct 
 above it. I have simply tried to show that when we leave the 
 domain of mathematics and physics to enter that of life and 
-consciousness, we must make our appeal to a certain sense of , 
+consciousness, we must make our appeal to a certain sense of, 
 life which cuts across pure understanding and has its origin 
 in the same vital impulse as instinct — although instinct, prop- 
-erly so-called, is quite a different thing.” Nor do we try “to 
-refute intellect by intellect”; we merely “adopt the language 
+erly so-called, is quite a different thing." Nor do we try "to 
+refute intellect by intellect"; we merely "adopt the language 
 s Introduction to Metaphysics, p. 14, 
 
 
 EUROPEAN PHILOSOPHERS WT 
 
 of the understanding, since only the understanding has a 
-language” ; we cannot help it if the very words that we use 
+language" ; we cannot help it if the very words that we use 
 are psychological only by symbolism, and still reek with the 
 material connotations forced upon them by their origin. 
 Spirit means breath, arid mind means a measure, and thinking 
 points to a thing; nevertheless these are the crass media 
-through which the soul must express itself. “It will be said 
+through which the soul must express itself. "It will be said 
 that we do not transcend our intellect, for it is still with our 
 intellect, and through our intellect, that we see the other 
-forms of consciousness”; even introspection and intuition are 
+forms of consciousness"; even introspection and intuition are 
 materialist metaphors. And this would be a legitimate ob- 
-jection, “if there did not remain, around our conceptual and 
+jection, "if there did not remain, around our conceptual and 
 •logical thought, a vague nebulosity, made of the very sub- 
 stance out of which has been formed the luminous nucleus that 
-we call the intellect.” The new psychology is revealing in us a 
-mental region incomparably wider than the iritellect. “To 
+we call the intellect." The new psychology is revealing in us a 
+mental region incomparably wider than the iritellect. "To 
 explore the most sacred depths of the unconscious, to labor 
 iri the sub-soil of consciousness: that will be the principal task 
 of psychology in the century which is opening. I do not doubt 
-that wonderful discoveries await it there.” 1 
+that wonderful discoveries await it there." 1 
 
 3. Creative Evolution 
 
@@ -24161,13 +23730,13 @@ With this new orientation, evolution appears to us as some-
 thing quite different from the blind and dreary mechanism 
 of struggle and destruction which Darwin and Spencer de- 
 scribed. We sense duration in evolution, the accumulation of 
-vital powers, the inventiveness of life and mind, “the contin- 
-ual elaboration of the absolutely new.” We are prepared to 
+vital powers, the inventiveness of life and mind, "the contin- 
+ual elaboration of the absolutely new." We are prepared to 
 understand why the most recent and expert investigators, like 
 Jennings and Maupas, reject the mechanical theory of pro- 
 tozoan behavior, and why Professor E. B. Wilson, dean of 
 contemporary cytologists, concludes his book on the cell with 
-the statement that “the study of the cell has, on the whole, 
+the statement that "the study of the cell has, on the whole, 
 
 1 In Ruhe, The Philosophy of Bergson, p. 37 ; Creative Evolution, pp. 258 
 and xii. 
@@ -24178,7 +23747,7 @@ and xii.
 
 seemed to /widen rather than to narrow the enormous gap that 
 separates even the lowest forms of life from the inorganic 
-world.” And everywhere, in the world of biology, one hears 
+world." And everywhere, in the world of biology, one hears 
 of the rebellion against Darwin. 1 
 
 Darwinism means, presumably, the origin of new organs 
@@ -24204,7 +23773,7 @@ a handle to selection. In the case of such complex organs as
 the eye, the difficulty is discouraging: either the eye appeared 
 at once, full-formed and competent (which is as credible as 
 Jonah’s introspection of the whale) ; or it began with a series 
-of “fortuitous” variations which, by a still more fortuitous 
+of "fortuitous" variations which, by a still more fortuitous 
 survival, produced the eye. At every step the theory of a me- 
 chanical production of complicated structures by a blind proc- 
 ess of variation and selection presents us with fairy-tales that 
@@ -24223,12 +23792,12 @@ EUROPEAN PHILOSOPHERS
 
 of sex as a mode of reproduction, both in plants and in ani- 
 mals ; here are lines of evolution as divergent as could be, 
-and yet the same complex “accident” occurs in both. Or take 
+and yet the same complex "accident" occurs in both. Or take 
 the organs of sight in two very distinct phyla — the molluscs 
-and the vertebrates ; “how could the same small variations, in- 
+and the vertebrates ; "how could the same small variations, in- 
 calculable in number, have ever occurred in the same order on 
 two independent lines of evolution, if they were purely acci- 
-dental?” More remarkable still, 
+dental?" More remarkable still, 
 
 nature arrives at identical results, in sometimes neighbor- 
 ing species, by entirely different embryogenic processes. .... 
@@ -24248,7 +23817,7 @@ region. Thus parts differently situated, differently eon-
 capable of performing the same duties and even of manu- 
 facturing, when necessary, the same pieces of the machine . 2 
 
-So, in amnesia and aphasia, “lost” memories and func- 
+So, in amnesia and aphasia, "lost" memories and func- 
 tions reappear in regenerated or substituted tissues . 3 Surely 
 we have here overwhelming evidence that there is something 
 more in evolution than a helpless mechanism of material parts. 
@@ -24260,9 +23829,9 @@ some measure of environing circumstance. Not that there
 three layers of tissues; the external layer, or ectoderm; the intermediate layer, 
 Or mesoderm; and the internal layer, or endoderm. 
 
-2 Creative Evolution , pp. 64 and 75. 
+2 Creative Evolution, pp. 64 and 75. 
 
-° Matter and Memory , ch. ii. 
+° Matter and Memory, ch. ii. 
 
 
 
@@ -24274,21 +23843,21 @@ THE STORY OF PHILOSOPHY
 is any external design determining these marvels; that would 
 be merely an inverted mechanism, a fatalism as destruc- 
 tive of human initiative and of creative evolution as the sombre 
-surrender of Hindu thought to India’s heat. “We must get 
+surrender of Hindu thought to India’s heat. "We must get 
 beyond both points of view — mechanism and finalism— as be- 
 ing, at bottom, only standpoints to which the human mind has 
-been led by considering the work of men”: we thought at first 
+been led by considering the work of men": we thought at first 
 that all things moved because of some quasi-human will using 
 them as instruments in a cosmic game; and then we thought 
 that the cosmos itself was a machine because we had been dom- 
 inated, in character and philosophy, by our mechanical age. 
 There is a design in things; but in them, not outside; an 
-mtelechy , an inward determination of all the parts by the 
+mtelechy, an inward determination of all the parts by the 
 function and purpose of the whole . 1 
 
 Life is that which makes efforts, which pushes upwards and 
-outwards and on; “always and always the procreant urge of 
-the world.” It is the opposite of inertia, and the opposite of 
+outwards and on; "always and always the procreant urge of 
+the world." It is the opposite of inertia, and the opposite of 
 accident; there is a direction in the growth to which it is self- 
 impelled. Against it is the undertow of matter, the lag and 
 slacx ortfimgs towards relaxation and rest and death; at every 
@@ -24296,7 +23865,7 @@ stage life has had to fight with the inertia of its vehicle ; and
 if it conquers death' through reproduction, it does so only by 
 yielding every citadel in turn, and abandoning every individ- 
 ual body at last to inertia and decay. Even to stand is to 
-defy matter and its “laws”: while to move about, to go forth 
+defy matter and its "laws": while to move about, to go forth 
 and seek, and not, plant-like, to wait, is a victory purchased 
 at every moment by effort and fatigue. And consciousness 
 slips, as soon as it is permitted, into the restful automatism 
@@ -24308,7 +23877,7 @@ the adventure of motion. And in one great avenue of develop-
 ment this motionless stability has been the goal of life: the 
 bending lily and the majestic oak are altars to the god Secu- 
 rity. But life was not content with this stay-at-home existence 
-* Creative Evolution , p. 89. 
+* Creative Evolution, p. 89. 
 
 
 EUROPEAN PHILOSOPHERS 
@@ -24320,12 +23889,12 @@ EUROPEAN PHILOSOPHERS
 of the plant ; always its advances have been away from security 
 towards freedom ; away from carapaces, scales and hides, an$ 
 other burdensome protections, to the ease and perilous liberty 
-of the bird. “So the heavy hoplite was supplanted by tht 
+of the bird. "So the heavy hoplite was supplanted by tht 
 legionary; the knight, clad in armor, had to give place to the 
 light free-moving infantryman; and in a general way, in the 
 evolution of life, just as in the evolution of human societies 
 and of individual destinies, the greatest successes have been 
-for those who accepted the heaviest risks.” 1 So, too, man 
+for those who accepted the heaviest risks." 1 So, too, man 
 has ceased to evolve new organs on his body; he makes tools 
 and weapons instead, and lays them aside when they are not 
 needed, rather than carry all his armament at every step, like 
@@ -24379,10 +23948,10 @@ every species is an experiment, is what we mean by God; God
 and Life are one. But this God is finite, not omnipotent,—^ 
 limited by matter, and overcoming its inertia painfully, step 
 by step; and not omniscient, but groping gradually towards 
-knowledge and consciousness and “more light.” “God, thus 
+knowledge and consciousness and "more light." "God, thus 
 defined, has nothing of the ready-made; He is unceasing life, 
 action, freedom. Creation, so conceived, is not a mystery ; we 
-experience it in ourselves when we act freely,” Avhen we con- 
+experience it in ourselves when we act freely," Avhen we con- 
 sciously choose our actions and plot our lives . 1 Our strug- 
 gles and our sufferings, our ambitions and our defeats, Our 
 yearnings to be better and stronger than we are, are the voice 
@@ -24412,16 +23981,16 @@ EUROPEAN PHILOSOPHERS
 50$ 
 
 
-achievements. “The animal takes its stand on the plant, man 
+achievements. "The animal takes its stand on the plant, man 
 bestrides animality, and the whole of humanity, in space and 
 time, is one immense army galloping beside and before and 
 behind each of us in an overwhelming charge able to beat 
 down every resistance and clear the most formidable obstacles, 
-perhaps even death.” 1 
+perhaps even death." 1 
 
 4. Criticism 
 
-“I believe,” says Bergson, “that the time given to refutation 
+"I believe," says Bergson, "that the time given to refutation 
 in philosophy is usually time lost. Of the many attacks di- 
 rected by the many thinkers against each other, what now re- 
 mains? Nothing, or assuredly very little. That which 
@@ -24429,11 +23998,11 @@ counts and endures is the modicum of positive truth which
 each contributes. The true statement is of itself able to dis- 
 place the erroneous idea, and becomes, without our having 
 taken the trouble of refuting anyone, the best of refuta- 
-tions.” 2 This is the voice of Wisdom herself. When we; 
-“prove” or disprove” a philosophy we are merely offering an- 
+tions." 2 This is the voice of Wisdom herself. When we; 
+"prove" or disprove" a philosophy we are merely offering an- 
 other one, which, like the first, is a fallible compound of -ex- 
 perience and hope. As experience widens and hope changes, 
-we find more “truth” in the “falsehoods” we denounced, and 
+we find more "truth" in the "falsehoods" we denounced, and 
 perhaps more falsehood in our youth’s eternal truths. When 
 we are lifted upon the wings of rebellion we like determinism 
 and mechanism, they are so cynical and devilish; but when 
@@ -24448,7 +24017,7 @@ the fine traditions of luminous French prose. It is harder
 to be wrong in French than in some other languages ; for the 
 French will not tolerate obscurity, and truth is clearer than 
 
-* Creative Evolution , p. 271. 
+* Creative Evolution, p. 271. 
 
 2 In Ruhe, p. 47. 
 
@@ -24478,7 +24047,7 @@ trusted only so far as its findings illumine and advance our ac-
 tion. Bergson presumes too much in supposing that the in- 
 tellect catches only the states, and not the flux, of reality and 
 life; thought is a stream of transitive ideas, as James had 
-shown before Bergson wrote ; 2 “ideas” are merely points that 
+shown before Bergson wrote ; 2 "ideas" are merely points that 
 memory selects in the flow of thought; and the mental current 
 adequately reflects the continuity of perception and the move- 
 ment of life. 
@@ -24500,7 +24069,7 @@ duly disparaging; they cancel each other into confusion. The Introduction
 to Metaphysics is as simple as one may expect of metaphysics; and the essay 
 on Laughter, though one-sided, is enjoyable and fruitful. 
 
-2 Cf. the famous pages on “The Stream of Thought” in J ames’s Principle € 
+2 Cf. the famous pages on "The Stream of Thought" in J ames’s Principle € 
 of Psychology, New York, 1890; voL i, ch. 9. 
 
 
@@ -24521,18 +24090,18 @@ all the cosmos into a test-tube. Materialism is like a grammar
 that recognizes only nouns ; but reality, like language, con- 
 tains action as well as objects, verbs as well as substantives, 
 life and motion as well as matter. One could understand, per- 
-haps, a merely molecular memory, like the “fatigue” of over- 
+haps, a merely molecular memory, like the "fatigue" of over- 
 burdened steel; but molecular foresight, molecular planning, 
 inolecular idealism? — Had Bergson met these new dogmas with 
 a cleansing scepticism he might have been a little less con- 
 structive, but he would have left himself less open to reply. 
 His doubts melt away when his system begins to form; he 
-never stops to ask what “matter” is; whether it may not be 
+never stops to ask what "matter" is; whether it may not be 
 somewhat less inert than we have thought ; whether it may be, 
 not life’s enemy, but life’s willing menial if life but knew its 
 mind. He thinks of the world and the spirit, of body and 
 soul, of matter and life, as hostile to each other; but matter 
-and body and the “world” are merely the materials that wait 
+and body and the "world" are merely the materials that wait 
 to be formed by intelligence and will. And who knows that 
 these things too are not forms of life, and auguries of mind? 
 Perhaps here too, as Heraclitus would say, there are gods. 
@@ -24605,7 +24174,7 @@ EUROPEAN PHILOSOPHERS
 
 
 Bergson’s critique of intellectualism a justification of their 
-gospel of “less thought and more action.” But this sudden 
+gospel of "less thought and more action." But this sudden 
 popularity exacted its price; the contradictory nature of 
 Bergson’s support disintegrated his following; and Bergson 
 may share the fate of Spencer, who lived to be present at the 
@@ -24704,8 +24273,8 @@ strengthened in him, the taste for scholarship; he used the
 modest fortune which the catastrophe left him to collect one 
 of the finest libraries in Italy ; he became a philosopher without 
 paying the usual penalty of poverty or a professorship ; he 
-realized Ecclesiastes’ cautious counsel, that “wisdom is good 
-with an inheritance.” 
+realized Ecclesiastes’ cautious counsel, that "wisdom is good 
+with an inheritance." 
 
 He has remained throughout his life a student, a lover of 
 letters and of leisure. It was against his protests that he was 
@@ -24741,8 +24310,8 @@ nothing unusual now to hear judgments of him like Giusenne
 THE STORY OF PHILOSOPHY 
 
 
-Natoli’s : “The system of Benedetto Croce remains the highest 
-conquest in contemporary thought.” Lei us inquire into the 
+Natoli’s : "The system of Benedetto Croce remains the highest 
+conquest in contemporary thought." Lei us inquire into the 
 secret of this influence. 
 
 #. The Philosophy of the Spirit 
@@ -24752,14 +24321,14 @@ articles (1895—1900) on Historical Materialism and the
 Economics of Karl Marx. He had been immensely stimulated 
 by Antonio Labriola, his professor at the University of Rome; 
 under his guidance Croce had plunged into the labyrinths of 
-Marx’s KapitdL. “This intercourse with the literature of 
+Marx’s KapitdL. "This intercourse with the literature of 
 Marxism, and the eagerness with which for some time I fol- 
 lowed the socialistic press of Germany and Italy, stirred my 
 whole being, and for the first time awakened in me a feeling 
 of political enthusiasm, yielding a strange taste of newness to 
 me; I was like a man who, having fallen in love for the first 
 time when no longer young, should observe in himself the mys- 
-terious process of the new passion.” 1 But the wine of social 
+terious process of the new passion." 1 But the wine of social 
 reform did not quite go to his head; he soon reconciled him- 
 self to the political absurdities of mankind, and worshipped 
 again at the altar of philosophy. 
@@ -24776,7 +24345,7 @@ suggestions of an industrial environment. He refused to ad-
 mit materialism as a philosophy for adults or even as a method 
 for science ; mind was to him the primary, and ultimate reality. 
 And when he came to write his system of thought he called 
-it, almost pugnaciously, “The Philosophy of the Spirit.* - 
+it, almost pugnaciously, "The Philosophy of the Spirit.* - 
 iln Piccoli: Benedetto Croce, New York. 1922; p. 72. 
 
 
@@ -24817,12 +24386,12 @@ lations, and categories. If all abstract or technical words
 were removed from his books they would not so suffer from 
 obesity. 
 
-By a “pure concept” Croce means a universal concept, like 
+By a "pure concept" Croce means a universal concept, like 
 quantity, quality, evolution, or any thought which may con- 
 ceivably be applied to all reality. He proceeds to juggle these 
 concepts as if the spirit of Hegel had found in him another 
 avatar, and as if he were resolved to rival the reputation of 
-the master for obscurity. By calling all this “logic,” Croce 
+the master for obscurity. By calling all this "logic," Croce 
 convinces himself that he scorns metaphysics, and that he 
 
 
@@ -24838,7 +24407,7 @@ gian. He mixes his idealism with a certain hardness of atti-
 tude towards tender beliefs: he rejects religion; he believes 
 in the freedom of the will, but not in the immortality of the 
 soul; the worship of beauty and the life of culture are to him 
-a substitute for religion. “Their religion was the whole in- 
+a substitute for religion. "Their religion was the whole in- 
 tellectual patrimony of primitive peoples ; our intellectual pat- 
 rimony is our religion. . . . We do not know what use could 
 be made of religion by those who wish to preserve it side by 
@@ -24846,7 +24415,7 @@ side with the theoretic activity of man, with his art, his criti-
 cism, and his philosophy. . . . Philosophy removes from re- 
 ligion all reason for existing. ... As the science of the spirit, 
 it looks upon religion as a phenomenon, a transitory historical 
-fact, a psychic condition that can be surpassed.” 1 One won- 
+fact, a psychic condition that can be surpassed." 1 One won- 
 ders if La Gioconda’s smile did not hover over the face of 
 Rome when it read these words. 
 
@@ -24857,7 +24426,7 @@ is true that Croce’s interest is caught more surely by the the-
 oretical than by the pragmatic aspects of life ; but the very 
 subjects he has essayed bear witness to an honorable effort to 
 overcome his scholastic inclinations. He has written an im- 
-mense volume on The Philosophy of the Practical , which turns 
+mense volume on The Philosophy of the Practical, which turns 
 out to be in part another logic under another name, and in 
 part a metaphysical discussion of the old problem of free will. 
 And in a more modest tome On History he has achieved the 
@@ -24896,9 +24465,9 @@ toil; while he knew nothing without any effort at all, simply
 as a generous gift of nature . 1 
 
 Croce recognizes the difficulty of finding out the actual past, 
-and quotes Rousseau’s definition of history as “the art of 
+and quotes Rousseau’s definition of history as "the art of 
 choosing, from among many lies, that one which most re- 
-sembles the truth.” 2 He has no sympathy with the theorist 
+sembles the truth." 2 He has no sympathy with the theorist 
 who, like Hegel, or Marx, or Buckle, distorts the past into a 
 syllogism that will conclude with his prejudice. There is no 
 foreordained plan in history; and the philosopher who writes 
@@ -24907,8 +24476,8 @@ signs, but to the revelation of causes and consequences and
 correlations. And he will also remember that only that part 
 of the past is of value which is contemporary in its signif- 
 icance and its illumination. History might at last be what 
-Napoleon called it, — “the only true philosophy and the only 
-true psychology” — if historians would write it as the apoca- 
+Napoleon called it, — "the only true philosophy and the only 
+true psychology" — if historians would write it as the apoca- 
 lypse of nature and the mirror of man. 
 
 * On History, Engl, tr., p. 34. 
@@ -24935,28 +24504,28 @@ ical abstractions, until (as in Einstein) they issue in mo-
 mentous conclusions of no practical importance ; but art takes 
 us directly to the particular person and the unique fact, to the 
 philosophical universal intuited in the form of the concrete in- 
-dividual. “Knowledge has two forms: it is either intuitive 
+dividual. "Knowledge has two forms: it is either intuitive 
 knowledge or logical knowledge; knowledge obtained through 
 the imagination or knowledge obtained through the intellect; 
 knowledge of the individual or knowledge of the universal; of 
 individual things or of the relations between them; it is the 
-production either of images or of concepts.” 1 The origin of 
-art, therefore, lies in the power of forming images. “Art is 
+production either of images or of concepts." 1 The origin of 
+art, therefore, lies in the power of forming images. "Art is 
 ruled uniquely by the imagination. Images are its only 
 wealth. It does not classify objects, it does not pronounce 
 them real or imaginary, does not qualify them, does not define 
-them ; it feels and presents them — nothing more.” 2 Because 
+them ; it feels and presents them — nothing more." 2 Because 
 imagination precedes thought, and is necessary to it, the ar- 
 tistic, or image-forming, activity of the mind is prior to the 
 logical, concept-forming, activity. Man is an artist as soon 
 as he imagines, and long before he reasons. 
 
-The great artists understood the matter so. “One paints 
-not with the hands but with the brain,” said Michelangelo; and 
-Leonardo wrote : “The minds of men of lofty genius are most 
+The great artists understood the matter so. "One paints 
+not with the hands but with the brain," said Michelangelo; and 
+Leonardo wrote : "The minds of men of lofty genius are most 
 active in invention when they are doing the least external 
-work.” Everybody knows the story told of da Vinci, that 
-when he was painting the “Last Supper,” he sorely displeased 
+work." Everybody knows the story told of da Vinci, that 
+when he was painting the "Last Supper," he sorely displeased 
 
 i Esthetic, p. 1. 
 
@@ -24984,7 +24553,7 @@ lies not in the extemalization but in the conception of the idea ;
 externalization is a matter of mechanical technique and manual 
 skill. 
 
-“When we have mastered the internal word, when we have 
+"When we have mastered the internal word, when we have 
 vividly and clearly conceived a figure or a statue, when we 
 have found a musical theme, expression is born and is com- 
 plete, nothing more is needed. If, then, we open our mouth, . 
@@ -24992,10 +24561,10 @@ and speak or sing, . . . what we do is to say aloud what
 we have already said within, to sing aloud what we have 
 already sung within. If our hands strike the keyboard of 
 the pianoforte, if we take up pencil or chisel, such actions 
-are willed” (they belong to the practical, not to the esthetic, 
-activity), “and what we are then doing is executing in 
+are willed" (they belong to the practical, not to the esthetic, 
+activity), "and what we are then doing is executing in 
 great movements what we have already executed briefly and 
-rapidly within.” 1 
+rapidly within." 1 
 
 Does this help us to answer that baffling question, What is 
 beauty? Here certainly there are as many opinions as there 
@@ -25007,7 +24576,7 @@ longs, again, rather to the inward image than to the outward
 form in which it is embodied. We like to think that the dif- 
 ference between ourselves and Shakespeare is largely a differ- 
 
-i Esthetic , p. 50. 
+i Esthetic, p. 50. 
 
 
 
@@ -25026,10 +24595,10 @@ Even that esthetic sense which is contemplation rather than
 creation is also inward expression ; the degree in which we un^ 
 der stand or appreciate a work of art depends upon our ability 
 to see by direct intuition the reality portrayed, — our power to 
-form for ourselves an expressive image. “It is always our own 
+form for ourselves an expressive image. "It is always our own 
 intuition we express when we are enjoying a beautiful work 
 of art. ... It can only be my own intuition when, reading 
-Shakespeare, I form the image of Hamlet or Othello .” 1 
+Shakespeare, I form the image of Hamlet or Othello ." 1 
 Both in the artist creating and in the spectator contemplating 
 beauty, the esthetic secret is the expressive image. Beauty is 
 adequate expression : and since there is no real expression if it 
@@ -25066,14 +24635,14 @@ their varied mutual influence. That would be the picture of
 an age, the image of the complexity of man ; it would be such 
 history as a philosopher would consent to write. 
 
-As to the Esthetic , let others judge. At least one student 
+As to the Esthetic, let others judge. At least one student 
 cannot understand it. Is man an artist as soon as he forms 
 images? Does the essence of art lie only in the conception, and 
 not in the externalization? Have we never had thoughts and 
 feelings more beautiful than our speech? How do we know 
 what the inward image was, in the artist’s mind, or whether the 
 work that we admire realizes or misses his idea? How shall 
-we call Rodin’s “Harlot” beautiful, except because it is the 
+we call Rodin’s "Harlot" beautiful, except because it is the 
 expressive embodiment of an adequate conception? — concep- 
 tion though it be of an ugly and distressing subject? 
 Aristotle notes that it pleases us to see the faithful images of 
@@ -25083,15 +24652,15 @@ we reverence the art that has so well embodied the idea?
 It would be interesting, and no doubt disconcerting, to 
 know what artists think of these philosophers who tell them 
 what beauty is. The greatest living artist has abandoned 
-the hope of answering the question. “I believe,” he writes, 
-“that we shall never know exactly why a thing is beautiful.” 
+the hope of answering the question. "I believe," he writes, 
+"that we shall never know exactly why a thing is beautiful." 
 Rut the same mellow wisdom offers us a lesson which we learn, 
-usually, too late. “No one has ever been able to show me 
+usually, too late. "No one has ever been able to show me 
 precisely the right way. ... As for me, I follow my feeling 
 for the beautiful. What man is certain of having found a 
 better guide? ... If I had to choose between beauty and 
 truth, I should not hesitate; it is beauty I should keep. . . . 
-There is nothing true in the world except beauty.” 1 Let us 
+There is nothing true in the world except beauty." 1 Let us 
 hope that we need not choose. Perhaps we shall some day 
 be strong enough and clear enough in soul to see the shining 
 beauty of even the darkest truth. 
@@ -25120,7 +24689,7 @@ period. The Great War had just broken out, and this tender-
 minded, peace-loving philosopher had suffered from the shock 
 of seeing the most civilized of continents disintegrate into 
 barbarism. One imagined that he spoke of so remote a sub- 
-ject as “Our Knowledge of the External World” because he 
+ject as "Our Knowledge of the External World" because he 
 knew it was remote, and wished to be as far as possible from 
 actualities that had become so grim. And then, seeing him 
 again, ten years later, one was happy to find him, though 
@@ -25180,10 +24749,10 @@ He had no liking for the classics; he argued vigorously, like
 another Spencer, for more science in education. The world’s 
 woes, he felt, were largely due to mysticism, to culpable 
 obscurity of thought; and the first law of morality should be, 
-to think straight. “Better the world should perish than that 
+to think straight. "Better the world should perish than that 
 I, or any other human being, should believe a lie; . . . that 
 is the religion of thought, in whose scorching flames the dross 
-of the world is being burnt away.” 1 
+of the world is being burnt away." 1 
 i Mysticism and Logic, London, 1919; p. 241. 
 
 
@@ -25195,25 +24764,25 @@ THE STORY OF PHILOSOPHY
 
 His passion for clarity drove him inevitably to mathe- 
 matics ; he was almost thrilled at the calm precision of this 
-aristocratic science. “Mathematics, rightly viewed, possesses 
+aristocratic science. "Mathematics, rightly viewed, possesses 
 not only truth but supreme beauty — -a beauty cold and 
 austere, like that of sculpture, without appeal to any part of 
 our weaker nature, without the gorgeous trappings of paint- 
 ing or music, yet sublimely pure, and capable of a stem per- 
-fection such as only the greatest art can show.” 1 He believes 
+fection such as only the greatest art can show." 1 He believes 
 that the progress of mathematics was the finest feature of 
-the nineteenth century; specifically, “the solution of the 
+the nineteenth century; specifically, "the solution of the 
 difficulties which formerly surrounded the mathematical infinite • 
 is probably the greatest achievement of which our age can 
-boast.” 2 In one century the old geometry which had held the 
+boast." 2 In one century the old geometry which had held the 
 fortress of mathematics for two thousand years was almost 
 entirely destroyed; and Euclid’s text, the oldest school-book 
-in the world, was at last superseded. “It is nothing less than 
-a scandal that he should still be taught to boys in England.” 8 
+in the world, was at last superseded. "It is nothing less than 
+a scandal that he should still be taught to boys in England." 8 
 
 Perhaps the source of most of the innovations in modem 
 mathematics is the rejection of axioms; and Russell delights 
-in men who challenge “self-evident truths” and insist upon the 
+in men who challenge "self-evident truths" and insist upon the 
 demonstration of the obvious. He was rejoiced to hear that 
 parallel lines may somewhere meet, and that the whole may 
 be no greater than one of its parts. He likes to startle the 
@@ -25247,25 +24816,25 @@ EUROPEAN PHILOSOPHERS
 What draws Russell to mathematics is, again, its rigid im- 
 personality and objectivity; here, and here alone, is eternal 
 truth, and absolute knowledge ; these a priori theorems are the 
-“Ideas” of Plato, the “eternal order” of Spinoza, the substance 
+"Ideas" of Plato, the "eternal order" of Spinoza, the substance 
 of the world. The aim of philosophy should be to equal the 
 perfection of mathematics by confining itself to statements 
 similarly exact, and similarly true before all experience. 
-“Philosophical propositions . . . must be a priori says this 
+"Philosophical propositions . . . must be a priori says this 
 strange positivist. Such propositions will refer not to things 
 but to relations, and to universal relations. They will be 
-independent of specific “facts” and events ; if every particular 
+independent of specific "facts" and events ; if every particular 
 in the world were changed, these propositions would still be 
-true. E. g., “if all A’s are B’s, and X is A, then X is a 
-B” : this is true whatever A may be ; it reduces to a universal 
+true. E. g., "if all A’s are B’s, and X is A, then X is a 
+B" : this is true whatever A may be ; it reduces to a universal 
 and a priori form the old syllogism about the mortality of 
 Socrates ; and it would be true if no Socrates, even if nobody 
 at all, had ever existed. Plato and Spinoza were right: 
-“the world of universals may also be described as the world 
+"the world of universals may also be described as the world 
 of being. The world of being is unchangeable, rigid, exact, 
 delightful to the mathematician, the logician, the builder of 
 metaphysical systems, and all who love perfection more than 
-life.” 1 To reduce all philosophy to such mathematical form, 
+life." 1 To reduce all philosophy to such mathematical form, 
 to take all specific content out of it, to compress it (volumin- 
 ously) into mathematics — this was the ambition of this new 
 Pythagoras. 
@@ -25284,7 +24853,7 @@ times. Hoads to Freedom is a genial survey of social philosophies as old
 as Diogenes, which Russell rediscovers with all the enthusiasm of a Co- 
 lumbus. 
 
-i Mysticism and Logic , p. Ill; The Problems of Philosophy, p. 156. 
+i Mysticism and Logic, p. Ill; The Problems of Philosophy, p. 156. 
 
 
 
@@ -25294,7 +24863,7 @@ THE STORY OF PHILOSOPHY
 522 
 
 
-“People have discovered how to make reasoning symbolic, 
+"People have discovered how to make reasoning symbolic, 
 as it is in algebra, so that deductions can be effected by 
 mathematical rules. . . . Pure mathematics consists entirely 
 of assertions to the effect that if such and such a proposition 
@@ -25305,12 +24874,12 @@ tion what the anything is of which it is supposed to be true.
 
 . . o Thus mathematics may be defined as the subject in 
 which we never know what we are talking about, nor 
-whether what we are saying is true.” 1 
+whether what we are saying is true." 1 
 
 And perhaps (if one may rudely interrupt exposition with 
 opinion) this description does no great injustice to mathe- 
 matical philosophy. It is a splendid game for those who like 
-it; guaranteed to “kill time” as rapidly as chess; it is a new 
+it; guaranteed to "kill time" as rapidly as chess; it is a new 
 form of solitaire, and should be played as far as possible 
 from the contaminating touch of things. It is remarkable 
 that after writing several volumes of this learned moonshine, 
@@ -25350,11 +24919,11 @@ Stoic’s resignation to the ultimate defeat of every individual
 and every species. We talk of evolution and progress; but 
 progress is an egotistical phrase and evolution is but one half 
 of an unmoral cycle of events terminating in dissolution and 
-death. “Organic life, we are told, has developed gradually 
+death. "Organic life, we are told, has developed gradually 
 from the protozoon to the philosopher ; and this development, 
 we are assured, is indubitably an advance. Unfortunately, it 
 is the philosopher, not the protozoon, who gives us this as- 
-surance.” 3 The “free man” cannot comfort himself with 
+surance." 3 The "free man" cannot comfort himself with 
 childish hopes and anthropomorphic gods; he has to keep his 
 courage up even though he knows that in the end he too must 
 die, that all things must die. Nevertheless, he will not sur- 
@@ -25378,7 +24947,7 @@ And then the Great Madness came; and the Bertrand
 Russell who had lain so long buried and mute under the weight 
 of logic and mathematics and epistemology, suddenly burst 
 
-1 Why Men Fight , New York, 1917 ; p. 45. 
+1 Why Men Fight, New York, 1917 ; p. 45. 
 
 2 Mysticism and Logic, pp. 76 and 75. 
 
@@ -25418,11 +24987,11 @@ the cure was communism.
 All property, he pointed out, in his genial way, had had its 
 origin in violence and theft; in the Kimberley diamond mines 
 and the Rand gold mines the transition of robbery into prop- 
-erty was going on under the nose of the world. “No good 
+erty was going on under the nose of the world. "No good 
 to the community, of any sort or kind, results from the private 
 ownership of land. If men were reasonable they would decree 
 that it should cease tomorrow, with no compensation beyond 
-a moderate life-income to the present holders.” 1 
+a moderate life-income to the present holders." 1 
 
 Since private property is protected by the state, and the 
 robberies that make property are sanctioned by legislation and 
@@ -25451,7 +25020,7 @@ opinions will come an intelligent relativity of belief which will
 not readily fly to arms; hatred and war come largely of 
 fixed ideas or dogmatic faith. Freedom of thought and 
 speech would go like a cleansing draught through the neuroses 
-and superstitions of the “modern” mind. 
+and superstitions of the "modern" mind. 
 
 For we are not so educated as we think ; we are but begin- 
 ning the great experiment of universal schooling; and it has 
@@ -25469,10 +25038,10 @@ which believes only up to the evidence in hand, and is always
 ready to concede that it may be wrong. With such methods, 
 education may prove the great solvent of our ills ; it may even 
 make of our children’s children the new men and women who 
-must come before the new society can appear. “The instinc- 
+must come before the new society can appear. "The instinc- 
 tive part of our character is very malleable. It may be 
 changed by beliefs, by material circumstances, by social cir- 
-cumstances, and by institutions.” It is quite conceivable, for 
+cumstances, and by institutions." It is quite conceivable, for 
 
 
 
@@ -25484,16 +25053,16 @@ THE STORY OF PHILOSOPHY
 
 example, that education could mould opinion to admire art 
 more than wealth, as in the days of the Renaissance, and 
-could guide itself by the resolution “to promote all that is 
+could guide itself by the resolution "to promote all that is 
 creative, and so to diminish the impulses and desires that 
-center round possession.” This is the Principle of Growth, 
+center round possession." This is the Principle of Growth, 
 whose corollaries would be the two great commandments of 
 a new and natural morality : first, the Principle of Reverence, 
-that “the vitality of individuals and communities is to be 
-promoted as far as possible”; and . second, the Principle 
-of Tolerance, that “the growth of one individual or one 
+that "the vitality of individuals and communities is to be 
+promoted as far as possible"; and . second, the Principle 
+of Tolerance, that "the growth of one individual or one 
 community is to be as little as possible at the expense of an-* 
-other.” 1 
+other." 1 
 
 There is nothing that man might not do if our splendid 
 organization of schools and universities were properly de- 
@@ -25516,7 +25085,7 @@ towards metaphysics and religion. He has not applied to his
 economic and political theories the same rigid scrutiny of 
 assumptions, the same scepticism of axioms, which gave him 
 such satisfaction in mathematics and logic. His passion for 
-the a priori, his love of “perfection more than life,” leads him 
+the a priori, his love of "perfection more than life," leads him 
 here to splendid pictures that serve rather as poetic relief to 
 
 i Ibid., pp. 101, 248, 256; Mysticism and Logio, p. 108. 
@@ -25558,9 +25127,9 @@ land had been forced (except on paper) to yield to private
 ownership ; and it dawned upon him that men, as made today, 
 will not properly till and husband their holdings unless they 
 can rely on transmitting them, and the improvements which 
-they put into them, to their children. “Russia seems on the 
+they put into them, to their children. "Russia seems on the 
 way to becoming a greater France, a great nation of peasant 
-proprietors. The old feudalism has disappeared” He be- 
+proprietors. The old feudalism has disappeared" He be- 
 gan to understand that this dramatic overturn, with all its 
 sacrifices and all its heroism, was only Russia’s 1789. 
 
@@ -25602,8 +25171,8 @@ keep one’s social philosophy unchanged. The world has con-
 vinced Bertrand Russell that it is too big for his formulae, 
 and perhaps too large and heavy to move very rapidly towards 
 his heart’s desire. And there are so many hearts, and so 
-many different desires! One finds him now “an older and a 
-wiser man,” mellowed by time and a varied life ; as wide awake 
+many different desires! One finds him now "an older and a 
+wiser man," mellowed by time and a varied life ; as wide awake 
 as ever to all the ills that flesh is heir to and yet matured into 
 the moderation that knows the difficulties of social change. 
 All in all, a very lovable man: capable of the profoundest 
@@ -25627,7 +25196,7 @@ better Christian than some who mouth the word. Happily,
 he is still young and vigorous, the flame of life burns brightly 
 in him yet ; who knows but this next decade will see him grow 
 out of disillusionment into wisdom, and write his name among 
-the highest in “the serene brotherhood of philosophs”? 
+the highest in "the serene brotherhood of philosophs"? 
 
 
 t 
@@ -25674,7 +25243,7 @@ ripe age, returns to Europe as to a paradise for which his
 AMERICAN PHILOSOPHERS 531 
 
 years with us were a probation. Santayana is steeped in the 
-“genteel tradition” of the old America. 1 
+"genteel tradition" of the old America. 1 
 
 The other America is American. It consists of those people, 
 whether Yankees or Hoosiers or cowboys, whose roots are in 
@@ -25686,8 +25255,8 @@ of the southern or eastern European ; men and women moulded
 into physical ruggedness and mental directness and simpli- 
 city by their primitive environment and tasks. This is the 
 America that produced Lincoln and Thoreau and Whitman 
-and Mark Twain; it is the America of “horse sense,” of 
-“practical men,” of “hard-headed business men; it is the 
+and Mark Twain; it is the America of "horse sense," of 
+"practical men," of "hard-headed business men; it is the 
 America which so impressed itself upon William James that 
 he became its exponent in philosophy while his brother be- 
 came more British than an Englishman ; and it is the America 
@@ -25702,7 +25271,7 @@ taken away. We shall have, very probably, no more San-
 tayanas; for hereafter it is America, and not Europe, that 
 will write America’s philosophies. 
 
-iCf. his own analysis of the two Americas: “America is not simply a 
+iCf. his own analysis of the two Americas: "America is not simply a 
 young country with an old mentality; it is a country with two mentalities, 
 one a survival of the beliefs and standards of the fathers, the other an ex- 
 pression of the instincts, practices and discoveries of the younger generations. 
@@ -25714,8 +25283,8 @@ dry, but slightly becalmed; it has floated gently in the back-water, while
 alongside, in invention and industry and social organization, the other half 
 of the mind was leaping down a sort of Niagara Rapids. This may be 
 found symbolized in American architecture. . . . The American Will inhabits 
-the skyscraper; the American Intellect inhabits the colonial mansion .” — Winds 
-$ Doctrine , New York, 1913; p. 188. 
+the skyscraper; the American Intellect inhabits the colonial mansion ." — Winds 
+$ Doctrine, New York, 1913; p. 188. 
 
 
 
@@ -25757,12 +25326,12 @@ and Royce. He smiled with a little bitterness at the popu-
 larity of his colleagues, and remained aloof from the crowd 
 and the press ; but he knew that he was fortunate to have found 
 a home in the finest School of Philosophy that any American 
-university had ever known. “It was a fresh morning in the 
-life of reason, cloudy but brightening.” 2 
+university had ever known. "It was a fresh morning in the 
+life of reason, cloudy but brightening." 2 
 
 1 Horace Kallen in The Journal of Philosophy, Sept. 29, 1921 ; vol. 18, p. 534. 
 
-2 Character and Opinion in the United States , New York, 1921; end of 
+2 Character and Opinion in the United States, New York, 1921; end of 
 chapter first 
 
 
@@ -25777,7 +25346,7 @@ pretations of Poetry and Religion. Then, for seven years,
 like Jacob serving for his love, he worked silently, publishing 
 only occasional verse; he was preparing his magnum opus 9 
 The Life of Reason. These five volumes ( Reason in Common 
-Sense , Reason in Society , Reason m Religion , Reason in Art 9 
+Sense, Reason in Society, Reason m Religion, Reason in Art 9 
 and Reason in Science) at once lifted Santayana to a fame 
 whose quality fully atoned for what it lacked in spread. 
 Here was the soul of a Spanish grandee grafted upon the 
@@ -25817,7 +25386,7 @@ THE STORY OF PHILOSOPHY
 finished, he published, in 1923, a substantial volume on 
 Scepticism and Animal Faith, with the blithe announcement 
 that this was merely the introduction to a new system of phi- 
-losophy, to be called “Realms of Being.” It was exhilarating 
+losophy, to be called "Realms of Being." It was exhilarating 
 to see a man of sixty sailing forth on distant voyages anew, 
 and producing a book as vigorous in thought, and as polished 
 in style, as any that he had written. We must begin with 
@@ -25826,16 +25395,16 @@ of Santayana’s t hinkin g.
 
 2. Scepticism and Animal Faith 
 
-“Here,” says the preface, “is one more system of philosophy. 
+"Here," says the preface, "is one more system of philosophy. 
 If the reader is tempted to smile, I can assure him that I 
-smile with him. . - , I am merely attempting to express for 
-the reader the principles to which he appeals when he smiles.” 
+smile with him. . -, I am merely attempting to express for 
+the reader the principles to which he appeals when he smiles." 
 Santayana is modest enough (and this is strange in a philoso- 
 pher) to believe that other systems than his own are possible. 
-“I do not ask anyone to think in my terms if he prefers others. 
+"I do not ask anyone to think in my terms if he prefers others. 
 Let him clean better, if he can, the windows of his soul, that 
 the variety and beauty of the prospect may spread more 
-brightly before him.” 1 
+brightly before him." 1 
 
 In this last and introductory volume he proposes to clear 
 away, first of all, the epistemological cobwebs that have en- 
@@ -25844,13 +25413,13 @@ fore he delineates the Life of Reason he is willing to dis-
 cuss, with all the technical paraphernalia dear to the profes- 
 sional epistemologist, the origin, validity and limits of human 
 reason. He knows that the great snare of thought is the 
-uncritical acceptance of traditional assumptions: “criticism 
-surprises the soul in the arms of convention,” he says, un- 
+uncritical acceptance of traditional assumptions: "criticism 
+surprises the soul in the arms of convention," he says, un- 
 conventionally. He is willing to doubt almost everything: 
 the world comes to us dripping with the qualities of the senses 
 through which it has flowed, and the past comes down to us 
 
-* Scepticism and Animal Faith , p p. v and vi 
+* Scepticism and Animal Faith, p p. v and vi 
 
 
 AMERICAN PHILOSOPHERS 
@@ -25861,26 +25430,26 @@ m
 through a memory treacherously colored with desire. Only 
 one thing seems certain to him, and that is the experience of 
 the moment — this color, this form, this taste, this odor, this 
-quality ; these are the “real” world, and their perception con- 
-stitutes “the discovery of essence.” 1 
+quality ; these are the "real" world, and their perception con- 
+stitutes "the discovery of essence." 1 
 
 Idealism is correct, but of no great consequence: it is true 
 that we know the world only through our ideas; but since 
 the world has behaved, for some thousands of years, sub- 
 stantially as if our combined sensations were true, we may 
 accept this pragmatic sanction without worry for the future. 
-“Animal faith” may be faith in a myth, but the myth is a 
+"Animal faith" may be faith in a myth, but the myth is a 
 good myth, since life is better than any syllogism. The 
 fallacy of Hume lay in supposing that by discovering the 
-origin of ideas he had destroyed their validity: “A natural 
+origin of ideas he had destroyed their validity: "A natural 
 child meant for him an illegitimate one; his philosophy had 
 not yet reached the wisdom of the French lady who asked if 
-all children were not natural.” 2 This effort to be sceptically 
+all children were not natural." 2 This effort to be sceptically 
 strict in doubting the veracity of experience has been carried 
 by the Germans to the point of a disease, like a madman 
 forever washing his hands to clean away dirt that is not 
-there. But even these philosophers “who look for the founda- 
-tions of the universe in their own minds” do not live as if 
+there. But even these philosophers "who look for the founda- 
+tions of the universe in their own minds" do not live as if 
 they really believed that things cease to exist when not per- 
 ceived. 
 
@@ -25916,8 +25485,8 @@ i .
 
 And so Santayana is through with epistemology; and we 
 breathe more easily as we pass on with him to that magnifi- 
-cent reconstruction of Plato and Aristotle which he calls “The 
-Life of Reason.” This epistemological introduction was ap- 
+cent reconstruction of Plato and Aristotle which he calls "The 
+Life of Reason." This epistemological introduction was ap- 
 parently a necessary baptism for the new philosophy. It is 
 a transitional concession; philosophy still makes its bow in 
 epistemological dress, like the labor leaders who for a time 
@@ -25927,27 +25496,27 @@ these clouds, and deal with the affairs of men.
 
 S. Reason in Science 
 
-The Life of Reason is “a name for all practical thought and 
-action justified by its fruits in consciousness.” Reason is no 
+The Life of Reason is "a name for all practical thought and 
+action justified by its fruits in consciousness." Reason is no 
 foe of the instincts, it is their successful unison; it is nature 
 become conscious in us, illuminating its own path and goal. 
-It “is the happy marriage of two elements— impulse and 
+It "is the happy marriage of two elements— impulse and 
 ideation — which, if wholly divorced, would reduce man to a 
 brute or a maniac. The rational animal is generated by the 
 union of these two monsters. He is constituted by ideas which 
 have ceased to be visionary and actions which have ceased to 
-be vain.” Reason is “man’s imitation of divinity.” 2 
+be vain." Reason is "man’s imitation of divinity." 2 
 
 The Life of Reason bases itself frankly on science, because 
-“science contains all trustworthy knowledge.” Santayana 
+"science contains all trustworthy knowledge." Santayana 
 knows the precariousness of reason, and the fallibility of 
 science; he accepts the modern analysis of scientific method 
 as merely a shorthand description of regularities observed 
-in our experience, rather than “laws” governing the world and 
+in our experience, rather than "laws" governing the world and 
 guaranteed unchangeable. But even so modified, science must 
-be our only reliance; “faith in the intellect ... is the only 
+be our only reliance; "faith in the intellect ... is the only 
 
-* Scepticism and Animal Faith , pp. 192, 290, 305, 308. 
+* Scepticism and Animal Faith, pp. 192, 290, 305, 308. 
 
 2 jR. in C. S pn. 3, 6 and 17. 
 
@@ -25958,10 +25527,10 @@ AMERICAN PHILOSOPHERS
 m 
 
 
-faith yet sanctioned by its fruits .” 1 So Santayana m 
+faith yet sanctioned by its fruits ." 1 So Santayana m 
 resolved to understand life, feeling like Socrates that life with 
-out discourse is unworthy of a man; he will subject all “the 
-phases of human progress,” all the pageant of man’s interests 
+out discourse is unworthy of a man; he will subject all "the 
+phases of human progress," all the pageant of man’s interests 
 and history, to the scrutiny of reason. 
 
 He is modest enough nevertheless; he proposes no new 
@@ -25969,12 +25538,12 @@ philosophy, but only an application of old philosophies to
 our present life ; he thinks the first philosophers were the best ; 
 and of them all he ranks highest Democritus 2 and Aristotle ; 
 he likes the plain blunt materialism of the first, and the un- 
-ruffled sanity of the second. “In Aristotle the conception of 
+ruffled sanity of the second. "In Aristotle the conception of 
 human nature is perfectly sound: everything ideal has a natu- 
 ral basis, and everything natural an ideal development. His 
 ethics, when thoroughly digested and weighed, will seem per- 
 fectly final. The Life of Reason finds there its classic ex- 
-plication.” And so, armed with the atoms of Democritus and 
+plication." And so, armed with the atoms of Democritus and 
 the golden mean of Aristotle, Santayana faces the problems 
 of contemporary life. 
 
@@ -25987,15 +25556,15 @@ without knowing their secrets . 3
 
 He will not permit himself the luxury of pantheism, which 
 is merely a subterfuge for atheism ; we add nothing to nature 
-by calling it God; “the word nature is poetical enough; it 
+by calling it God; "the word nature is poetical enough; it 
 suggests sufficiently the generative and controlling function, 
 the endless vitality and changeful order of the world in which 
-I live.” To be forever clinging to the old beliefs in these 
+I live." To be forever clinging to the old beliefs in these 
 refined and denatured forms is to be like Don Quixote, tinker- 
 ing with obsolete armor. Yet Santayana is poet enough to 
 know that a world quite divested of deity is a cold and un- 
 
-iJR. in Science , New York, 1906, p. 318; R, in C, S ,, p. 96. 
+iJR. in Science, New York, 1906, p. 318; R, in C, S,, p. 96. 
 
 2 He makes Democritus the hero of his latest volume. Dialogues in Xmbo, 
 8 S. and A . F., pp. viii and vii. 
@@ -26008,37 +25577,37 @@ iJR. in Science , New York, 1906, p. 318; R, in C, S ,, p. 96.
 THE STORY OF PHILOSOPHY 
 
 
-comfortable home. “Why has man’s conscience in the end 
+comfortable home. "Why has man’s conscience in the end 
 invariably rebelled against naturalism and reverted in some 
-form or other to a cultus of the unseen?” Perhaps “because 
-the soul is akin to the eternal and ideal” ; it is not content with 
+form or other to a cultus of the unseen?" Perhaps "because 
+the soul is akin to the eternal and ideal" ; it is not content with 
 that which is, and yearns for a better life ; it is saddened by 
 the thought of death, and clings to the hope of some power 
 that may make it permanent amid the surrounding flux. But 
-Santayana concludes, bluntly: “I believe there is nothing 
+Santayana concludes, bluntly: "I believe there is nothing 
 immortal. ... No doubt the spirit and energy of the world 
 is what is acting in us, as the sea is what rises in every little 
 wave ; but it passes through us ; and, cry out as we may, it will 
-move on. Our privilege is to have perceived it as it moved.” 1 
-Mechanism is probably universal; and though “physics 
+move on. Our privilege is to have perceived it as it moved." 1 
+Mechanism is probably universal; and though "physics 
 cannot account for that minute motion and pullulation in the 
-earth’s crust of which human affairs are a portion,” the best 
+earth’s crust of which human affairs are a portion," the best 
 method in psychology is to suppose that mechanism prevails 
 even in the inmost recesses of the soul. Psychology graduates 
 from literature into science only when it seeks the mechanical 
 and material basis of every mental event. Even the splendid 
-work of Spinoza on the passions is merely “literary psy- 
-chology,” a dialectic of deduction, since it does not seek for 
+work of Spinoza on the passions is merely "literary psy- 
+chology," a dialectic of deduction, since it does not seek for 
 each impulse and emotion its physiological and mechanical 
-ground. The “behaviorists” of today have found the right 
+ground. The "behaviorists" of today have found the right 
 road, and should follow it unfrightened . 2 
 
 I So thoroughly mechanical and material is life that con- 
 sciousness, which is not a thing but a condition and a process, 
 has no causal efficacy; the efficacy lies in the heat with which 
 impulse and. desire move brain and body, not in the light which 
-flashes up as thought. “The value of thought is ideal, not 
-causal”; that is, it is not the instrument of action but the 
+flashes up as thought. "The value of thought is ideal, not 
+causal"; that is, it is not the instrument of action but the 
 theatre of pictured experience and the recipient of moral and 
 esthetic delights. 
 
@@ -26077,9 +25646,9 @@ ing that so subtle a thinker and so ethereal a poet as San-
 tayana should tie to his neck the millstone of a philosophy 
 which after centuries of effort is as helpless as ever to explain 
 the growth of a flower or the laughter of a child. It may be 
-true that the conception of the world as “a bisectible hybrid,” 
-half material and half mental, is “the clumsy conjunction of 
-an automaton with a ghost ” ; 2 but it is logic and lucidity 
+true that the conception of the world as "a bisectible hybrid," 
+half material and half mental, is "the clumsy conjunction of 
+an automaton with a ghost " ; 2 but it is logic and lucidity 
 personified alongside of Santayana’s conception of Jhimself 
 as an automaton automatically reflecting on its own auto- 
 matism. And if consciousness has no efficacy, why was it 
@@ -26094,7 +25663,7 @@ that ever was on land or sea ; and perhaps it is wiser to inter-
 pret nature in terms of life rather than try to understand her 
 in terms of death. 
 
-*B. m C. S. t pp. 219, 214, 212; Winds , p. 150; S. cmd A. F„ pp. 287, 257. 
+*B. m C. S. t pp. 219, 214, 212; Winds, p. 150; S. cmd A. F„ pp. 287, 257. 
 218-9. 
 
 * R. in C. 8., p. 211. 
@@ -26124,10 +25693,10 @@ Sainte-Beuve remarked of his countrymen that they would
 continue to be Catholics long after they had ceased to be 
 Christians. This is the analysis of Renan and Anatole 
 France, and of Santayana too. He loves Catholicism as one 
-may still long for the woman who has deceived him — “I do 
-believe her though I know she lies.” He mourns for his lost 
-faith, that “splendid error, which conforms better to the 
-impulses of the soul” than life itself. He describes himself 
+may still long for the woman who has deceived him — "I do 
+believe her though I know she lies." He mourns for his lost 
+faith, that "splendid error, which conforms better to the 
+impulses of the soul" than life itself. He describes himself 
 at Oxford, in the midst of some ancient ritual: 
 
 Exile that I am. 
@@ -26141,10 +25710,10 @@ But from the spirit’s realm, celestial, sure,
 Goal of all hope, and vision of the best. 
 
 It is because of this secret love, this believing unbelief, that 
-Santayana achieves his masterpiece in Reason m Religion , 
+Santayana achieves his masterpiece in Reason m Religion, 
 filling his sceptical pages with a tender sadness, and finding 
 in the beauty of Catholicism plentiful cause for loving it still. 
-He smiles, it is true, at “the traditional orthodoxy, the belief, 
+He smiles, it is true, at "the traditional orthodoxy, the belief, 
 namely, that the universe exists and is good for the sake of 
 
 * Winds, p. 107. 
@@ -26156,18 +25725,18 @@ AMERICAN PHILOSOPHERS
 541 
 
 
-man or of the human spirit” ; but he scorns “the enlightenment 
+man or of the human spirit" ; but he scorns "the enlightenment 
 common to young wits and worm-eaten old satirists, who plume 
 themselves on detecting the scientific ineptitude of religion — 
 something which the blindest half see — but leave unexplored 
 the habits of thought from which those tenets sprang, their 
-original meaning and their true function.” Here, after all, 
+original meaning and their true function." Here, after all, 
 is a remarkable phenomenon — that men everywhere have had 
 religions ; how can we understand man if we do not understand 
-religion? “Such studies would bring the sceptic face to face 
+religion? "Such studies would bring the sceptic face to face 
 with the mystery and pathos of mortal existence. They would 
 make him understand why religion is so profoundly moving 
-and in a sense so profoundly just.” 1 
+and in a sense so profoundly just." 1 
 
 Santayana thinks, with Lucretius, that it was fear which 
 first made the gods. 
@@ -26208,7 +25777,7 @@ THE STORY OF PHILOSOPHY
 and interprets all things anthropomorphically ; he personifies 
 and dramatises nature, and fills it with a cloud of deities; 
 <s the rainbow is taken . . . for a trace left in the sky by the 
-passage of some beautiful and elusive goddess.” Not that 
+passage of some beautiful and elusive goddess." Not that 
 people quite literally believe these splendid myths; but the 
 poetry of them helps men to bear the prose of life. This 
 mythopoetic tendency is weak today, and science has led to 
@@ -26225,19 +25794,19 @@ would eventually yield; in Catholicism the Greek and pagan
 element triumphed, in Protestantism, the stem Hebraic moral 
 code. The one had a Renaissance, the other a Reformation . 1 
 
-The Germans — the “northern barbarians,” Santayana calls 
-them — had never really accepted Roman Christianity. “A 
+The Germans — the "northern barbarians," Santayana calls 
+them — had never really accepted Roman Christianity. "A 
 non-Christian ethics of valor and honor, a non-Christian fund 
 of superstition, legend and sentiment, subsisted always among 
-medieval peoples.” The Gothic cathedrals were barbaric, not 
+medieval peoples." The Gothic cathedrals were barbaric, not 
 Roman. The warlike temper of the Teutons raised its head 
 above the peacefulness of the Oriental, and changed Chris- 
 tianity from a religion of brotherly love to a stern inculca- 
 tion of business virtues, from a religion of poverty to a religion 
-of prosperity and power. “It was this youthful religion — 
+of prosperity and power. "It was this youthful religion — 
 profound, barbaric, poetical — that the Teutonic races insinu- 
 ated into Christianity, and substituted for that last sigh .of 
-two expiring worlds.” 2 
+two expiring worlds." 2 
 
 Nothing would be so beautiful as Christianity, Santayana 
 thinks, if it were not taken literally ; but the Germans insisted 
@@ -26259,8 +25828,8 @@ like the damnation of innocents, or the existence of evil in a
 world created by omnipotent benevolence. The principle of 
 individual interpretation led naturally to a wild growth of 
 sects among the people, and to a mild pantheism among 
-the elite — pantheism being nothing more than “naturalism 
-poetically expressed.” Lessing and Goethe, Carlyle and 
+the elite — pantheism being nothing more than "naturalism 
+poetically expressed." Lessing and Goethe, Carlyle and 
 Emerson, were the landmarks of this change. In brief, the 
 moral system of Jesus had destroyed that militaristic Yahveh 
 who by an impish accident of history had been transmitted to 
@@ -26272,7 +25841,7 @@ sympathy with Protestantism; he prefers the color and in-
 cense of his youthful faith. He scolds the Protestants for 
 abandoning the pretty legends of medievaldom, and above 
 all for neglecting the Virgin Mary, whom he considers, as 
-Heine did, the “fairest flower of poesy.” As a wit has put it, 
+Heine did, the "fairest flower of poesy." As a wit has put it, 
 Santayana believes that there is no God, and that Mary is 
 his mother. He adorns his room with pictures of the Virgin 
 and the saints . 2 He likes the beauty of Catholicism more 
@@ -26307,11 +25876,11 @@ these fables . 1
 The man of culture, then, will leave undisturbed the myths 
 that so comfort and inspire the life of the people; and per- 
 haps he will a little envy them their hope. But he will have 
-no faith in another life. “The fact of having been born is 
-a bad augury for immortality .” 2 The only immortality 
+no faith in another life. "The fact of having been born is 
+a bad augury for immortality ." 2 The only immortality 
 that will interest him is that which Spinoza describes. 
 
-“He who lives in the ideal,” says Santayana, “and leaves 
+"He who lives in the ideal," says Santayana, "and leaves 
 it expressed in society or in art enjoys a double immortality. 
 The eternal has absorbed him while he lived, and when he is 
 dead his influence brings others to the same absorption, mak- 
@@ -26325,7 +25894,7 @@ spectator and confessor of his own death and of universal
 mutation, he will have identified himself with what is spiritual 
 in all spirits and masterful in all apprehension; and so con- 
 ceiving himself, he may truly feel and know that he is 
-eternal.” 8 
+eternal." 8 
 
 
 5 . Reason in Society 
@@ -26336,7 +25905,7 @@ of supernatural hopes and fears. Theoretically it solved this
 problem twice; both in Socrates and in Spinoza it gave the 
 world a sufficiently perfect system of natural or rational ethics. 
 If men could be moulded to either philosophy, all would be 
-well. But “a truly rational morality or social regimen has 
+well. But "a truly rational morality or social regimen has 
 
 iThe Sense of Beauty, New York, 1896, p. 189; JB. and A . F y p. 24.7; 
 Winds, p. 46; jR. in R., pp» 98, 97. 
@@ -26351,32 +25920,32 @@ AMERICAN PHILOSOPHERS
 
 545 
 
-never existed in the world, and is hardly to be looked for” ; it 
-remains the luxury of philosophers. “A philosopher has a 
+never existed in the world, and is hardly to be looked for" ; it 
+remains the luxury of philosophers. "A philosopher has a 
 haven in himself, of which I suspect the fabled bliss to follow 
 in other lives ... is only a poetic symbol; he has pleasure 
 in truth, and an equal readiness to enjoy the scene or quit 
-it” (though one may observe a certain obstinate longevity 
+it" (though one may observe a certain obstinate longevity 
 in him). For the rest of us the avenue of moral development 
 must lie, in the future as in the past, in the growth of those 
 social emotions which bloom in the generous atmosphere of 
-love and the home.” 1 
+love and the home." 1 
 
 It is true, as Schopenhauer argued, that love is a deception 
-practised upon the individual by the race; that “nine-tenths 
+practised upon the individual by the race; that "nine-tenths 
 of the cause of love are in the lover, for one-tenth that may 
-be in the object” ; and that love “fuses the soul again into the 
-impersonal blind flux.” Nevertheless, love has its recom- 
+be in the object" ; and that love "fuses the soul again into the 
+impersonal blind flux." Nevertheless, love has its recom- 
 penses; and in his greatest sacrifice man finds his happiest 
-fulfilment. “Laplace is reported to have said on his death- 
+fulfilment. "Laplace is reported to have said on his death- 
 bed that science was mere trifling, and that nothing was real 
-but love.” After all, romantic love, despite its poetical 
+but love." After all, romantic love, despite its poetical 
 delusions, ends normally in a relationship — of parent and 
 child — far more satisfying to the instincts than any celibate 
-security. Children are our immortality; and “we commit the 
+security. Children are our immortality; and "we commit the 
 blotted manuscript of our lives more willingly to the flames, 
 when we find the immortal text half engrossed in a fairer 
-copy . 2 ” 
+copy . 2 " 
 
 The family is the avenue of human perpetuity, and there- 
 fore still the basic institution among men; it could carry on 
@@ -26408,21 +25977,21 @@ Hence, in part, the patriotism of the people ; they know that
 the price they pay for government is cheaper than the cost 
 of chaos. Santayana wonders whether such patriotism does 
 more harm than good; for it tends to attach the stigma of 
-disloyalty to advocates of change. “To love one’s country, 
+disloyalty to advocates of change. "To love one’s country, 
 unless that love is quite blind and lazy, must involve a dis- 
 tinction between the country’s actual condition and its in- 
 herent ideal; and this distinction in turn involves a demand 
-for changes and for effort.” On the other hand, race patriot- 
-ism is indispensable. “Some races are obviously superior to 
+for changes and for effort." On the other hand, race patriot- 
+ism is indispensable. "Some races are obviously superior to 
 others. A more thorough adjustment to the conditions of 
 existence has given their spirit victory, scope, and a relative 
-stability.” Hence intermarriage is perilous, except between 
-races of acknowledged equality and stability. “The Jews, 
+stability." Hence intermarriage is perilous, except between 
+races of acknowledged equality and stability. "The Jews, 
 the Greeks, the Romans, the English, were never so great as 
 when they confronted other nations, reacting against them 
 and at the same time, perhaps, adopting their culture; but 
 this greatness fails inwardly whenever contact leads to 
-amalgamation.” 2 
+amalgamation." 2 
 
 The great evil of the state is its tendency to become an 
 engine of war, a hostile fist shaken in the face of a supposedly 
@@ -26473,7 +26042,7 @@ it justly . 2
 
 Perhaps the development of international sports may give 
 some outlet to the spirit of group rivalry, and serve in some 
-measure as “a moral equivalent for war”; and perhaps the 
+measure as "a moral equivalent for war"; and perhaps the 
 cross-investments of finance may overcome the tendency of 
 trade to come to blows for the markets of the world. San- 
 tayana is not so enamored of industry as Spencer was; he 
@@ -26494,11 +26063,11 @@ was the finest period in the history of government.
 THE STORY OF PHILOSOPHY 
 
 than in the hum of a modern metropolis. We produce toe 
-much, and are swamped with the things we make ; “things are 
-in the saddle and ride mankind,” as Emerson put it. “In a 
+much, and are swamped with the things we make ; "things are 
+in the saddle and ride mankind," as Emerson put it. "In a 
 world composed entirely of philosophers an hour or two & 
 day of manual labor — a very welcome quality — would provide 
-for material wants.” England is wiser than the United 
+for material wants." England is wiser than the United 
 States; for though she too is obsessed with the mania for 
 production, she has in at least a portion of her people realized 
 the value and the arts of leisure . 1 
@@ -26532,7 +26101,7 @@ develop and use. It makes for culture, but also it makes for
 
 122. in Society, pp. 87, 66, 69. 
 
-2 Jbid., pp. 125, 124 > Tl. in Science , p. 255. 
+2 Jbid., pp. 125, 124 > Tl. in Science, p. 255. 
 
 
 
@@ -26544,16 +26113,16 @@ AMERICAN PHILOSOPHERS
 tyranny; the slavery of millions pays for the liberty of a 
 few. The first principle of politics should be that a society 
 is to be judged by the measure in which it enhances the life 
-and capacities of its constituent individuals; — “but for the 
+and capacities of its constituent individuals; — "but for the 
 excellence of the typical single life no nation deserves to be 
-remembered more than the sands of the sea.” 1 From this 
+remembered more than the sands of the sea." 1 From this 
 point of view, democracy is a great improvement on aristocracy. 
 But it too has its evils ; not merely its corruption and its in- 
 competence, but worse, its own peculiar tyranny, the fetich 
-of uniformity. “There is no tyranny so hateful as a vulgar, 
+of uniformity. "There is no tyranny so hateful as a vulgar, 
 anonymous tyranny. It is all-permeating, all-thwarting; it 
 blasts every budding novelty and sprig of genius with its 
-omnipresent and . fierce stupidity.” 2 
+omnipresent and . fierce stupidity." 2 
 
 What Santayana despises above all is the chaos and inde- 
 cent haste of modern life. He wonders was there not more 
@@ -26564,8 +26133,8 @@ few can win. But now that democracy has opened the great
 free-for-all, catch-as-catch-can wrestling match of laissez-faire 
 industrialism, every soul is torn with climbing, and no one 
 knows content. Classes war against one another without re- 
-straint; and “whoever is victorious in this struggle (for which 
-liberalism cleared the field) will make an end of liberalism.” 3 
+straint; and "whoever is victorious in this struggle (for which 
+liberalism cleared the field) will make an end of liberalism." 3 
 This is the nemesis of revolutions, too: that in order to sur- 
 vive they must restore the tyranny which they destroyed. 
 
@@ -26594,14 +26163,14 @@ THE STOKT OF THILOSOFHY
 
 What form of society, then, shall we strive for? Per* 
 haps for none ; there is not much difference among them. But 
-if for any one in particular, for “timocracy.” This would* 
+if for any one in particular, for "timocracy." This would* 
 be government by men of merit and honor; it would be an 
 aristocracy, but not hereditary ; every man and woman would 
 have an open road according to ability, to the highest offices 
 in the state ; but the road would be closed to incompetence, no 
 matter how richly furnished it might be with plebiscites. 
-“The only equality subsisting would be equality of oppor- 
-tunity.” 1 Under such a government corruption would be at 
+"The only equality subsisting would be equality of oppor- 
+tunity." 1 Under such a government corruption would be at 
 a minimum, and science and the arts would flourish through 
 discriminating encouragement. It would be just that synthe- 
 sis of democracy and aristocracy which the world pines for in 
@@ -26618,16 +26187,16 @@ we need only the courage to live up to the oldest and the best.
 
 There is in all these pages something of the melancholy o? 
 a man separated from all that he loves and was accustomed to 
-a man deracine , a Spanish aristocrat exiled to middle-class 
-America. A secret sadness sometimes breaks forth: “That 
-life is worth living,” he says, “is the most necessary of as- 
+a man deracine, a Spanish aristocrat exiled to middle-class 
+America. A secret sadness sometimes breaks forth: "That 
+life is worth living," he says, "is the most necessary of as- 
 sumptions, and, were it not assumed, the most impossibly of 
-conclusions.” 2 In the first volume of “The Life of Reason” 
+conclusions." 2 In the first volume of "The Life of Reason" 
 he talks of the plot and meaning of human life and history as 
 the subject of philosophy; in the last volume he wonders is 
 there a meaning, or a plot? 8 He has unconsciously described 
 
-1 R. in Society , p. 123f. 
+1 R. in Society, p. 123f. 
 
 2 R. in C. S., p. 252. 
 
@@ -26640,8 +26209,8 @@ AMERICAN PHILOSOPHERS
 551 
 
 
-ids own tragedy: “There is tragedy in perfection, because 
-the universe in which perfection arises is itself imperfect.” 1 
+ids own tragedy: "There is tragedy in perfection, because 
+the universe in which perfection arises is itself imperfect." 1 
 Like Shelley, Santayana has never felt at home on this mid- 
 dling planet; his keen esthetic sense seems to have brought to 
 him more suffering from the ugliness of things than delight 
@@ -26649,23 +26218,23 @@ in the scattered loveliness of the world. He becomes at times
 bitter and sarcastic ; he has never caught the hearty cleansing 
 laughter of paganism, nor the genial and forgiving humanity 
 of Renan or Anatole France. He stands aloof and superior, 
-and therefore alone. “What is the part of wisdom?” he 
-asks ; and answers — “To dream with one eye open ; to be de- 
+and therefore alone. "What is the part of wisdom?" he 
+asks ; and answers — "To dream with one eye open ; to be de- 
 tached from the world without being hostile to it; to welcome 
 fugitive beauties and pity fugitive sufferings, without forget- 
-ting for a moment how fugitive they are.” 2 
+ting for a moment how fugitive they are." 2 
 
 But perhaps this constant memento mori is a knell to joy; 
 to live, one must remember life more than death ; one must 
 embrace the immediate and actual thing as well as the distant 
-and perfect hope. “The goal of speculative thinking is none 
+and perfect hope. "The goal of speculative thinking is none 
 other than to live as much as may be in the eternal, and to 
-absorb and be absorbed in the truth.” 3 But this is to take 
+absorb and be absorbed in the truth." 3 But this is to take 
 philosophy more seriously than even philosophy deserves to 
 be taken ; and a philosophy which withdraws one from life is 
 as much awry as any celestial superstition in which the eye, 
 rapt in some vision of another world, loses the meat and wine 
-of this one. “Wisdom comes by disillusionment,” says San- 
+of this one. "Wisdom comes by disillusionment," says San- 
 tayana ; 4 but again that is only the beginning of wisdom, as 
 doubt is the beginning of philosophy; it is not also the end 
 and fulfilment. JEhe end is happiness* and philosophy is only 
@@ -26724,7 +26293,7 @@ us that a museum (like a materialist philosophy) is only a
 show-case of lifeless things ; that the reality of the world eludes 
 these tragic preservations, and resides again in the pangs 
 of passion, in the ever-changing and never-ending flow of life. 
-“Santayana,” says an observant friend, 
+"Santayana," says an observant friend, 
 
 had a natural preference for solitude. ... I remember lean- 
 ing over the railing of an ocean liner anchored at Southamp- 
@@ -26773,13 +26342,13 @@ of Reason that this is no native American voice.
 
 In William James the voice and the speech and the very 
 turn of phrase are American. He pounced eagerly upon such 
-characteristic expressions as “cash-value,” and “results, 33 and 
-“profits, 33 in order to bring his thought within the ken of the 
-“man in the street 33 ; he spoke not with the aristocratic reserve 
+characteristic expressions as "cash-value," and "results, 33 and 
+"profits, 33 in order to bring his thought within the ken of the 
+"man in the street 33 ; he spoke not with the aristocratic reserve 
 of a Santayana or a Henry James, but in a racy vernacular 
 and with a force and directness, which made his philosophy of 
-^pragmatism” and “reserve energy 33 the mental correlate of 
-the “practical 33 and “strenuous 33 Roosevelt. And at the same 
+^pragmatism" and "reserve energy 33 the mental correlate of 
+the "practical 33 and "strenuous 33 Roosevelt. And at the same 
 
 i Margaret Miinsterberg In The American Mercury, Jan., 1924, p. 69. 
 
@@ -26790,7 +26359,7 @@ THE STORY OF PHILOSOPHY
 
 554 
 
-time he phrased for the common man that “tender-minded” 
+time he phrased for the common man that "tender-minded" 
 trust in the essentials of the old theology which lives side by 
 side, in the American soul, with the realistic spirit of com- 
 merce and finance, and with the tough persistent courage that 
@@ -26842,8 +26411,8 @@ James from psychology to philosophy, and at last hack to
 metaphysics itself; he argued (against his own positivist in- 
 clinations) that metaphysics is merely an effort to think things 
 out clearly ; and he defined philosophy, in his simple and pel- 
-lucid manner, as “only thinking about things in the most 
-comprehensive possible way.” 1 So, after 1900, his publica- 
+lucid manner, as "only thinking about things in the most 
+comprehensive possible way." 1 So, after 1900, his publica- 
 tions were almost all in the field of philosophy. He began 
 with The Will to Believe (1897) ; then, after a masterpiece 
 of psychological interpretation — Varieties of Religious Ex- 
@@ -26871,7 +26440,7 @@ context is as immediately given in perception as the shape and
 i-Some Problems of Philosophy, p. 25. 
 
 2 The reader who has leisure for but one book of James’s should go di- 
-rectly to Pragmatism , which he will find a fountain of clarity as compared 
+rectly to Pragmatism, which he will find a fountain of clarity as compared 
 with most philosophy. If he has more time, he will derive abundant profit 
 from the brilliant pages of the (unabbreviated) Psychology . Henry James 
 has written two volumes of autobiography, in which there is much delightful 
@@ -26883,7 +26452,7 @@ gossip about William. Flournoy has a good volume of exposition, and Schinz’s
 656 THE STORY OF PHILOSOPHY 
 
 touch and odor of the thing. Hence the meaninglessness of 
-Kant’s “problem of knowledge” (how do we put sense and order 
+Kant’s "problem of knowledge" (how do we put sense and order 
 into our sensations?) — the sense and the order, in outline at 
 least, are already there. The old atomistic psychology of the 
 English school, which conceived thought as a series of sep- 
@@ -26891,12 +26460,12 @@ arate ideas mechanically associated, is a misleading copy of
 physics and chemistry ; thought is not a series, it is a stream, 
 a continuity of perception and feeling, in which ideas are 
 passing nodules like corpuscles in the blood. We have mental 
-“states” (though this is again a misleadingly static term) that 
+"states" (though this is again a misleadingly static term) that 
 correspond to prepositions, verbs, adverbs and conjunctions, 
-as well as “states” that reflect the nouns and pronouns of oui 
+as well as "states" that reflect the nouns and pronouns of oui 
 speech; we have feelings of for and to and against and because 
 and behind and after as well as of matter and men. It is 
-these “transitive” elements in the flow of thought that con- 
+these "transitive" elements in the flow of thought that con- 
 stitute the thread of our mental life, and give us some measure 
 of the continuity of things. 
 
@@ -26904,12 +26473,12 @@ Consciousness is not an entity, not a thing, but a flux and
 system of relations; it is a point at which the sequence and 
 relationship of thoughts coincide illuminatingly with the se* 
 quence of events and the relationship of things. In such 
-moments it is reality itself, and no mere “phenomenon,” tha* 
-flashes into thought; for beyond phenomena and “appear- 
-ances” there is nothing. Nor is there any need of going 
+moments it is reality itself, and no mere "phenomenon," tha* 
+flashes into thought; for beyond phenomena and "appear- 
+ances" there is nothing. Nor is there any need of going 
 beyond the experience-process to a soul ; the soul is merely the 
-sum of our mental life, as. the “Noumenon” is simply the total 
-of all phenomena, and the “Absolute” the web of the relation- 
+sum of our mental life, as. the "Noumenon" is simply the total 
+of all phenomena, and the "Absolute" the web of the relation- 
 ships of the world. 
 
 It is this same passion for the immediate and actual and real 
@@ -26934,7 +26503,7 @@ tions.
 
 He found the weapon which he sought when, in 1878, he 
 came upon an essay by Charles Peirce, in the Popular Science 
-Monthly, on “How to Make Our Ideas Clear.” To find the 
+Monthly, on "How to Make Our Ideas Clear." To find the 
 meaning of an idea, said Peirce, we must examine the conse- 
 quences to which it leads in action; otherwise dispute about 
 it may be without end, and will surely be without fruit. This 
@@ -26950,16 +26519,16 @@ This simple and old-fashioned test led James on to a new
 definition of truth. Truth had been conceived as an objective 
 relation, as once good and beauty had been; now what if 
 truth, like these, were also relative to human judgment and 
-human needs? “Natural laws” had been taken as “objec- 
-tive” truths, eternal and unchangeable; Spinoza had made 
+human needs? "Natural laws" had been taken as "objec- 
+tive" truths, eternal and unchangeable; Spinoza had made 
 them the very substance of his philosophy ; and yet what were 
 these truths but formulations of experience, convenient and 
 successful in practice; not copies of an object, but correct 
-calculations of specific consequences? Truth is the “cash- 
-value” of an idea. 
+calculations of specific consequences? Truth is the "cash- 
+value" of an idea. 
 
 The true ... is only the expedient in the way of our 
-thinking, just as “the right” is only the expedient in the way 
+thinking, just as "the right" is only the expedient in the way 
 of our behaving. Expedient is almost any fashion; and ex- 
 pedient in the long run and on the whole, of course; for 
 what meets expediently all the experiences in sight won’t 
@@ -26979,14 +26548,14 @@ supposed, a category distinct from good, and coordinate with
 it. The true is the name of whatever proves itself to be good 
 in the way of belief. 1 
 
-Truth is a process, and “happens to an idea” ; verity is veri- 
+Truth is a process, and "happens to an idea" ; verity is veri- 
 fication. | Instead of asking whence an idea is derived, or what 
-are its premises, pragmatism examines its results; it “shifts 
-the emphasis and looks forward”; it is “the attitude of look- 
+are its premises, pragmatism examines its results; it "shifts 
+the emphasis and looks forward"; it is "the attitude of look- 
 ing away from first things, principles, ‘categories,’ supposed 
 necessities, and of looking towards last things, fruits, conse- 
-quences, facts.” 2 Scholasticism asked, What is the tiling, — 
-and lost itself in “quiddities”; Darwinism asked, What is its 
+quences, facts." 2 Scholasticism asked, What is the tiling, — 
+and lost itself in "quiddities"; Darwinism asked, What is its 
 origin? — and lost itself in nebulas; pragmatism asks, What 
 are its consequences? — and turns the face of thought to ac- 
 tion and the future. 
@@ -26996,9 +26565,9 @@ tion and the future.
 
 Let us apply this method to the oldest problem in philos- 
 ophy — the existence and nature of God. The Scholastic phi- 
-losophers described the deity as “Ens a se extra et supra omne 
-genus , necessarium 9 unum, infinite , perfectum 9 simplex , immu- 
-tably immensum 9 eternum 9 intelligens .” 3 This is magnifi- 
+losophers described the deity as "Ens a se extra et supra omne 
+genus, necessarium 9 unum, infinite, perfectum 9 simplex, immu- 
+tably immensum 9 eternum 9 intelligens ." 3 This is magnifi- 
 cent ; what deity would not be proud of such a definition? But 
 what does it mean? — what are its consequences for mankind? 
 If God is omniscient and omnipotent, we are puppets; there is 
@@ -27043,8 +26612,8 @@ will be even more unpopular than pessimism. . . . That is
 why materialism will always fail of universal adoption. 1 
 
 Men accept or reject philosophies, then, according to their 
-needs and their temperaments, not according to “objective 
-truth”; they do not ask, Is this logical? — they ask, What 
+needs and their temperaments, not according to "objective 
+truth"; they do not ask, Is this logical? — they ask, What 
 will the actual practice of this philosophy mean for our lives 
 and our interests? Arguments for and against may serve to 
 illuminate, but they never prove. 
@@ -27068,7 +26637,7 @@ temperament a professional philosopher is, he tries, when
 philosophizing, to sink the fact of his temperament.. 5*em- 
 
 i Principles of Psychology, New York, 1890, vol. ii, p. 312. 
-a Whitman, Leaves of Grass , Philadelphia, 1900, pp. 61, 172. 
+a Whitman, Leaves of Grass, Philadelphia, 1900, pp. 61, 172. 
 
 
 560 
@@ -27088,22 +26657,22 @@ The tender-minded temperament is religious, it likes to have
 definite and unchanging dogmas and a priori truths ; it takes 
 naturally to free will, idealism, monism, and optimism. The 
 tough-minded temperament is materialistic, irreligious, em- 
-piricist (going only on “facts”), sensationalistic (tracing all 
+piricist (going only on "facts"), sensationalistic (tracing all 
 knowledge to sensation), fatalistic, pluralistic, pessimistic, 
 sceptical. In each group there are gaping contradictions; 
 and no doubt there are temperaments that select their theories 
 partly from one group and partly from the other. There are 
-people (William James, for example) who are “tough- 
-minded” in their addiction to facts and in their reliance on 
-the senses, and yet “tender-minded” in their horror of determi- 
+people (William James, for example) who are "tough- 
+minded" in their addiction to facts and in their reliance on 
+the senses, and yet "tender-minded" in their horror of determi- 
 nism and their need for religious belief. Can a philosophy 
 be found that will harmonize these apparently contradictory 
 demands? 
 
 James believes that pluralistic theism affords us such a 
 synthesis. He offers a finite God, not an Olympian thunderer 
-sitting aloof on a cloud, “but one helper, primus inter pares, 
-in the midst of all the shapers of the great world’s fate.” 2 
+sitting aloof on a cloud, "but one helper, primus inter pares, 
+in the midst of all the shapers of the great world’s fate." 2 
 The cosmos is not a closed and harmonious system; it is a 
 battle-ground of cross-currents and conflicting purposes; it 
 shows itself, with pathetic obviousness, as not a uni- but a 
@@ -27125,15 +26694,15 @@ AMERICAN PHILOSOPHERS
 561 
 
 
-polytheism “has always been the real religion of common peo- 
-ple, and is so still today.” 1 The people are right, and the 
+polytheism "has always been the real religion of common peo- 
+ple, and is so still today." 1 The people are right, and the 
 philosophers are wrong. Monism is the natural disease of 
 philosophers, who hunger and thirst not (as they think) for 
-truth, but for unity. “ ‘The world is One !’ — the formula may 
+truth, but for unity. " ‘The world is One !’ — the formula may 
 become a sort of number-worship. ‘Three’ and ‘seven’ have, it 
 is true, been reckoned as sacred numbers ; but abstractly taken, 
 why is ‘one’ more excellent than ‘forty-three,’ or than ‘two mil- 
-lion and ten’?” 2 
+lion and ten’?" 2 
 
 The value of a multiverse, as compared with a universe, lies 
 in this, that where there are cross-currents and warring forces 
@@ -27143,13 +26712,13 @@ tion matters. A monistic world is for us a dead world; in
 such a universe we carry out, willy-nilly, the parts assigned 
 to us by an omnipotent deity or a primeval nebula; and not 
 all our tears can wipe out one word of the eternal script. In 
-a finished universe individuality is a delusion; “in reality,” 
+a finished universe individuality is a delusion; "in reality," 
 the monist assures us, we are all bits of one mosaic substance. 
 But in an unfinished world we can write some lines of the 
 parts we play, and our choices mould in some measure the fu- 
 ture in which we have to live. In such a world we can be free ; 
-it is a world of chance, and not of fate; everything is “not 
-quite” ; and what we are or do may alter everything. If Cleo- 
+it is a world of chance, and not of fate; everything is "not 
+quite" ; and what we are or do may alter everything. If Cleo- 
 patra’s nose, said Pascal, had been an inch longer or shorter, 
 all history would have been changed. 
 
@@ -27206,15 +26775,15 @@ life of things . 2
 
 Nevertheless he did not think of philosophy as a meditation 
 on death; no problems had value for him unless they could 
-guide and stimulate our terrestrial career. “It was with the 
+guide and stimulate our terrestrial career. "It was with the 
 excellencies, not the duration, of our natures, that he occupied 
-himself.” 3 He did not live in his study so much as in the 
+himself." 3 He did not live in his study so much as in the 
 
 U&H.. p. 78. 
 
 2 Ibid., p. 299. 
 
-alien, William James and Henri Bergson , p. 240. 
+alien, William James and Henri Bergson, p. 240. 
 
 
 AMERICAN PHILOSOPHERS 
@@ -27226,13 +26795,13 @@ AMERICAN PHILOSOPHERS
 current of life ; he was an active worker in a hundred efforts 
 for human betterment; he was always helping somebody, lift- 
 ing men up with the contagion of his courage. He believed 
-that in every individual there were “reserve energies” which 
+that in every individual there were "reserve energies" which 
 the occasional midwifery of circumstance would bring forth; 
 and his constant sermon, to the individual and to society, was 
 a plea that these resources should be entirely used. He was 
 horrified at the waste of human energy in war; and he sug- 
 gested that these mighty impulses of combat and mastery 
-could find a better outlet in a “war against nature.” Why 
+could find a better outlet in a "war against nature." Why 
 should not every man, rich or poor, give two years of his life 
 to the state, not for the purpose of killing other people, but 
 to conquer the plagues, and drain the marshes, and irrigate the 
@@ -27242,14 +26811,14 @@ fully what war so quickly destroys?
 
 He sympathized with socialism, but he disliked its depreca- 
 tion of the individual and the genius. Taine’s formula, which 
-reduced all cultural manifestations to “race, environment, 
-and time,” was inadequate precisely because it left out the 
+reduced all cultural manifestations to "race, environment, 
+and time," was inadequate precisely because it left out the 
 individual. But only the individual has value ; everything else 
 is a means — even philosophy. And so we need on the one hand 
 a state which shall understand that it is the trustee and serv- 
 ant of the interests of individual men and women ; and on the 
-other a philosophy and a faith which shall “offer the universe 
-as an adventure rather than a scheme,” 1 and shall stimulate 
+other a philosophy and a faith which shall "offer the universe 
+as an adventure rather than a scheme," 1 and shall stimulate 
 every energy by holding up the world as a place where, though 
 there are many defeats, there are also victories waiting to be 
 won. 
@@ -27278,8 +26847,8 @@ The reader needs no guide to the new and the old elements
 in this philosophy. It is part of the modern war between 
 science and religion; another effort, like Kant’s and Berg- 
 son’s, to rescue faith from the universalized mechanics of 
-materialism. Pragmatism has its roots in Kant’s “practical 
-reason”; in Schopenhauer’s exaltation of the will; in Dar- 
+materialism. Pragmatism has its roots in Kant’s "practical 
+reason"; in Schopenhauer’s exaltation of the will; in Dar- 
 win’s notion that the fittest (and therefore also the fittest and 
 truest idea) is that which survives; in utilitarianism, which 
 measured all goods in terms of use ; in the empirical and induc- 
@@ -27291,7 +26860,7 @@ the substance, of James’s thinking was specifically and
 uniquely American. The American lust for movement and 
 acquisition fills the sails of his style and thought, and gives 
 them a buoyant and almost aerial motility. Huneker calls 
-it “a philosophy for philistines,” and indeed there is some- 
+it "a philosophy for philistines," and indeed there is some- 
 thing that smacks of salesmanship in it: James talks of God 
 as of an article to be sold to a materialistically-minded con- 
 sumer by every device of optimistic advertising ; and he coun- 
@@ -27302,8 +26871,8 @@ defense-reaction against European metaphysics and Euro-
 pean science. 
 
 The new test of truth was of course an ancient one ; and 
-the honest philosopher described pragmatism modestly as “a 
-new name for old ways of thinking.” If the new test means 
+the honest philosopher described pragmatism modestly as "a 
+new name for old ways of thinking." If the new test means 
 that truth is that which has been tried, by experience and 
 experiment, the answer is, Of course. If it means that per- 
 sonal utility is a test of truth, the answer is, Of course not; 
@@ -27335,15 +26904,15 @@ found no solution for the old questions; he frankly admitted
 that he had expressed only another guess, another faith. On 
 his desk, when he died, there lay a paper on which he had writ- 
 ten his last, and perhaps his most characteristic, sentences: 
-“There is no conclusion. What has concluded that we might 
+"There is no conclusion. What has concluded that we might 
 conclude in regard to it? There are no fortunes to be told and 
-there is no advice to be given. Farewell.” 
+there is no advice to be given. Farewell." 
 
 m. JOHN DEWET 
 
 1. Education 
 
-After all, pragmatism was “not quite” an American philos- 
+After all, pragmatism was "not quite" an American philos- 
 ophy ; it did not catch the spirit of the greater America that 
 lay south and west of the New England states. It was a 
 highly moralistic philosophy, and betrayed the Puritanic or- 
@@ -27372,7 +26941,7 @@ elevation of human life?
 Circumstances left nothing undone to prepare John Dewey 
 to satisfy this need, and to outline a philosophy that should 
 express the spirit of an informed and conscious America. He 
-was born in the “effete East” (in Burlington, Vermont, 1859), 
+was born in the "effete East" (in Burlington, Vermont, 1859), 
 and had his schooling there, as if to absorb the old culture 
 before adventuring into the new. But soon he took Greeley’s 
 counsel and went west, teaching philosophy at the universities 
@@ -27387,7 +26956,7 @@ which the Eastern mind is so proudly ignorant ; he learned its
 limitations and its powers ; and when he came to write his own 
 philosophy he gave to his students and his readers an interpre- 
 tation of the sound and simple naturalism which underlies the 
-superficial superstitions of the “provinces” of America. He 
+superficial superstitions of the "provinces" of America. He 
 wrote the philosophy, as Whitman wrote the poetry, not of 
 one New-English state, but of the continent. 1 
 
@@ -27395,7 +26964,7 @@ Dewey first caught the eyes of the world by his work in the
 School of Education at Chicago. It was in those years that 
 he revealed the resolute experimental bent of his thought; and 
 now, thirty years later, his mind is still open to every new 
-move in education, and his interest in the “schools of tomor- 
+move in education, and his interest in the "schools of tomor- 
 
 i The most important of Dewey’s books are: The School and Society 
 (1900) ; Studies in Logical Theory (1903) ; Ethics (with Tufts, 1908) ; How 
@@ -27409,7 +26978,7 @@ Evelyn, 1915); Essays in Experimental Logic (1916); Creative Intelligence
 
 AMERICAN PHILOSOPHERS 667 
 
-row” never flags. Perhaps his greatest book is Democracy 
+row" never flags. Perhaps his greatest book is Democracy 
 and Education; here he draws the varied lines of his philosophy 
 to a point, and centres them all on the task of developing a 
 better generation. All progressive teachers acknowledge his 
@@ -27424,8 +26993,8 @@ Following up Spencer’s demand for more science, and less lit-
 erature, in education, Dewey adds that even the science should 
 not be book-learning, but should come to the pupil from the 
 actual practice of useful occupations. He has no great regard 
-for a “liberal” education ; the term was used, originally, to de- 
-note the culture of a “free man,” — i. e., a man who never 
+for a "liberal" education ; the term was used, originally, to de- 
+note the culture of a "free man," — i. e., a man who never 
 worked; and it was natural that such an education should be 
 fitted rather to a leisure class in an aristocracy than to an in- 
 dustrial and democratic life. Now that we are nearly all of 
@@ -27461,10 +27030,10 @@ body is to him an organ evolved, in the struggle for existence,
 from lower forms. His starting-point in every field is Dar- 
 winian. 
 
-When Descartes said, “The nature of physical things 
+When Descartes said, "The nature of physical things 
 is much more easily conceived when they are beheld com- 
 ing gradually into existence, than when they are only con- 
-sidered as produced at once in a finished and perfect state,” 
+sidered as produced at once in a finished and perfect state," 
 the modern world became self-conscious of the logic that was 
 henceforth to control it, the logic of which Darwin’s Origin 
 of Species is the latest scientific achievement. . . . When 
@@ -27475,17 +27044,17 @@ looking for explanations . 1
 
 Things are to be explained, then, not by supernatural cau^ 
 sation, but by their place and function in the environment. 
-Dewey is frankly naturalistic ; he protests that “to idealize and 
+Dewey is frankly naturalistic ; he protests that "to idealize and 
 rationalize the universe at large is a confession of inability to 
-master the courses of things that specifically concern us.” 2 
+master the courses of things that specifically concern us." 2 
 He distrusts, too, the Schopenhauerian Will and the Bergso- 
 nian elan; these may exist, but there is no need to worship 
 them ; for these world-forces are as often as not destructive of 
 everything that man creates and reverences . 8 Divinity is 
-within us, not in these neutral cosmic powers. “Intelligence 
+within us, not in these neutral cosmic powers. "Intelligence 
 has descended from its lonely isolation at the remote edge of 
 things, whence it operated as unmoved mover and ultimate 
-good, to take its seat in the moving affairs of men .” 4 We 
+good, to take its seat in the moving affairs of men ." 4 We 
 must be faithful to the earth. 
 
 1 The Influence of Darwin on Philosophy, New York, 1910, p. S. 
@@ -27506,11 +27075,11 @@ Like a good positivist, scion of the stock of Bacon and
 Hobbes and Spencer and Mill, Dewey rejects metaphysics as 
 the echo and disguise of theology. The trouble with philos- 
 ophy has always been that its problems were confused with 
-those of religion. “As I read Plato, philosophy began w r ith 
+those of religion. "As I read Plato, philosophy began w r ith 
 some sense of its essentially political basis and mission — a 
 recognition that its problems were those of the organization 
 of a just social order. But it soon got lost in dreams of an- 
-other world.” 1 In German philosophy the interest in reli- 
+other world." 1 In German philosophy the interest in reli- 
 gious problems deflected the course of philosophic develop- 
 ment; in English philosophy the social interest outweighed 
 the supernatural. For two centuries the war raged between 
@@ -27525,23 +27094,23 @@ every field. This does not mean that mind is reduced to mat-
 ter, but only that mind and life are to be understood not in 
 theological but in biological terms, as an organ or an organism 
 in an environment, acted upon and reacting, moulded and 
-moulding. We must study not “states of consciousness” but 
-modes of response. “The brain is primarily an organ of a 
-certain kind of behavior, not of knowing the world .” 2 
+moulding. We must study not "states of consciousness" but 
+modes of response. "The brain is primarily an organ of a 
+certain kind of behavior, not of knowing the world ." 2 
 Thought is an instrument of re-adaptation ; it is an organ as 
 much as limbs and teeth. Ideas are imagined contacts, ex- 
 periments in adjustment. But this is no passive adjustment, 
-no merely Spencerian adaptation. “Complete adaptation to 
+no merely Spencerian adaptation. "Complete adaptation to 
 environment means death. The essential point in all response 
-is the desire to control the environment.” 3 The problem of 
+is the desire to control the environment." 3 The problem of 
 philosophy is not how we can come to know an external world, 
 but how we can learn to control it and remake it, and for 
 
 1 Ibid., p. 21. 
 
-2 Creative Intelligence , New York, 1917, p. 36. 
+2 Creative Intelligence, New York, 1917, p. 36. 
 
-8 Class lectures on “Psychological Ethics,” Sept. 29, 1924. 
+8 Class lectures on "Psychological Ethics," Sept. 29, 1924. 
 
 
 
@@ -27560,9 +27129,9 @@ situations. Reasoning, we perceive, begins not with premises,
 but with difficulties ; then it conceives an hypothesis which be- 
 comes the conclusion for which it seeks the premises; finally 
 it puts the hypothesis to the test of observation or experiment. 
-“The first distinguishing characteristic of thinking is facing 
+"The first distinguishing characteristic of thinking is facing 
 the facts — inquiry, minute and extensive scrutinizing, observa- 
-tion.” 1 There is small comfort for mysticism here. 
+tion." 1 There is small comfort for mysticism here. 
 
 And then again, thinking is social; it occurs not only in 
 specific situations, but in a given cultural milieu. The indi- 
@@ -27604,7 +27173,7 @@ AMERICAN PHILOSOPHERS
 
 What Dewey sees and reverences as the finest of all things, 
 as growth ; so much so, that he makes this relative but specific 
-notion, and no absolute “good,” his ethical criterion. 
+notion, and no absolute "good," his ethical criterion. 
 
 Not perfection as a final goal, but the ever-enduring process 
 of perfecting, maturing, refining, is the aim in living . . . The 
@@ -27620,10 +27189,10 @@ in the world will not save us if we lack intelligence. Igno-
 rance is not bliss, it is unconsciousness and slavery ; only intel- 
 ligence can make us sharers in the shaping of our fates, 
 Freedom of the will is no violation of causal sequences, it is 
-the illumination of conduct by knowledge. “A physician or 
+the illumination of conduct by knowledge. "A physician or 
 engineer is free in his thoughts or his actions in the degree 
 in which he knows what he deals with. Perhaps we find here 
-the key to any freedom.” 2 Our trust must after all be in 
+the key to any freedom." 2 Our trust must after all be in 
 thought, and not in instinct; — how could instinct adjust us to 
 the increasingly artificial environment which industry has 
 built around us, and the maze of intricate problems in which 
@@ -27686,8 +27255,8 @@ ism with common action. As these
 develop in importance, the state tends to become more and 
 more a: regulator and adjustor among them; defining the 
 
-i “Psychology and Social Science?’; I. of D. on P„ ? 7* 
-a Reconstruction, p. 75. , ... 
+i "Psychology and Social Science?’; I. of D. on P„ ? 7* 
+a Reconstruction, p. 75., ... 
 
 
 
@@ -27733,7 +27302,7 @@ still goes on by large antitheses, by theoretical oppositions
 of order and freedom, individualism and socialism, culture 
 and utility, spontaneity and discipline, actuality and tradi- 
 tion. The field of the physical sciences was once occupied 
-by similar “total” views, whose emotional appeal was in- 
+by similar "total" views, whose emotional appeal was in- 
 1 Ibid., pp. r )Q3, 205, 
 
 
@@ -27759,8 +27328,8 @@ they became unmeaning and uninteresting . 1
 It is in this field, in this application of human knowledge 
 to our social antagonisms, that the work of philosophy should 
 lie. Philosophy clings like a timid spinster to the old- 
-fashioned problems and ideas; “direct pre-occupation with 
-contemporary difficulties is left to literature and politics.” 2 
+fashioned problems and ideas; "direct pre-occupation with 
+contemporary difficulties is left to literature and politics." 2 
 Philosophy is in flight today before the sciences, one after an- 
 other of which have run away from her into the productive 
 world, until she is left chill and alone, like a forsaken mother 
@@ -27770,8 +27339,8 @@ real concerns — men and their life in the world — into a crum-
 bling corner called epistemology, and is in danger every mo- 
 ment of being ousted by the laws that prohibit habitation in 
 flimsy and rickety structures. But these old problems have 
-lost their meaning for us : “we do not solve them, we get over 
-them ” ; 3 they evaporate in the heat of social friction and liv- 
+lost their meaning for us : "we do not solve them, we get over 
+them " ; 3 they evaporate in the heat of social friction and liv- 
 ing change. Philosophy, like everything else, must secularize 
 itself ; it must stay on the earth and earn its keep by illumi- 
 nating life. 
@@ -27781,7 +27350,7 @@ business of philosophy most want to know is what modi-
 fications and abandonments of intellectual inheritance are re- 
 quired by the newer industrial, political, and scientific 
 
-i New Republic , Feb. 3, 1917. 
+i New Republic, Feb. 3, 1917. 
 
 a Creative Intelligence, p. 4. 
 
@@ -27906,7 +27475,7 @@ Antipater, 106
 Antisthenes, 11, 87, 109 
 Antoninus* M. Pius, 131, 547 
 Anytus, 15 
-Apatheia , 109 
+Apatheia, 109 
 Aphasia, 499 
 Apollo, 441 f., 487 f. 
 
@@ -28430,7 +27999,7 @@ Law, 210, 281, 308
 
 Le Bon, G., 100, 135 
 
-Leibnitz, 166, 176, 246, 255, 29 6 , 385 
+Leibnitz, 166, 176, 246, 255, 29 6, 385 
 
 Leonardo da Vinci, 4, 117, 514 
 
@@ -28909,7 +28478,7 @@ Youmans, E. L., 894
 Youth, 128, 356 
 
 Zedutz, K., 805 
-Zeitgeist , 323 f. 
+Zeitgeist, 323 f. 
 
 Zeller, E., 59, 65, 67 
 Zeno of Elea, 12, 81 
@@ -28927,8 +28496,8 @@ and more difficult words which recur rather frequently .
 
 Anthropomorphism: the interpretation of God in the likeness of man. 
 
-Apollonian: having the calm, “classic” beauty of Apollo, as against the emo- 
-tional and “romantic” qualities associated with Dionysus. 
+Apollonian: having the calm, "classic" beauty of Apollo, as against the emo- 
+tional and "romantic" qualities associated with Dionysus. 
 
 A posteriori: reasoning from observed facts to general conclusions. 
 
@@ -29025,7 +28594,7 @@ Metaphysics : the inquiry into the ultimate and fundamental reality.
 
 Mode: in Spinoza, a particular thing, form, event, or idea. 
 
-Naturalism: the doctrine that all reality comes under the “laws of Nature.” 
+Naturalism: the doctrine that all reality comes under the "laws of Nature." 
 
 Neurosis: a mental disturbance or disease. 
 
