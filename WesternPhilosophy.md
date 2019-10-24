@@ -14620,15 +14620,7 @@ Christians who suffered the sack have no right to complain, for
 several reasons. Some wicked Goths may have prospered at their 
 expense, but they will suffer hereafter: if all sin were punished on 
 earth, there would be no need of the Last Judgment. What Christians endured would, if they were virtuous, turn to their edification, 
-for saints, in the loss of things temporal, lose nothing of any value, 
-
-375 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-It does not matter if their bodies lie unburied, because ravenous 
+for saints, in the loss of things temporal, lose nothing of any value. It does not matter if their bodies lie unburied, because ravenous 
 beasts cannot interfere with the resurrection of the body. 
 
 Next comes the question of pious virgins who were raped during 
@@ -14918,11 +14910,6 @@ appears that they are wicked because they are reprobate, not reprobate because t
 
 After the resurrection of the body, the bodies of the damned 
 will burn eternally without being consumed. In this there is 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 nothing strange; it happens to the salamander and Mount Etna. 
 Devils, though incorporeal, can be burnt by corporeal fire. Hell's 
 torments are not purifying, and will not be lessened by the intercessions of saints. Origen erred in thinking hell not eternal. 
@@ -15011,13 +14998,6 @@ Welshman, whose real name was Morgan, which means "man of
 the sea," as "Pelagius" does in Greek. He was a cultivated and 
 agreeable ecclesiastic, less fanatical than many of his contemporaries. He believed in free will, questioned the doctrine of 
 original sin, and thought that, when men act virtuously, it is by 
-
-383 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 reason of their own moral effort. If they act rightly, and are 
 orthodox, they go to heaven as a reward of their virtues. 
 
@@ -15060,13 +15040,6 @@ made to yield their utmost meaning. One is persuaded, at the end,
 not that St. Paul believed what Augustine deduces, but that, 
 taking certain texts in isolation, they do imply just what he says 
 they do. It may seem odd that the damnation of unbaptized infants 
-
-384 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 should not have been thought shocking, but should have been 
 attributed to a good God. The conviction of sin, however, so 
 dominated him that he really believed new-born children to be 
@@ -15281,13 +15254,6 @@ would otherwise have been viewed with suspicion.
 
 The work is an alternation of verse and prose: Boethius, in his 
 own person, speaks in prose, while Philosophy answers in verse. 
-
-389 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 There is a certain resemblance to Dante, who was no doubt 
 influenced by him in the Vita Nuova. 
 
@@ -15425,12 +15391,6 @@ From Him they rise, flourish, and spring,
 
 He as their law and judge decides their right. 
 
-39' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Those things whose course 
 
 Most swiftly glides away 
@@ -15540,12 +15500,6 @@ him, and he came as representing Rome against the barbarians.
 But the Goths rallied, and the war lasted eighteen years, during 
 which Rome, and Italy generally, suffered far more than in the 
 barbarian invasion. 
-
-393 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 Rome was five times captured, thrice by Byzantines, twice by 
 Goths, and sank to a small town. The same sort of thing happened 
@@ -15804,14 +15758,7 @@ then, to tell facts in the career of St. Benedict. After founding
 twelve monasteries, he finally came to Monte Cassino, where 
 there was a "chapel" to Apollo, still used by the country people 
 for heathen worship. "Even to that very time, the mad multitude 
-of infidels did offer most wicked sacrifice/* Benedict destroyed 
-
-399 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+of infidels did offer most wicked sacrifice." Benedict destroyed 
 the altar, substituted a church, and converted the neighboring 
 pagans. Satan was annoyed: 
 
@@ -15891,12 +15838,6 @@ by no means extinct. The turbulent times infected even bishops,
 many of whom led far from exemplary lives. Simony was rife, 
 and remained a crying evil until the latter half of the eleventh 
 century. 
-
-401 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 All these sources of trouble Gregory combated with energy and 
 sagacity. Before his pontificate, the bishop of Rome, though 
@@ -16079,13 +16020,6 @@ increasing influence of the Church. The Goths had been convened
 before the end of the fourth century by Ulphilas, or Ulfila unfortunately to Arianism, which was also the creed of the Vandals. 
 After the death of Theodoric, however, the Goths became gradually 
 Catholic: the king of the Visigoths, as we have seen, adopted 
-
-405 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 the orthodox faith in the time of Gregory. The Franks were 
 Catholic from the time of Clovis. The Irish were converted before 
 the fall of the Western Empire by St. Patrick, a Somersetshire 
@@ -16219,13 +16153,6 @@ which was governed by the "Mayors of the Palace." At this time
 the Mayor of the Palace was an exceptionally vigorous and able 
 man, Charles Mattel, like William the Conqueror a bastard. In 
 732 he had won the decisive battle of Tours against the Moors 
-
-409 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 thereby saving Fiance for Christendom. This should have won 
 him the gratitude of the Church, but financial necessity led him 
 to seize some Church lands, which much diminished ecclesiastical 
@@ -16301,7 +16228,7 @@ several infants and be washed in their blood, but owing to their
 mothers' tears he restored them. That night Peter and Paul 
 appeared to him and said that Pope Sylvester was hiding in a cave 
 on Soracte, and would cure him. He went to Soracte, where the 
-"universal Pope*' told him Peter and Paul were apostles, not gods, 
+"universal Pope" told him Peter and Paul were apostles, not gods, 
 showed him portraits which he recognized from his vision, and 
 admitted it before all his "satraps." Pope Sylvester thereupon 
 assigned him a period of penance in a hair shirt; then he baptized 
@@ -16502,13 +16429,6 @@ When Lothar II demanded a divorce; the clergy of his kingdom
 agreed. Pope Nicholas, however, deposed the bishops who had 
 acquiesced, and totally refused to admit the King's plea for divorce. 
 Lothar's brother, the Emperor Louis II, thereupon inarched on 
-
-415 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Rome with the intention of overawing the Pope; but superstitious 
 terrors prevailed, and he retired. In the end, the Pope's will 
 prevailed. 
@@ -16688,11 +16608,6 @@ things, why this superiority should continue. In the present war,
 great military strength has been shown by Russia, China, and 
 Japan. All these combine Western technique with Eastern ideology 
 Byzantine, Confucian, or Shinto. India, if liberated, will contribute another Oriental element. It seems not unlikely that, 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 during the next few centuries, civilization, if it survives, will have 
 greater diversity than it has had since the Renaissance. There is 
 an imperialism of culture which is harder to overcome than the 
@@ -16704,17 +16619,6 @@ world after the present war, we shall have to admit Asia to equality
 in our thoughts, not only politically, but culturally. What changes 
 this will bring about, I do not know, but I am convinced that they 
 will be profound and of the greatest importance. 
-
-
-
-420 
-
-
-
-] 
-
-J\ 
-
 
 
 ## Chapter VIII JOHN THE SCOT 
@@ -16852,13 +16756,6 @@ and John replied, "Only the dinner table." The king died in 877,
 and after this date nothing is known as to John. Some think that 
 he also died in that year. There are legends that he was invited to 
 England by Alfred the Great, that he became abbot of Malmesbury 
-
-423 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 or Athelncy, and was murdered by the monks. This misfortune, 
 however, seems to have befallen some other John. 
 
@@ -17110,13 +17007,6 @@ as part and parcel of a moral reformation of the clergy.
 The power of die clergy as a whole could only be secured by 
 very considerable sacrifices on the part of individual ecclesiastics. 
 The two great evils against which all clerical reformers directed 
-
-4*9 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 their energies were simony and concubinage. Something must be 
 said about each of these. 
 
@@ -17307,13 +17197,6 @@ people of Rome, whose participation, one gathers, was to be
 purely formal. In effect, the cardinal bishops were to select the 
 Pope. The election was to take place in Rome if possible, but 
 might take place elsewhere if circumstances made election in 
-
-433 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Rome difficult or undesirable. No part in the election was allotted 
 to the Emperor. This decree, which was accepted only after a 
 struggle, was an essential step in the emancipation of the papacy 
@@ -17403,13 +17286,6 @@ popular with the people.
 
 In Gregory's time began the great dispute concerning "investitures." When a bishop was consecrated, he was invested with a 
 ring and staff as symbols of his office. These had been given by 
-
-435 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Emperor or king (according to the locality), as the bishop's feudal 
 overlord. Gregory insisted that they should be given by the Pope. 
 The dispute was part of the work of detaching the ecclesiastical 
@@ -17500,13 +17376,6 @@ St. Anselm was, like Lanfranc, an Italian, a monk at Bee, and
 .Vrchbiahop of Canterbury (1093-1109), in which capacity he 
 followed the principles of Gregory VII and quarrelled with the 
 king. He is chiefly known to fame as the inventor of the "ontologicaJ argument' 1 for the existence of God. As he put it, the 
-
-437 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 argument is as follows: We define "God" as the greatest possible 
 object of thought. Now if an object of thought does not exist, 
 another, exactly like it, which does exist, is greater. Therefore the 
@@ -17679,13 +17548,6 @@ fanatical among the faithful. The Arabs; although they conquered
 a great part of the world in the name of a new religion, were not 
 a very religious race; the motive of their conquests was plunder 
 and wealth rather than religion. It was only in virtue of their lack 
-
-44' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 of fanaticism that a handful of warriors were able to govern, 
 without much difficulty, vast populations of higher civilization 
 and alien religion. 
@@ -17860,12 +17722,6 @@ notice their likeness to each other, and arrive at the general idea
 "cat.") This view is obviously intended to reconcile different 
 theories. 
 
-445 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Averroes (Ibn Rushd) (1126-98) lived at the opposite end ot 
 the Muslim world from Avicenna. He was born at Cordova, where 
 his father and grandfather had been cadis; he himself was a cadi, 
@@ -17956,13 +17812,6 @@ Arabic philosophy is not important as original thought. Men
 like Aviccnna and Averroes are essentially commentators. Speaking 
 generally, the views of the more scientific philosophers come from 
 Aristotle and the Neoplatonbts in logic and metaphysics, from 
-
-447 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Galen in medicine, from Greek and Indian sources in mathematics 
 and astronomy, and among mystics religious philosophy has also 
 an admixture of old Persian beliefs. Writers in Arabic showed 
@@ -18112,13 +17961,6 @@ France, who desired a divorce, and was therefore excommunicated
 by the Pope, but submitted. At the Council of Clermont, in 1095, 
 Urban proclaimed the first Crusade, which produced a wave of 
 religious enthusiasm leading to increase of papal power also to 
-
-45' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 atrocious pogroms of Jews. The last year of Urban's life he spent 
 in safety in Rome, where popes were seldom safe. 
 
@@ -18311,12 +18153,6 @@ the Crusades, had almost a monopoly of the trade in Eastern
 goods throughout Europe; after the Crusades, as a result of the 
 persecution of Jews, this trade was largely in Christian hands. 
 
-455 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Another and very different effect of the Crusades was to stimulate 
 literary intercourse with Constantinople. During the twelfth and 
 early thirteenth centuries, many translations from Greek into 
@@ -18404,13 +18240,6 @@ l>ut at any rate it is plain that he was some sort of nominalist.
 
 His pupil Abelard (or Abailard) was much abler and much more 
 distinguished. He was born near Nantes in 1079, was a pupil of 
-
-457 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 William of Champeaux (a realist) in Paris, and then a teacher in 
 the Paris cathedral school, where he combated William's views 
 and compelled him to modify them. After a period devoted to the 
@@ -18643,14 +18472,7 @@ kings, the new king was Frederick, only three years old at the
 time of Innocent's accession. The kingdom was turbulent, and 
 Constance needed the Pope's help. She made him guardian of the 
 infant Frederick, and secured his recognition of her son's rights in 
-Sicily by acknowledging papal superiority. Portugal and Aragoo 
-
-463 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+Sicily by acknowledging papal superiority. Portugal and Aragon 
 made similar acknowledgments. In England, King John, after 
 vehement resistance, was compelled to yield his kingdom to 
 Innocent and receive it back as a papal fief. 
@@ -18740,13 +18562,6 @@ royal family.)
 
 Innocent III died in 1216; Otto, whom Frederick had defeated, 
 died in 1218. The new Pope, Honorius III, was at first on good 
-
-465 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 terms with Frederick, but difficulties soon arose. First, Frederick 
 refused to go on crusade; then he had trouble with the Lombard 
 cities, which in 1226 contracted an offensive and defensive alliance 
@@ -18932,13 +18747,6 @@ Christ. He gave all his goods to the poor, and founded a society
 called the "Poor Men of Lyons," who practiced poverty and a 
 strictly virtuous life. At first they had papal approval, but they 
 inveighed somewhat too forcibly against the immorality of the 
-
-469 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 clergy, and were condemned by the Council of Verona in 1184. 
 Thereupon they decided that every good man is competent to 
 preach and expound the Scriptures; they appointed their own 
@@ -19024,12 +18832,6 @@ Christian saints, he was more interested in the happiness of others
 titan in his own salvation. He never 'showed any feeling of superiority, even lo the humblest or most wicked. Thomas of Celano 
 said of him that he was more than a saint among saints; among 
 sinners he was one of themselves. 
-
-47' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 If Satan existed, the future of the order founded by St. Francis 
 would afford him the most exquisite gratification. The saint's 
@@ -19169,13 +18971,6 @@ What follows is an abstract of the Summa contra Gentile*.
 Let us first consider what is meant by "wisdom." A man may 
 be wise in some particular pursuit, such as making houses; this 
 implies that he knows the means to some particular end. But all 
-
-475 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 particular ends are subordinate to the end of the universe, and 
 wisdom per se is concerned with the end of the universe. Now the 
 end of the universe is the good of the intellect, i.e. truth. The 
@@ -19372,12 +19167,6 @@ We come now (in Book II) to the consideration of creatures.
 This is useful for refuting errors against God. God created the 
 world out of nothing, contrary to the opinions of the ancients. 
 
-479 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 The subject of the things that God cannot do is resumed. He 
 cannot be a body, or change Himself; He cannot fail; He cannot 
 be weary, or forget, or repent, or be angry or sad; He cannot make 
@@ -19567,13 +19356,6 @@ edifice. When he wishes to refute some doctrine, he states it first,
 often with great force, and almost always with an attempt at 
 fairness. The sharpness and clarity with which he distinguishes 
 arguments derived from reason and arguments derived from 
-
-483 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 revelation are admirable. He knows Aristotle well, and understands him thoroughly, which cannot be said of any earlier 
 Catholic philosopher. 
 
@@ -19819,12 +19601,6 @@ problems of the scholastic philosophy. In various forms, it has
 remained a problem to the present day. Without reference to any 
 particular author, we may perhaps state the problem as follows. 
 
-489 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Among the properties of individual things, some are essential, 
 others accidental; the accidental properties of a thing are those it 
 can lose without losing its identity such as wearing a hat, if you 
@@ -19913,13 +19689,6 @@ era; and the papacy, though its pretensions had grown continually
 greater, did not command the same reverence as formerly. Clement 
 V had moved it to Avignon at the beginning of the fourteenth 
 century, and the Pope had become a political subordinate of the 
-
-49' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 King of France. The Empire had sunk even more; it could no 
 longer claim even the most shadowy kind of universal dominion, 
 because of the strength of France and England; on the other hand, 
@@ -20372,13 +20141,6 @@ class and the increase of knowledge *in the laity. Both of these
 began in Italy, and remained more advanced in that country than 
 in other parts of the West until the middle of the sixteenth century. 
 North Italian cities were much richer, in the fourteenth century 
-
-501 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 than any of the cities of the North; and learned laymen, especially 
 in law and medicine, were becoming increasingly numerous. 
 The cities had a spirit of independence which, now that the 
@@ -20466,13 +20228,6 @@ Church) in his disputes with the Pope as to taxation. When the
 popes became politically subservient to France, the sovereigns 
 hostile to the French king were necessarily hostile to the Pope. 
 This led to the protection of William of Occam and Marsiglio of 
-
-S3 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Padua by the Emperor; at a slightly later date, it led to the 
 protection of Wycliffe by John of Gaunt. 
 
@@ -20562,13 +20317,6 @@ solution lay in a General Council. The University of Paris, led
 by Gerson, developed a new theory, giving powers of initiative 
 to a Council. The lay sovereigns, to wHbm the schism was inconvenient, lent their support. At last, in 1409, a Council was summoned, and met at Pisa. It failed, however, in a ridiculous manner. 
 It declared both popes deposed for heresy and schism, and 
-
-505 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 elected a third, who promptly died; but his cardinals elected as 
 his successor an ex-pirate named Baldassare Cossa, who took the 
 name of John XXIII. Thus the net result was that there were 
@@ -20656,13 +20404,6 @@ the theory that righteousness alone gives the title to dominion
 and property; that unrighteous clergy hive no such title; and that 
 the decision as to whether an ecclesiastic should retain his property or not ought to be taken by the civil power. He taught, 
 further, that property is the result of sin; Christ and the Apostles 
-
-S<>7 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 had no property, and the clergy ought to have none. These 
 doctrines offended all clerics except the friars. The English 
 government, however, favored them, for the Pope drew a huge 
@@ -20750,24 +20491,11 @@ atfcirding opportunity for pagan deligllts, for fame and beauty
 and adventure. The long centuries of asceticism were forgotten 
 in a riot of art and poetry and pleasure. Even in Italy, it is true, 
 the Middle Ages did riot die without a struggle; Savonarola and 
-
-509 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Leonardo were born in the same year. But in the main the old 
 terrors had ceased to be terrifying, and the new liberty of the 
 spirit was found intoxicating. The intoxication could not last, 
 but for the moment it shut out fear. In this moment of joyful 
 liberation the modern world was born. 
-
-
-
-510 
-
-
 
 # Book Three MODERN PHILOSOPHY 
 
@@ -20775,36 +20503,33 @@ liberation the modern world was born.
 
 ## Chapter I GENERAL CHARACTERISTICS 
 
-f ^HE period of history which is commonly called "modern" 
-I has a mental outlook which differs from that of the medieval period in many ways. Of these, two are the most important: the diminishing authority of the Church, and the increasing 
-authority of science. With these two, others are connected. The 
-culture of modern times is more lay than clerical. States increasingly replace the Church as the governmental authority that controls culture. The government of nations is, at first, mainly in the 
-hands of kings; then, as in ancient Greece, the kings are gradually 
-replaced by democracies or tyrants. The power of the national 
-State, and the functions that it performs, grow steadily throughout 
-the whole period (apart from some minor fluctuations); but at most 
-times the State has less influence on the opinions of philosophers 
-than the Church had in the Middle Ages. The feudal aristocracy, 
-which, north of the Alps, had been able, till the fifteenth century, 
-to hold its own against central governments, loses first its political 
-and then its economic importance. It is replaced by the king in 
-alliance with rich merchants; these two share power in different 
-proportions in different countries. There is a tendency for the rich 
-merchants to become absorbed into the aristocracy. From the time 
-of the American and French Revolutions onwards, democracy, 
-in the modern sense, becomes an important political force. 
-Socialism, as opposed to democracy based on private property, 
-first acquires governmental power in 1917. This form of government, however, if it spreads, must obvi6usly bring with it a new 
-form of culture; the culture with which we shall be concerned is 
-in the main 'liberal," that is to say, of the kind most naturally 
-Associated with commerce. To this there are important exceptions, 
-
-5" 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+The period of history which is commonly called "modern" has a mental
+outlook which differs from that of the medieval period in many
+ways. Of these, two are the most important: the diminishing authority
+of the Church, and the increasing authority of science. With these
+two, others are connected. The culture of modern times is more lay
+than clerical. States increasingly replace the Church as the
+governmental authority that controls culture. The government of
+nations is, at first, mainly in the hands of kings; then, as in
+ancient Greece, the kings are gradually replaced by democracies or
+tyrants. The power of the national State, and the functions that it
+performs, grow steadily throughout the whole period (apart from some
+minor fluctuations); but at most times the State has less influence on
+the opinions of philosophers than the Church had in the Middle
+Ages. The feudal aristocracy, which, north of the Alps, had been able,
+till the fifteenth century, to hold its own against central
+governments, loses first its political and then its economic
+importance. It is replaced by the king in alliance with rich
+merchants; these two share power in different proportions in different
+countries. There is a tendency for the rich merchants to become
+absorbed into the aristocracy. From the time of the American and
+French Revolutions onwards, democracy, in the modern sense, becomes an
+important political force.  Socialism, as opposed to democracy based
+on private property, first acquires governmental power in 1917. This
+form of government, however, if it spreads, must obvi6usly bring with
+it a new form of culture; the culture with which we shall be concerned
+is in the main 'liberal," that is to say, of the kind most naturally
+Associated with commerce. To this there are important exceptions,
 especially in Germany; Fichte and Hegel, to take two examples, 
 have an outlook which is totally unconnected with commerce. But 
 such exceptions are not typical of their age. 
@@ -20888,13 +20613,6 @@ subjective doctrine that knowledge is of the agreement or disagreement of ideas 
 it by violent inconsistencies. Berkeley, after abolishing matter, is 
 only saved from complete subjectivism by a use of God which 
 most subsequent philosophers have regarded as illegitimate. In 
-
-513 R 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Hume, the empiricist philosophy culminated in a skepticism which 
 none could refute and none could accept. Kant and Fichte were 
 subjective in temperament as well as in doctrine; Hegel saved 
@@ -21039,13 +20757,6 @@ as among the best sources for knowledge of the events with which
 they deal. 
 
 Florence was the most civilized city in the world, and the chief 
-
-5'7 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 source of the Renaissance. Almost all the great names in literature, 
 and the earlier as well as some of the later of the great names in 
 art, are connected with Florence; but for the present we are concerned with politics rather than culture. In the thirteenth century, 
@@ -21128,11 +20839,6 @@ falsehood as regards the innumerable murders of which they are
 accused. There can be no doubt, however, that they carried the 
 arts of perfidy further than they had 'ever been carried before. 
 Julius II (1503-13), who succeeded Alexander VI, was not remarkable for piety, but gave less occasion for scandal than his predecessor. He continued the process of enlarging the papal domain; 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 as a soldier he had merit, but not as the Head of the Christian 
 Church. The Reformation, which began under his successor Leo X 
 (1513-21), was the natural outcome of the pagan policy of the 
@@ -21365,14 +21071,7 @@ a minor post in the Florentine government (1498). He remained
 in its service, at times on important diplomatic missions, until 
 the restoration of the Medici in 1512; tLen, having always opposed 
 them, he was arrested, but acquitted, and allowed to live in retirement in the country near Florence. He became an author for want 
-
-525 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-oi other occupation. His most famous work, The Prince^ was 
+of other occupation. His most famous work, The Prince^ was 
 written in 1513, and dedicated to Lorenzo the Second, since he 
 hoped (vainly, as it proved) to win the favor of the Medici, 
 Its tone is perhaps partly due to this practical purpose; his longer 
@@ -21459,13 +21158,6 @@ were right to pretend to believe in auguries, and to punish those
 who disregarded them. His criticisms of the Church in his day 
 are two: that by its evil conduct it has undermined religious belief, 
 and that the temporal power of the popes, with the policy that it 
-
-5*7 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 inspires, prevents the unification of Italy. These criticisms are 
 expressed with great vigor. "The nearer people are to the Church 
 of Rome, which is the head of our religion, the less religious are 
@@ -21815,13 +21507,6 @@ on the monastic orders: they are "brainsick fools," who have very
 little religion in them, yet are "highly in love with themselves, and 
 fond admirers of their own happiness." They behave as if all 
 religion consisted in minute punctilio: "The precise number of 
-
-535 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 knots to the tying on of their sandals; what distinct colors their 
 respective habits, and what stuff made of; how broad and long 
 their girdles," and so on. "It will be pretty to hear their pleas 
@@ -21993,13 +21678,6 @@ In Utopia, as in Plato's Republic, all things are held in common,
 for the public good cannot flourish where there is private property, 
 and without communism there can be no equality. More, in the 
 dialogue, objects that communism would make men idle, and 
-
-539 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 destroy respect for magistrates; to this Raphael replies that no 
 one would say this who had lived in Utopia. 
 
@@ -22090,13 +21768,6 @@ foreign mercenaries. For themselves, they have no money, and
 they teach contempt for gold by using it for chamberpots and the 
 chains of bondmen. Pearls and diamonds are used as ornaments 
 for infants, but never for adults. When they are at war, they offer 
-
-54' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 large rewards to anyone who will kill the prince of the enemy 
 country, and still larger rewards to anyone who will bring him 
 alive, or to himself if he yields himself up. They pity the common 
@@ -22310,13 +21981,6 @@ Germans and reforming the currency, but his leisure was devoted
 to astronomy. He came early to believe tHat the sun is at the center 
 of the universe, and that the earth has a twofold motion: a diurnal 
 rotation, and an annual revolution about the sun. Fear of ecclesiastical censure led him to delay publication of his views though 
-
-547 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 he allowed them to become known. His chief work, De Revolutionibus Orbium Ccekstium, was published in the year of his death 
 (1543), with a preface by his friend Osiander saying that the heliocentric theory was only put forward as a hypothesis. It is uncertain 
 how far Copernicus sanctioned this statement, but the question is 
@@ -22402,13 +22066,6 @@ existing in his day, about the apparent motions of the heavenly
 bodies on the celestial sphere, and he perceived that the diurnal 
 rotation of the earth was a more economical hypothesis than the 
 revolution of all the celestial spheres According to modern views, 
-
-549 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 which regard all motion as relative, simplicity is the only gain 
 resulting from his hypothesis, but this was not his view or that 
 of his contemporaries. As regards the earth's annual revolution, 
@@ -22501,12 +22158,6 @@ the sun.
 Something must be said in explanation of the importance of 
 these laws. 
 
-55' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 The first two laws, in Kepler's time, could only be proved in the 
 case of Mars; as regards the other planets, the observations were 
 compatible with them, but not such as to establish them definitely. 
@@ -22594,13 +22245,6 @@ something must be said as to the detail of Galileo's discoveries.
 Galileo was the first to establish the law of falling bodies. This 
 law, given the concept of "acceleration," is of the utmost simplicity. It says that, when a body is falling freely, its acceleration 
 is constant, except in so far as the resistance of the air may interfere; further, the acceleration is the same for all bodies, heavy or 
-
-553 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 light, great or small. The complete proof of this law was not 
 possible until the air pump had been invented, which was about 
 1654. After this, it was possible to observe bodies falling in what 
@@ -22690,13 +22334,6 @@ himself, and very quickly discovered a number of important things.
 He found that the Milky Way consists of a multitude of separate 
 stars. He observed the phases of Venus, which Copernicus knew 
 to be implied by his theory, but which the naked eye was unable 
-
-555 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 to perceive. He discovered the satellites of Jupiter, which, in 
 honor of his employer, he called "sidera medicea." It was found 
 that these satellites obey Kepler's laws. There was, however, a 
@@ -22881,13 +22518,6 @@ explanations.
 'l*he Copernican theory should have been humbling to human 
 pride, but in fact the contrary effect was produced, for the triumphs 
 of science revived human pride. The dying ancient world had been 
-
-559 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 obsessed with a sense of sin, and had bequeathed this as an oppression to the Middle Ages. To be humble before God was both right 
 and prudent, for God would punish pride. Pestilences, floods, 
 earthquakes, Turks, Tartars, and comets perplexed the gloomy 
@@ -22966,11 +22596,6 @@ existence independent of the bodies andevents that occupied them.
 As regards space, he had an empirical argument to support his 
 view, namely that physical phenomena enable us to distinguish 
 absolute rotation. If the water in a bucket is rotated, it climbs up 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 the sides and is depressed in the center; but if the bucket is 
 rotated while the water is not, there is no such effect. Since his 
 day, the experiment of Foucault's pendulum has been devised, 
@@ -23034,12 +22659,6 @@ writing important books.
 
 The ethics of the legal profession, in those days, were somewhat 
 lax. Almost every judge accepted presents, usually from both sides. 
-
-563 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 Nowadays we think it atrocious for a judge to take bribes, but even 
 more atrocious, after taking them, to decide against the givers of 
@@ -23128,13 +22747,6 @@ causes.
 He valued his method as showing how to arrange the observational data upon which science must be based. We ought, he says, 
 to be neither like spiders, which spin things out of their own 
 inside*, nor like ants, which merely collect, but like bees, which 
-
-565 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 both collect and arrange. This is somewhat unfair to the ants, but 
 it illustrates Bacon's meaning. 
 
@@ -23282,18 +22894,13 @@ rationalism offended most of the refugees, and its bitter attacks
 on the Catholic Church offended the French Government. 
 Hobbes therefore fled secretly to London, where he made submission to Cromwell, and abstained from all political activity. 
 
-He was not idle, however, either at this time or at any other 
-during his long life. He had a controversy with Bishop Bramhall 
-on free will; he was himself a rigid dcterrninist. Over-estimating 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-his own capacities as a geometer, he imagined that he had discovered how to square the circle; on this subject he very foolishly 
-embarked on a controversy with Wallis, the professor of geometry 
-at Oxford. Naturally the professor succeeded in making him 
-look silly. 
+He was not idle, however, either at this time or at any other during
+his long life. He had a controversy with Bishop Bramhall on free will;
+he was himself a rigid dcterrninist. Over-estimating his own
+capacities as a geometer, he imagined that he had discovered how to
+square the circle; on this subject he very foolishly embarked on a
+controversy with Wallis, the professor of geometry at
+Oxford. Naturally the professor succeeded in making him look silly.
 
 At the Restoration, Hobbes was taken up by the less earnest of 
 the king's friends, and by the king himself, who not only had 
@@ -23467,12 +23074,6 @@ cannot be true (A singularly pragmatisf view!) The laws of property are to be en
 nature there is no property, and therefore property is created by 
 government, which may control its creation as it pleases. 
 
-573 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 It is admitted that the sovereign may be despotic, but even the 
 worst despotism is better than anarchy. Moreover, in many points 
 the interests of the sovereign are identical with those of his subjects. 
@@ -23563,13 +23164,6 @@ There must, of course, be no such bodies as political parties or
 what we should now call trade unions. All teachers are to be 
 ministers of the sovereign, and are to teach only what the sovereign 
 thinks useful. The rights of property are only valid as against 
-
-575 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 other subjects, not as against the sovereign. The sovereign has the 
 right to regulate foreign trade. He is not subject to the civil law. 
 His right to punish comes to him, not from any concept of justice, 
@@ -23924,32 +23518,26 @@ motion in the universe is constant, and therefore the soul cannot
 affect it; but it can alter the direction of motion of the vital spirits, 
 and hence, indirectly, of other parts of the body. 
 
-This part of his theory was abandoned by his school first by 
-his Dutch disciple Geulincx, and later by Malebranche and 
-Spinoza. The physicists discovered the conservation of momentum, 
-according to which the total quantity of motion in the world in 
-any given direction is constant. This showed that the sort of action 
-of mind on matter that Descartes imagined is impossible. Assuming as was very generally assumed in the Cartesian school that 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-all physical action is of the nature of impact, dynamical laws 
-suffice to determine the motions of matter, and there is no room 
-for any influence of mind. But this raises a difficulty. My arm 
-moves when I will that it shall move, but my will is a mental 
-phenomenon and the motion of my arm a physical phenomenon. 
-Why then, if mind and matter cannot interact, does my body 
-behave as if my mind controlled it? To this Geulincx invented 
-an answer, known as the theory of the "two clocks." Suppose you 
-have two clocks which both keep perfect time: whenever one 
-points to the hour, the other will strike, so that if you saw one 
-and heard the other, you would think the one caused the other 
-to strike. So it is with mind and body. tach is wound up by God 
-to keep time with the other, so that, on occasion of my volition, 
-purely physical laws cause my arm to move, although my will 
-has not really acted on my body. 
+This part of his theory was abandoned by his school first by his Dutch
+disciple Geulincx, and later by Malebranche and Spinoza. The
+physicists discovered the conservation of momentum, according to which
+the total quantity of motion in the world in any given direction is
+constant. This showed that the sort of action of mind on matter that
+Descartes imagined is impossible. Assuming as was very generally
+assumed in the Cartesian school that all physical action is of the
+nature of impact, dynamical laws suffice to determine the motions of
+matter, and there is no room for any influence of mind. But this
+raises a difficulty. My arm moves when I will that it shall move, but
+my will is a mental phenomenon and the motion of my arm a physical
+phenomenon.  Why then, if mind and matter cannot interact, does my
+body behave as if my mind controlled it? To this Geulincx invented an
+answer, known as the theory of the "two clocks." Suppose you have two
+clocks which both keep perfect time: whenever one points to the hour,
+the other will strike, so that if you saw one and heard the other, you
+would think the one caused the other to strike. So it is with mind and
+body. tach is wound up by God to keep time with the other, so that, on
+occasion of my volition, purely physical laws cause my arm to move,
+although my will has not really acted on my body.
 
 There were of course difficulties in this theory. In the first 
 place, it was very odd; in the second place, since the physical 
@@ -24029,14 +23617,6 @@ been invented.) Moreover madmen sometimr
 so it is possible that I may be in like case. 
 
 Dreams, however, like painters, present 
-
-585 
-
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 things, at least as regards their elements. (You may dream of a 
 winged horse, but only because you have seen horses and wings.) 
 Therefore corporeal nature in general, involving such matters as 
@@ -24122,12 +23702,6 @@ smells of (lowers, it has a certain sensibfe color, size and shape,
 it is hard and cold, and if struck it emits a sound. But if you put 
 it near the fire, these qualities change, although the wax persists, 
 therefore what appeared to the senses was nor the wax itself. 
-
-587 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 The wax itself is constituted by extension, flexibility, and motion, 
 which are understood by the mind, not by the imagination. The 
@@ -24219,13 +23793,6 @@ using uncritically the apparatus of categories handed down by
 scholasticism. He nowhere proves that thoughts need a thinker, 
 nor is there reason to believe this except in a grammatical sense. 
 The decision, however, to regard thoughts rather than external 
-
-59 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 objects as the prime empirical certainties was very important, 
 and had a profound effect on all subsequent philosophy. 
 
@@ -24352,50 +23919,45 @@ I think when he says this he means that they should be decided
 by the State rather than the Church; in Holland the State was 
 much more tolerant than the Church. 
 
-Spinoza's Ethics deals with three distinct matters. It begins with 
-metaphysics; it then goes on to the psychology of the passions 
-and the will; and finally it sets forth an ethic based on the preceding metaphysics and psychology. The metaphysic is a modification of Descartes, the psychology is reminiscent of Hobbes, 
-hut the ethic is original, and is what is of most value in the book. 
-The relation of Spinoza to Descartes is in some ways not unlike 
-the relation of Plotinus to Plato. Descartes was a many-sided man, 
-full of intellectual curiosity, but not much burdened with moral 
-earnestness. Although he invented "proofs intended to support 
-orthodox beliefs, he could have been used by skeptics as Carneades 
-used Plato. Spinoza, although he was not without scientific 
-interests, and even wrote a treatise on the rainbow, was in the 
-main concerned with religion and virtue. He accepted from 
-Descartes and his contemporaries a materialistic and deterministic 
-physics, and sought, within this fraifiework, to find room for 
-reverence and a life devoted to the Good. His attempt was magnificent, and rouses admiration even in those who do not think it 
-successful 
+Spinoza's Ethics deals with three distinct matters. It begins with
+metaphysics; it then goes on to the psychology of the passions and the
+will; and finally it sets forth an ethic based on the preceding
+metaphysics and psychology. The metaphysic is a modification of
+Descartes, the psychology is reminiscent of Hobbes, hut the ethic is
+original, and is what is of most value in the book.  The relation of
+Spinoza to Descartes is in some ways not unlike the relation of
+Plotinus to Plato. Descartes was a many-sided man, full of
+intellectual curiosity, but not much burdened with moral
+earnestness. Although he invented "proofs intended to support orthodox
+beliefs, he could have been used by skeptics as Carneades used
+Plato. Spinoza, although he was not without scientific interests, and
+even wrote a treatise on the rainbow, was in the main concerned with
+religion and virtue. He accepted from Descartes and his contemporaries
+a materialistic and deterministic physics, and sought, within this
+fraifiework, to find room for reverence and a life devoted to the
+Good. His attempt was magnificent, and rouses admiration even in those
+who do not think it successful.
 
-593 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-The metaphysical system of Spinoza is of the type inaugurated 
-by Parmenides. There is only one substance, "God or Nature"; 
-nothing finite is self-subsistent. Descartes admitted three substances, God and mind and matter; it is true that, even for him, 
-God was, in a sense, more substantial than mind and matter, 
-since He had created them, and could, if He chose, annihilate 
-them. But except in relation to God's omnipotence, mind and 
-matter were two independent substances, defined, respectively, 
-by the attributes of thought and extension. Spinoza would have 
-none of this. For him, thought and extension were both attributes 
-of God. God has also an infinite number of other attributes, 
-since He must be in every respect infinite; but these others are 
-unknown to us. Individual souls and separate pieces of matter 
-are, for Spinoza, adjectival; they are not things, but merely aspects 
-of the divine Being. There can be no such personal immortality 
-as Christians believe in, but only that impersonal sort that consists 
-in becoming more and more one with God. Finite things are 
-defined by their boundaries, physical or logical, that is to say, by 
-what they are not: "all determination is negation." There can be 
-only one Being who is wholly positive, and He must be absolutely 
-infinite. Hence Spinoza is led to a complete and undiluted 
-pantheism. 
+The metaphysical system of Spinoza is of the type inaugurated by
+Parmenides. There is only one substance, "God or Nature"; nothing
+finite is self-subsistent. Descartes admitted three substances, God
+and mind and matter; it is true that, even for him, God was, in a
+sense, more substantial than mind and matter, since He had created
+them, and could, if He chose, annihilate them. But except in relation
+to God's omnipotence, mind and matter were two independent substances,
+defined, respectively, by the attributes of thought and
+extension. Spinoza would have none of this. For him, thought and
+extension were both attributes of God. God has also an infinite number
+of other attributes, since He must be in every respect infinite; but
+these others are unknown to us. Individual souls and separate pieces
+of matter are, for Spinoza, adjectival; they are not things, but
+merely aspects of the divine Being. There can be no such personal
+immortality as Christians believe in, but only that impersonal sort
+that consists in becoming more and more one with God. Finite things
+are defined by their boundaries, physical or logical, that is to say,
+by what they are not: "all determination is negation." There can be
+only one Being who is wholly positive, and He must be absolutely
+infinite. Hence Spinoza is led to a complete and undiluted pantheism.
 
 Everything, according to Spinoza, is ruled by an absolute logical 
 necessity. There is no such thing as free will in the mental sphere 
@@ -24461,13 +24023,6 @@ delight in something, which only one person can possess, we
 shall endeavor to bring it about, thai the man in question shall 
 not gain possession thereof." But even in this Book there are 
 moments when Spinoza abandons the appearance of mathematically demonstrated cynicism, as when he says: "Hatred is 
-
-595 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 increased by being reciprocated, and can on the other hand be 
 destroyed by love." Self-preservation is the fundamental motive 
 of the passions, according to Spinoza; but self-preservation alters 
@@ -24548,42 +24103,37 @@ know of any occasion, in spite of great provocation, in which he
 was betrayed into the kind of heat or anger that his ethic condemned: In controversy he was courteous and reasonable, never 
 denouncing, but doing his utmost to persuade. 
 
-In so far as what happens to us springs from ourselves, it is 
-good; o*Iy what comes from without is bad for us. "As all things 
-whereof a man is the efficient cause are necessarily good, no evil 
-can befall a man except through external causes." Obviously, 
-therefore, nothing bad can happen to the universe as a whole, 
-since it is not subject to external causes. "We are a part of universal nature, and we follow her order. If we have a dear and distinct understanding of this, that part of our nature which is defined 
+In so far as what happens to us springs from ourselves, it is good;
+only what comes from without is bad for us. "As all things whereof a
+man is the efficient cause are necessarily good, no evil can befall a
+man except through external causes." Obviously, therefore, nothing bad
+can happen to the universe as a whole, since it is not subject to
+external causes. "We are a part of universal nature, and we follow her
+order. If we have a dear and distinct understanding of this, that part
+of our nature which is defined by intelligence, in other words the
+better part of ourselves, will assuredly acquiesce in what befalls us,
+and in such acquiescence will endeavor to persist. In so far as a man
+is an unwilling part of a larger whole, he is in bondage; but in so
+far as, through the understanding, he has grasped the sole reality of
+the whole, he is free. The implications of this doctrine are developed
+in the last Bookofthe&ta*.
 
-597 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-by intelligence, in other words the better part of ourselves, will 
-assuredly acquiesce in what befalls us, and in such acquiescence 
-will endeavor to persist/ 9 In so far as a man is an unwilling part 
-of a larger whole, he is in bondage; but in so far as, through the 
-understanding, he has grasped the sole reality of the whole, he is 
-free. The implications of this doctrine are developed in the last 
-Bookofthe&ta*. 
-
-Spinoza does not, like the Stoics, object to all emotions; he 
-objects only to those that are "passions," i.e. those in which we 
-appear to ourselves to be passive in the power of outside forces. 
-"An emotion which is a passion ceases to be a passion as soon as 
-we form a clear and distinct idea of it." Understanding that all 
-things are necessary helps the mind to acquire power over the 
-emotions. "He who clearly and distinctly understands himself 
-and his emotions, loves God, and so much the more as he more 
-understands himself and his emotions.** This proposition introduces us to the "intellectual love of God," in which wisdom 
-consists. The intellectual love of God is a union of thought and 
-emotion: it consists, I think one may say, in true thought combined 
-with joy in the apprehension of truth. Ail joy in true thought is 
-part of the intellectual love of God, for it contains nothing negative, 
-and is therefore truly part of the whole, not only apparently, as 
-are fragmentary things so separated in thought as to appear bad. 
+Spinoza does not, like the Stoics, object to all emotions; he objects
+only to those that are "passions," i.e. those in which we appear to
+ourselves to be passive in the power of outside forces.  "An emotion
+which is a passion ceases to be a passion as soon as we form a clear
+and distinct idea of it." Understanding that all things are necessary
+helps the mind to acquire power over the emotions. "He who clearly and
+distinctly understands himself and his emotions, loves God, and so
+much the more as he more understands himself and his emotions.** This
+proposition introduces us to the "intellectual love of God," in which
+wisdom consists. The intellectual love of God is a union of thought
+and emotion: it consists, I think one may say, in true thought
+combined with joy in the apprehension of truth. Ail joy in true
+thought is part of the intellectual love of God, for it contains
+nothing negative, and is therefore truly part of the whole, not only
+apparently, as are fragmentary things so separated in thought as to
+appear bad.
 
 I said a moment ago that the intellectual love of God involves 
 joy, but perhaps this was a mistake, for Spinoza says that God is 
@@ -24602,13 +24152,7 @@ the reader can then in imagination supply proofs to other propositions. The proo
 
 "For this love is associated with all the modifications of the body 
 (V, 14) and is fostered by them all (V, 1 5); therefore ( V 1 1 ) it must 
-hold the chief place in the mind. Q.E.D ' 
-
-598 
-
-
-
-SPINOZA 
+hold the chief place in the mind. Q.E.D" 
 
 Of the propositions referred to in the above proof, V, 14 states: 
 "The mind can bring it about, that all bodily modifications or 
@@ -24651,12 +24195,6 @@ stderrd to contradict the statement that God loves Himself with
 an infinite intellectual love. He may love Himself, since that is 
 possible without false belief; and in any case intellectual love is 
 a very special kind of love. 
-
-S99 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 At this point Spinoza tells us that he has now given us "all the 
 remedies against the emotions." The great reme4 is clear and 
@@ -24752,13 +24290,6 @@ think of some of the things that are lik'ely to happen in our time
 to inhabitants of Europe or China. Suppose you are a Jew, and 
 your family has been massacred. Suppose you are an underground 
 worker against the Nazis, and your wife has been shot because 
-
-601 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 you could not be caught. Suppose your husband, for some purely 
 imaginary crime, has been sent to forced labour in the Arctic, 
 and has died of cruelty and starvation. Suppose your daughter 
@@ -24915,30 +24446,27 @@ in manuscript. In later years he joined in decrying Spinoza, and
 minimized his contacts with him, saying he had met him once, 
 and Spinoza had told some good anecdotes about politics. 
 
-His connection with the House of Hanover, in whose service he 
-remained for the rest of his life, began in 1673. From 1680 onwards 
-he was their librarian at Wolfenbiittel, and was officially employed 
-in writing the history of Brunswick. He had reached the year 
-1009 when he died. The work was not published till 1843. Some 
-of his time was spent on a project for the reunion of the Churches, 
-but this proved abortive. He travelled to Italy to obtain evidence 
-that the Dukes of Brunswick were connected with the Este family. 
-But in spite of these services he was left behind at Hanover when 
-George I became king of England, the chief reason being that his 
-quarrel with Newton had made England unfriendly to him. However, the Princess of Wales, as he told all his correspondents, sided 
-with him against Newton. In spite of her favor, he died neglected. 
+His connection with the House of Hanover, in whose service he remained
+for the rest of his life, began in 1673. From 1680 onwards he was
+their librarian at Wolfenbiittel, and was officially employed in
+writing the history of Brunswick. He had reached the year 1009 when he
+died. The work was not published till 1843. Some of his time was spent
+on a project for the reunion of the Churches, but this proved
+abortive. He travelled to Italy to obtain evidence that the Dukes of
+Brunswick were connected with the Este family.  But in spite of these
+services he was left behind at Hanover when George I became king of
+England, the chief reason being that his quarrel with Newton had made
+England unfriendly to him. However, the Princess of Wales, as he told
+all his correspondents, sided with him against Newton. In spite of her
+favor, he died neglected.
 
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-Leibniz's popular philosophy may be found in the Monadology 
-and the Principles of Nature and of Grace, one of which (it is 
-uncertain which) he wrote for Prince Eugene of Savoy, Marlborough's colleague. The basis of his theological optimism is 
-set forth in the Theodictc, which he wrote for Queen Charlotte 
-of Prussia. I shall begin with the philosophy set forth in these 
-writings, and then proceed to his more solid work which he left 
-unpublished. 
+Leibniz's popular philosophy may be found in the Monadology and the
+Principles of Nature and of Grace, one of which (it is uncertain
+which) he wrote for Prince Eugene of Savoy, Marlborough's
+colleague. The basis of his theological optimism is set forth in the
+Theodictc, which he wrote for Queen Charlotte of Prussia. I shall
+begin with the philosophy set forth in these writings, and then
+proceed to his more solid work which he left unpublished.
 
 Like Descartes and Spinoza, Leibniz based his philosophy on the 
 notion of substance, but he differed radically from them as regards 
@@ -25020,13 +24548,6 @@ In contrasting himself with Spinoza, Kcibniz made much of the
 free will allowed in his system. He had a "principle of sufficient 
 reason,*' according to which nothing happens without a reason; 
 but when we are concerned with free agents, the reasons for their 
-
-607 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 actions "incline without necessitating. 91 What a human being does 
 always has a motive, but the sufficient reason of his action has no 
 logical necessity. So, at least, Leibniz says when he is writing 
@@ -25205,13 +24726,6 @@ them know that there are any others? What seems like mirroring
 the universe may be merely a dream. In fact, if Leibniz is right, 
 it ii merely a dream, but he has ascertained somehow that all the 
 monads have similar dreams at the same time. This, of course, 
-
-6it 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 is fantastic, and would ntver have seemed credible but for the 
 previous history of Cartesianism. 
 
@@ -25300,13 +24814,6 @@ system, and rejected as unimportant Asays which prove him to
 have been a far more profound thinker than he wished to be 
 thought. Most of the texts upon which we must rely for an 
 understanding of his esoteric doctrine were first published in 
-
-613 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 1901 or 1903, in two works by Louis Couturat. One of these was 
 even headed by Leibniz with the remark: "Here I have made 
 enormous progress." But in spite of this, no editor thought it 
@@ -25389,12 +24896,6 @@ predicates which can be truly attributed to him, as e:g. whether
 he would conquer Darius and Poms, even to knowing a priori 
 (and not by experience) whether he died a natural death or by 
 poison, which we can only know by history." 
-
-615 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 One of the most definite statements of the basis of his metaphysic occurs in a letter to Arnauld: 
 
@@ -25489,12 +24990,6 @@ be reconciled with his popular views by means of what he calls
 "metaphysical perfection. " Metaphysical perfection, as he uses 
 the term, seems to mean quantity of existence. It is, he says, 
 "nothing but the magnitude of positive reality strictly understood." 
-
-617 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 He always argues that God created as much as possible; this is 
 one of his reasons for rejecting a vacuum. There is a general 
@@ -25644,13 +25139,6 @@ the highest hopes appeared to be warranted by the most sober
 judgment. For a hundred years, nothing occurred to dim these 
 hopes; then, at last, they themselves generated the French Revolution, which led directly to Napoleon and thence to the Holy 
 A liance. After these events, liberalism had to acquire its second 
-
-6ai 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 wind before the renewed optimism oi the nineteenth century 
 became possible. 
 
@@ -25735,13 +25223,6 @@ been dominant from 1776 to the present day, or at any rate to 1933.
 A new movement, which has gradually developed into the antithesis of liberalism, begins with Rousseau, and acquires strength 
 from the romantic movement and the principle of nationality. 
 In this movement, individualism is extended from the intellectual 
-
-623 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 sphere to that of the passions, and the anarchic aspects of individualism are made explicit. The cult of the hero, as developed by 
 Carlyle and Nietzsche, is typical of this philosophy. Various 
 elements were combined in it. There was dislike of early industrialism, hatred of the ugliness that it produced, and revulsion 
@@ -25999,13 +25480,6 @@ The primary qualities, he maintainsf are actually in bodies; the
 secondary qualities, on the contrary, are only in the percipient. 
 Without the eye, there would be no colors; without the ear, no 
 sounds, and so on. For Locke's view as to secondary qualities 
-
-629 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 there are good grounds jaundice, blue spectacles, etc. But 
 Berkeley pointed out that the sairie arguments apply to primary 
 qualities. Ever since Berkeley, Locke's dualism on this point has 
@@ -26092,13 +25566,6 @@ as Locke uses the term, consists of t*o parts: first, an inquiry as
 to what things we know with certainty; second, an investigation 
 of propositions which it is wise to accept in practice, although 
 they have only probability and not certainty in their favor. "The 
-
-631 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 grounds of probability," he says, "are two: conformity with our 
 own experience, or the testimony of others' experience." The 
 King of Siam, he remarks, ceased to believe what Europeans 
@@ -26628,13 +26095,6 @@ regal." He quotes the theologian Bellafrmine as saying that secular
 power is bestowed by men (i.e. not by God), and "is in the people 
 unless they bestow it on a prince"; thus Bellarmine, according to 
 Filmer, "makes God the immediate author of a democratic*! 
-
-643 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 estate" which sounds to him as shocking as it would to a modern 
 plutocrat to say that God is the immediate author of Bolshevism. 
 
@@ -26725,13 +26185,6 @@ demolishing Kilmer's arguments. *
 
 So far as reasoning is concerned, Locke has, of course, an easy 
 task. He points out that, if parental power is what is concerned, 
-
-645 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 the mother's power should be equal to the father's. He lays stress 
 on the injustice of primogeniture, which is unavoidable if inheritance is to be the basis of monarchy. He makes play with the 
 absurdity of supposing that actual monarchs are, in any real sense, 
@@ -26816,13 +26269,6 @@ state of nature is, for Locke, a mere'illustrative hypothesis, and
 how far he supposes it to have had a historical existence; but I am 
 afraid that he tended to think of it as a stage that had actually 
 occurred. Men emerged from the state of nature by means of a 
-
-64? 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 social contract which instituted civil government. This also he 
 regarded as more or less historical. But for the moment it is the 
 state of nature that concerns us. 
@@ -26933,13 +26379,6 @@ is reciprocal, no one having more than toother; there being nothing
 more evident, than that creatures of the same species and rank, 
 promiscuously born to all the same advantages of nature, and the 
 use of the same faculties, should also be equal one amongst another 
-
-649 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 without subordination or subjection; unless the lord and master 
 of them all should, by any manifest declaration of his will, set one 
 above another, and confer on him, by an evident and clear appointment, an undoubted right to dominion and sovereignty. 
@@ -27028,18 +26467,13 @@ The whole of this theory of the state of nature and natural law
 is in one sense clear but in another very puzzling. It is dear what 
 Locke thought, but it is not clear how he can have thought it. 
 Locke's ethic, as we saw, is utilitarian, but in his consideration of 
-44 rights" he does not bring in utilitarian considerations. Sont*qjgg 
+44 rights" he does not bring in utilitarian considerations. Sontqjgg 
 of this pervades the whole philosophy of law as taught by lawyers. 
 Legal rights can be defined: broadly speaking, a man has a legal 
 right when he can appeal to the taw to safeguard him against 
 injury. A man has in general a legal right to his property, but if 
 he has (say) an illicit store of cocaine, he has no legal remedy 
 against a man who steals it* But the lawgiver has to decide what 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 without subordination or subjection; unless the lord and master 
 of them all should, by any manifest declaration of his will, set one 
 above another, and confer on him, by an evident and clear appointment, an undoubted right to dominion and sovereignty. 
@@ -27135,13 +26569,6 @@ right when he can appeal to the tow to safeguard him against
 injury. A man has in general a legal right to his property, but if 
 he has (say) an illicit store of cocaine, he has no legal remedy 
 against a man who steals it But the lawgiver has to decide what 
-
-651 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 legal rights to create, and falls back naturally on the conception 
 of "natural" rights, as those which the law should secure. 
 
@@ -27229,13 +26656,6 @@ naturally, considered it an admirable theory. Aristocracies had
 motives for supporting it and motives for opposing it. In its favor 
 was the fact that it emphasized the hereditary principle, and that 
 it gave august support to resistance against the upstart merchant 
-
-653 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 class. Where the middle class was more feared or hated by the 
 aristocracy than the king was, these motives prevailed. Where the 
 contrary was the case, and especially where the aristocracy had 
@@ -27333,12 +26753,6 @@ have actually taken place, though it is admitted that the origin
 of government antedates history everywhere except among the 
 Jews. 
 
-655 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 The civil compact which institutes government binds only those 
 who made it; the son must consent afresh to a compact made by 
 his father. (It is clear how this follows from Locke's principles, 
@@ -27431,14 +26845,6 @@ The theory that government was qpated by
 course, pre-cvolutionary. Government, like i 
 cough, must have grown up gradually, though, 
 be introduced suddenly into new regions sudflfoAfc South Sea 
-
-657 
-
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Islands. Before men had studied anthropology they had no idea 
 of the psychological mechanisms involved in the beginnings of 
 government, or of the fantastic reasons which lead men to adopt 
@@ -27528,12 +26934,6 @@ could announce doctrines requiring 90 much revolution before
 they could be put into effect, and yet show no sign that he thought 
 the system existing in his day unjust, or that he was aware of its 
 being different from the system that be advocated. 
-
-659 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 The labour theory of value i.e. the doctrine that the value of 
 a product depends upon the labour expended upon it which 
@@ -27626,13 +27026,6 @@ must be separate, he says, to prevent abuse of power. It must, of
 course, be understood that when he speaks of the legislature he 
 means Parliament, and when he speaks of the executive he means 
 the king; at least this is what he means emotionally, whatever he 
-
-661 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 may logically intend to mean. Accordingly he thinks of 
 the legislature as virtuous, while the executive is usually 
 wicked. 
@@ -27721,13 +27114,6 @@ increasing strictness of party discipline. The majority in Parliament now decide
 decided that, it cannot in practice decide anything else. Proposed 
 legislation is hardly ever enacted unless introduced by government. Thus the government is both legislative and executive, 
 and its power is only limited by the need of occasional general 
-
-663 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 elections. This system is, of course, totally contrary to Locke's 
 principles. 
 
@@ -27970,13 +27356,6 @@ called "noble/ 1
 Kant says that if you are kind to your brother because you are 
 fond of him, you have no moral merit: an act only has moral merit 
 when it is performed because the moral law enjoins it. Although 
-
-669 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 pleasure is not the good, it is nevertheless unjust so Kant 
 maintains that the virtuous should suffer. Since this often 
 happens in this world, there must be another world where they 
@@ -28059,13 +27438,6 @@ now, both in England and in America, big business an the whole
 dislikes war. 
 
 Enlightened self-interest is, of course, not the loftiest of motives, 
-
-671 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 but those who decry it often substitute, by accident or design, 
 motives which are much worse, such as hatred, envy, and love 
 of power. On the whole, the school which owed its origin to 
@@ -28078,26 +27450,20 @@ system. And I set against them Russian sertdom, the evils of war
 and its aftermath of fear and hatred, and the inevitable obscurantism of those who attempt to preserve ancient systems when 
 they have lost their vitality. 
 
-
-
-672 
-
-
-
 ## Chapter XVI BERKELEY 
 
-GEORGE BERKELEY (1685-1753) is important in philosophy through his denial of the existence of matter a 
-denial which he supported by a number of ingenious arguments. He maintained that material objects only exist through 
-being perceived. To the objection that, in that case, a tree, for 
-instance, would cease to exist if no one was looking at it, he 
-replied that God always perceives everything; if there were no 
-God, what we take to be material objects would have a jerky life, 
-suddenly leaping into being when we look at them; but as it is, 
-owing to God's perceptions, trees and rocks and stones have an 
-existence as continuous as common sense supposes. This is, in 
-his opinion, a weighty argument for the existence of God. A 
-limerick by Ronald Knox, with a reply, sets forth Berkeley's 
-theory of material objects: 
+George Berkeley (1685-1753) is important in philosophy through his
+denial of the existence of matter a denial which he supported by a
+number of ingenious arguments. He maintained that material objects
+only exist through being perceived. To the objection that, in that
+case, a tree, for instance, would cease to exist if no one was looking
+at it, he replied that God always perceives everything; if there were
+no God, what we take to be material objects would have a jerky life,
+suddenly leaping into being when we look at them; but as it is, owing
+to God's perceptions, trees and rocks and stones have an existence as
+continuous as common sense supposes. This is, in his opinion, a
+weighty argument for the existence of God. A limerick by Ronald Knox,
+with a reply, sets forth Berkeley's theory of material objects:
 
 There was a young man who said, "God 
 Must think it exceedingly odd 
@@ -28220,10 +27586,6 @@ be plainer than that we see them on the objects?" Substances
 existing without the mind, he maintains, have the colors we see 
 on them. But Philonous has no difficulty in disposing of this view. 
 
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 He begins with the sunset clouds, which are red and golden, and 
 points out that a cloud, when you are close to it, has no such 
 colors. He goes on to the difference made by a microscope, and 
@@ -28322,13 +27684,6 @@ uncle; now Mr. A is a nephew; therefore it is logically necessary
 for Mr. A to have an uncle." It is, *>f course, logically necessary 
 given that Mr. A is a nephew, but not from anything to be discovered by analysis of Mr. A. So, if something is an object of the 
 senses, some mind is concerned with it; but it does not follow 
-
-67? 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 that the same thing could not have existed without being an 
 object of the senses. 
 
@@ -28617,12 +27972,6 @@ may be held that causality is kno\qp a priori, and that causal laws
 are impossible unless there are unperceived events. As against 
 this, it may be urged that causality is not a priori, and that whatever regularity can be observed must be in relation to percepts. 
 
-683 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Whatever (here is reason to believe in the laws of physics must, it 
 would seem, be capable of being stated in terms of percepts. The 
 statement may be odd and complicated; it may lack the characteristic of continuity which, until lately, was expected of a physical 
@@ -28800,13 +28149,6 @@ goes beyond what is psychological!/ true.
 
 Hume banished the conception of substance from psychology, 
 as Berkeley had banished it from physics. There is, he says, no 
-
-687 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 impression of self, and therefore no idea of self (Book I, pan iv, 
 sec. vi). "For my part, when I enter most intimately into what I 
 call myself 9 I always stumble on some particular perception or 
@@ -28892,13 +28234,6 @@ ideas are copied from our impressioqp."
 The three relations that depend not only on ideas are identity, 
 spatio-temporal relations, and causation. In the first two, the mind 
 does not go beyond what is immediately present to the senses, 
-
-689 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 (Spatio-temporal relations, Hume holds, can be perceived, and 
 can form parts of impressions.) Causation alone enables us to 
 infer some thing or occurrence from some other thing or occurrence: " Tis only causation, which produces such a connexion, 
@@ -28986,13 +28321,6 @@ not in objects. 99
 Let us now ask ourselves what we are to think of Hume's 
 doctrine. It has two parts, one objective, the other subjective. 
 The objective part says: When we judge that A causes B, what 
-
-691 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 has in fact happened, so far as A and B are concerned, is that they 
 have been frequently observed to be conjoined, i.e. A has been 
 immediately, or very quickly, followed by B; we have no right 
@@ -29086,13 +28414,6 @@ verified than not. With this proviso, I return to the meaning of
 Those who disagree with Hume maintain that "cause" is a 
 specific relation, which entails invariable sequence, but is not 
 entailed by it. To revert to the clocks of the Cartesians: two 
-
-693 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 perfectly accurate chronometers might strike the hours one after 
 the other invariably, without either being the cause of the other's 
 striking. In general, those who take this view maintain that we 
@@ -29181,13 +28502,6 @@ Hume is not content with reducing the evidence of a causal
 connection to experience of frequent conjunction; he proceeds to 
 argue that such experience does not justify the expectation of 
 similar conjunctions in the future. For example: when (to repeat 
-
-695 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 a former illustration) I see an apple, past experience makes me 
 expect that it will taste like an apple, and not like roast beef; but 
 there is no rational justification for this expectation. If there were 
@@ -29274,12 +28588,6 @@ to be employing ourselves after that manner." If he abandoned
 speculation, "I feel I should be a loser in point of pleasure; and 
 this is the origin of my philosophy." 
 
-697 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Hume's philosophy, whether true or false, represents the bankruptcy of eighteenth-century reasonableness. He starts out, like 
 Locke, with the intention of being sensible and empirical, taking 
 nothing on trust, but seeking whatever instruction is to be obtained 
@@ -29364,24 +28672,12 @@ basis for science. But if this one principle is admitted, everything
 else can proceed in accordance with tfie theory that all our knowledge is based on experience. It must be granted that this is a 
 serious departure from pure empiricism, and that those who are 
 not empiricists may ask why, if one departure is allowed, others 
-
-699 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 are to be forbidden. These, however, are questions not directly 
 raised by Hume's arguments. What these arguments prove and 
 I do not think the proof can be controverted is, that induction 
 is an independent logical principle, incapable of being inferred 
 either from experience or from other logical principles, and that 
 without this principle science is impossible. 
-
-
-
-700 
-
 
 
 # Part 2. From Rousseau to the Present Day 
@@ -29417,14 +28713,7 @@ virtue than the rich; the sage was thought of as a man who retires
 from the corruption of courts to enjoy the peaceful pleasures of 
 an unambitious rural existence. As a passing mood, this attitude 
 is to be found in poets of almost all periods. The exiled Duke in 
-
-701 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-As You Like It expresses it, though he goes back to his dukedom 
+_As You Like It_ expresses it, though he goes back to his dukedom 
 as soon as he can; only the melancholy Jaques sincerely prefers 
 the life of the forest Even Pope, the perfect exemplar of all that 
 the romantic movement rebelled against, says: 
@@ -29513,13 +28802,6 @@ favored it.
 
 The romantic movement is characterized, as a whole, by the 
 substitution of aesthetic for utilitarian standards. The earth-worm 
-
-703 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 is useful, but not beautiful; the tiger is beautiful, but not useful. 
 Darwin (who was not a romantic) praised the earth-worm; Blake 
 praised the tiger. The morals of the romantics have primarily 
@@ -29700,13 +28982,6 @@ philosophy, the politics, and the segments, not only of what is
 commonly called the romantic movement, but of its progeny down 
 to the present day. Philosophy, under the influence of German 
 idealism, became solipststic, and self-development was proclaimed 
-
-TO? 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 as the fundamental principle of ethics. As regards sentiment, there 
 has to be a distasteful compromise between the search for isolation 
 and the necessities of passion and economics. D. H. Lawrence's 
@@ -29793,24 +29068,12 @@ the Ego, but economic, political, andWntellectual causes stimulated
 revolt against the Churches, and the romantic movement brought 
 the revolt into the sphere of morals. By encouraging a new lawless 
 Ego it made social co-operation impossible, and left its disciples 
-
-709 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 faced with the alternative of anarchy or despotism. Egoism, at first, 
 made men expect from others a parental tenderness; but when 
 they discovered, with indignation, that others had their own Ego, 
 the disappointed desire for tenderness turned to hatred and 
 violence. Man is not a solitary animal, and so long as social life 
 survives, self-realization cannot be the supreme principle of ethics. 
-
-
-
-710 
-
 
 
 ## Chapter XIX ROUSSEAU 
@@ -29948,13 +29211,6 @@ of morals, and, by creating wants, art the sources of slavery; for
 how can chains be imposed on those who go naked, like American 
 tvages? As might be expected, he is for Sparta, and against Athens. 
 He had read Plutarch's Lives at the age of seven, and been much 
-
-7'3 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 influenced by them; he admired particularly the life of Lycurgus. 
 Like the Spartans, he took success in war as the test of merit; 
 nevertheless, he admired the "noble savage," whom sophisticated 
@@ -30035,13 +29291,6 @@ about which Voltaire wrote a poem throwing doubt on the Providential government 
 commented: "Voltaire, in seeming always to believe in God, never 
 really believed in anybody but the devil, since his pretended God 
 is * maleficent Being who according to him finds all his pleasure 
-
-75 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 in working mischief. The absurdity of this doctrine is especially 
 revolting in a man crowned with good things of every sort, and 
 who from the midst of his own happiness tries to fill his fellow-creatures with despair, by the cruel and terrible image of the 
@@ -30136,13 +29385,6 @@ his political theory. ,
 in theology he made an innovation which has now been accepted 
 by the great majority of Protestant theologians. Before him, every 
 philosopher from Plato onwards, if he believed in God, offered 
-
-7*7 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 intellectual arguments in favor of his belief. 1 The arguments may 
 not, to us, seem very convincing, and we may feel that they would 
 not have seemed cogent to anyone who did not already fed sure 
@@ -30325,13 +29567,6 @@ philosophy.
 Although the book as a whole is much less rhetorical than mosft 
 of Rousseau's writing, the first chapter opens with a very forceful 
 piece of rhetoric; "Man is born free, and everywhere he is in 
-
-721 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 chains. One man thinks himself the master of others, but remains 
 more of a slave than they are." Liberty is the nominal goal of 
 Rousseau's thought, but in fact it is equality that he values, and 
@@ -30425,12 +29660,6 @@ yet, in the above passage, Rousseau forgets his romanticism and
 speaks like a sophistical polkcm&n. Hegel, who owed much ty 
 Rousseau, adopted hi* misuse of the word "freedom,** and defined 
 it as the right to obey the police, or something not very different. 
-
-7*3 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 Rousseau has not that profound respect for private property 
 that characterizes Locke and his disciples. "The State, in relation 
@@ -30684,13 +29913,6 @@ were, in turn, getting tired of reason, revived "enthusiasm," and,
 accepting the bankruptcy of reason, allowed the heart to decid? 
 questions which the head left doubtful. From 1750 to 1794, the 
 heart spoke louder and louder; at last Thermidor put an end, 
-
-7*9 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 for a time, to its ferocious pronouncements, so for at least as 
 France was concerned. Under Napoleon, heart and head were 
 alike sitenocd, 
@@ -30782,13 +30004,6 @@ a man should be subject to the will of another." *
 
 Kant's early works are more concerned with science than with 
 philosophy. After the earthquake of Lisbon he wrote on the theory 
-
-73* 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 of earthquakes; he wrote a treatise on wind, and a short essay 
 on the question whether the west wind in Europe is moist because 
 it has crossed the Atlantic Ocean. Physical geography was a 
@@ -30875,12 +30090,6 @@ accepted the view that it is synthetic, but nevertheless maintained
 that it is known a priori. He maintained that arithmetic ancf 
 geometry are synthetic, but are likewise a priori. He was thus led 
 to formulate his problem in these terms: 
-
-733 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 How are synthetic judgments a priori possible? 
 
@@ -30978,13 +30187,6 @@ and the physico-theological proof.
 The ontological proof, as he sets It forth, defines God as the en? 
 reatimmum, the most real being; i.e. the subject of all predicates 
 that belong to being absolutely. It is contended, by thoae who 
-
-735 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 believe the proof valid, that, since "existence" is such a predicate, 
 this subject must have the predicate "existence/ 1 i.e. must exist. 
 Kant objects that existence is not a predicate. A hundred dialers 
@@ -31172,13 +30374,6 @@ To prove that space and time are a priori forms, Kant has two
 classes of arguments, one metaphysfcal, the other epistemological v 
 or, as he calls it, transcendental. The former class of arguments 
 are taken directly from the nature of space and time, the latter 
-
-739 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 indirectly from the possibility of pure mathematics. The arguments about space are given more fully than those about time, 
 because it is thought that the latter are essentially the same as the 
 former. 
@@ -31277,13 +30472,6 @@ not otherwise.
 In regard to time this difficulty is even greater, because of the* 
 intrusion of causality. I perceive the lightning before I perceive 
 the thunder; a thing-in-itself A caused my perception of lightning, 
-
-74' 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 and another thing-in-itself B caused my perception of thunder, 
 but A was not earlier than B, since time exists only in the relations 
 of percepts. Why, then, do the two timeless things A and B produce effects at different times? This must be wholly arbitrary if 
@@ -31368,13 +30556,6 @@ of a visual percept B, we shall suppose that there is some corresponding relatio
 We have, on this view, two sj&ces, one subjective and on* 
 objective, one known in experience and the other merely inferred. 
 But there is no difference in this respect between space and other 
-
-743 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 aspects of perception, such as colors and sounds. All alike, in 
 their subjective forms, are known empirically; all alike, in their 
 objective forms, are inferred by means of a maxim as to causation. 
@@ -31523,13 +30704,6 @@ who, however, unfortunately became the victim of Voltaire's
 deadly ridicule. Frederick's endeavors, like those of the other 
 enlightened despots of the time, did not include economic or 
 political reform; all that was really achieved was a claque of 
-
-747 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 hired intellectuals. After his death, it was again in Western Germany that most of the men of culture were to be found. 
 
 German philosophy was more connected with Prussia than were 
@@ -31619,12 +30793,6 @@ it to morals, politics, and economics, that they have succeeded
 in pursuing in these sciences a road almost as sure as that of the 
 natural sciences." 
 
-74Q 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Condorcet much admires the American Revolution. "Simple 
 common sense taught the inhabitants of the British Colonies that 
 Englishmen born on the other side of the Atlantic Ocean had 
@@ -31708,13 +30876,6 @@ kinds. In practical politics it is important as an ally of nationalism.
 In tendency, if not always in fact, it is definitely hostile to what 
 is commonly called reason, and tends to be anti-scientific. Some* 
 of its most extreme forms are to be found among Russian anarchists, but in Russia it was the rationalist form of revolt that 
-
-751 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 finally prevailed. It was Germany, always more susceptible to 
 romanticism than any other country, that provided a governmental 
 outlet for the anti-rational philosophy of naked will. 
@@ -31794,13 +30955,6 @@ since it makes too emphatic a distinction between men and other
 animals. 
 
 There is, however, another aspect of liberalism which was greatly 
-
-753 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 strengthened by the doctrine of evolution, namely the belief in 
 progress. So long as the state of the world allowed optimism, 
 evolution was welcomed by liberals, both on this ground and 
@@ -31884,13 +31038,6 @@ even if not explicitly negated, they lose importance, and are retained only supe
 impossible to say how mankind will adapt itself to it. It has alreaUy 
 produced immense cataclysms, and will no doubt produce others 
 in the future. To frame a philosophy capable of coping with men 
-
-755 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 intoxicated with the prospect of almost unlimited power and also 
 with the apathy of the powerless is the most pressing task of our 
 time. 
@@ -31952,13 +31099,6 @@ on any detail, a general characterization may prove helpful.
 From his early interest in mystjcism he retained a belief in the 
 unreality of separateness; the world, in his view, was not a collection of hard units, whether atoms or souls, each completely 
 self-subsistent. The apparent self-subsistence of finite things 
-
-757 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 appeared to him to be an illusion; nothing, he held, is ultimately 
 and completely real except the whole. But he differed from 
 Parmenides and Spinoza in conceiving the whole, not as a simple 
@@ -32049,13 +31189,6 @@ a man may become an uncle without knowing it. In that case,
 from an empirical point of view, the man is unaffected by becoming 
 an uncle; he has no quality which he did not have before, if by 
 "quality" we understand something necessary to describing 1pm 
-
-759 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 as he is in himself, apart from his relations to other people and 
 things. The only way in which the subject-predicate logic can 
 avoid this difficulty is to say that the truth is not a property of the 
@@ -32136,21 +31269,15 @@ Objective Idea, is the notion of the Idea a notion whose object
 (Objekt) is Idea an Object which embraces all characteristics 
 in its unity." 
 
+1 The definition in German is; "Zfcr Begriff tier Idee, dem die Idee als 
+wlche der Gegcnstand, dem das Objekt fif uf." Except in Hegel, Gcgenttand and Objekt are synonyms. 
+
 The original German is even more difficult. 1 The essence of the 
 matter is, however, somewhat less complicated than Hegel makes 
 it seem. The Absolute Idea is pure thought thinking about pure 
 thought. This is all that God does throughout the ages truly a 
 Professor's God. Hegel goes on to say: "This unity is consequently 
 the absolute and all truth, the Idea which thinks itself." 
-
-1 The definition in German is; "Zfcr Begriff tier Idee, dem die Idee als 
-wlche der Gegcnstand, dem das Objekt fif uf." Except in Hegel, Gcgenttand and Objekt are synonyms. 
-
-761 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 I come now to a singular feature of Hegel's philosophy, which 
 distinguishes it from the philosophy of Plato or Plotinus or 
@@ -32244,13 +31371,6 @@ main phases: The Orientals, the Greeks and Romans, and the
 Germans. "The history of the world is the discipline of the uncontrolled natural will, bringing it into obedience to a universal 
 principle and conferring subjective freedom. The East knew, and 
 to the present day knows, only that On* is free; the Greek an f d 
-
-763 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Roman world, that some are free; the German world knows that 
 All are free." One might have supposed that democracy would 
 be the appropriate form of government where all are free, but 
@@ -32342,13 +31462,6 @@ to think that everything important takes the form of war. If it
 were suggested to him that the attribution of America to world 
 history might be the development of a society without extreme 
 poverty, he would not be interested. On the contrary, he says 
-
-765 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 that, as yet, there is no real State in America, because a real State 
 requires a division of classes into rich and poor. 
 
@@ -32534,11 +31647,6 @@ This brings us to a question which is fundamental in judging
 Hegel's whole philosophy. Is there more reality, and is there more < 
 value, in a whole than in its parts? Hegel answers both questions 
 in the affirmative. The question of reality is metaphysical, the 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 question of value is ethical. They are commonly treated as if 
 they were scarcely distinguishable, but to my mind it is important to keep them apart. Let us begin with the metaphysical 
 question. 
@@ -32612,29 +31720,23 @@ State is a means, not an end. We are thus brought back from the
 ethical to the metaphysical question. The metaphysical question 
 itself, we shall find, is really a question of logic. 
 
-The question at issue is much wider than the truth or falsehood 
-of Hegel's philosophy; it is die question that divides the friends 
-of analysis from its enemies. Let us take an illustration. Suppose 
-I say "John is the father of James." Hegel, and all who believe 
-in what Marshal Smuts calls "holism," will say: "Before you can 
-understand this statement, you must know who John and James 
-are. Now to know who John is, is to know all his characteristics, 
-for apart from them he would not be distinguishable from any 
-one else. But all his characteristics involve other people tr things. 
-He is characterized by his relations to his parents, his wife, and 
-his children, by whether he is a good or a bad citizen, and by 
-the country to which he belongs. All these things you must know 
-before you can be said to know wljom the word 'John* refers to.. 
-Step by step, in your endeavor to say what you mean by the 
-word ' John,' you will be led to take account of the whole universe, 
-and your original statement will turn out to be telling you some-/ 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-thing about the universe, not about two separate people, John 
-and James." 
+The question at issue is much wider than the truth or falsehood of
+Hegel's philosophy; it is die question that divides the friends of
+analysis from its enemies. Let us take an illustration. Suppose I say
+"John is the father of James." Hegel, and all who believe in what
+Marshal Smuts calls "holism," will say: "Before you can understand
+this statement, you must know who John and James are. Now to know who
+John is, is to know all his characteristics, for apart from them he
+would not be distinguishable from any one else. But all his
+characteristics involve other people tr things.  He is characterized
+by his relations to his parents, his wife, and his children, by
+whether he is a good or a bad citizen, and by the country to which he
+belongs. All these things you must know before you can be said to know
+wljom the word 'John* refers to..  Step by step, in your endeavor to
+say what you mean by the word ' John,' you will be led to take account
+of the whole universe, and your original statement will turn out to be
+telling you something about the universe, not about two separate
+people, John and James."
 
 Now this is all very well, but it is open to an initial objection. 
 If the above argument were sound, how could knowledge ever 
@@ -32763,7 +31865,7 @@ from being one of the herd at school. At ten years old, after living
 in poverty, he suddenly found himself a Lord and the owner of 
 Newstead. His great-uncle the "wicked Lord," from whom he 
 inherited, had killed a man in a duel thirty-three years ago, and 
-bc*n ostracized by his neighbors ever since. The Byrons had 
+been ostracized by his neighbors ever since. The Byrons had 
 been a lawless family, and the Gordons, his mother's^nc^stors, 
 even more so. After the squalor of a back street in Aberdeen, the 
 boy naturally rejoiced in his title and his Abbey, and was willing 
@@ -32771,14 +31873,7 @@ to take on the character of his ancestors in gratitude for their
 lands. And if, in Decent years, their bellicosity had led them into 
 trouble, he learnt that in former centuries it had brought them 
 renown. One of his earliest poems "On Leaving Newstead Abbey," 
-relates his emotions at this time, which are of admiration for hi* 
-
-775 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
+relates his emotions at this time, which are of admiration for his 
 ancestors who fought in the Crusades, at Crecy, and at Marstor 
 Moor. He ends with the pious resolve: 
 
@@ -32873,12 +31968,6 @@ Titan at war with himself. Some'times, however, he portrays a
 sage not unlike Zarathustra the Corsair, in his dealings with his 
 followers, 
 
-777 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Still sways their souls with that commanding art 
 That dazzles, leads, yet chills the vulgar heart. 
 
@@ -32959,16 +32048,11 @@ but to Napoleon. And in this way nationalism, Satahisni, and
 hero-worship, the legacy of Byron, became part of the complex 
 soul of Germany. 
 
+1 Parlor Ht tart us, Book 11, chap. vi. 
+
 Byron is not gentle, but violent like a thunderstorm. What he 
 saya of Rousseau is applicable *o himself. Rousseau was, he 
 says 
-
-1 Parlor Ht tart us, Book 11, chap. vi. 
-779 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 He who threw 
 
@@ -33022,30 +32106,25 @@ IWlcnistic age; it is tired and valetudinarian, valuing peace more
 than victor)-, and quietism more than attempts at reform, which 
 he regards as inevitably futile. f 
 
-Both his parents belonged to prominent commercial families in 
-Danzig, where he was born. His father was a Voltairian, who regarded England as the land of liberty and intelligence. In common 
-with most of the leading citizens of Danzig, he hated the encroachments of Prussia on the independence of the free city, and was 
-indignant when it was annexed to Prussia in 179350 indignant 
-that he removed to Hamburg, at considerable pecuniary t loss. 
-Schopenhauer lived there with his father from 1793 to *797; then 
-he spent two years in Paris, at the end of which his father was 
-pleased to find that the boy had nearly forgotten German. In 1803 
-he was put in a boarding-school in England, where he hated the 
-cant and hypocrisy. Two years liter, to please his father, he* 
-became a clerk in a commercial house in Hamburg, but he loathed 
-the prospect of a business career, and longed for a literary and. 
-
-781 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-academic life. This was made possible by his father's death, probably by suicide; his mother was willing that he should abandon 
-commerce for school and university. It might be supposed that 
-he would, in consequence, have preferred her to his father, but 
-the exact opposite happened: he disliked his mother, and retained 
-an affectionate memory of his father. 
+Both his parents belonged to prominent commercial families in Danzig,
+where he was born. His father was a Voltairian, who regarded England
+as the land of liberty and intelligence. In common with most of the
+leading citizens of Danzig, he hated the encroachments of Prussia on
+the independence of the free city, and was indignant when it was
+annexed to Prussia in 179350 indignant that he removed to Hamburg, at
+considerable pecuniary t loss.  Schopenhauer lived there with his
+father from 1793 to 1797; then he spent two years in Paris, at the end
+of which his father was pleased to find that the boy had nearly
+forgotten German. In 1803 he was put in a boarding-school in England,
+where he hated the cant and hypocrisy. Two years liter, to please his
+father, he* became a clerk in a commercial house in Hamburg, but he
+loathed the prospect of a business career, and longed for a literary
+and academic life. This was made possible by his father's death,
+probably by suicide; his mother was willing that he should abandon
+commerce for school and university. It might be supposed that he
+would, in consequence, have preferred her to his father, but the exact
+opposite happened: he disliked his mother, and retained an
+affectionate memory of his father.
 
 Schopenhauer's mother was a lady of literary aspirations, who 
 
@@ -33140,13 +32219,6 @@ in which virtue would consist in conformity to the divine will.
 But at this point his pessimism leads to a different development. 
 The cosmic will is wicked; will, altogether, is wicked, or at any 
 rate is the source of all our endless suffering. Suffering is essential* 
-
-783 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 to all life, and is increased by every increase of knowledge. Will 
 has no fixed end, which if achieved would bring contentment. 
 Although death must conquer in the end, we pursue our futile 
@@ -33235,13 +32307,6 @@ moments were bound to be sadly frequent.
 Schopenhauer's gospel of resignation is not very consistent and 
 not very sincere. ,The mystics to whom he appeals believed in 
 contemplation; in the Beatific Vision the most profound kind pf 
-
-7S 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 knowledge was to be achieved, and this kind of knowledge was the 
 supreme good. Ever since Parmenides, the delusive knowledge 
 of appearance was contrasted with another kind of knowledge, 
@@ -33393,12 +32458,6 @@ have an ethic which aims at power and is deliberately anti-Christian, though Nie
 Borgia was to Machiavelli, Napoleon was to Nietzsche: a great 
 man defeated by petty opponents. 
 
-789 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 Nietzsche's criticism of religions and philosophies is dominated 
 entirely by ethical motives. He admires certain qualities which 
 he believes (perhaps rightly) to be only possible for an aristocratic 
@@ -33484,13 +32543,6 @@ of power and artUt-tyrants will 6e stamped upon thousands of
 years." 
 
 He is also not definitely anti-Semitic, though he thinks Germany 
-
-79* 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 contains as many Jews as it can assimilate, and ought not to permit 
 any further influx of Jews. He dislikes the New Testament, but 
 not the Old, of which he speaks in terms of the highest admiration. 
@@ -33667,15 +32719,7 @@ It must IK admitted that there is a certain type of Christian
 ethic to which Nietzsche's strictures can be justly applied. Pascal 
 and Dostocvsky hi* own illustrations have both something 
 abject in their virtue. Pascal sacrificed his magnificent mathematical intellect to his God, thereby attributing to Him a barbarity 
-which was a cosmic enlargement of Pascal's morbid mental tor* 
-
-795 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-tures. Dostoevsky would have nothing to do with "proper pride*'; 
+which was a cosmic enlargement of Pascal's morbid mental tortures. Dostoevsky would have nothing to do with "proper pride*'; 
 he would sin in order to repent and to enjoy the luxury of confession. I will not argue the question how far such aberrations can 
 justly be charged against Christianity, but I will admit that I agree 
 with Nietzsche in thinking Dostoevsky's prostration 'contemptible. 
@@ -33846,14 +32890,7 @@ Your ideal is a purely negative one, absence of suffering, which
 can be completely secured by non-existence. I, on the other hand? 
 have positive ideals: I admire Alcibiades, and the Emperor 
 Frederick II, and Napoleon. For the sake of such men, any misery, 
-
-799 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-13 worth while. I appeal to You, Lord, as the greatest of creative 
+is worth while. I appeal to You, Lord, as the greatest of creative 
 artists, do not let Your artistic impulses be curbed by the degenerate fear-ridden maunderings of this wretched psychopath." 
 
 Buddha, who in the courts of Heaven has learnt all history since 
@@ -34122,13 +33159,6 @@ the one hand, a belief in equality, deduced from the calculus of
 pleasures and pains; on the other hand, an inflexible determination 
 to submit everything to the arbitrament of reason as he understood it. His love of equality early led him to advocate equal 
 division of a man's property among his children, and to oppose 
-
-803 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 testamentary freedom. In later years it led him to oppose monarchy 
 and hereditary aristocracy, and to advocate complete democracy, 
 including votes for women. His refusal to believe without rational 
@@ -34213,11 +33243,6 @@ institutions, and his optimism was therefore perhaps excusable,
 but in our more disillusioned age it seems somewhat naive. 
 
 John Stuart Mill, in his Utilitarianism* offers an argument 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 which is so fallacious that it is hard to understand how he can 
 have thought it valid. He says: Pleasure is the only thing desired; 
 therefore pleasure is the only thing desirable. He argues that the 
@@ -34310,11 +33335,6 @@ only to facts as opposed to desires. ft
 The Philosophical Radicals were a transitional school. Their 
 system gave birth to two others, of more importance than itself, 
 namely Darwinism and Socialism. Darwinism was an application 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 to the whole of animal and vegetable life of Malthus's theory of 
 population, which was an integral part of the politics and economics of the Benthamites a global free competition, in which 
 victory went to the animals that most resembled successful 
@@ -34482,13 +33502,6 @@ he says. "The truth, i.e. the reality and power, of thought must
 be demonstrated in practice. t The contest as to the realky 
 or non-reality of a thought which is isolated from practice, 
 is a purely scholastic question. . . . Philosophers have only 
-
-8xi 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 interpreted the world in various ways, but the real task is to 
 alter it." 1 
 
@@ -34577,13 +33590,6 @@ to do with power, of which wealth is only one form. Second,
 social causation largely ceases to* apply as soon as a problem 
 becomes detailed and technical. The first of these objections I 
 have set forth to my book Power, and I shall therefore say no, 
-
-813 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 more about it. The second more intimately concerns the history 
 of philosophy, and I will give some examples of its scope. 
 
@@ -34670,11 +33676,6 @@ by Hegelian dialectic, but in fact there was only one triad that
 concerned him: feudalism, represented by the landowner; 
 capitalism, represented by the industrial employer; and Socialism, 
 represented by the wage-earner. Hegel thought of nations as the 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 vehicles of dialectic movement; Marx substituted classes. He disclaimed always all ethical or humanitarian reasons for preferring 
 Socialism or taking the side of the wage-earner; he maintained, 
 not that this side was ethically better, but that it was the side 
@@ -34927,13 +33928,6 @@ think evolution, but to represent becoming as a series of states. "The
 intellect is characterized by a natuqil inability to understand life"< 
 geometry and logic, which are its typical products, are strictly 
 applicable to solid bodies, but elsewhere reasoning must be checked 
-
-821 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 by common sense, which, as Bergson truly says, is a very different 
 thing. Solid bodies, it would seem, are something which mind has 
 created on purpose to apply intellect to them, much as it has 
@@ -35014,13 +34008,6 @@ essence of life is what he calls duration. This conception of duration
 is fundamental in his philosophy t it appears already in his earliest 
 book Tune and Free Will, and it is necessary to understand it if 
 we art to have any comprehension of his system. It is, however 
-
-3 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 a very difficult conception. I do not fully understand it myself, and 
 therefore I cannot hope to explain it with all the lucidity which it 
 doubtless deserves. 
@@ -35105,13 +34092,6 @@ opposed to intellect. It was necessary first to give some account
 of duration and memory, since tfergson's theories of duration and 
 memory are presupposed in his account of intuition. In man, as 
 he how exists, intuition is the fringe or penumbra of intellect: 
-
-825 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 it his been thrust out of the center by being tow useful in action 
 than intellect, but it has deeper uses which make it desirable to 
 bring it back into greater prominence. Bergson wishes to make 
@@ -35190,11 +34170,6 @@ single point the obstacle has bcen t forced, the impulsion has passed
 freely." Then there is the great climax in which life is compared 
 to a cavalry charge. "All organized beings, from the humblest to 
 the highest, from the first origins of life to the time in which wt 
-
-
-
-WESTERN PHILOSOFHICAt THOUdHt 
-
 are, and in ill places ss in til times, do but evidence a single 
 impulsion, the inverse of the movement of milter, and in itself 
 indivisible. All the living hold together, and all yield to the same 
@@ -35202,7 +34177,7 @@ tremendous push. The animal takes its stand on the plant, man
 bestrides animality, and the whole of humanity, intpfce and in 
 time, is one immense army galloping beside and before and behind 
 each of us in an overwhelming charge able to beat down every 
-resistance and to clear many obstacles, perhaps even death/* 
+resistance and to clear many obstacles, perhaps even death." 
 
 But a cool critic, who feels himself a mere spectator, perhaps 
 an unsympathetic spectator, of the charge in which man is mounted 
@@ -35212,7 +34187,7 @@ is told that thought i* a mere means of action, the mere impuUc
 to avoid obstacles in the field, he may feel that such a view w 
 becoming in a cavalry officer, hut not in a philosopher, whose 
 business, after all, is with thought: he may fcrl that in the paatton 
-and noise of violent motion there is no nxm for the fainter rou*c 
+and noise of violent motion there is no nxm for the fainter rouc 
 of reason, no leisure for the diaintcrrstrd contemplation in which 
 greatness is sought, not by turbulence, but by the grratne* of 
 the universe which is mirrored. In that oue, he nuy he tempted 
@@ -35281,13 +34256,6 @@ definition it ought to be. The number 12, obviously, is something
 which all these collections have ifl common, but which they do 
 not have in common with other collections, such as cricket elevens. 
 Hence the number 12 is neither a collection of twelve terms, nor ' 
-
-8*9 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 fallacies and confusions, to support them in their attempt to prove 
 all mathematics self-contradictory. Thence the Hegelian account 
 of these matters passed into the current thought of philosophers, 
@@ -35373,13 +34341,6 @@ ever anywhere. After stating Zeno's argument, he replies: "Yes,
 if we suppose that the arrow can ever be in a point of its course. 
 Yes, again, if the arrow, which is moving, ever coincides with 
 a position, which is motionless. But the arrow never is in any 
-
-2D 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 point of its course." This reply to Zeno, or a closely similar one 
 concerning Achilles and the Tortoise, occurs in all his three books. 
 Bergson's view, plainly, is paradoxical; whether it is possible, is 
@@ -35463,13 +34424,6 @@ not mistaken, vitiates a great deal of his thought, and indeed a
 great deal of the thought of moat modern philosophers I mean 
 the confusion between an act of knowing and that which is known. 
 In memory, the act of knowing is in the present, whereas what i\ 
-
-135 
-
-
-
-WESTERN ruiLoaomrcAt THOUGHT 
-
 known is in the past; thus by coofuafaf them the ditdnction 
 between past and present is blumd. 
 
@@ -35564,11 +34518,6 @@ theories of space and time, then Jys belief in real contingency, then
 his condemnation of intellect, and finally his account of the relations of mind and matter. ^ 
 
 Of course a large pan of Bergson's philosophy, probably the 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 part to which most of its popularity is due, does not depend upon 
 argument, and cannot be upset by argument. His imaginative 
 picture of the world, regarded as a poetic effort, is in the main not 
@@ -35635,11 +34584,6 @@ should believe them, and himself appreciated what he regarded
 as the Christian myth. To James, such an attitude could not but 
 appear immoral. He retained frtrni his Puritan ancestry a deepseated belief that what is of most importance is good conduct, and 
 his democratic feeling made him unable to acquiesce in the notion 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 of one truth for philosophers and another for the vulgar. The 
 temperamental opposition between Protestant and Catholic persists among the unorthodox; Santayana was a Catholic free thinker, 
 William James a Protestant, however heretical. 
@@ -35728,11 +34672,6 @@ The burnt child fears the fire, even if he has no recollection of
 the occasion on which he was bflrnt. I think we may say that*an 
 event is "experienced" when it sets up a habit. (Memory is one 
 kind of habit.) Broadly speaking, habits are only set up in living 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 organisms. A burnt poker does not fear the fire, however often 
 it is made red-hot. On common-sense grounds, therefore, we shall 
 say that "experience" is not coextensive with the "stuff" of the 
@@ -35824,13 +34763,6 @@ plain common sense, and in harmony with the procedure in the
 law courts, but it is quite difljprcnt from the procedure recommended by James. 
 
 It would be unfair to James to consider his will to believe in 
-
-,843 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 isolation; it was a transitional doctrine, leading by a natural 
 development to pragmatism. Pragmatism, as it appears in James, 
 is primarily a new definition of "truth." There were two other 
@@ -35920,13 +34852,6 @@ Claus exists" is true, although Santa Claus does not exist. James
 says (I repeat): "If the hypothesis of God works satisfactorily in 
 the widest sense of the word, it is true." This simply omits as 
 unimportant the question whether God really is in His heaven; 
-
-45 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 if He is a useful hypothesis, that is enough. God the Architect 
 of the Cosmos is forgotten; all that is remembered is belief in 
 God, and its effects upon the creatures inhabiting our petty planet. 
@@ -35996,11 +34921,6 @@ writings. He has continued to wnte on education throughout his
 life, almost as much as on philosophy. 
 
 Other social and political questions have also had a large share 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 of his thought. Like myself, he was much influenced by visits to 
 Russia and China, negatively in the first case, positively in the 
 second. He was reluctantly a supporter of the first World War. 
@@ -36081,11 +35001,6 @@ been at the bottom, but in fact was not suitable. This failure, of
 adjustment constituted error, did one may say that you were 
 entertaining a false belief. 
 The test of error in the above illustration is ntrprist. I think thiS 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 is true generally of beliefs that can be tested. A false belief is one 
 which, in suitable circumstances, will cause the person entertaining it to experience surprise, while a true belief will not have 
 this effect. But although surprise is a good criterion when it is 
@@ -36172,13 +35087,6 @@ only be justified by a Hegelian distinction of appearance and reality:
 the appearance may be confused and fragmentary, but the nftlhy 
 is always orderly and organic. Therefore when I arrange the cards 
 I am only revealing their true eternal nature. But this part of the 
-
-851 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 doctrine is never made explicit. The mctaphysic of organism underlies Dewey's theories, but I do not know how far he is aware of 
 this fact. 
 
@@ -36261,13 +35169,6 @@ and that his view will not seem contrary to what common sen*
 is becoming. 
 
 The main difference between Dr. Dewey and me is that he 
-
-853 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 judges a belief by its effects, whereas I judge it by its causes where 
 a past occurrence is concerned. I consider such a belief "true"
 or as nearly "true" as we can make it, if it has a certain kind of 
@@ -36346,12 +35247,6 @@ Counter-Reformation. But modern technique, while not altoget^fr
 favorable to the lordly individuat of the Renaissance, has revived 
 the sense of the collective power of human communities. Man, 
 formerly too humble, begins to think of himself as almost a God.' 
-
-$55 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
 
 The Italian pragmatist Papini urges us to substitute the "Imitation of God" for the "Imitation of Christ."
 
@@ -36500,12 +35395,6 @@ The first part of this, before the word "moreover," is defined
 as meaning: "The author of Waverley exists (or existed or will 
 exist)." Thus "The golden mountain does not exist" means: 
 
-$59 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 "There is no entity c such that '* is golden and mountainous' 
 is true when * is c, but not otherwise."
 
@@ -36588,13 +35477,6 @@ simplification in our picture of thfe structure of the world.
 
 Modern physics and physiology throw a new light upon the 
 ancient problem of perception. If there is to be anything that can 
-
-*6i 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 be called "perception/ 9 it must be in some degree an effect of the 
 object perceived, and it must more or less resemble the object if 
 it is to be a source of knowledge of the object. The first requisite 
@@ -36679,13 +35561,6 @@ heaven-sent intuitions. *
 
 All this is rejected by the philosophers who make logical analysis 
 the main business of philosophy. They confess frankly that the* 
-
-J6 3 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 human intellect is unable to find conclusive answers to many questions of profound importance to mankind, but they refuse to 
 believe that there is some "higher" way of knowing, by which we 
 can discover truths hidden from science and the intellect. For this 
