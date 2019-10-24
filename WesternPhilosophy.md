@@ -14528,19 +14528,23 @@ expectation being both present facts. There are, he says, three times:
 "a present of things past, a present of things present, and a present
 of things future." "The present of things past is memory; the present
 of things present is sight; and the present of things future is
-expectation." 1 To say that there are three times, past, present, and
+expectation."[^186] To say that there are three times, past, present, and
 future, is a loose way of speaking.
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n370)
+[^186]: _Confessions_, Book XI, chap. xx. 
 
-He realizes that he has not really solved all difficulties by this 
-theory. "My soul yearns to know this most entangled enigma," he 
-says, and he prays to God to enlighten him, assuring Him that 
-his interest in the problem does not arise from vain curiosity. "I 
-confess to Thee, O Lord, that I am as yet ignorant what time is." 
-But the gist of the solution he suggests is that time is subjective: 
-time is in the human mind, which expects, considers, and remembers. 2 It follows that there can be no time without a created being, 9 
-and that to speak of time before the Creation is meaningless. 
+He realizes that he has not really solved all difficulties by this
+theory. "My soul yearns to know this most entangled enigma," he says,
+and he prays to God to enlighten him, assuring Him that his interest
+in the problem does not arise from vain curiosity. "I confess to Thee,
+O Lord, that I am as yet ignorant what time is."  But the gist of the
+solution he suggests is that time is subjective: time is in the human
+mind, which expects, considers, and remembers.[^187] It follows that
+there can be no time without a created being,[^188] and that to speak
+of time before the Creation is meaningless.
+
+[^187]: _Confessions_, Book XI, chap. xxviii. 
+[^188]: _Confessions_, Book XI, chap. xxx. 
 
 I do not myself agree with this theory, in so far as it makes time 
 something mental. But it is clearly a very able theory, deserving 
@@ -14550,52 +14554,42 @@ philosophy. It contains a better and clearer statement than Kant's
 of the subjective theory of time a theory which, since Kant, has 
 been widely accepted among philosophers. 
 
-The theory that time is only an aspect of our thoughts is one of 
-the most extreme forms of that subjectivism which, as we have 
-seen, gradually increased in antiquity from the time of Protagoras 
-and Socrates onwards. Its emotional aspect is obsession with sin, 
-which came later than its intellectual aspects. St. Augustine 
-exhibits both kinds of subjectivism. Subjectivism led him to 
-anticipate not only Kant's theory of time, but Descartes' cogito. 
-In his Soliloquia he says: "You, who wish to know, do you know 
-you are? I know it. Whence are you? I know not. Do you feel 
-yourself single or multiple? I know not. Do you feel yourself 
-moved? I know not. Do you know that you think? I do." This 
-contains not only Descartes' cogito, but his reply to Ga&sendi's 
-ambulo ergo sum. As a philosopher, therefore, Augustine deserves 
-a high placl. 
+The theory that time is only an aspect of our thoughts is one of the
+most extreme forms of that subjectivism which, as we have seen,
+gradually increased in antiquity from the time of Protagoras and
+Socrates onwards. Its emotional aspect is obsession with sin, which
+came later than its intellectual aspects. St. Augustine exhibits both
+kinds of subjectivism. Subjectivism led him to anticipate not only
+Kant's theory of time, but Descartes' cogito.  In his Soliloquia he
+says: "You, who wish to know, do you know you are? I know it. Whence
+are you? I know not. Do you feel yourself single or multiple? I know
+not. Do you feel yourself moved? I know not. Do you know that you
+think? I do." This contains not only Descartes' _cogito_, but his reply
+to Gassendi's _ambulo ergo sum_. As a philosopher, therefore, Augustine
+deserves a high place.
 
-II. THE CITY OF GOD 
+### THE CITY OF GOD 
 
-When, tn 410, Rome was sacked by the Goths, the pagans, not 
-unnaturally, attributed the disaster to the abandonment of the 
+When, in 410, Rome was sacked by the Goths, the pagans, not
+unnaturally, attributed the disaster to the abandonment of the ancient
+gods. So long as Jupiter was worshipped, they said, Rome remained
+powerful; now that the Emperors have turned away from him, he no
+longer protects his Romans. This pagan argument called for an
+answer. _The City of God_, written gradually between 412 and 427, was
+St. Augustine's answer; but it took, as it proceeded, a far wider
+flight, and developed a complete Christian scheme of history, past,
+present, and future. It was an immensely influential book throughout
+the Middle Ages, especially in the struggles of the Church with
+secular princes.
 
-1 Confessions, Book XI, chap. xx. 
-
-1 Ibid., chap, xxvtit. * ibid., chap. xxx. 
-
-374 
-
-
-
-ST. AUGUSTINE'S PHILOSOPHY AND THEOLOGY 
-
-ancient gods. So long as Jupiter was worshipped, they said, Rome 
-remained powerful; now that the Emperors have turned away 
-from him, he no longer protects his Romans. This pagan argument 
-called for an answer. The City of God, written gradually between 
-412 and 427, was St. Augustine's answer; but it took, as it proceeded, a far wider flight, and developed a complete Christian 
-scheme of history, past, present, and future. It was an immensely 
-influential book throughout the Middle Ages, especially in the 
-struggles of the Church with secular princes. 
-
-Like some other very great books, it composes itself, in the 
-memory of those who have read it, into something better than at 
-first appears on re-reading. It contains a great deal that hardly 
-anyone at the present day can accept, and its central thesis is somewhat obscured by excrescences belonging to his age. But the broad 
-conception of a contrast between the City of this world and the 
-City of God has remained an inspiration to many, and even now 
-can be restated in non-theological terms. 
+Like some other very great books, it composes itself, in the memory of
+those who have read it, into something better than at first appears on
+re-reading. It contains a great deal that hardly anyone at the present
+day can accept, and its central thesis is somewhat obscured by
+excrescences belonging to his age. But the broad conception of a
+contrast between the City of this world and the City of God has
+remained an inspiration to many, and even now can be restated in
+non-theological terms.
 
 To omit detail in an account of the book, and concentrate on the 
 central idea, would give an unduly favorable view; on the other 
@@ -14616,63 +14610,62 @@ temples in conquered cities; in this respect, the sack of Rome
 was milder than most, and the mitigation was a result of 
 Christianity. 
 
-Christians who suffered the sack have no right to complain, for 
-several reasons. Some wicked Goths may have prospered at their 
-expense, but they will suffer hereafter: if all sin were punished on 
-earth, there would be no need of the Last Judgment. What Christians endured would, if they were virtuous, turn to their edification, 
-for saints, in the loss of things temporal, lose nothing of any value. It does not matter if their bodies lie unburied, because ravenous 
-beasts cannot interfere with the resurrection of the body. 
+Christians who suffered the sack have no right to complain, for
+several reasons. Some wicked Goths may have prospered at their
+expense, but they will suffer hereafter: if all sin were punished on
+earth, there would be no need of the Last Judgment. What Christians
+endured would, if they were virtuous, turn to their edification, for
+saints, in the loss of things temporal, lose nothing of any value. It
+does not matter if their bodies lie unburied, because ravenous beasts
+cannot interfere with the resurrection of the body.
 
-Next comes the question of pious virgins who were raped during 
-the sack. There were apparently some who held that these ladies, 
-by no fault of their own, had lost the crown of virginity. This view 
-the Saint very sensibly opposes. "Tush, another's lust cannot 
-pollute thee." Chastity is a virtue of the mind, and is not lost by 
-rape, but is lost by the intention of sin, even if unperformed. It 
-is suggested that God permitted rapes because the victims had 
-been too proud of their continence. It is wicked to commit suicide 
-in order to avoid being raped; this leads to a long discussion of 
-Lucretia, who ought not to have killed herself, because suicide is 
-always a sin. 
+Next comes the question of pious virgins who were raped during the
+sack. There were apparently some who held that these ladies, by no
+fault of their own, had lost the crown of virginity. This view the
+Saint very sensibly opposes. "Tush, another's lust cannot pollute
+thee." Chastity is a virtue of the mind, and is not lost by rape, but
+is lost by the intention of sin, even if unperformed. It is suggested
+that God permitted rapes because the victims had been too proud of
+their continence. It is wicked to commit suicide in order to avoid
+being raped; this leads to a long discussion of Lucretia, who ought
+not to have killed herself, because suicide is always a sin.
 
-There is one proviso to the exculpation of virtuous women who 
-are raped: they must not enjoy it. If they do, they are sinful. 
+There is one proviso to the exculpation of virtuous women who are
+raped: they must not enjoy it. If they do, they are sinful.
 
-He comes next to the wickedness of the heathen gods. For 
-example: "Your stage-plays, those spectacles of uncleanness, 
-those licentious vanities, were not first brought up at Rome by 
-the corruptions of men, but by the direct command of your 
-gods," 1 It would be better to worship a virtuous man, such as 
-Scipio, than these immoral gods. But as for the sack of Rome, it 
-need not trouble Christians, who have a sanctuary in the "pilgrim 
-city of God." 
+He comes next to the wickedness of the heathen gods. For example:
+"Your stage-plays, those spectacles of uncleanness, those licentious
+vanities, were not first brought up at Rome by the corruptions of men,
+but by the direct command of your gods,"[^189] It would be better to
+worship a virtuous man, such as Scipio, than these immoral gods. But
+as for the sack of Rome, it need not trouble Christians, who have a
+sanctuary in the "pilgrim city of God."
 
-In this world, the two cities the earthly and the heavenly are 
-commingled; but hereafter the predestinate and the reprobate will 
-be separated. In this life, we cannot know who, even among our 
-seeming enemies, are to be found ultimately among the elect. 
+[^189]: _The City of God_, I, 31.
 
-The most difficult part of the work, we are told, will consist in 
-the refutation of the philosophers, with the best of whom Christians are to a large extent in agreement for instance as to immortality and the creation of the world by God. 2 
+In this world, the two cities the earthly and the heavenly are
+commingled; but hereafter the predestinate and the reprobate will be
+separated. In this life, we cannot know who, even among our seeming
+enemies, are to be found ultimately among the elect.
 
-The philosophers did not throw over the worship of the heathen 
-gods, and their moral instructions were weak because the gods 
-were wicked. It is not suggested that the gods are mere fables; 
-they are held by St. Augustine to exist, but to be devils. They 
-liked to have filthy stories told of them, because they wanted to 
-injure men. Jupiter's deeds count more, with most pagans, than 
-Plato's doctrines or Cato's opinions. "Plato, who would not allow 
-poets to dwell in a well-governed city, showed that his sole worth 
+The most difficult part of the work, we are told, will consist in the
+refutation of the philosophers, with the best of whom Christians are
+to a large extent in agreement for instance as to immortality and the
+creation of the world by God.[^190]
 
-1 The City of God, I, 31. lbid. t I, 35 
+[^190]: _The City of God_, I, 35.
 
-376 
+The philosophers did not throw over the worship of the heathen gods,
+and their moral instructions were weak because the gods were
+wicked. It is not suggested that the gods are mere fables; they are
+held by St. Augustine to exist, but to be devils. They liked to have
+filthy stories told of them, because they wanted to injure
+men. Jupiter's deeds count more, with most pagans, than Plato's
+doctrines or Cato's opinions. "Plato, who would not allow poets to
+dwell in a well-governed city, showed that his sole worth was better
+than those gods, that desire to be honored with stage plays."[^191]
 
-
-
-ST. AUGUSTINE'S PHILOSOPHY AND THEOLOGY 
-
-was better than those gods, that desire to be honored with stage plays." 1 
+[^191]: _The City of God_, II, 14.
 
 Rome was always wicked, from the rape of the Sabine women 
 onwards. Many chapters are devoted to the sinfulness of Roman 
@@ -14680,33 +14673,37 @@ imperialism. Nor is it true that Rome did not suffer before the
 State became Christian; from the Gauls and the civil wars it 
 suffered as much as from the Goths, and more. 
 
-Astrology is not only wicked, but false; this may be proved from 
-the different fortunes of twins, who have the same horoscope. 9 
-The Stoic conception of Fate (which was connected with astrology) 
-is mistaken, since angels and men have free will. It is true that 
-God has foreknowledge of our sins, but we do not sin because of 
-His foreknowledge. It is a mistake to suppose that virtue brings 
-unhappiness, even in this world: Christian emperors, if virtuous, 
-have been happy even if not fortunate, and Constantine and 
-Theodosius were fortunate as well; again, the Jewish kingdom 
-lasted as long as the Jews adhered to the truth of religion. 
+Astrology is not only wicked, but false; this may be proved from the
+different fortunes of twins, who have the same horoscope.[^192] The
+Stoic conception of Fate (which was connected with astrology) is
+mistaken, since angels and men have free will. It is true that God has
+foreknowledge of our sins, but we do not sin because of His
+foreknowledge. It is a mistake to suppose that virtue brings
+unhappiness, even in this world: Christian emperors, if virtuous, have
+been happy even if not fortunate, and Constantine and Theodosius were
+fortunate as well; again, the Jewish kingdom lasted as long as the
+Jews adhered to the truth of religion.
 
-There is a very sympathetic account of Plato, whom he places 
-above all other philosophers. All others are to give place to him: 
-"Let Thales depart with his water, Anaximenes with the air, the 
-Stoics with their fire, Epicurus with his atoms." 8 All these were 
-materialists; Plato was not. Plato saw that God is not any bodily 
-thing, but that all things have their being from God, and from 
-something immutable. He was right, also, in saying that perception 
-is not the source of truth. Platonists are the best in logic and 
-ethics, and nearest to Christianity. "It is said that Plotinus, that 
-lived but lately, understood Plato the best of any. 1 ' As for Aristotle, 
-he was Plato's inferior, but far above the rest. Both, however, said 
-that all gods are good, and to be worshipped. 
+[^192]: This argument is not original: it is derived from the academic skeptic Carneades. Cf. Curnont, _Oriental Religions in Roman Paganism_, p. 166. 
+
+There is a very sympathetic account of Plato, whom he places above all
+other philosophers. All others are to give place to him: "Let Thales
+depart with his water, Anaximenes with the air, the Stoics with their
+fire, Epicurus with his atoms."[^193] All these were materialists;
+Plato was not. Plato saw that God is not any bodily thing, but that
+all things have their being from God, and from something immutable. He
+was right, also, in saying that perception is not the source of
+truth. Platonists are the best in logic and ethics, and nearest to
+Christianity. "It is said that Plotinus, that lived but lately,
+understood Plato the best of any." As for Aristotle, he was Plato's
+inferior, but far above the rest. Both, however, said that all gods
+are good, and to be worshipped.
+
+[^193]: _The City of God_, VIII, 5. 
 
 As against the Stoics, who condemned all passion, St. Augustine 
 holds that the passions of Christians may be causes of virtue; 
-anger, or pity, is not to be condemned per s* , but we must inquire 
+anger, or pity, is not to be condemned _per se_, but we must inquire 
 into its cause. 
 
 Platonists are right about God, wrong about gods. They are also 
@@ -14718,236 +14715,216 @@ always bad. To angels, knowledge of temporal things (though they have
 it) is vile. St. Augustine holds with Plato that the sensible world is
 inferior to the eternal.
 
-1 Tfie City of God, II, 14. 
 
-1 This argument is not original: it is derived from the academic skeptic 
-Carncades. Cf. Curnont, Oriental Religions in Roman Paganism, p. 166. 
-* The City of God, VIII, 5. 
+Book XI begins the account of the nature of the City of God.  The City
+of God is the society of the elect. Knowledge of God is obtained only
+through Christ. There are things that can be discovered by reason (as
+in the philosophers), but for all further religious knowledge we must
+rely on the Scriptures. We ought not to seek to understand time and
+space before the world was made: there was no time before the
+Creation, and there is no place where the world is not.
 
-Book XI begins the account of the nature of the City of God. 
-The City of God is the society of the elect. Knowledge of God is 
-obtained only through Christ. There are things that can be discovered by reason (as in the philosophers), but for all further 
-religious knowledge we must rely on the Scriptures. We ought 
-not to seek to understand time and space before the world was 
-made: there was no time before the Creation, and there is no 
-place where the world is not. 
+Everything blessed is eternal, but not everything eternal is blessed
+e.g. hell and Satan. God foreknew the sins of devils, but also their
+use in improving the universe as a whole, which is analogous to
+antithesis in rhetoric.
 
-Everything blessed is eternal, but not everything eternal is 
-blessed e.g. hell and Satan. God foreknew the sins of devils, but 
-also their use in improving the universe as a whole, which is 
-analogous to antithesis in rhetoric. 
+Origen errs in thinking that souls were given bodies as a
+punishment. If this were so, bad souls would have bad bodies; but
+devils, even the worst of them, have airy bodies, which are better
+than ours.
 
-Origen errs in thinking that souls were given bodies as a punishment. If this were so, bad souls would have bad bodies; but devils, 
-even the worst of them, have airy bodies, which are better 
-than ours. 
+The reason the world was created in six days is that six is a perfect
+number (i.e. equal to the sum of its factors).
 
-The reason the world was created in six days is that six is a 
-perfect number (i.e. equal to the sum of its factors). 
-
-There are good and bad angels, but even the bad angels do not 
-have an essence which is contrary to God. God's enemies are not 
-so by nature, but by mil. The vicious will has no efficient cause, 
-but only a deficient one; it is not an effect, but a defect. 
+There are good and bad angels, but even the bad angels do not have an
+essence which is contrary to God. God's enemies are not so by nature,
+but by mil. The vicious will has no efficient cause, but only a
+deficient one; it is not an effect, but a defect.
 
 The world is less than six thousand years old. History is not 
 cyclic, as some philosophers suppose: "Christ died once for our 
-sins." 1 
+sins."[^194]
 
-If our first parents had not sinned, they would not have died, 
-but, because they sinned, all their posterity die. Eating the apple 
-brought not only natural death, but eternal death, i.e. damnation. 
+[^194]: Romans vi: I Thessalonians iv.
 
-Porphyry is wrong in refusing bodies to saints in heaven. They 
-will have better bodies than Adam's before the fall; their bodies 
-will be spiritual, but not spirits, and will not have weight. Men 
-will have male bodies, and women female bodies, and those who 
-have died in infancy will rise again with adult bodies. 
+If our first parents had not sinned, they would not have died, but,
+because they sinned, all their posterity die. Eating the apple brought
+not only natural death, but eternal death, i.e. damnation.
+
+Porphyry is wrong in refusing bodies to saints in heaven. They will
+have better bodies than Adam's before the fall; their bodies will be
+spiritual, but not spirits, and will not have weight. Men will have
+male bodies, and women female bodies, and those who have died in
+infancy will rise again with adult bodies.
 
 Adam's sin would have brought all mankind to eternal death 
 (i.e. damnation), but that God's grace has freed many from it. 
 
-vi: I TheMtkmiant iv. 
+Sin came from the soul, not from the flesh. Platonists and Manichseans
+both err in ascribing sin to the nature of the flesh, though
+Platonists are not so bad as Manichaeans. The punishment of all
+mankind for Adam's sin was just; for, as a result of this sin, man,
+that might have been spiritual in body, became carnal in mind.[^195]
 
-378 
+[^195]: _The City of God_, XIV, 15. 
 
+This leads to a long and minute discussion of sexual lust, to which we
+are subject as part of our punishment for Adam's sin.  This discussion
+is very important as revealing the psychology of asceticism; we must
+therefore go into it, although the Saint confesses that the theme is
+immodest. The theory advanced is as follows.
 
+It must be admitted that sexual intercourse in marriage is not sinful,
+provided the intention is to beget offspring. Yet even in marriage a
+virtuous man will wish that he could manage without lust. Even in
+marriage, as the desire for privacy shows, people are ashamed of
+sexual intercourse, because "this lawful act of nature is (from our
+first parents) accompanied with our penal shame."  The cynics thought
+that one should be without shame, and Diogenes would have none of it,
+wishing to be in all things like a dog; yet even he, after one
+attempt, abandoned, in practice, this extreme of shamelessness. What
+is shameful about lust is its independence of the will. Adam and Eve,
+before the fall, could have had sexual intercourse without lust,
+though in fact they did not. Handicraftsmen, in the pursuit of their
+trade, move their hands without lust; similarly Adam, if only he had
+kept away from the apple-tree, could have performed the business of
+sex without the emotions that it now demands. The sexual members, like
+the rest of the body, would have obeyed the will. The need of lust in
+sexual intercourse is a punishment for Adam's sin, but for which sex
+might have been divorced from pleasure. Omitting some physiological
+details which the translator has very properly left in the decent
+obscurity of the original Latin, the above is St. Augustine's theory
+as regards sex.
 
-ST. AUGUSTINE'S PHILOSOPHY AND THEOLOGY 
+It is evident from the above that what makes the ascetic dislike sex
+is its independence of the will. Virtue, it is held, demands a
+complete control of the will over the body, but such control does not
+suffice to make the sexual act possible. The sexual act, therefore,
+seems inconsistent with a perfectly virtuous life.
 
-Sin came from the soul, not from the flesh. Platonists and 
-Manichseans both err in ascribing sin to the nature of the flesh, 
-though Platonists are not so bad as Manichaeans. The punishment 
-of all mankind for Adam's sin was just; for, as a result of this 
-sin, man, that might have been spiritual in body, became carnal 
-in mind. 1 
+Ever since the Fall, the world has been divided into two cities, of
+which one shall reign eternally with God, the other shall be in
+eternal torment with Satan. Cain belongs to the city of the Devil,
+Abel to the City of God. Abel, by grace, and in virtue of
+predestination, was a pilgrim on earth and a citizen of heaven. The
+patriarchs belonged to the City of God. Discussion of the death of
+Methuselah brings St. Augustine to the vexed question of the
+comparison of the Septuagint with the Vulgate. The data, as given in
+the Septuagint, lead to the conclusion that Methuselah survived the
+flood by fourteen years, which is impossible, since he was not in the
+Ark. The Vulgate, following the Hebrew manuscripts, gives data from
+which it follows that he died in the year of the flood. On this point,
+St. Augustine holds that St. Jerome and the Hebrew manuscripts must be
+right. Some people maintained that the Jews had deliberately falsified
+the Hebrew manuscripts, out of malice towards the Christians; this
+hypothesis is rejected. On the other hand, the Septuagint must have
+been divinely inspired. The only conclusion is that Ptolemy's copyists
+made mistakes in transcribing the Septuagint. Speaking of the
+translations of the Old Testament, he says: "The Church has received
+that of the Seventy, as if there were no other, as many of the Greek
+Christians, using this wholly, know not whether there be or no. Our
+Latin translation is from this also. Although one Jerome, a learned
+priest, and a great linguist, has translated the same Scriptures from
+the Hebrew into Latin. But although the Jews affirm his learned labour
+to be all truth, and avouch the Seventy to have oftentimes erred, yet
+the Churches of Christ hold no one man to be preferred before so many,
+especially being selected by the high priest, for this work.*' He
+accepts the story of the miraculous agreement of the seventy
+independent translations, and considers this a proof that the
+Septuagint is divinely inspired. The Hebrew, however, is equally
+inspired. This conclusion leaves undecided the question as to the
+authority of Jerome's translation. Perhaps he might have been more
+decidedly on Jerome's side if the two Saints had not had a quarrel
+about St. Peter's time-serving propensities.[^196]
 
-This leads to a long and minute discussion of sexual lust, to 
-which we are subject as part of our punishment for Adam's sin. 
-This discussion is very important as revealing the psychology of 
-asceticism; we must therefore go into it, although the Saint 
-confesses that the theme is immodest. The theory advanced is as 
-follows. 
-
-It must be admitted that sexual intercourse in marriage is not 
-sinful, provided the intention is to beget offspring. Yet even in 
-marriage a virtuous man will wish that he could manage without 
-lust. Even in marriage, as the desire for privacy shows, people are 
-ashamed of sexual intercourse, because "this lawful act of nature 
-is (from our first parents) accompanied with our penal shame." 
-The cynics thought that one should be without shame, and 
-Diogenes would have none of it, wishing to be in all things like 
-a dog; yet even he, after one attempt, abandoned, in practice, 
-this extreme of shamelessness. What is shameful about lust is its 
-independence of the will. Adam and Eve, before the fall, could 
-have had sexual intercourse without lust, though in fact they did 
-not. Handicraftsmen, in the pursuit of their trade, move their 
-hands without lust; similarly Adam, if only he had kept away 
-from the apple-tree, could have performed the business of sex 
-without the emotions that it now demands. The sexual members, 
-like the rest of the body, would have obeyed the will. The need 
-of lust in sexual intercourse is a punishment for Adam's sin, but 
-for which sex might have been divorced from pleasure. Omitting 
-some physiological details which the translator has very properly 
-left in the decent obscurity of the original Latin, the above is 
-St. Augustine's theory as regards sex. 
-
-It is evident from the above that what makes the ascetic dislike 
-sex is its independence of the will. Virtue, it is held, demands a 
-complete control of the will over the body, but such control does 
-not suffice to make the sexual act possible. The sexual act, therefore, seems inconsistent with a perfectly virtuous life. 
-
-1 The City of God, \\\, 15. 
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-Ever since the Fall, the world has been divided into two cities, 
-of which one shall reign eternally with God, the other shall be in 
-eternal torment with Satan. Cain belongs to the city of the Devil, 
-Abel to the City of God. Abel, by grace, and in virtue of predestination, was a pilgrim on earth and a citizen of heaven. The 
-patriarchs belonged to the City of God. Discussion of the death 
-of Methuselah brings St. Augustine to the vexed question of the 
-comparison of the Septuagint with the Vulgate. The data, as given 
-in the Septuagint, lead to the conclusion that Methuselah survived 
-the flood by fourteen years, which is impossible, since he was not 
-in the Ark. The Vulgate, following the Hebrew manuscripts, gives 
-data from which it follows that he died in the year of the flood. On 
-this point, St. Augustine holds that St. Jerome and the Hebrew 
-manuscripts must be right. Some people maintained that the Jews 
-had deliberately falsified the Hebrew manuscripts, out of malice 
-towards the Christians; this hypothesis is rejected. On the other 
-hand, the Septuagint must have been divinely inspired. The only 
-conclusion is that Ptolemy's copyists made mistakes in transcribing 
-the Septuagint. Speaking of the translations of the Old Testament, 
-he says: "The Church has received that of the Seventy, as if there 
-were no other, as many of the Greek Christians, using this wholly, 
-know not whether there be or no. Our Latin translation is from 
-this also. Although one Jerome, a learned priest, and a great 
-linguist, has translated the same Scriptures from the Hebrew into 
-Latin. But although the Jews affirm his learned labour to be all 
-truth, and avouch the Seventy to have oftentimes erred, yet the 
-Churches of Christ hold no one man to be preferred before so 
-many, especially being selected by the high priest, for this work.*' 
-He accepts the story of the miraculous agreement of the seventy 
-independent translations, and considers this a proof that the 
-Septuagint is divinely inspired. The Hebrew, however, is equally 
-inspired. This conclusion leaves undecided the question as to the 
-authority of Jerome's translation. Perhaps he might have been 
-more decidedly on Jerome's side if the two Saints had not had a 
-quarrel about St. Peter's time-serving propensities. 1 
+[^196]: Galatians ii, 11-14. 
 
 He gives a synchronism of sacred and profane history. We learn 
-that neas came to Italy when Abdon 3 was judge in Israel, and 
-
-1 Galatians ii, 11-14. 
-
-1 Of Abclon we know only that he had forty nons and thirty nephews, 
-and that all these seventy rode donkeys (Judge* xii, 14). 
-
-380 
-
-
-
-ST. AUGUSTINE'S PHILOSOPHY AND THEOLOGY 
-
+that Aeneas came to Italy when Abdon[^197] was judge in Israel, and 
 that the last persecution will be under Antichrist, but its date is 
 unknown. 
 
-After an admirable chapter against judicial torture, St. Augustine 
-proceeds to combat the new Academicians, who hold all things 
-to be doubtful. "The Church of Christ detests these doubts as 
-madness, having a most certain knowledge of the things it apprehends." We should believe in the truth of the Scriptures. He goes 
-on to explain that there is no true virtue apart from true religion. 
-Pagan virtue is " prostituted with the influence of obscene and 
-filthy devils." What would be virtues in a Christian are vices in a 
-pagan. "Those things which she [the soul] seems to account 
-virtues, and thereby to sway her affections, if they be not all 
-referred unto God, are indeed vices rather than virtues." They 
-that are not of this society (the Church) shall suffer eternal misery. 
-"In our conflicts here on earth, either the pain is victor, and so 
-death expels the sense of it, or nature conquers, and expels the 
-pain. But there, pain shall afflict eternally, and nature shall suffer 
-eternally, both enduring to the continuance of the inflicted punishment." 
 
-There are two resurrections, that of the soul at death, and that 
-of the body at the Last Judgment. After a discussion of various 
-difficulties concerning the millennium, and the subsequent doings 
-of Gog and Magog, he comes to a text in II Thessalonians 
-(ii, 11,12): "God shall send them strong delusion, that they should 
-believe a lie, that they nil might be damned who believed not the 
-truth, but had pleasure in unrighteousness." Some people might 
-think it unjust that the Omnipotent should first deceive them, 
-and then punish them for being deceived; but to St. Augustine 
-this seems quite in order. "Being condemned, they are seduced, 
-and, being seduced, condemned. But their seducement is by the 
-secret judgment of God, justly secret, and secretly just; even His 
-that hath judged continually, ever since the world began." St. 
-Augustine holds that God divided mankind into the elect and the 
-reprobate, not because of their merits or demerits, but arbitrarily. 
-All alike deserve damnation, and therefore the reprobate have no 
-ground of complaint. From the above passage of St. Paul, it 
-appears that they are wicked because they are reprobate, not reprobate because they are wicked. 
+[^197]: Of Abdon we know only that he hafd forty sons and thirty nephews, and that all these seventy rode donkeys (Judges xii, 14). 
 
-After the resurrection of the body, the bodies of the damned 
-will burn eternally without being consumed. In this there is 
-nothing strange; it happens to the salamander and Mount Etna. 
-Devils, though incorporeal, can be burnt by corporeal fire. Hell's 
-torments are not purifying, and will not be lessened by the intercessions of saints. Origen erred in thinking hell not eternal. 
-Heretics, and sinful Catholics, will be damned. 
+
+After an admirable chapter against judicial torture, St. Augustine
+proceeds to combat the new Academicians, who hold all things to be
+doubtful. "The Church of Christ detests these doubts as madness,
+having a most certain knowledge of the things it apprehends." We
+should believe in the truth of the Scriptures. He goes on to explain
+that there is no true virtue apart from true religion.  Pagan virtue
+is "prostituted with the influence of obscene and filthy devils."
+What would be virtues in a Christian are vices in a pagan. "Those
+things which she [the soul] seems to account virtues, and thereby to
+sway her affections, if they be not all referred unto God, are indeed
+vices rather than virtues." They that are not of this society (the
+Church) shall suffer eternal misery.  "In our conflicts here on earth,
+either the pain is victor, and so death expels the sense of it, or
+nature conquers, and expels the pain. But there, pain shall afflict
+eternally, and nature shall suffer eternally, both enduring to the
+continuance of the inflicted punishment."
+
+There are two resurrections, that of the soul at death, and that of
+the body at the Last Judgment. After a discussion of various
+difficulties concerning the millennium, and the subsequent doings of
+Gog and Magog, he comes to a text in II Thessalonians (ii, 11,12):
+"God shall send them strong delusion, that they should believe a lie,
+that they nil might be damned who believed not the truth, but had
+pleasure in unrighteousness." Some people might think it unjust that
+the Omnipotent should first deceive them, and then punish them for
+being deceived; but to St. Augustine this seems quite in order. "Being
+condemned, they are seduced, and, being seduced, condemned. But their
+seducement is by the secret judgment of God, justly secret, and
+secretly just; even His that hath judged continually, ever since the
+world began." St.  Augustine holds that God divided mankind into the
+elect and the reprobate, not because of their merits or demerits, but
+arbitrarily.  All alike deserve damnation, and therefore the reprobate
+have no ground of complaint. From the above passage of St. Paul, it
+appears that they are wicked because they are reprobate, not reprobate
+because they are wicked.
+
+After the resurrection of the body, the bodies of the damned will burn
+eternally without being consumed. In this there is nothing strange; it
+happens to the salamander and Mount Etna.  Devils, though incorporeal,
+can be burnt by corporeal fire. Hell's torments are not purifying, and
+will not be lessened by the intercessions of saints. Origen erred in
+thinking hell not eternal.  Heretics, and sinful Catholics, will be
+damned.
 
 The book ends with a description of the Saints' vision of God 
 in heaven, and of the eternal felicity of die City of God. 
 
-From the above summary, the importance of the work may not 
-be clear. What was influential was the separation of Church and 
-State, with the clear implication that the State could only be part 
-of the City of God by being submissive towards the Church in all 
-religious matters. This has been the doctrine of the Church ever 
-since. All through the Middle Ages, during the gradual rise of 
-the papal power, and throughout the conflict between Pope and 
-Emperor, St. Augustine supplied the Western Church with the 
-theoretical justification of its policy. The Jewish State, in the 
-legendary time of the Judges, and in the historical period after 
-the return from the Babylonian captivity, had been a theocracy; 
-the Christian State should imitate it in this respect. The weakness 
-of the emperors, and of most Western medieval monarchs, enabled 
-the Church, to a great extent, to realize the ideal of the City of 
-God. In the East, where the emperor was strong, this development 
-never took place, and the Church remained much more subject 
-to the State than it became in the West. 
+From the above summary, the importance of the work may not be
+clear. What was influential was the separation of Church and State,
+with the clear implication that the State could only be part of the
+City of God by being submissive towards the Church in all religious
+matters. This has been the doctrine of the Church ever since. All
+through the Middle Ages, during the gradual rise of the papal power,
+and throughout the conflict between Pope and Emperor, St. Augustine
+supplied the Western Church with the theoretical justification of its
+policy. The Jewish State, in the legendary time of the Judges, and in
+the historical period after the return from the Babylonian captivity,
+had been a theocracy; the Christian State should imitate it in this
+respect. The weakness of the emperors, and of most Western medieval
+monarchs, enabled the Church, to a great extent, to realize the ideal
+of the City of God. In the East, where the emperor was strong, this
+development never took place, and the Church remained much more
+subject to the State than it became in the West.
 
-The Reformation, which revived St. Augustine's doctrine of 
-salvation, threw over his theocratic teaching, and became Erastian, 1 largely owing to the practical exigencies of the fight with 
-Catholicism. But Protestant Erastianism was half-hearted, and the 
-most religious among Protestants were still influenced by St. 
-Augustine. Anabaptists, Fifth Monarchy Men, and Quakers took 
-over a part of his doctrine, but laid less stress on the Church. He 
-held to predestination, and also to the need of baptism for salvation; these two doctrines do not harmonize well, and the extreme 
-Protestants threw over the latter. But their eschatology remained 
-Augustinian. 
+The Reformation, which revived St. Augustine's doctrine of salvation,
+threw over his theocratic teaching, and became Erastian,[^198] largely
+owing to the practical exigencies of the fight with Catholicism. But
+Protestant Erastianism was half-hearted, and the most religious among
+Protestants were still influenced by St. Augustine. Anabaptists,
+Fifth Monarchy Men, and Quakers took over a part of his doctrine, but
+laid less stress on the Church. He held to predestination, and also to
+the need of baptism for salvation; these two doctrines do not
+harmonize well, and the extreme Protestants threw over the latter. But
+their eschatology remained Augustinian.
 
-* Erasttanism is the doctrine that the Church should be subject to the 
-State. 
+[^198]: Erastianism is the doctrine that the Church should be subject to the State. 
 
 The City of God contains little that is fundamentally original. The
 eschatology is Jewish in origin, and came into Christianity mainly
@@ -14961,24 +14938,19 @@ in such a way that the fall of the Western Empire, and the subsequent
 period of confusion, could be assimilated by Christians without any
 unduly severe trial of their faith.
 
-The Jewish pattern of history, past and future, is such as to 
-make a powerful appeal to the oppressed and unfortunate at all 
-times. St. Augustine adapted this pattern to Christianity, Marx 
-to Socialism. To understand Marx psychologically, one should 
-use the following dictionary: 
+The Jewish pattern of history, past and future, is such as to make a
+powerful appeal to the oppressed and unfortunate at all
+times. St. Augustine adapted this pattern to Christianity, Marx to
+Socialism. To understand Marx psychologically, one should use the
+following dictionary:
 
-Yahweh = Dialectical Materialism 
-The Messiah = Marx 
-
-The Elect = The Proletariat 
-The Church = The Communist Party 
-The Second Coming = The Revolution 
-
-Hell = Punishment of the Capitalists 
-
-The Millennium = The Communist Commonwealth 
-
-* 
+Yahweh = Dialectical Materialism  
+The Messiah = Marx  
+The Elect = The Proletariat  
+The Church = The Communist Party  
+The Second Coming = The Revolution  
+Hell = Punishment of the Capitalists  
+The Millennium = The Communist Commonwealth  
 
 The terms on the left give the emotional content of the terms 
 on the right, and it is this emotional content, familiar to those who 
@@ -14988,64 +14960,61 @@ Nazis, but their conceptions are more purely Old Testament and
 less Christian than those of Marx, and their Messiah is more 
 analogous to the Maccabees than to Christ. 
 
+### THE PELAGIAN CONTROVERSY 
 
+Much of the most influential part of St. Augustine's theology was
+concerned in combating the Pelagian heresy. Pelagius was a Welshman,
+whose real name was Morgan, which means "man of the sea," as
+"Pelagius" does in Greek. He was a cultivated and agreeable
+ecclesiastic, less fanatical than many of his contemporaries. He
+believed in free will, questioned the doctrine of original sin, and
+thought that, when men act virtuously, it is by reason of their own
+moral effort. If they act rightly, and are orthodox, they go to heaven
+as a reward of their virtues.
 
-III. THE PELAGIAN CONTROVERSY 
+These views, though they may now seem commonplace, caused, at the
+time, a great commotion, and were, largely through St.  Augustine's
+efforts, declared heretical. They had, however, a considerable
+temporary success. Augustine had to write to the patriarch of
+Jerusalem to warn him against the wily heresiarch, who had persuaded
+many Eastern theologians to adopt his views.  Even after his
+condemnation, other people, called semi-Pelagians, advocated weakened
+forms of his doctrines. It was a long time before the purer teaching
+of the Saint was completely victorious, especially in France, where
+the final condemnation of the semi-Pelagian heresy took place at the
+Council of Orange in 529.
 
-Much of the most influential part of St. Augustine's theology 
-was concerned in combating the Pelagian heresy. Pelagius was a 
-Welshman, whose real name was Morgan, which means "man of 
-the sea," as "Pelagius" does in Greek. He was a cultivated and 
-agreeable ecclesiastic, less fanatical than many of his contemporaries. He believed in free will, questioned the doctrine of 
-original sin, and thought that, when men act virtuously, it is by 
-reason of their own moral effort. If they act rightly, and are 
-orthodox, they go to heaven as a reward of their virtues. 
+St. Augustine taught that Adam, before the Fall, had had free will,
+and could have abstained from sin. But as he and Eve ate the apple,
+corruption entered into them, and descended to all their posterity,
+none of whom can, of their own power, abstain from sin. Only God's
+grace enables men to be virtuous. Since we all inherit Adam's sin, we
+all deserve eternal damnation. All who die unbaptized, even infants,
+mil go to hell and suffer unending torment. We have no reason to
+complain of this, since we are all wicked. (In the Confessions, the
+Saint enumerates the crimes of which he was guilty in the cradle.) But
+by God's free grace certain people, among those who have been
+baptized, are chosen to go to heaven; these are the elect. They do not
+go to heaven because they are good; we are all totally depraved,
+except in so far as God's grace, which is only bestowed on the elect,
+enables us to be otherwise. No reason can be given why some are saved
+and the rest damned; this is due to God's unmotived choice. Damnation
+proves God's justice; salvation, His mercy. Both equally display His
+goodness.
 
-These views, though they may now seem commonplace, caused, 
-at the time, a great commotion, and were, largely through St. 
-Augustine's efforts, declared heretical. They had, however, a 
-considerable temporary success. Augustine had to write to the 
-patriarch of Jerusalem to warn him against the wily heresiarch, 
-who had persuaded many Eastern theologians to adopt his views. 
-Even after his condemnation, other people, called semi-Pelagians, 
-advocated weakened forms of his doctrines. It was a long time 
-before the purer teaching of the Saint was completely victorious, 
-especially in France, where the final condemnation of the semi-Pelagian heresy took place at the Council of Orange in 529. 
-
-St. Augustine taught that Adam, before the Fall, had had free 
-will, and could have abstained from sin. But as he and Eve ate the 
-apple, corruption entered into them, and descended to all their 
-posterity, none of whom can, of their own power, abstain from 
-sin. Only God's grace enables men to be virtuous. Since we all 
-inherit Adam's sin, we all deserve eternal damnation. All who die 
-unbaptized, even infants, mil go to hell and suffer unending 
-torment. We have no reason to complain of this, since we are all 
-wicked. (In the Confessions, the Saint enumerates the crimes of 
-which he was guilty in the cradle.) But by God's free grace certain 
-people, among those who have been baptized, are chosen to go 
-to heaven; these are the elect. They do not go to heaven because 
-they are good; we are all totally depraved, except in so far as 
-God's grace, which is only bestowed on the elect, enables us to 
-be otherwise. No reason can be given why some are saved and the 
-rest damned; this is due to God's unmotived choice. Damnation 
-proves God's justice; salvation, His mercy. Both equally display 
-His goodness. 
-
-The arguments in favor of this ferocious doctrine which was 
-revived by Calvin, and has since then not been held by the Catholic 
-Church are to be found in the writings of St. Paul, particularly 
-the Epistle to the Romans. These are treated by Augustine as a 
-lawyer treats the law: the interpretation is able, and the texts are 
-made to yield their utmost meaning. One is persuaded, at the end, 
-not that St. Paul believed what Augustine deduces, but that, 
-taking certain texts in isolation, they do imply just what he says 
-they do. It may seem odd that the damnation of unbaptized infants 
-should not have been thought shocking, but should have been 
-attributed to a good God. The conviction of sin, however, so 
-dominated him that he really believed new-born children to be 
-limbs of Satan. A great deal of what is most ferocious in the 
-medieval Church is traceable to his gloomy sense of universal 
-guilt. 
+The arguments in favor of this ferocious doctrine which was revived by
+Calvin, and has since then not been held by the Catholic Church are to
+be found in the writings of St. Paul, particularly the Epistle to the
+Romans. These are treated by Augustine as a lawyer treats the law: the
+interpretation is able, and the texts are made to yield their utmost
+meaning. One is persuaded, at the end, not that St. Paul believed what
+Augustine deduces, but that, taking certain texts in isolation, they
+do imply just what he says they do. It may seem odd that the damnation
+of unbaptized infants should not have been thought shocking, but
+should have been attributed to a good God. The conviction of sin,
+however, so dominated him that he really believed new-born children to
+be limbs of Satan. A great deal of what is most ferocious in the
+medieval Church is traceable to his gloomy sense of universal guilt.
 
 There is only one intellectual difficulty that really troubles St. 
 Augustine. This is not that it seems a pity to have created Man, 
@@ -15057,36 +15026,32 @@ not the body. He sees difficulties in this doctrine, but says that,
 since Scripture is silent, it cannot be necessary to salvation to 
 arrive at a just view on the matter. He therefore leaves it undecided. 
 
-It is strange that the last men of intellectual eminence before 
-the dark ages were concerned, not with saving civilization or 
-expelling the barbarians or reforming the abuses of the administration, but with preaching the merit of virginity and the damnation of unbaptized infants. Seeing that these were the preoccupations that the Church handed on to the converted barbarians, it 
-is no wonder that the succeeding age surpassed almost all other 
-fully historical periods in cruelty and superstition. 
-
-
-
-History of W*tt*r Pkihsof>ky 385 N 
-
-
+It is strange that the last men of intellectual eminence before the
+dark ages were concerned, not with saving civilization or expelling
+the barbarians or reforming the abuses of the administration, but with
+preaching the merit of virginity and the damnation of unbaptized
+infants. Seeing that these were the preoccupations that the Church
+handed on to the converted barbarians, it is no wonder that the
+succeeding age surpassed almost all other fully historical periods in
+cruelty and superstition.
 
 ## Chapter V THE FIFTH AND SIXTH CENTURIES 
 
-^ IHE fifth century was that of the barbarian invasion and 
-I the fall of the Western Empire. After the death of 
-
-JL Augustine in 430, there was little philosophy; it was a 
-century of destructive action, which, however, largely determined 
-the lines upon which Europe was to be developed. It was in this 
-century that the English invaded Britain, causing it to become 
-England; it was also in this century that the Prankish invasion 
-turned Gaul into France, and that the Vandals invaded Spain, 
-giving their name to Andalusia. St. Patrick, during the middle 
-years of the century, converted the Irish to Christianity. Throughout the Western World, rough Germanic kingdoms succeeded the 
-centralized bureaucracy of the Empire. The imperial post ceased, 
-the great roads fell into decay, war put an end to large-scale 
-commerce, and life again became local both politically and 
-economically. Centralized authority was preserved only in the 
-Church, and there with much difficulty. 
+The fifth century was that of the barbarian invasion and the fall of
+the Western Empire. After the death of Augustine in 430, there was
+little philosophy; it was a century of destructive action, which,
+however, largely determined the lines upon which Europe was to be
+developed. It was in this century that the English invaded Britain,
+causing it to become England; it was also in this century that the
+Prankish invasion turned Gaul into France, and that the Vandals
+invaded Spain, giving their name to Andalusia. St. Patrick, during the
+middle years of the century, converted the Irish to
+Christianity. Throughout the Western World, rough Germanic kingdoms
+succeeded the centralized bureaucracy of the Empire. The imperial post
+ceased, the great roads fell into decay, war put an end to large-scale
+commerce, and life again became local both politically and
+economically. Centralized authority was preserved only in the Church,
+and there with much difficulty.
 
 Of the Germanic tribes that invaded the Empire in the fifth 
 century, the most important were the Goths. They were pushed 
@@ -15100,189 +15065,172 @@ year. Odovaker, king of the Ostrogoths, put an end to the Western
 Empire in 476, and reigned until 493, when he was treacherously 
 murdered by another Ostrogoth, Theodoric, who was king of 
 Italy until 526. Of him I shall have more to say shortly. He was 
-important both in history and legend; in the Niebelungenlicd he 
-appears as "Dietrich von Bern" (**Bern" being Verona). 
+important both in history and legend; in the Niebelungenlied he 
+appears as "Dietrich von Bern" ("Bern" being Verona). 
 
 Meanwhile the Vandals established themselves in Africa, the 
 Visigoths in the south of France, and the Franks in the north. 
 
-In the middle of the Germanic invasion came the inroads of the 
-Huns under Attila, The Huns were of Mongol race, and yet they 
-were often allied with the Goths. At the crucial moment, however, 
+In the middle of the Germanic invasion came the inroads of the Huns
+under Attila, The Huns were of Mongol race, and yet they were often
+allied with the Goths. At the crucial moment, however, when they
+invaded Gaul in 451, they had quarrelled with the Goths; the Goths and
+Romans together defeated them in that year at Chalons. Attila then
+turned against Italy, and thought of marching on Rome, but Pope Leo
+dissuaded him, pointing out that Alaric had died after sacking
+Rome. His forbearance, however, did him no service, for he died in the
+following year. After his death the power of the Huns collapsed.
 
-386 
+During this period of confusion the Church was troubled by a
+complicated controversy on the Incarnation. The protagonists in the
+debates were two ecclesiastics, Cyril and Nestorius, of whom, more or
+less by accident, the former was proclaimed a saint and the latter a
+heretic. St. Cyril was patriarch of Alexandria from about 412 till his
+death in 444; Nestorius was patriarch of Constantinople. The question
+at issue was the relation of Christ's divinity to His humanity. Were
+there two Persons, one human and one divine? This was the view held by
+Nestorius. If not, was there only one nature, or were there two
+natures in one person, a human nature and a divine nature? These
+questions roused, in the fifth century, an almost incredible degree of
+passion and fury.  "A secret and incurable discord was cherished
+between those who were most apprehensive of confounding, and those who
+were most fearful of separating, the divinity and the humanity of
+Christ."[^199]
 
+[^199]: Gibbon, _op. cit._ chap. xlvii.
 
+St. Cyril, the advocate of unity, was a man of fanatical zeal. He used
+his position as patriarch to incite pogroms against the very large
+Jewish colony in Alexandria. His chief claim to fame is the lynching
+of Hypatia, a distinguished lady who, in an age of bigotry, adhered to
+the Neoplatonic philosophy and devoted her talents to mathematics. She
+was "torn from her chariot, stripped naked, dragged to the church, and
+inhumanly butchered by the hands of Peter the Reader and a troop of
+savage and merciless fanatics: her flesh was scraped from her bones
+with sharp oyster-shells and her quivering limbs were delivered to the
+flames. The just progress of inquiry and punishment was stopped by
+seasonable gifts."[^200] After this, Alexandria was no longer troubled
+by philosophers.
 
-THE FIFTH AND SIXTH CENTURIES 
+[^200]: Gibbon, _op. cit._ chap. xlvii.
 
-when they invaded Gaul in 451, they had quarrelled with the 
-Goths; the Goths and Romans together defeated them in that 
-year at Chalons. Attila then turned against Italy, and thought of 
-marching on Rome, but Pope Leo dissuaded him, pointing out 
-that Alaric had died after sacking Rome. His forbearance, however, did him no service, for he died in the following year. After 
-his death the power of the Huns collapsed. 
+St. Cyril was pained to learn that Constantinople was being led astray
+by the teaching of its patriarch Nestorius, who maintained that there
+were two Persons in Christ, one human and one divine.  On this ground
+Nestorius objected to the new practice of calling the Virgin "Mother
+of God"; she was, he said, only the mother of the human Person, while
+the divine Person, who was God, had no mother. On this question the
+Church was divided: roughly speaking, bishops east of Suez favored
+Nestorius, while those west of Suez favored St. Cyril. A council was
+summoned to meet at Ephesus in 431 to decide the question. The Western
+bishops arrived firsthand proceeded to lock the doors against
+latecomers and decide in hot haste for St. Cyril, who presided. "This
+episcopal tumult, at the distance of thirteen centuries, assumes the
+venerable aspect of the third oecumenical Council."[^201]
 
-During this period of confusion the Church was troubled by a 
-complicated controversy on the Incarnation. The protagonists in 
-the debates were two ecclesiastics, Cyril and Nestorius, of whom, 
-more or less by accident, the former was proclaimed a saint and 
-the latter a heretic. St. Cyril was patriarch of Alexandria from 
-about 412 till his death in 444; Nestorius was patriarch of Constantinople. The question at issue was the relation of Christ's 
-divinity to His humanity. Were there two Persons, one human 
-and one divine? This was the view held by Nestorius. If not, was 
-there only one nature, or were there two natures in one person, 
-a human nature and a divine nature? These questions roused, in 
-the fifth century, an almost incredible degree of passion and fury. 
-"A secret and incurable discord was cherished between those who 
-were most apprehensive of confounding, and those who were most 
-fearful of separating, the divinity and the humanity of Christ." 1 
+[^201]: Gibbon, _op. cit._ chap. xlvii.
 
-St. Cyril, the advocate of unity, was a man of fanatical zeal. He 
-used his position as patriarch to incite pogroms against the very large 
-Jewish colony in Alexandria. His chief claim to fame is the lynching 
-of Hypatia, a distinguished lady who, in an age of bigotry, adhered 
-to the Neoplatonic philosophy and devoted her talents to mathematics. She was "torn from her chariot, stripped naked, dragged 
-to the church, and inhumanly butchered by the hands of Peter 
-the Reader and a troop of savage and merciless fanatics: her flesh 
-was scraped from her bones with sharp oyster-shells and her 
-quivering limbs were delivered to the flames. The just progress 
-of inquiry and punishment was stopped by seasonable gifts." 2 
-After this, Alexandria was no longer troubled by philosophers. 
+As a result of this council, Nestorius was condemned as a heretic.  He
+did not recant, but was the founder of the Nestorian sect, which had a
+large following in Syria and throughout the East.  Some centuries
+later, Nestorianism was so strong in China that it seemed to have a
+chance of becoming the established religion.  Nestorians were found in
+India by the Spanish and Portuguese missionaries in the sixteenth
+century. The persecution of Nestorianism by the Catholic government of
+Constantinople caused disaffection which helped the Mohammedans in
+their conquest of Syria.
 
-St. Cyril was pained to learn that Constantinople was being led 
-astray by the teaching of its patriarch Nestorius, who maintained 
-that there were two Persons in Christ, one human and one divine. 
-On this ground Nestorius objected to the new practice of calling 
-the Virgin "Mother of God"; she was, he said, only the mother 
+The tongue of Nestorius, which by its eloquence had seduced so many,
+was eaten by worms so at least we are assured.
 
-1 Gibbon, op. cit. t chap, xlvii, * Ibid. 
+Ephesus had learnt to substitute the Virgin for Artemis, but had still
+the same intemperate zeal for its goddess as in the time of St.
+Paul. It was said that the Virgin was buried there. In 449, after the
+death of St. Cyril, a synod at Ephesus tried to carry the triumph
+further, and thereby fell into the heresy opposite to that of
+Nestorius; this is called the Monophysite heresy, and maintains that
+Christ has only one nature. If St. Cyril had still been alive, he
+would certainly have supported this view, and have become
+heretical. The Emperor supported the synod, but the Pope repudiated
+it. At last Pope Leothe same Pope who turned Attila from attacking
+Rome in the year of the battle of Chalons secured the summoning of an
+oecumenical council at Chalcedon in 451, which condemned the
+Monophysites and finally decided the orthodox doctrine of the
+Incarnation. The Council of Ephesus had decided that there is only one
+Person of Christ, but the Council of Chalcedon decided that He exists
+in two natures, one human and one divine. The influence of the Pope
+was paramount in securing this decision.
 
-387 
+The Monophysites, like the Nestorians, refused to submit.  Egypt,
+almost to a man, adopted their heresy, which spread up the Nile and as
+far as Abyssinia. The heresy of the Abyssinians was given by Mussolini
+as one of his reasons for conquering them. The heresy of Egypt, like
+the opposite heresy of Syria, facilitated the Arab conquest.
 
+During the sixth century, there were four men of great importance in
+the history of culture: Boethius, Justinian, Benedict, and Gregory the
+Great. They will be my chief concern in the remainder of this chapter
+and in the next.
 
+The Gothic conquest of Italy did not put an end to Roman
+civilization. Under Theodoric, king of Italy and of the Goths, the
+civil administration of Italy was entirely Roman; Italy enjoyed peace
+and religious toleration (till near the end); the king was both wise
+and vigorous. He appointed consuls, preserved Roman law, and kept up
+the Senate: when in Rome, his first visit was to the Senate House.
 
-WESTERN PHILOSOPHICAL THOUGHT 
+Though an Arian, Theodoric was on good terms with the Church until his
+last years. In 523, the Emperor Justin proscribed Arianism, and this
+annoyed Theodoric. He had reason for fear, since Italy was Catholic
+and was led by theological sympathy to side with the Emperor. He
+believed, rightly or wrongly, that there was a plot involving men in
+his own government. This led him to imprison and execute his minister,
+the senator Boethius, whose Consolations of Philosophy was written
+while he was in prison.
 
-of the human Person, while the divine Person, who was God, had 
-no mother. On this question the Church was divided: roughly 
-speaking, bishops east of Suez favored Nestorius, while those 
-west of Suez favored St. Cyril. A council was summoned to 
-meet at Ephesus in 431 to decide the question. The Western 
-bishops arrived firsthand proceeded to lock the doors against latecomers and decide in hot haste for St. Cyril, who presided. "This 
-episcopal tumult, at the distance of thirteen centuries, assumes 
-the venerable aspect of the third oecumenical Council." 1 
-
-As a result of this council, Nestorius was condemned as a heretic. 
-He did not recant, but was the founder of the Nestorian sect, 
-which had a large following in Syria and throughout the East. 
-Some centuries later, Nestorianism was so strong in China that 
-it seemed to have a chance of becoming the established religion. 
-Nestorians were found in India by the Spanish and Portuguese 
-missionaries in the sixteenth century. The persecution of Nestorianism by the Catholic government of Constantinople caused 
-disaffection which helped the Mohammedans in their conquest 
-of Syria. 
-
-The tongue of Nestorius, which by its eloquence had seduced 
-so many, was eaten by worms so at least we are assured. 
-
-Ephesus had learnt to substitute the Virgin for Artemis, but had 
-still the same intemperate zeal for its goddess as in the time of St. 
-Paul. It was said that the Virgin was buried there. In 449, after the 
-death of St. Cyril, a synod at Ephesus tried to carry the triumph 
-further, and thereby fell into the heresy opposite to that of Nestorius; this is called the Monophysite heresy, and maintains that 
-Christ has only one nature. If St. Cyril had still been alive, he 
-would certainly have supported this view, and have become 
-heretical. The Emperor supported the synod, but the Pope repudiated it. At last Pope Leothe same Pope who turned Attila 
-from attacking Rome in the year of the battle of Chalons secured 
-the summoning of an oecumenical council at Chalcedon in 451, 
-which condemned the Monophysites and finally decided the orthodox doctrine of the Incarnation. The Council of Ephesus had 
-decided that there is only one Person of Christ, but the Council of 
-Chalcedon decided that He exists in two natures, one human and 
-one divine. The influence of the Pope was paramount in securing 
-this decision. 
-
-1 Gibbon, op. *&, chip xlvii. 
-
-388 
-
-
-
-THE FIFTH AND SIXTH CENTURIES 
-
-The Monophysites, like the Nestorians, refused to submit. 
-Egypt, almost to a man, adopted their heresy, which spread up the 
-Nile and as far as Abyssinia. The heresy of the Abyssinians was 
-given by Mussolini as one of his reasons for conquering them. The 
-heresy of Egypt, like the opposite heresy of Syria, facilitated the 
-Arab conquest. 
-
-During the sixth century, there were four men of great importance in the history of culture: Boethius, Justinian, Benedict, 
-and Gregory the Great. They will be my chief concern in the 
-remainder of this chapter and in the next. 
-
-The Gothic conquest of Italy did not put an end to Roman 
-civilization. Under Theodoric, king of Italy and of the Goths, the 
-civil administration of Italy was entirely Roman; Italy enjoyed 
-peace and religious toleration (till near the end); the king was 
-both wise and vigorous. He appointed consuls, preserved Roman 
-law, and kept up the Senate: when in Rome, his first visit was to 
-the Senate House. 
-
-Though an Arian, Theodoric was on good terms with the 
-Church until his last years. In 523, the Emperor Justin proscribed 
-Arianism, and this annoyed Theodoric. He had reason for fear, 
-since Italy was Catholic and was led by theological sympathy to 
-side with the Emperor. He believed, rightly or wrongly, that 
-there was a plot involving men in his own government. This led 
-him to imprison and execute his minister, the senator Boethius, 
-whose Consolations of Philosophy was written while he was in 
-prison. 
-
-Boethius is a singular figure. Throughout the Middle Ages he 
-was read and admired, regarded always as a devout Christian, 
-and treated almost as if he had been one of the Fathers. Yet his 
-Consolations of Philosophy, written in 524 while he was awaiting 
-execution, is purely Platonic; it does not prove that he was not 
-a Christian, but it does show that pagan philosophy had a much 
-stronger hold on him than Christian theology. Some theological 
-works, especially one on the Trinity, which are attributed to him, 
-are by many authorities considered to be spurious; but it was 
-probably owing to them that the Middle Ages were able to regard 
-him as orthodox, and to imbibe from him much Platonism which 
-would otherwise have been viewed with suspicion. 
+Boethius is a singular figure. Throughout the Middle Ages he was read
+and admired, regarded always as a devout Christian, and treated almost
+as if he had been one of the Fathers. Yet his Consolations of
+Philosophy, written in 524 while he was awaiting execution, is purely
+Platonic; it does not prove that he was not a Christian, but it does
+show that pagan philosophy had a much stronger hold on him than
+Christian theology. Some theological works, especially one on the
+Trinity, which are attributed to him, are by many authorities
+considered to be spurious; but it was probably owing to them that the
+Middle Ages were able to regard him as orthodox, and to imbibe from
+him much Platonism which would otherwise have been viewed with
+suspicion.
 
 The work is an alternation of verse and prose: Boethius, in his 
 own person, speaks in prose, while Philosophy answers in verse. 
 There is a certain resemblance to Dante, who was no doubt 
 influenced by him in the Vita Nuova. 
 
-The Consolations, which Gibbon rightly calls a "golden volume," 
-begins by the statement that Socrates, Plato, and Aristotle are the 
-true philosophers; Stoics, Epicureans, and the rest are usurpers 
-whom the profane multitude mistook for the friends of philosophy. 
-Boethius says he obeyed the Pythagorean command to "follow 
-God" (not the Christian command). Happiness, which is the same 
-thing as blessedness, is the good, not pleasure. Friendship is a 
-"most sacred thing." There is much morality that agrees closely 
-with Stoic doctrine, and is in fact largely taken from Seneca. 
-There is a summary, in verse, of the beginning of the Timaeus. 
-This is followed by a great deal of purely Platonic metaphysics. 
-Imperfection, we are told, is a lack, implying the existence of a 
-perfect pattern. He adopted the privative theory of evil. He then 
-passes on to a pantheism which should have shocked Christians, but 
-for some reason did not. Blessedness and God, he says, are both the 
-chiefest good, and are therefore identical. "Men are made happy 
-by the obtaining of divinity." "They who obtain divinity become 
-gods. Wherefore every one that is happy is a god, but by nature 
-there is only one God, but there may be many by participation. 
-"The sum, origin, and cause of all that is sought after is rightly 
-thought to be goodness." "The substance of God consisteth in 
-nothing else but in goodness." Can God do evil? No. Therefore 
-evil is nothing, since God can do everything. Virtuous men are 
-always powerful, and bad men always weak; for both desire the 
-good, but only the virtuous get it. The wicked are more unfortunate if they escape punishment than if they suffer it. "In wise 
-men there is no place for hatred." 
+The Consolations, which Gibbon rightly calls a "golden volume," begins
+by the statement that Socrates, Plato, and Aristotle are the true
+philosophers; Stoics, Epicureans, and the rest are usurpers whom the
+profane multitude mistook for the friends of philosophy.  Boethius
+says he obeyed the Pythagorean command to "follow God" (not the
+Christian command). Happiness, which is the same thing as blessedness,
+is the good, not pleasure. Friendship is a "most sacred thing." There
+is much morality that agrees closely with Stoic doctrine, and is in
+fact largely taken from Seneca.  There is a summary, in verse, of the
+beginning of the Timaeus.  This is followed by a great deal of purely
+Platonic metaphysics.  Imperfection, we are told, is a lack, implying
+the existence of a perfect pattern. He adopted the privative theory of
+evil. He then passes on to a pantheism which should have shocked
+Christians, but for some reason did not. Blessedness and God, he says,
+are both the chiefest good, and are therefore identical. "Men are made
+happy by the obtaining of divinity." "They who obtain divinity become
+gods. Wherefore every one that is happy is a god, but by nature there
+is only one God, but there may be many by participation.  "The sum,
+origin, and cause of all that is sought after is rightly thought to be
+goodness." "The substance of God consisteth in nothing else but in
+goodness." Can God do evil? No. Therefore evil is nothing, since God
+can do everything. Virtuous men are always powerful, and bad men
+always weak; for both desire the good, but only the virtuous get
+it. The wicked are more unfortunate if they escape punishment than if
+they suffer it. "In wise men there is no place for hatred."
 
 The tone of the book is more like that of Plato than that of 
 Plotinus. There is no trace of the superstition or morbidness of 
@@ -15293,249 +15241,163 @@ been called smug. Written when it was, in prison under sentence
 of death, it is as admirable as the last moments of the Platonic 
 Socrates. 
 
-One does not find a similar outlook until after Newton. I will 
-quote in extenso one poem from the book, which, in its philosophy, 
-is not unlike Pope's Essay an Man. 
-
-39 
-
-
-
-THE FIFTH AND SIXTH CENTURIES 
-
-If Thou wouldst sec 
-
-God's laws with purest mind, 
-
-Thy sight on heaven fixed must be, 
-
-Whose settled course the stars in peace doth bind. 
-
-The sun's bright fire 
-
-Stops not his sister's team. 
-
-Nor doth the northern bear desire 
-
-Within the ocean's wave to hide her beam. 
-
-Though she behold 
-
-The other stars there crouching, 
-
-Yet she incessantly is rolled 
-
-About high heaven, the ocean never touching. 
-
-The evening light 
-
-With certain course doth show 
-
-The coming of the shady night, 
-
-And Lucifer before the day doth go. 
-
-This mutual love 
-
-Courses eternal makes, 
-
-And from the starry spheres above 
-
-All cause of war and dangerous discord takes. 
-
-This sweet consent 
-
-In equal bands doth tie 
-
-The nature of each element 
-
-So that the moist things yield unto the dry. 
-
-The piercing cold 
-
-With flames doth friendship heap 
-
-The trembling fire the highest place doth hold, 
-
-And the gross earth sinks down into the deep. 
-
-The flowery year 
-
-Breathes odours in the spring, 
-
-The scorching summer corn doth bear, 
-
-The autumn fruit from laden trees doth faring. 
-
-The falling rain 
-
-Doth winter's moisture iive. 
-
-These rules thus nourish and maintain 
-
-All creatures which we see on earth to live. 
-
-And when they die, 
-
-These bring them to their end, 
-
-While their Creator sits on high, 
-
-Whose hand the reins of the whole world doth bend. 
-
-He as their king 
-
-Rules them with lordly might. 
-
-From Him they rise, flourish, and spring, 
-
-He as their law and judge decides their right. 
-
-Those things whose course 
-
-Most swiftly glides away 
-
-His might doth often backward force, 
-
-And suddenly their wandering motion stay. 
-
-Unless his strength 
-
-Their violence should bound, 
-
-And them which else would run at length, 
-
-Should bring within the compass of a round, 
-
-That firm decree 
-
-Which now doth all adorn 
-
-Would soon destroyed and broken be, 
-
-Things being far from their beginning borne. 
-
-This powerful love 
-
-Is common unto all, 
-
-Which for desire of good do move 
-
-Back to the springs from whence they first did fall. 
-
-No worldly thing 
-
-Can a continuance have 
-
-Unless love back again it bring 
-
-Unto the cause which first the essence gave. 
-
-Boethius was, until the end, a friend of Theodoric. His father 
-was consul, he was consul, and so were his two sons. His father-in-law Symmachus (probably grandson of the one who had a 
-controversy with Ambrose about the statue of Victory) was an 
-important man in the court of the Gothic king. Theodoric employed Boethius to reform the coinage, and to astonish less 
-sophisticated barbarian kings with such devices as sun-dials and 
-water-docks. It may be that his freedom from superstition was 
-not so exceptional in Roman aristocratic families as elsewhere; 
-but its combination with great learning and zeal for the public 
-good was unique in that age. During the two centuries before his 
-time and the ten centuries after it, I cannot think of any European 
-man of learning so free from superstition and fanaticism. Nor are 
-his merits merely negative; his survey is lofty, disinterested, and 
-sublime. He would have been remarkable in any age; in the age 
-in which he lived, he is utterly amazing. 
-
-The medieval reputation of Boethius was .partly due to his 
+One does not find a similar outlook until after Newton. I will quote
+in extenso one poem from the book, which, in its philosophy, is not
+unlike Pope's Essay an Man.
+
+If Thou wouldst see  
+God's laws with purest mind,  
+Thy sight on heaven fixed must be,  
+Whose settled course the stars in peace doth bind.  
+The sun's bright fire  
+Stops not his sister's team.  
+Nor doth the northern bear desire  
+Within the ocean's wave to hide her beam.  
+Though she behold  
+The other stars there crouching,  
+Yet she incessantly is rolled  
+About high heaven, the ocean never touching.  
+The evening light  
+With certain course doth show  
+The coming of the shady night,  
+And Lucifer before the day doth go.  
+This mutual love  
+Courses eternal makes,  
+And from the starry spheres above  
+All cause of war and dangerous discord takes.  
+This sweet consent  
+In equal bands doth tie  
+The nature of each element  
+So that the moist things yield unto the dry.  
+The piercing cold  
+With flames doth friendship heap  
+The trembling fire the highest place doth hold,  
+And the gross earth sinks down into the deep.  
+The flowery year  
+Breathes odours in the spring,  
+The scorching summer corn doth bear,  
+The autumn fruit from laden trees doth faring.  
+The falling rain  
+Doth winter's moisture live.  
+These rules thus nourish and maintain  
+All creatures which we see on earth to live.  
+And when they die,  
+These bring them to their end,  
+While their Creator sits on high,  
+Whose hand the reins of the whole world doth bend.  
+He as their king  
+Rules them with lordly might.  
+From Him they rise, flourish, and spring,  
+He as their law and judge decides their right.  
+Those things whose course  
+Most swiftly glides away  
+His might doth often backward force,  
+And suddenly their wandering motion stay.  
+Unless his strength  
+Their violence should bound,  
+And them which else would run at length,  
+Should bring within the compass of a round,  
+That firm decree  
+Which now doth all adorn  
+Would soon destroyed and broken be,  
+Things being far from their beginning borne.  
+This powerful love  
+Is common unto all,  
+Which for desire of good do move  
+Back to the springs from whence they first did fall.  
+No worldly thing  
+Can a continuance have  
+Unless love back again it bring  
+Unto the cause which first the essence gave.  
+
+Boethius was, until the end, a friend of Theodoric. His father was
+consul, he was consul, and so were his two sons. His father-in-law
+Symmachus (probably grandson of the one who had a controversy with
+Ambrose about the statue of Victory) was an important man in the court
+of the Gothic king. Theodoric employed Boethius to reform the coinage,
+and to astonish less sophisticated barbarian kings with such devices
+as sun-dials and water-docks. It may be that his freedom from
+superstition was not so exceptional in Roman aristocratic families as
+elsewhere; but its combination with great learning and zeal for the
+public good was unique in that age. During the two centuries before
+his time and the ten centuries after it, I cannot think of any
+European man of learning so free from superstition and fanaticism. Nor
+are his merits merely negative; his survey is lofty, disinterested,
+and sublime. He would have been remarkable in any age; in the age in
+which he lived, he is utterly amazing.
+
+The medieval reputation of Boethius was partly due to his 
 being regarded as a martyr to Arian persecution a view which 
-began two or three hundred years after his death. In Pa via, he 
-was regarded as a saint , but in fact he was not canonized. Though 
+began two or three hundred years after his death. In Pavia, he 
+was _regarded_ as a saint , but in fact he was not canonized. Though 
 Cyril was a saint, Boethius was not. 
 
-393 
+Two years after the execution of Boethius, Theodoric died. In the next
+year, Justinian became Emperor. He reigned until 565, and in this long
+time managed to do much harm and some good.  He is of course chiefly
+famous for his Digest, but I shall not venture on this topic, which is
+one for the lawyers. He was a man of deep piety, which he signalized,
+two years after his accession, by closing the schools of philosophy in
+Athens, where paganism still reigned.  The dispossessed philosophers
+betook themselves to Persia, where the king received them kindly. But
+they were shocked more so, says Gibbon, than became philosophers by
+the Persian practices of polygamy and incest, so they returned home
+again, and faded into obscurity. Three years after this exploit (532),
+Justinian embarked upon another, more worthy of praise the building of
+St. Sophia. I have never seen St. Sophia, but I have seen the
+beautiful contemporary mosaics at Ravenna, including portraits of
+Justinian and his empress Theodora. Both were very pious, though
+Theodora was a lady of easy virtue whom he had picked up in the
+circus. What is even worse, she was inclined to be a Monophysite.
 
+But enough of scandal. The Emperor himself, I am happy to say, was of
+impeccable orthodoxy, even in the matter of the "Three Chapters." This
+was a vexatious controversy. The Council of Chalcedon had pronounced
+orthodox three Fathers suspected of Nestorianism; Theodora, along with
+many others, accepted all the other decrees of the council, but not
+this one. The Western Church stood by everything decided by the
+Council, and the empress was driven to persecute the Pope. Justinian
+adored her, and after her death in 548, she became to him what the
+dead Prince Consort was to Queen Victoria. So in the end he lapsed
+into heresy, that of Aphthartodocctism. A contemporary historian
+(Evagrius) writes: "Having since the end of his life received the
+wages of his misdeeds, he has gone to seek the justice which was his
+due before the judgment-seat of hell."
 
+Justinian aspired to reconquer as much as possible of the Western
+Empire. In 535 he invaded Italy, and at first had quick success
+against the Goths. The Catholic population welcomed him, and he came
+as representing Rome against the barbarians.  But the Goths rallied,
+and the war lasted eighteen years, during which Rome, and Italy
+generally, suffered far more than in the barbarian invasion.
 
-THE FIFTH AND SIXTH CENTURIES 
+Rome was five times captured, thrice by Byzantines, twice by Goths,
+and sank to a small town. The same sort of thing happened in Africa,
+which Justinian also more or less reconquered. At first his armies
+were welcomed; then it was found that Byzantine administration was
+corrupt end Byzantine taxes were ruinous.  In the end, many people
+wished the Goths and Vandals back.  The Church, however, until his
+last years, was steadily on the side of the Emperor, because of his
+orthodoxy. He did not attempt the reconquest of Gaul, partly because
+of distance, but partly also because the Franks were orthodox.
 
-Two years after the execution of Boethius, Theodoric died. In 
-the next year, Justinian became Emperor. He reigned until 565, 
-and in this long time managed to do much harm and some good. 
-He is of course chiefly famous for his Digest, but I shall not venture 
-on this topic, which is one for the lawyers. He was a man of deep 
-piety, which he signalized, two years after his accession, by closing 
-the schools of philosophy in Athens, where paganism still reigned. 
-The dispossessed philosophers betook themselves to Persia, where 
-the king received them kindly. But they were shocked more so, 
-says Gibbon, than became philosophers by the Persian practices 
-of polygamy and incest, so they returned home again, and faded 
-into obscurity. Three years after this exploit (532), Justinian 
-embarked upon another, more worthy of praise the building of 
-St. Sophia. I have never seen St. Sophia, but I have seen the 
-beautiful contemporary mosaics at Ravenna, including portraits 
-of Justinian and his empress Theodora. Both were very pious, 
-though Theodora was a lady of easy virtue whom he had picked 
-up in the circus. What is even worse, she was inclined to be a 
-Monophysite. 
-
-But enough of scandal. The Emperor himself, I am happy to 
-say, was of impeccable orthodoxy, even in the matter of the 
-"Three Chapters." This was a vexatious controversy. The Council 
-of Chalcedon had pronounced orthodox three Fathers suspected 
-of Nestorianism; Theodora, along with many others, accepted all 
-the other decrees of the council, but not this one. The Western 
-Church stood by everything decided by the Council, and the 
-empress was driven to persecute the Pope. Justinian adored her, 
-and after her death in 548, she became to him what the dead 
-Prince Consort was to Queen Victoria. So in the end he lapsed 
-into heresy, that of Aphthartodocctism. A contemporary historian 
-(Evagrius) writes: "Having since the end of his life received the 
-wages of his misdeeds, he has gone to seek the justice which was 
-his due before the judgment-seat of hell." 
-
-Justinian aspired to reconquer as much as possible of the 
-Western Empire. In 535 he invaded Italy, and at first had quick 
-success against the Goths. The Catholic population welcomed 
-him, and he came as representing Rome against the barbarians. 
-But the Goths rallied, and the war lasted eighteen years, during 
-which Rome, and Italy generally, suffered far more than in the 
-barbarian invasion. 
-
-Rome was five times captured, thrice by Byzantines, twice by 
-Goths, and sank to a small town. The same sort of thing happened 
-in Africa, which Justinian also more or less reconquered. At first 
-his armies were welcomed; then it was found that Byzantine 
-administration was corrupt end Byzantine taxes were ruinous. 
-In the end, many people wished the Goths and Vandals back. 
-The Church, however, until his last years, was steadily on the 
-side of the Emperor, because of his orthodoxy. He did not attempt 
-the reconquest of Gaul, partly because of distance, but partly also 
-because the Franks were orthodox. 
-
-In 568, three years after Justinian's death, Italy was invaded 
-by a new and very fierce German tribe, the Lombards. Wars 
-between them and the Byzantines continued intermittently for 
-two hundred years, until nearly the time of Charlemagne. The 
-Byzantines held gradually less and less of Italy; in the South, 
-they had also to face the Saracens. Rome remained nominally 
-subject to them, and the popes treated the Eastern emperors with 
-deference. But in most parts of Italy the emperors, after the 
-coming of the Lombards, had very little authority or even none 
-at all. It was this period that ruined Italian civilization. It was 
-refugees from the Lombards who founded Venice, not, as tradition 
-avers, fugitives from Attila. 
-
-
-
-394 
-
-
+In 568, three years after Justinian's death, Italy was invaded by a
+new and very fierce German tribe, the Lombards. Wars between them and
+the Byzantines continued intermittently for two hundred years, until
+nearly the time of Charlemagne. The Byzantines held gradually less and
+less of Italy; in the South, they had also to face the Saracens. Rome
+remained nominally subject to them, and the popes treated the Eastern
+emperors with deference. But in most parts of Italy the emperors,
+after the coming of the Lombards, had very little authority or even
+none at all. It was this period that ruined Italian civilization. It
+was refugees from the Lombards who founded Venice, not, as tradition
+avers, fugitives from Attila.
 
 ## Chapter VI ST. BENEDICT AND GREGORY THE GREAT 
 
--TTN the general decay of civilization that came about during the 
-I incessant wars of the sixth and succeeding centuries, it was 
-JL above all the Church that preserved whatever survived of the 
+In the general decay of civilization that came about during the 
+incessant wars of the sixth and succeeding centuries, it was 
+above all the Church that preserved whatever survived of the 
 culture of ancient Rome. The Church performed this work very 
 imperfectly, because fanaticism and superstition prevailed among 
 even the greatest ecclesiastics of thp time, and secular learning 
@@ -15549,104 +15411,93 @@ second, the influence of the papacy, especially under Gregory the
 Great; third, the conversion of the heathen barbarians by means 
 of missions. I will say something about each of these in succession. 
 
-The monastic movement began simultaneously in Egypt and 
-Syria about the beginning of the fourth century. It had two forms, 
-that of solitary hermits, and that of monasteries. St. Anthony, the 
-first of the hermits, was born in Egypt about 250, and withdrew 
-from the world about 270. For fifteen years he lived alone in a 
-hut near his home; then, for twenty years, in remote solitude in 
-the desert. But his fame spread, and multitudes longed to hear 
-him preach. Accordingly, about 305, he came forth to teach, and 
-to encourage the hermit's life. He practiced extreme austerities, 
-reducing food, drink, and sleep to the minimum required to 
-support life. The devil constantly assailed him with lustful visions, 
-but he manfully withstood the malign diligence of Satan. By the 
-end of his life, the Thebaid 1 was full of hermits who had been 
-inspired by his example and his precepts. 
+The monastic movement began simultaneously in Egypt and Syria about
+the beginning of the fourth century. It had two forms, that of
+solitary hermits, and that of monasteries. St. Anthony, the first of
+the hermits, was born in Egypt about 250, and withdrew from the world
+about 270. For fifteen years he lived alone in a hut near his home;
+then, for twenty years, in remote solitude in the desert. But his fame
+spread, and multitudes longed to hear him preach. Accordingly, about
+305, he came forth to teach, and to encourage the hermit's life. He
+practiced extreme austerities, reducing food, drink, and sleep to the
+minimum required to support life. The devil constantly assailed him
+with lustful visions, but he manfully withstood the malign diligence
+of Satan. By the end of his life, the Thebaid[^202] was full of hermits
+who had been inspired by his example and his precepts.
 
-A few years later about 315 or 320 another Egyptian, Pachomius, founded the first monastery. Here the monks had a common 
-life, without private property, with communal meals and communal religious observances. It was in this form, rather than in 
-that of St. Anthony, that monasticism conquered the Christian 
-world. In the monasteries derived from Pachomius, the monks 
-1 The desert near Egyptian Thebes. 
-395 
+[^202]: The desert near Egyptian Thebes.
 
+A few years later about 315 or 320 another Egyptian, Pachomius,
+founded the first monastery. Here the monks had a common life, without
+private property, with communal meals and communal religious
+observances. It was in this form, rather than in that of St. Anthony,
+that monasticism conquered the Christian world. In the monasteries
+derived from Pachomius, the monks did much work, chiefly agricultural,
+instead of spending the whole of their time in resisting the
+temptations of the flesh.
 
+At about the same time, monasticism sprang up in Syria and
+Mesopotamia. Here asceticism was carried to even greater lengths than
+in Egypt. St. Simeon Stylites and the other pillar hermits were
+Syrian. It was from the East that monasticism came to Greek-speaking
+countries, chiefly owing to St. Basil (about 360). His monasteries
+were less ascetic; they had orphanages, and schools for boys (not only
+for such as intended to become monks).
 
-WESTERN PHILOSOPHICAL THOUGHT 
-
-did much work, chiefly agricultural, instead of spending the whole 
-of their time in resisting the temptations of the flesh. 
-
-At about the same time, monasticism sprang up in Syria and 
-Mesopotamia. Here asceticism was carried to even greater lengths 
-than in Egypt. St. Simeon Stylites and the other pillar hermits 
-were Syrian. It was from the East that monasticism came to Greek-speaking countries, chiefly owing to St. Basil (about 360). His 
-monasteries were less ascetic; they had orphanages, and schools 
-for boys (not only for such as intended to become monks). 
-
-At first, monasticism was a spontaneous movement, quite outside Church organization. It was St. Athanasius who reconciled 
-ecclesiastics to it. Partly as a result of his influence, it came to be 
-the rule that monks should be priests. It was he also, while he 
-was in Rome in 339, who introduced the movement into the West. 
-St. Jerome did much to promote it, and St. Augustine introduced 
-it into Africa. St. Martin of Tours inaugurated monasteries in 
-Gaul, St. Patrick in Ireland. The monastery of lona was founded 
-by St. Columba in 566. In early days, before monks had been 
-fined into the ecclesiastical organization, they had been a source 
-of disorder. To begin with, there was no way of discriminating 
-between genuine ascetics and men who, being destitute, found 
-monastic establishments comparatively luxurious. Then again 
-there was the difficulty that the monks gave a turbulent support 
-to their favorite bishop, causing synods (and almost causing 
-Councils) to fall into heresy. The synod (not the Council) of 
-Ephesus, which decided for the Monophysites, was under a 
-monkish reign of terror. But for the resistance of the Pope, the 
-victory of the Monophysites might have been permanent. In 
-later times, such disorders no longer occurred. 
+At first, monasticism was a spontaneous movement, quite outside Church
+organization. It was St. Athanasius who reconciled ecclesiastics to
+it. Partly as a result of his influence, it came to be the rule that
+monks should be priests. It was he also, while he was in Rome in 339,
+who introduced the movement into the West.  St. Jerome did much to
+promote it, and St. Augustine introduced it into Africa. St. Martin of
+Tours inaugurated monasteries in Gaul, St. Patrick in Ireland. The
+monastery of lona was founded by St. Columba in 566. In early days,
+before monks had been fined into the ecclesiastical organization, they
+had been a source of disorder. To begin with, there was no way of
+discriminating between genuine ascetics and men who, being destitute,
+found monastic establishments comparatively luxurious. Then again
+there was the difficulty that the monks gave a turbulent support to
+their favorite bishop, causing synods (and almost causing Councils) to
+fall into heresy. The synod (not the Council) of Ephesus, which
+decided for the Monophysites, was under a monkish reign of terror. But
+for the resistance of the Pope, the victory of the Monophysites might
+have been permanent. In later times, such disorders no longer
+occurred.
 
 There seem to have been nuns before there were monks as 
 early as the middle of the third century. 
 
-Cleanliness was viewed with abhorrence. Lice were called 
-"pearls of God," and were a mark of saintliness. Saints, male and 
-female, would boast that water had never touched their feet except 
-when they had to cross rivers. In later centuries, monks served 
-many useful purposes: they were skilled agriculturists, and some 
-of them kept alive or revived learning. But in the beginning, 
-especially in the eremitic section, there was none of this. Most 
-monks did no work, never read anything except what religion 
-prescribed, and conceived virtue in an entirely negative manner, 
+Cleanliness was viewed with abhorrence. Lice were called "pearls of
+God," and were a mark of saintliness. Saints, male and female, would
+boast that water had never touched their feet except when they had to
+cross rivers. In later centuries, monks served many useful purposes:
+they were skilled agriculturists, and some of them kept alive or
+revived learning. But in the beginning, especially in the eremitic
+section, there was none of this. Most monks did no work, never read
+anything except what religion prescribed, and conceived virtue in an
+entirely negative manner, as abstention from sin, especially the sins
+of the flesh. St. Jerome, it is true, took his library with him into
+the desert, but he came to think that this had been a sin.
 
-396 
-
-
-
-ST. BENEDICT AND GREGORY THE GREAT 
-
-as abstention from sin, especially the sins of the flesh. St. Jerome, 
-it is true, took his library with him into the desert, but he came to 
-think that this had been a sin. 
-
-In Western monasticism, the most important name is that of 
-St. Benedict, the founder of the Benedictine Order. He was born 
-about 480, near Spoleto, of a noble Umbrian family; at the age 
-of twenty, he fled from the luxuries and pleasures of Rome to 
-the solitude of a cave, where he lived for three years. After this 
-period, his life was less solitary, and about the year 520 he founded 
-the famous monastery of Monte Cassino, for which he drew up 
-the "Benedictine rule." This was adapted to Western climates, 
-and demanded less austerity than had been common among 
-Egyptian and Syrian monks. There had been an unedifying competition in ascetic extravagance, the most extreme practitioner 
-being considered the most holy. To this St. Benedict put an end, 
-decreeing that austerities going beyond the rule could only be 
-practiced by permission of the abbot. The abbot was given great 
-power; he was elected for life, and had (within the Rule and the 
-limits of orthodoxy) an almost despotic control over his monks, 
-who were no longer allowed, as previously, to leave their monastery 
-for another if they felt so inclined. In later times, Benedictines 
-have been remarkable for learning, but at first all their reading 
-was devotional. 
+In Western monasticism, the most important name is that of
+St. Benedict, the founder of the Benedictine Order. He was born about
+480, near Spoleto, of a noble Umbrian family; at the age of twenty, he
+fled from the luxuries and pleasures of Rome to the solitude of a
+cave, where he lived for three years. After this period, his life was
+less solitary, and about the year 520 he founded the famous monastery
+of Monte Cassino, for which he drew up the "Benedictine rule." This
+was adapted to Western climates, and demanded less austerity than had
+been common among Egyptian and Syrian monks. There had been an
+unedifying competition in ascetic extravagance, the most extreme
+practitioner being considered the most holy. To this St. Benedict put
+an end, decreeing that austerities going beyond the rule could only be
+practiced by permission of the abbot. The abbot was given great power;
+he was elected for life, and had (within the Rule and the limits of
+orthodoxy) an almost despotic control over his monks, who were no
+longer allowed, as previously, to leave their monastery for another if
+they felt so inclined. In later times, Benedictines have been
+remarkable for learning, but at first all their reading was
+devotional.
 
 Organizations have a life of their own, independent of the 
 intentions of their founders. Of this fact, the most striking example 
@@ -15657,48 +15508,44 @@ remarks: "I have somewhere heard or read the frank confession
 of a Benedictine abbot: 'My vow of poverty has given me an 
 hundred thousand crowns a year; my vow of obedience has raised 
 me to the rank of a sovereign prince.' I forget the consequences 
-of his vow of chastity." 1 The departures of the Order from the 
+of his vow of chastity."[^203] The departures of the Order from the 
 founder's intentions were, however, by no means all regrettable. 
 This is true, in particular, of learning. The library of Monte 
 Cassino was famous, and in various ways the world is much 
 indebted to the scholarly tastes of later Benedictines. 
 
+[^203]: _Op. cit._ xxxvii, note 57. 
+
 St. Benedict lived at Monte Cassino from its foundation until 
 his death in 543. The monastery was sacked by the Lombards, 
-1 Op. cit. t xxxvii, note 57. 
-
-397 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 shortly before Gregory the Great, himself a Benedictine, became 
 Pope. The monks fled to Rome; but when the fury of the 
 Lombards had abated, they returned to Monte Cassino. 
 
-From the dialogues of Pope Gregory the Great, written in 593, 
-we learn much about St. Benedict. He was "brought up at Rome 
-in the study of humanity. But forasmuch as he saw many by the 
-reason of such learning to fall to dissolute and lewd life, he drew 
-back his foot, which he had as it were now set forth into the world, 
-lest, entering too far in acquaintance therewith, he likewise might 
-have fallen into that dangerous and godless gulf: wherefore, giving 
-over his book, and forsaking his father's house and wealth, with 
-a resolute mind only to serve God, he sought for some place, 
-where he might attain to the desire of his holy purpose: and in 
-this sort he departed, instructed with learned ignorance, and 
-furnished with unlearned wisdom." 
+From the dialogues of Pope Gregory the Great, written in 593, we learn
+much about St. Benedict. He was "brought up at Rome in the study of
+humanity. But forasmuch as he saw many by the reason of such learning
+to fall to dissolute and lewd life, he drew back his foot, which he
+had as it were now set forth into the world, lest, entering too far in
+acquaintance therewith, he likewise might have fallen into that
+dangerous and godless gulf: wherefore, giving over his book, and
+forsaking his father's house and wealth, with a resolute mind only to
+serve God, he sought for some place, where he might attain to the
+desire of his holy purpose: and in this sort he departed, instructed
+with learned ignorance, and furnished with unlearned wisdom."
 
-He immediately acquired the power to work miracles. The first 
-of these was the mending of a broken sieve by means of prayer. 
-The townsmen hung the sieve over the church door, and it "continued there many years after, even to these very troubles of the 
-Lombards." Abandoning the sieve, he went to his cave, unknown 
-to all but one friend, who secretly supplied him with food let 
-down by a rope, to which a bell was tied to let the saint know 
-when his dinner had come. But Satan threw a stone at the rope, 
-breaking both it and the bell. Nevertheless, the enemy of mankind 
-was foiled in his hope of disrupting the Saint's food-supply. 
+He immediately acquired the power to work miracles. The first of these
+was the mending of a broken sieve by means of prayer.  The townsmen
+hung the sieve over the church door, and it "continued there many
+years after, even to these very troubles of the Lombards." Abandoning
+the sieve, he went to his cave, unknown to all but one friend, who
+secretly supplied him with food let down by a rope, to which a bell
+was tied to let the saint know when his dinner had come. But Satan
+threw a stone at the rope, breaking both it and the
+bell. Nevertheless, the enemy of mankind was foiled in his hope of
+disrupting the Saint's food-supply.
+
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n397)
 
 When Benedict had been as long in the cave as God's purposes 
 required, our Lord appeared on Easter Sunday to a certain priest, 
