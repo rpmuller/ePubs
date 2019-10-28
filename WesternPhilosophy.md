@@ -15545,29 +15545,27 @@ threw a stone at the rope, breaking both it and the
 bell. Nevertheless, the enemy of mankind was foiled in his hope of
 disrupting the Saint's food-supply.
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n397)
+When Benedict had been as long in the cave as God's purposes required,
+our Lord appeared on Easter Sunday to a certain priest, revealed the
+hermit's whereabouts, and bade him share his Easter feast with the
+Saint. About the same time certain shepherds found him. "At the first,
+when they espied him through the bushes, and saw his apparel made of
+skins, they verily thought that it had been some beast: but after they
+were acquainted with the servant of God, many of them were by his
+means converted from their beastly life to grace, piety, and
+devotion."
 
-When Benedict had been as long in the cave as God's purposes 
-required, our Lord appeared on Easter Sunday to a certain priest, 
-revealed the hermit's whereabouts, and bade him share his Easter 
-feast with the Saint. About the same time certain shepherds 
-found him. "At the first, when they espied him through the bushes, 
-and saw his apparel made of skins, they verily thought that it 
-had been some beast: but after they were acquainted with the 
-r \ju*nt of God, many of them were by his means convened from 
-jfce ot'-^tly life to grace, piety, and devotion." 
-, flesh na ner hermits, Benedict suffered from the temptations oi 
-a, tb* lptt A certain woman there was which some time he had 
-toemory of which the wicked spirit put into his mind, 
-*k c *** memory of her did so mightily inflame with concupis 
-mi of God's servant, which did so increase that, almost 
-ith pleasure, he was of mind to have forsaken the 
-wilderness. But suddenly, assisted with God's grace, he came to 
-himself; and seeing many thick briers and nettle bushes to grow 
-hard by, off he cast his apparel, and threw himself into the midst 
-of them, and there wallowed so long that, when he rose up, all 
-his flesh was pitifully torn: and so by the wounds of his body, 
-he cured the wounds of his soul." 
+Like other hermits, Benedict suffered from the temptations of the
+flesh.  "A certain woman there was which some time he had seen, the
+memory of which the wicked spirit put into his mind, and by the memory
+of her so did mightily inflame with concuspicence the soul of God's
+servant, which did so increase that, amost overcome with pleasure, he
+was of mind to have forsaken the wilderness. But suddenly, assisted
+with God's grace, he came to himself; and seeing many thick briers and
+nettle bushes to grow hard by, off he cast his apparel, and threw
+himself into the midst of them, and there wallowed so long that, when
+he rose up, all his flesh was pitifully torn: and so by the wounds of
+his body, he cured the wounds of his soul."
 
 His fame being spread abroad, the monks of a certain monastery, 
 whose abbot had lately died, besought him to accept the succession. 
@@ -15623,7 +15621,7 @@ then would he fall a reviling and railing at him: for when he cried
 out, calling him "Blessed Bennet,' and yet found that he gave him 
 no answer, straightways he would turn his tune and say: 'Cursed 
 Bennet, and not blessed: what hast thou to do with me? and why 
-dost thou thus persecute me?' " Here the story ends; one gathers 
+dost thou thus persecute me?'" Here the story ends; one gathers 
 that Satan gave up in despair. 
 
 I have quoted at some length from these dialogues, because they 
@@ -15637,54 +15635,57 @@ Gregory the Great, fourth and last of the Doctors of the Western
 Church, and politically one of the most eminent of the popes. 
 To him we must now turn our attention. 
 
-The Venerable W. H. Hutton, Archdeacon of Northampton, 1 
-claims that Gregory was the greatest man of the sixth century; 
-the only rival claimants, hc^ays, would be Justinian and St. Benedict. All three, certainly, had a profound effect on future ages: 
-Justinian by his Laws (not by his conquests, which were ephemeral); Benedict by his monastic order; and Gregory by the 
-increase of papal power which he brought about. In the dialogues 
-that I have been quoting he appears childish and credulous, but 
-as a statesman he is astute, masterful, and very well aware of 
-what can be achieved in the complex and changing world in 
-which he has to operate. The contrast is surprising; but the 
-most effective men of action are often intellectually second-rate. 
+The Venerable W. H. Hutton, Archdeacon of Northampton,[^204] claims
+that Gregory was the greatest man of the sixth century; the only rival
+claimants, he says, would be Justinian and St. Benedict. All three,
+certainly, had a profound effect on future ages: Justinian by his Laws
+(not by his conquests, which were ephemeral); Benedict by his monastic
+order; and Gregory by the increase of papal power which he brought
+about. In the dialogues that I have been quoting he appears childish
+and credulous, but as a statesman he is astute, masterful, and very
+well aware of what can be achieved in the complex and changing world
+in which he has to operate. The contrast is surprising; but the most
+effective men of action are often intellectually second-rate.
 
-1 Cambridge Medieval History t II, chap. viii. 
+[^204]: _Cambridge Medieval History_, II, chap. viii. 
 
-Gregory the Great, the first Pope of that name, was born in 
-Rome, about 540, of a rich and noble family. It seems his grandfather had been Pope after he became a widower. He himself, as a 
-young man, had a palace and immense wealth. He had what was 
-considered a good education, though it did not include a knowledge of Greek, which he never acquired, although he lived for 
-six years in Constantinople. In 573 he was prefect of the City of 
-Rome. But religion claimed him: he resigned his office, gave his 
-wealth to the founding of monasteries and to charity, and turned 
-his own palace into a house for monks, himself becoming a Benedictine. He devoted himself to meditation, and to austerities 
-which permanently injured his health. But Pope Pelagius II had 
-become aware of his political abilities, and sent him as his envoy 
-to Constantinople, to which, since Justinian's time, Rome was 
-nominally subject. Gregory lived in Constantinople from 579 to 
-585, representing papal interests at the Emperor's court, and papal 
-theology in discussions with Eastern ecclesiastics, who were always 
-more prone to heresy than those of the West. The patriarch of 
-Constantinople, at this time, held the erroneous opinion that our 
-resurrection bodies will be impalpable, but Gregory saved the 
-Emperor from falling into this departure from the true faith. He 
-was unable, however, to persuade the Emperor to undertake a 
-campaign against the Lombards, which was the principal object 
-of his mission. 
 
-The five years 585-90 Gregory spent as head of his monastery. 
-Then the Pope died, and Gregory succeeded him. The times were 
-difficult, but by their very confusion offered great opportunities 
-to an able statesman. The Lombards were ravaging Italy; Spain 
-and Africa were in a state of anarchy due to the weakness of the 
-Byzantines and the decadence of Visigoths and the depredations 
-of Moors. In France there were wars between North and South. 
-Britain, which had been Christian under the Romans, had reverted to paganism since the Saxon invasion. There were still 
-remnants of Arianism, and the heresy of the Three Chapters was 
-by no means extinct. The turbulent times infected even bishops, 
-many of whom led far from exemplary lives. Simony was rife, 
-and remained a crying evil until the latter half of the eleventh 
-century. 
+Gregory the Great, the first Pope of that name, was born in Rome,
+about 540, of a rich and noble family. It seems his grandfather had
+been Pope after he became a widower. He himself, as a young man, had a
+palace and immense wealth. He had what was considered a good
+education, though it did not include a knowledge of Greek, which he
+never acquired, although he lived for six years in Constantinople. In
+573 he was prefect of the City of Rome. But religion claimed him: he
+resigned his office, gave his wealth to the founding of monasteries
+and to charity, and turned his own palace into a house for monks,
+himself becoming a Benedictine. He devoted himself to meditation, and
+to austerities which permanently injured his health. But Pope Pelagius
+II had become aware of his political abilities, and sent him as his
+envoy to Constantinople, to which, since Justinian's time, Rome was
+nominally subject. Gregory lived in Constantinople from 579 to 585,
+representing papal interests at the Emperor's court, and papal
+theology in discussions with Eastern ecclesiastics, who were always
+more prone to heresy than those of the West. The patriarch of
+Constantinople, at this time, held the erroneous opinion that our
+resurrection bodies will be impalpable, but Gregory saved the Emperor
+from falling into this departure from the true faith. He was unable,
+however, to persuade the Emperor to undertake a campaign against the
+Lombards, which was the principal object of his mission.
+
+The five years 585--90 Gregory spent as head of his monastery.  Then
+the Pope died, and Gregory succeeded him. The times were difficult,
+but by their very confusion offered great opportunities to an able
+statesman. The Lombards were ravaging Italy; Spain and Africa were in
+a state of anarchy due to the weakness of the Byzantines and the
+decadence of Visigoths and the depredations of Moors. In France there
+were wars between North and South.  Britain, which had been Christian
+under the Romans, had reverted to paganism since the Saxon
+invasion. There were still remnants of Arianism, and the heresy of the
+Three Chapters was by no means extinct. The turbulent times infected
+even bishops, many of whom led far from exemplary lives. Simony was
+rife, and remained a crying evil until the latter half of the eleventh
+century.
 
 All these sources of trouble Gregory combated with energy and 
 sagacity. Before his pontificate, the bishop of Rome, though 
@@ -15716,39 +15717,31 @@ except to the Emperor and the ladies of the Byzantine court, is
 that of a head master sometimes commending, often reproving, 
 never showing the faintest hesitation as to his right to give orders. 
 
-Let us take as a sample his letters during one year (599). The 
-first is a letter to the bishop of Cagliari in Sardinia, who, though 
-old, was bad. It says, in part: "It has been told me that on the 
-Lord's day, before celebrating the solemnities of mass, thou 
-wentest forth to plough up the crop of the bearer of these presents. 
-. . . Also, after the solemnities of mass thou didst not fear to root 
-up the landmarks of that possession. . . . Seeing that we still 
-spare thy grey hairs, bethink thee at length, old man, and restrain 
-thyself from such levity of .behavior, and perversity of deeds," 
-He writes at the same time to the secular authorities of Sardinia 
-on the same subject. The bishop in question next has to be reproved because he makes a charge for conducting funerals; and 
+Let us take as a sample his letters during one year (599). The first
+is a letter to the bishop of Cagliari in Sardinia, who, though old,
+was bad. It says, in part: "It has been told me that on the Lord's
+day, before celebrating the solemnities of mass, thou wentest forth to
+plough up the crop of the bearer of these presents.  . . . Also, after
+the solemnities of mass thou didst not fear to root up the landmarks
+of that possession. . . . Seeing that we still spare thy grey hairs,
+bethink thee at length, old man, and restrain thyself from such levity
+of .behavior, and perversity of deeds," He writes at the same time to
+the secular authorities of Sardinia on the same subject. The bishop in
+question next has to be reproved because he makes a charge for
+conducting funerals; and then again because, with his sanction, a
+converted Jew placed the Cross and an image of the Virgin in a
+synagogue. Moreover, he and other Sardinian bishops have been known to
+travel without permission of their metropolitan; this must cease. Then
+follows a very severe letter to the proconsul of Dalmatia, saying,
+among other things: "We see not of what sort your satisfaction is
+either to God or men"; and again: "With regard to your seeking to be
+in favor with us, it is fitting that with your whole heart and soul,
+and with tears, as becomes you, you should satisfy your Redeemer for
+such things as these." I am ignorant as to what the wretch had done.
 
-402 
-
-
-
-ST. BENEDICT AND GREGORY THE GREAT 
-
-then again because, with his sanction, a converted Jew placed the 
-Cross and an image of the Virgin in a synagogue. Moreover, he 
-and other Sardinian bishops have been known to travel without 
-permission of their metropolitan; this must cease. Then follows 
-a very severe letter to the proconsul of Dalmatia, saying, among 
-other things: "We see not of what sort your satisfaction is either 
-to God or men"; and again: "With regard to your seeking to be 
-in favor with us, it is fitting that with your whole heart and soul, 
-and with tears, as becomes you, you should satisfy your Redeemer 
-for such things as these." I am ignorant as to what the wretch 
-had done. 
-
-Next comes a letter to CaUinicus, exarch of Italy, congratulating 
+Next comes a letter to Callinicus, exarch of Italy, congratulating 
 him on a victory over the Slavs, and telling him how to act towards 
-the heretics of I stria, who erred as to the Three Chapters. He 
+the heretics of Istria, who erred as to the Three Chapters. He 
 writes also on this subject to the bishop of Ravenna. Once, by way 
 of exception, we find a letter to the bishop of Syracuse, in which 
 Gregory defends himself instead of finding fault with others. The 
@@ -15761,46 +15754,43 @@ subservient to Greek usage were therefore in error. (A similar
 question was one of the causes of the schism of the Old Believers 
 in Russia.) 
 
-There are a number of letters to barbarian sovereigns, male and 
-female. Brunichild, queen of the Franks, wanted the pallium conferred on a certain French bishop, and Gregory was willing to 
-grant her request; but unfortunately the emissary she sent was a 
-schismatic. To Agilulph king of the Lombards he writes congratulating him on having made peace. "For, if unhappily peace 
-had not been made, what else could have ensued but, with sin 
-and danger on ix>th sides, the shedding of the blood of miserable 
-peasants whose lalxmr profits both?" At the same time he writes 
-to Agilulph's wife, Queen Theodelinda, telling her to influence 
-her husband to persist in good courses. 1 le writes again to Brunichild to find fault with two things IA her kingdom: that laymen 
-are promoted at once to be bishops, without a probationary time 
-as ordinary priests; and that Jews are allowed to have Christian 
-slaves. To Theodoric and Theodebert, kings of the Franks, he 
+There are a number of letters to barbarian sovereigns, male and
+female. Brunichild, queen of the Franks, wanted the pallium conferred
+on a certain French bishop, and Gregory was willing to grant her
+request; but unfortunately the emissary she sent was a schismatic. To
+Agilulph king of the Lombards he writes congratulating him on having
+made peace. "For, if unhappily peace had not been made, what else
+could have ensued but, with sin and danger on ix>th sides, the
+shedding of the blood of miserable peasants whose lalxmr profits
+both?" At the same time he writes to Agilulph's wife, Queen
+Theodelinda, telling her to influence her husband to persist in good
+courses. 1 le writes again to Brunichild to find fault with two things
+IA her kingdom: that laymen are promoted at once to be bishops,
+without a probationary time as ordinary priests; and that Jews are
+allowed to have Christian slaves. To Theodoric and Theodebert, kings
+of the Franks, he writes saying that, owing to the exemplary piety of
+the Franks, he would like to utter only pleasant things, but he cannot
+refrain from pointing out the prevalence of simony in their kingdom.
+He writes again about a wrong done to the Bishop of Turin.  One letter
+to a barbarian sovereign is wholly complimentary; it is to Richard,
+king of the Visigoths, who had been an Arian, but became a Catholic
+in 587. For this the Pope rewards him by sending him "a small key from
+the most sacred body of the blessed apostle Peter to convey his
+blessing, containing iron from his chains, that what had bound his
+neck for martyrdom may loose yours from all sins." I hope His Majesty
+was pleased with this present.
 
-403 
-
-
-
-WBSTBRN PHILOSOPHICAL THOUGHT 
-
-writes saying that, owing to the exemplary piety of the Franks, 
-he would like to utter only pleasant things, but he cannot refrain 
-from pointing out the prevalence of simony in their kingdom. 
-He writes again about a wrong done to the Bishop of Turin. 
-One letter to a barbarian sovereign is wholly complimentary; it is 
-to Richard, king of the Visigoths, who had been an Arian, but 
-became a Catholic in 587. For this the Pope rewards him by 
-sending him "a small key from the most sacred body of the blessed 
-apostle Peter to convey his blessing, containing iron from his chains, 
-that what had bound his neck for martyrdom may loose yours 
-from all sins." I hope His Majesty was pleased with this present. 
-
-The Bishop of Antioch is instructed as to the heretical synod of 
-Ephesus, and informed that "it has come to our ears that in the 
-Churches of the East no one attains to a sacred order except by 
-giving of bribes" a matter which the bishop is to rectify whereever it is in his power to do so. The Bishop of Marseilles is 
-reproached for breaking certain images which were being adored: 
-it is true that adoration of images is wrong, but images, nevertheless, are useful and should be treated with respect. Two bishops 
-of Gaul are reproached because a lady who had become a nun 
-was afterwards forced to marry. "If this be so, ... you shall 
-have the office of hirelings, and not the merit of shepherds." 
+The Bishop of Antioch is instructed as to the heretical synod of
+Ephesus, and informed that "it has come to our ears that in the
+Churches of the East no one attains to a sacred order except by giving
+of bribes" a matter which the bishop is to rectify whereever it is in
+his power to do so. The Bishop of Marseilles is reproached for
+breaking certain images which were being adored: it is true that
+adoration of images is wrong, but images, nevertheless, are useful and
+should be treated with respect. Two bishops of Gaul are reproached
+because a lady who had become a nun was afterwards forced to
+marry. "If this be so, ... you shall have the office of hirelings, and
+not the merit of shepherds."
 
 The above are a few of the letters of a single year. It is no wonder 
 that he found no time for contemplation, as he laments in one of 
@@ -15809,263 +15799,240 @@ the letters of this year (cxxi).
 Gregory was no friend to secular learning. To Desiderius 
 Bishop of Vienne in France, he writes: 
 
-"It came to our ears, what we cannot mention without shame, 
-that thy Fraternity is [i.e. thou art] in the habit of expounding 
-gUpunar to certain persons. This thing we took so much amiss, 
-and so strongly disapproved it, that we changed what had been 
-said before into groaning and sadness, since the praises of Christ 
-cannot find room in one mouth with the praises of Jupiter .... In 
-proportion as it is execrable for such a thing to be related of a 
-priest, it ought to be ascertained by strict and veracious evidence 
-whether or not it be so." 
+"It came to our ears, what we cannot mention without shame, that thy
+Fraternity is [i.e. thou art] in the habit of expounding gUpunar to
+certain persons. This thing we took so much amiss, and so strongly
+disapproved it, that we changed what had been said before into
+groaning and sadness, since the praises of Christ cannot find room in
+one mouth with the praises of Jupiter .... In proportion as it is
+execrable for such a thing to be related of a priest, it ought to be
+ascertained by strict and veracious evidence whether or not it be so."
 
 This hostility to pagan learning survived in the Church for at 
 least four centuries, till the time of Gerbert (Sylvester II). It was 
 only from the eleventh century onward that the Church became 
 friendly to learning. 
 
-404 
 
+Gregory's attitude to the emperor is much more deferential than his
+attitude to barbarian kings. Writing to a correspondent in
+Constantinople he says: "What pleases the most pious emperor, whatever
+he commands to be done, is in his power. As he determines, so let him
+provide. Only let him not cause us to be mixed up in the deposition
+[of an orthodox bishop]. Still, what he does, if it is canonical, we
+will follow. But, if it is not canonical, we will bear it, so far as
+we can without sin of our own." When the Emperor Maurice was dethroned
+by a mutiny, of which the leader was an obscure centurion named
+Phocas, this upstart acquired the throne, and proceeded to massacre
+the five sons of Maurice in their father's presence, after which he
+put to death the aged Emperor himself. Phocas was of course crowned by
+the patriarch of Constantinople, \vho had no alternative but
+death. What is more surprising is that Gregory, from the comparatively
+safe distance of Rome, wrote letters of fulsome adulation to the
+usurper and his wife. "There is this difference," he writes, "between
+the kings of the nations and the emperors of the republic, that the
+kings of the nations are lords of slaves, but the emperors of the
+republic lords of freemen. . . . May Almighty God in every thought and
+deed keep the heart of your Piety [i.e. you] in the hand of His grace;
+and whatsoever things should be done justly, whatsoever things with
+clemency, may the Holy Spirit who dwells in your breast direct." And
+to the wife of Phocas, the Empress Leontia, he writes: "What tongue
+may suffice to speak, what mind to think, what great thanks we owe to
+Almighty God for the serenity of your empire, in that such hard
+burdens of long duration have been removed from our necks, and the
+gentle yoke of imperial supremacy has returned." One might suppose
+Maurice to have been a monster; in fact, he was a good old
+man. Apologists excuse Gregory on the pica that he did not know what
+atrocities had been committed by Phocas; but he certainly knew the
+customary behavior of Byzantine usurpers, and he did not wait to
+ascertain whether Phocas was an exception.
 
+The conversion of the heathen was an important part of the increasing
+influence of the Church. The Goths had been convened before the end of
+the fourth century by Ulphilas, or Ulfila unfortunately to Arianism,
+which was also the creed of the Vandals.  After the death of
+Theodoric, however, the Goths became gradually Catholic: the king of
+the Visigoths, as we have seen, adopted the orthodox faith in the time
+of Gregory. The Franks were Catholic from the time of Clovis. The
+Irish were converted before the fall of the Western Empire by
+St. Patrick, a Somersetshire country gentleman[^205] who lived among
+them from 432 till his death in 461. The Irish in turn did much to
+evangelize Scotland and the North of England. In this work the
+greatest missionary was St. Columba; another was St. Columban, who
+wrote long letters to Gregory on the date of Easter and other
+important questions.  The conversion of England, apart from
+Northumbria, was Gregory's special care. Every one knows how, before
+he was Pope, he saw two fair-haired blue-eyed boys in the slave market
+in Rome, and on being told they were Angles replied, "No, angels."
+When he became Pope he sent St. Augustine to Kent to convert the
+Angles. There are many letters in his correspondence to St.
+Augustine, to Edilbext, king of the Angeli, and to others, about the
+mission. Gregory decrees that heathen temples in England are not to be
+destroyed, but the idols are to be destroyed and the temples then
+consecrated as churches. St. Augustine puts a number of queries to the
+Pope, such as whether cousins may marry, whether spouses who have had
+intercourse the previous night may come to church (yes, if they have
+washed, says Gregory), and so on. The mission, as we know, prospered,
+and that is why we are all Christians at this day.
 
-ST. BENEDICT AND GREGORY THE GREAT 
+[^205]: So at least Bury says in his Life of the Saint. 
 
-Gregory's attitude to the emperor is much more deferential than 
-his attitude to barbarian kings. Writing to a correspondent in 
-Constantinople he says: "What pleases the most pious emperor, 
-whatever he commands to be done, is in his power. As he determines, so let him provide. Only let him not cause us to be mixed 
-up in the deposition [of an orthodox bishop]. Still, what he does, 
-if it is canonical, we will follow. But, if it is not canonical, we will 
-bear it, so far as we can without sin of our own." When the 
-Emperor Maurice was dethroned by a mutiny, of which the leader 
-was an obscure centurion named Phocas, this upstart acquired 
-the throne, and proceeded to massacre the five sons of Maurice 
-in their father's presence, after which he put to death the aged 
-Emperor himself. Phocas was of course crowned by the patriarch 
-of Constantinople, \vho had no alternative but death. What is 
-more surprising is that Gregory, from the comparatively safe 
-distance of Rome, wrote letters of fulsome adulation to the usurper 
-and his wife. "There is this difference," he writes, "between the 
-kings of the nations and the emperors of the republic, that the 
-kings of the nations are lords of slaves, but the emperors of the 
-republic lords of freemen. . . . May Almighty God in every 
-thought and deed keep the heart of your Piety [i.e. you] in the 
-hand of His grace; and whatsoever things should be done justly, 
-whatsoever things with clemency, may the Holy Spirit who dwells 
-in your breast direct." And to the wife of Phocas, the Empress 
-Leontia, he writes: "What tongue may suffice to speak, what mind 
-to think, what great thanks we owe to Almighty God for the 
-serenity of your empire, in that such hard burdens of long duration 
-have been removed from our necks, and the gentle yoke of imperial supremacy has returned." One might suppose Maurice to 
-have been a monster; in fact, he was a good old man. Apologists 
-excuse Gregory on the pica that he did not know what atrocities 
-had been committed by Phocas; but he certainly knew the customary behavior of Byzantine usurpers, and he did not wait to 
-ascertain whether Phocas was an exception. 
-
-The conversion of the heathen was an important part of the 
-increasing influence of the Church. The Goths had been convened 
-before the end of the fourth century by Ulphilas, or Ulfila unfortunately to Arianism, which was also the creed of the Vandals. 
-After the death of Theodoric, however, the Goths became gradually 
-Catholic: the king of the Visigoths, as we have seen, adopted 
-the orthodox faith in the time of Gregory. The Franks were 
-Catholic from the time of Clovis. The Irish were converted before 
-the fall of the Western Empire by St. Patrick, a Somersetshire 
-country gentleman 1 who lived among them from 432 till his death 
-in 461. The Irish in turn did much to evangelize Scotland and 
-the North of England. In this work the greatest missionary was 
-St. Columba; another was St. Columban, who wrote long letters 
-to Gregory on the date of Easter and other important questions. 
-The conversion of England, apart from Northumbria, was Gregory's special care. Every one knows how, before he was Pope, he 
-saw two fair-haired blue-eyed boys in the slave market in Rome, 
-and on being told they were Angles replied, "No, angels/* When 
-he became Pope he sent St. Augustine to Kent to convert the 
-Angles. There are many letters in his correspondence to St. 
-Augustine, to Edilbext, king of the Angeli, and to others, about 
-the mission. Gregory decrees that heathen temples in England are 
-not to be destroyed, but the idols are to be destroyed and the 
-temples then consecrated as churches. St. Augustine puts a 
-number of queries to the Pope, such as whether cousins may 
-marry, whether spouses who have had intercourse the previous 
-night may come to church (yes, if they have washed, says Gregory), 
-and so on. The mission, as we know, prospered, and that is why 
-we are all Christians at this day. 
-
-The period we have been considering is peculiar in the fact that, 
-though its great men are inferior to those of many other epochs, 
-their influence on future ages has been greater. Roman law, 
-monasticism, and the papacy owe their long and profound influence very largely to Justinian, Benedict, and Gregory. The 
-men of the sixth century, though less civilized than their predecessors, were much more civilized than the men of the next 
-four centuries, and they succeeded in framing institutions that 
-ultimately tamed the barbarians. It is noteworthy that, of the 
-above three men, two were aristocratic natives of Rome, and the 
-third was Roman Emperor. Gregory is in a very real sense the 
-last of the Romans. His tone of command, while justified by his 
-office, has its instinctive basis in Roman aristocratic pride. After 
-him, for many ages, the city of Rome ceased to produce great 
-men. But in its downfall it succeeded in fettering the souls of its 
-conquerors: the reverence which they felt for the Chair of Peter 
-1 So at least Bury says in hit Life of the Stint. 
-406 
-
-
-
-ST. BENEDICT AND GREGORY THE GREAT 
-
-was an outcome of the awe which they felt for the throne of the 
-Caesars. 
+The period we have been considering is peculiar in the fact that,
+though its great men are inferior to those of many other epochs, their
+influence on future ages has been greater. Roman law, monasticism, and
+the papacy owe their long and profound influence very largely to
+Justinian, Benedict, and Gregory. The men of the sixth century, though
+less civilized than their predecessors, were much more civilized than
+the men of the next four centuries, and they succeeded in framing
+institutions that ultimately tamed the barbarians. It is noteworthy
+that, of the above three men, two were aristocratic natives of Rome,
+and the third was Roman Emperor. Gregory is in a very real sense the
+last of the Romans. His tone of command, while justified by his
+office, has its instinctive basis in Roman aristocratic pride. After
+him, for many ages, the city of Rome ceased to produce great men. But
+in its downfall it succeeded in fettering the souls of its conquerors:
+the reverence which they felt for the Chair of Peter was an outcome of
+the awe which they felt for the throne of the Caesars.
 
 In the East, the course of history was different. Mohammed 
 was born when Gregory was about thirty years old. 
-
-
-
-407 
-
-
 
 # Part 2. The Schoolmen 
 
 ## Chapter VII THE PAPACY IN THE DARK AGES 
 
-DURING the four centuries from Gregory the Great to Sylvester II, the papacy underwent astonishing vicissitudes. Ii 
-was subject, at times, to the Greek Emperor, at other times 
-to the Western Emperor, and at yet other times to the local Roman 
-aristocracy; nevertheless, vigorous popes in the eighth and ninth 
-centuries, seizing propitious moments, built up the tradition of 
-papal power. The period from AD 600 to 1000 is of vital importance for the understanding of the medieval Church and its relation 
-to the State. 
+During the four centuries from Gregory the Great to Sylvester II, the
+papacy underwent astonishing vicissitudes. It was subject, at times,
+to the Greek Emperor, at other times to the Western Emperor, and at
+yet other times to the local Roman aristocracy; nevertheless, vigorous
+popes in the eighth and ninth centuries, seizing propitious moments,
+built up the tradition of papal power. The period from AD 600 to 1000
+is of vital importance for the understanding of the medieval Church
+and its relation to the State.
 
-The popes achieved independence of the Greek emperors, not 
-so much by their own efforts, as by the arms of the Lombards, to 
-whom, however, they felt no gratitude whatever. The Greek Church 
-remained always, in a great measure, subservient to the Emperor, 
-who considered himself competent to decide on matters of faith, 
-as well as to appoint and depose bishops, even patriarchs. The 
-monks strove for independence of the Emperor, and for that reason 
-sided, at times, with the Pope. But the patriarchs of Constantinople, 
-though willing to submit to the Emperor, refused to regard themselves as in any degree subject to papal authority. At times, when 
-the Emperor needed the Pope's help against barbarians in Italy, 
-he was more friendly to the Pope than the patriarch of Constantinople was. The main cause of the ultimate separation of the 
-Eastern and the Western Churches was the refusal of the former 
-to submit to papal jurisdiction. 
+The popes achieved independence of the Greek emperors, not so much by
+their own efforts, as by the arms of the Lombards, to whom, however,
+they felt no gratitude whatever. The Greek Church remained always, in
+a great measure, subservient to the Emperor, who considered himself
+competent to decide on matters of faith, as well as to appoint and
+depose bishops, even patriarchs. The monks strove for independence of
+the Emperor, and for that reason sided, at times, with the Pope. But
+the patriarchs of Constantinople, though willing to submit to the
+Emperor, refused to regard themselves as in any degree subject to
+papal authority. At times, when the Emperor needed the Pope's help
+against barbarians in Italy, he was more friendly to the Pope than the
+patriarch of Constantinople was. The main cause of the ultimate
+separation of the Eastern and the Western Churches was the refusal of
+the former to submit to papal jurisdiction.
 
-After the defeat of the Byzantines by the Lombards, the popes 
-had reason to fear that they also would be conquered by these 
-vigorous barbarians. They saved themselves by an alliance with 
-the Franks, who, under Charlemagne, conquered Italy and Germany. This alliance produced the Holy Roman Empire, which 
-had a constitution that assumed harmony between Pope and 
-Emperor. The power of the Carolingian dynasty, however, decayed 
+After the defeat of the Byzantines by the Lombards, the popes had
+reason to fear that they also would be conquered by these vigorous
+barbarians. They saved themselves by an alliance with the Franks, who,
+under Charlemagne, conquered Italy and Germany. This alliance produced
+the Holy Roman Empire, which had a constitution that assumed harmony
+between Pope and Emperor. The power of the Carolingian dynasty,
+however, decayed rapidly. At first, the Pope reaped the advantage of
+this decay, and in the latter half of the ninth century Nicholas I
+raised the papal power to hitherto unexampled heights. The general
+anarchy, however, led to the practical independence of the Roman
+aristocracy, which, in the tenth century, controlled the papacy, with
+disastrous results. The way in which, by a great movement of reform,
+the papacy, and the Church generally, was saved from subordination to
+the feudal aristocracy, will be the subject of a later chapter.
 
-408 
+In the seventh century, Rome was still subject to the military power
+of the emperors, and popes had to obey or suffer. Some, e.g.
+Honorius, obeyed, even to the point of heresy; others, e.g. Martin I,
+resisted, and were imprisoned by the Emperor. From 685 to 752, most of
+the popes were Syrians or Greeks. Gradually, however, as the Lombards
+acquired more and more of Italy, Byzantine power declined. The Emperor
+Leo the Isaurian, in 726, issued his iconoclast decree, which was
+regarded as heretical, not only throughout the West, but by a large
+party in the East. This the popes resisted vigorously and
+successfully; at last, in 787, under the Empress Irene (at first as
+regent), the East abandoned the iconoclast heresy. Meanwhile, however,
+events in the West had put an end forever to the control of Byzantium
+over the papacy.
 
+In about the year 751, the Lombards captured Ravenna, the capital of
+Byzantine Italy. This event, while it exposed the popes to great
+danger from the Lombards, freed them from all dependence on the Greek
+emperors. The popes had preferred the Greeks to the Lombards for
+several reasons. First, the authority of the emperors was legitimate,
+whereas barbarian kings, unless recognized by the emperors, were
+regarded as usurpers. Second, the Greeks were civilized. Third, the
+Lombards were nationalists, whereas the Church retained Roman
+internationalism. Fourth, the Lombards had been Arians, and some odium
+still clung to them after their conversion.
 
+The Lombards, under King Liutprand, attempted to conquer Rome in 739,
+and were hotly opposed by Pope Gregory III, who turned to the Franks
+for aid The Merovingian kings, the descendants of Clovis, had lost all
+real power in the Prankish kingdom, which was governed by the "Mayors
+of the Palace." At this time the Mayor of the Palace was an
+exceptionally vigorous and able man, Charles Mattel, like William the
+Conqueror a bastard. In 732 he had won the decisive battle of Tours
+against the Moors thereby saving Fiance for Christendom. This should
+have won him the gratitude of the Church, but financial necessity led
+him to seize some Church lands, which much diminished ecclesiastical
+appreciation of his merits. However, he and Gregory III both died in
+741, and his successor Pepin was wholly satisfactory to the
+Church. Pope Stephen III, in 754, to escape the Lombards crossed the
+Alps and visited Pepin, when a bargain was struck which proved highly
+advantageous to both parties. The Pope needed military protection, but
+Pepin needed something that only the Pope could bestow: the
+legitimization of his title as king in place of the last of the
+Merovingians. In return for this, Pepin bestowed on the Pope Ravenna
+and all the territory of the former Exarchate in Italy. Since it could
+not be expected that Constantinople would recognize such a gift, this
+involved political severance from the Eastern Empire.
 
-THE PAPACY IN THE DARK AGES 
+If the popes had remained subject to the Greek emperors, the
+development of the Catholic Church would have been very different. In
+the Eastern Church, the patriarch of Constantinople never acquired
+either that independence of secular authority or that superiority to
+other ecclesiastics that was achieved by the Pope. Originally all
+bishops were considered equal, and to a considerable extent this view
+persisted in the East. Moreover, there were other Eastern patriarchs,
+at Alexandria, Antioch, and Jerusalem, whereas the Pope was the only
+patriarch in the West.  (This fact, however, lost its importance after
+the Mohammedan conquest.) In the West, but not in the East, the laity
+were mostly illiterate for many centuries, and this gave the Church an
+advantage in the West which it did not possess in the East. The
+prestige of Rome surpassed that of any Eastern city, for it combined
+the imperial tradition with legends of the martyrdom of Peter and
+Paul, and of Peter as first Pope. The Emperor's prestige might have
+sufficed to cope with that of the Pope, but no Western monarch's
+could. The Holy Roman emperors were often destitute of real power;
+moreover they only became emperors when the Pope crowned them. For all
+these reasons, the emancipation of the Pope from Byzantine domination
+was essential both to the independence of the Chuith in relation to
+secular monarchs, and to the ultimate establishment of the papal
+monarchy in the government of the Western Church.
 
-rapidly. At first, the Pope reaped the advantage of this decay, and 
-in the latter half of the ninth century Nicholas I raised the papal 
-power to hitherto unexampled heights. The general anarchy, however, led to the practical independence of the Roman aristocracy, 
-which, in the tenth century, controlled the papacy, with disastrous 
-results. The way in which, by a great movement of reform, the 
-papacy, and the Church generally, was saved from subordination 
-to the feudal aristocracy, will be the subject of a later chapter. 
+Certain documents of great importance, the "Donation of Constantine"
+and the False Decretals, belong to this period. The False Decretals
+need not concern us, but something must be said of the Donation of
+Constantine. In order to give an air of antique legality to Pepin's
+gift, churchmen forged a document, purporting to be a decree issued by
+the Emperor Constantine, by which, when he founded the New Rome, he
+bestowed upon the Pope the old Rome and all its Western
+territories. This bequest, which was the basis of the Pope's temporal
+power, was accepted as genuine by the whole of the subsequent Middle
+Ages. It was first rejected as a forgery, in the time of the
+Renaissance, by Lorenzo Valla in 1439. He had written a book "on the
+elegancies of the Latin language," which, naturally, were absent in a
+production of the eighth century. Oddly enough, after he had published
+his book against the Donation of Constantine, as well as a treatise in
+praise of Epicurus, he was made apostolic secretary by Pope Nicholas
+V, who cared more for latinity than for the Church.  Nicholas V did
+not, however, propose to give up the States of the Church, though the
+Pope's title to them had been based upon the supposed Donation.
 
-In the seventh century, Rome was still subject to the military 
-power of the emperors, and popes had to obey or suffer. Some, e.g. 
-Honorius, obeyed, even to the point of heresy; others, e.g. Martin 
-I, resisted, and were imprisoned by the Emperor. From 685 to 
-752, most of the popes were Syrians or Greeks. Gradually, however, as the Lombards acquired more and more of Italy, Byzantine 
-power declined. The Emperor Leo the Isaurian, in 726, issued his 
-iconoclast decree, which was regarded as heretical, not only 
-throughout the West, but by a large party in the East. This the 
-popes resisted vigorously and successfully; at last, in 787, under 
-the Empress Irene (at first as regent), the East abandoned the 
-iconoclast heresy. Meanwhile, however, events in the West had 
-put an end forever to the control of Byzantium over the papacy. 
-
-In about the year 751, the Lombards captured Ravenna, the 
-capital of Byzantine Italy. This event, while it exposed the popes 
-to great danger from the Lombards, freed them from all dependence on the Greek emperors. The popes had preferred the Greeks 
-to the Lombards for several reasons. First, the authority of the 
-emperors was legitimate, whereas barbarian kings, unless recognized by the emperors, were regarded as usurpers. Second, the 
-Greeks were civilized. Third, the Lombards were nationalists, 
-whereas the Church retained Roman internationalism. Fourth, the 
-Lombards had been Arians, and some odium still clung to them 
-after their conversion. 
-
-The Lombards, under King Liutprand, attempted to conquer 
-Rome in 739, and were hotly opposed by Pope Gregory III, who 
-turned to the Franks for aid The Merovingian kings, the descendants of Clovis, had lost all real power in the Prankish kingdom, 
-which was governed by the "Mayors of the Palace." At this time 
-the Mayor of the Palace was an exceptionally vigorous and able 
-man, Charles Mattel, like William the Conqueror a bastard. In 
-732 he had won the decisive battle of Tours against the Moors 
-thereby saving Fiance for Christendom. This should have won 
-him the gratitude of the Church, but financial necessity led him 
-to seize some Church lands, which much diminished ecclesiastical 
-appreciation of his merits. However, he and Gregory III both died 
-in 741, and his successor Pepin was wholly satisfactory to the 
-Church. Pope Stephen III, in 754, to escape the Lombards 
-crossed the Alps and visited Pepin, when a bargain was struck 
-which proved highly advantageous to both parties. The Pope 
-needed military protection, but Pepin needed something that only 
-the Pope could bestow: the legitimization of his title as king in 
-place of the last of the Merovingians. In return for this, Pepin 
-bestowed on the Pope Ravenna and all the territory of the former 
-Exarchate in Italy. Since it could not be expected that Constantinople would recognize such a gift, this involved* political severance 
-from the Eastern Empire. 
-
-If the popes had remained subject to the Greek emperors, the 
-development of the Catholic Church would have been very 
-different. In the Eastern Church, the patriarch of Constantinople 
-never acquired either that independence of secular authority or 
-that superiority to other ecclesiastics that was achieved by the 
-Pope. Originally all bishops were considered equal, and to a 
-considerable extent this view persisted in the East. Moreover, 
-there were other Eastern patriarchs, at Alexandria, Antioch, and 
-Jerusalem, whereas the Pope was the only patriarch in the West. 
-(This fact, however, lost its importance after the Mohammedan 
-conquest.) In the West, but not in the East, the laity were mostly 
-illiterate for many centuries, and this gave the Church an advantage 
-in the West which it did not possess in the East. The prestige of 
-Rome surpassed that of any Eastern city, for it combined the 
-imperial tradition with legends of the martyrdom of Peter and 
-Paul, and of Peter as first Pope. The Emperor's prestige might 
-have sufficed to cope with that of the Pope, but no Western 
-monarch's could. The Holy Roman emperors were often destitute 
-of real power; moreover they only became emperors when the 
-Pope crowned them. For all these reasons, the emancipation of 
-the Pope from Byzantine domination was essential both to the 
-independence of the Chuith in relation to secular monarchs, and 
-to the ultimate establishment of the papal monarchy in the 
-government of the Western Church. 
-
-Certain documents of great importance, the 4< Donation of 
-
-
-
-THE PAPACY IN THE DARK AGES 
-
-Constantine" and the False Decretals, belong to this period. The 
-False Decretals need not concern us, but something must be 
-said of the Donation of Constantine. In order to give an air of 
-antique legality to Pepin's gift, churchmen forged a document, 
-purporting to be a decree issued by the Emperor Constantine, 
-by which, when he founded the New Rome, he bestowed upon 
-the Pope the old Rome and all its Western territories. This bequest, 
-which was the basis of the Pope's temporal power, was accepted 
-as genuine by the whole of the subsequent Middle Ages. It was 
-first rejected as a forgery, in the time of the Renaissance, by 
-Lorenzo Valla in 1439. He had written a book "on the elegancies 
-of the Latin language," which, naturally, were absent in a production of the eighth century. Oddly enough, after he had published his book against the Donation of Constantine, as well as a 
-treatise in praise of Epicurus, he was made apostolic secretary by 
-Pope Nicholas V, who cared more for latinity than for the Church. 
-Nicholas V did not, however, propose to give up the States of the 
-Church, though the Pope's title to them had been based upon the 
-supposed Donation. 
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n409)
 
 The contents of this remarkable document are summarized by 
-C. Delislc Burns as follows: 1 
+C. Delisle Burns as follows: 1 
 
 After a summary of the Nicene creed, the fall of Adam, and the 
 birth of Christ, Constantine says he was suffering from leprosy, 
