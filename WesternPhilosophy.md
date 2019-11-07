@@ -16029,44 +16029,36 @@ V, who cared more for latinity than for the Church.  Nicholas V did
 not, however, propose to give up the States of the Church, though the
 Pope's title to them had been based upon the supposed Donation.
 
-[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n409)
-
 The contents of this remarkable document are summarized by 
-C. Delisle Burns as follows: 1 
+C. Delisle Burns as follows:[^206]
 
-After a summary of the Nicene creed, the fall of Adam, and the 
-birth of Christ, Constantine says he was suffering from leprosy, 
-that doctors were useless, and that he therefore approached "the 
-priests of the Capitol." They proposed that he should slaughter 
-several infants and be washed in their blood, but owing to their 
-mothers' tears he restored them. That night Peter and Paul 
-appeared to him and said that Pope Sylvester was hiding in a cave 
-on Soracte, and would cure him. He went to Soracte, where the 
-"universal Pope" told him Peter and Paul were apostles, not gods, 
-showed him portraits which he recognized from his vision, and 
-admitted it before all his "satraps." Pope Sylvester thereupon 
-assigned him a period of penance in a hair shirt; then he baptized 
-him, when he saw a hand from heaven touching him. He was 
-cured of leprosy, and gave up worshipping idols. Then "with all 
-his satraps, the Senate, his nobles and the whole Roman people 
-he thought it good to grant supreme power to the See of Peter," 
-and superiority over Antioch, Alexandria, Jerusalem, and Constantinople. He then built a church in his palace of the Lateran. 
-On the Pope he conferred his crown, tiara, and imperial garments. 
-1 I am quoting t still unpublished book, Th* Firti Europe. 
+[^206]: I am quoting a still unpublished book, _The First Europe_. 
 
-4" 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-He placed a tiara on the Pope's head and held the reins of his 
-horse. He left to "Silvester and his successors Rome and all the 
-provinces, districts and cities of Italy and the West to be subject 
-to the Roman Church forever"; he then moved East "because, 
-where the princedom of bishops and the head of the Christian 
-religion has been established by the heavenly Emperor it is not 
-just that an earthly Emperor should have power." 
+> After a summary of the Nicene creed, the fall of Adam, and the birth
+> of Christ, Constantine says he was suffering from leprosy, that
+> doctors were useless, and that he therefore approached "the priests
+> of the Capitol." They proposed that he should slaughter several
+> infants and be washed in their blood, but owing to their mothers'
+> tears he restored them. That night Peter and Paul appeared to him
+> and said that Pope Sylvester was hiding in a cave on Soracte, and
+> would cure him. He went to Soracte, where the "universal Pope" told
+> him Peter and Paul were apostles, not gods, showed him portraits
+> which he recognized from his vision, and admitted it before all his
+> "satraps." Pope Sylvester thereupon assigned him a period of penance
+> in a hair shirt; then he baptized him, when he saw a hand from
+> heaven touching him. He was cured of leprosy, and gave up
+> worshipping idols. Then "with all his satraps, the Senate, his
+> nobles and the whole Roman people he thought it good to grant
+> supreme power to the See of Peter," and superiority over Antioch,
+> Alexandria, Jerusalem, and Constantinople. He then built a church in
+> his palace of the Lateran.  On the Pope he conferred his crown,
+> tiara, and imperial garments.  He placed a tiara on the Pope's head
+> and held the reins of his horse. He left to "Silvester and his
+> successors Rome and all the provinces, districts and cities of Italy
+> and the West to be subject to the Roman Church forever"; he then
+> moved East "because, where the princedom of bishops and the head of
+> the Christian religion has been established by the heavenly Emperor
+> it is not just that an earthly Emperor should have power."
 
 The Lombards did not tamely submit to Pepin and the Pope, 
 but in repeated wars with the Franks they were worsted. At last, 
@@ -16080,172 +16072,152 @@ and finally, in his own person, revived the Western Empire, being
 crowned Emperor by the Pope in Rome on Christmas Day, 
 AD 800. 
 
-The foundation of the Holy Roman Empire marks an epoch in 
-medieval theory, though much less in medieval practice. The 
-Middle Ages were peculiarly addicted to legal fictions, and until 
-this time the fiction had persisted that the Western provinces of 
-the former Roman Empire were still subject, de jure, to the 
-Emperor in Constantinople, who was regarded as the sole source 
-of legal authority. Charlemagne, an adept in legal fictions, maintained that the throne of the Empire was vacant, because the 
-reigning Eastern sovereign Irene (who called herself emperor, not 
-empress) was a usurper, since no woman could be emperor. 
-Charles derived his claim to legitimacy from the Pope. There was 
-thus, from the first, a curious interdependence of pope and 
-emperor. No one could be emperor unless crowned by the Pope 
-in Rome; on the other hand, for some centuries, every strong 
-emperor claimed the right to appoint or depose popes. The 
-medieval theory of legitimate power depended upon both emperor 
-and pope; their mutual dependence was galling to both, but for 
-centuries inescapable. There was constant friction, with advantage 
-now to one side, now to the other. At last, in the thirteenth century, 
-the conflict became irreconcilable. The Pope was victorious, but 
-lost moral authority shortly afterwards. The Pope and the Holy 
-Roman Emperor both survived, the Pope to the present day, the 
-
-
-
-THE PAPACY IN THE DARK AGES 
-
-Emperor to the time of Napoleon. But the elaborate medieval 
-theory that had been built up concerning their respective powers 
-ceased to be effective during the fifteenth century. The unity of 
-Christendom, which it maintained, was destroyed by the power 
-of the French, Spanish, and English monarchies in the secular 
-sphere, and by the Reformation in the sphere of religion. 
+The foundation of the Holy Roman Empire marks an epoch in medieval
+theory, though much less in medieval practice. The Middle Ages were
+peculiarly addicted to legal fictions, and until this time the fiction
+had persisted that the Western provinces of the former Roman Empire
+were still subject, de jure, to the Emperor in Constantinople, who was
+regarded as the sole source of legal authority. Charlemagne, an adept
+in legal fictions, maintained that the throne of the Empire was
+vacant, because the reigning Eastern sovereign Irene (who called
+herself emperor, not empress) was a usurper, since no woman could be
+emperor.  Charles derived his claim to legitimacy from the Pope. There
+was thus, from the first, a curious interdependence of pope and
+emperor. No one could be emperor unless crowned by the Pope in Rome;
+on the other hand, for some centuries, every strong emperor claimed
+the right to appoint or depose popes. The medieval theory of
+legitimate power depended upon both emperor and pope; their mutual
+dependence was galling to both, but for centuries inescapable. There
+was constant friction, with advantage now to one side, now to the
+other. At last, in the thirteenth century, the conflict became
+irreconcilable. The Pope was victorious, but lost moral authority
+shortly afterwards. The Pope and the Holy Roman Emperor both survived,
+the Pope to the present day, the Emperor to the time of Napoleon. But
+the elaborate medieval theory that had been built up concerning their
+respective powers ceased to be effective during the fifteenth
+century. The unity of Christendom, which it maintained, was destroyed
+by the power of the French, Spanish, and English monarchies in the
+secular sphere, and by the Reformation in the sphere of religion.
 
 The character of Charles the Great and his entourage is thus 
-summed up by Dr. Gerhard Seeliger: 1 
+summed up by Dr. Gerhard Seeliger:[^207]
 
-Vigorous life was developed at Charles's court. We see there 
-magnificence and genius, but immorality also. For Charles was 
-not particular about the people he drew round him. He himself 
-was no model, and he suffered the greatest license in those whom 
-he liked and found useful. As "Holy Emperor" he was addressed, 
-though his life exhibited little holiness. He is so addressed by 
-Alcuin, who also praises the Emperor's beautiful daughter Rotrud 
-as distinguished for her virtues in spite of her having borne a son 
-to Count Rodenc of Maine, though not his wife. Charles would not 
-be separated from his daughters, he would not allow their 
-marriage, and he was therefore obliged to accept the consequences. 
-The other daughter, Bertha, also had two sons by the pious Abbot 
-Angilbert of St. Riquier. In fact the court of Charles was a center 
-of very loose life. 
+[^207]: In _Cambridge Medieval History_, II, 663. 
 
-Charlemagne was a vigorous barbarian, politically in alliance 
-with the Church, but not unduly burdened with personal piety 
-He could not read or write, but he inaugurated a literary renaissance. He was dissolute in his life, and unduly fond of his daughters, 
-but he did all in his power to promote holy living among his 
-subjects. He, like his father Pepin, made skillful use of the zeal of 
-missionaries to promote his influence in Germany, but he saw to 
-it that Popes obeyed his orders. They did this the more willingly, 
-because Rome had become a barbarous city, in which the person 
-of the Pope was not safe without external protection, and papal 
-elections had degenerated into disorderly faction fights. In 799, 
-local enemies seized the Pope, imprisoned him, and threatened to 
-blind him. During Charles's lifetime, it seemed as if a new order 
-would be inaugurated; but after his death little survived except 
-a theory. 
+> Vigorous life was developed at Charles's court. We see there
+> magnificence and genius, but immorality also. For Charles was not
+> particular about the people he drew round him. He himself was no
+> model, and he suffered the greatest license in those whom he liked
+> and found useful. As "Holy Emperor" he was addressed, though his
+> life exhibited little holiness. He is so addressed by Alcuin, who
+> also praises the Emperor's beautiful daughter Rotrud as
+> distinguished for her virtues in spite of her having borne a son to
+> Count Rodenc of Maine, though not his wife. Charles would not be
+> separated from his daughters, he would not allow their marriage, and
+> he was therefore obliged to accept the consequences.  The other
+> daughter, Bertha, also had two sons by the pious Abbot Angilbert of
+> St. Riquier. In fact the court of Charles was a center of very loose
+> life.
 
-The gains of the Church, and more particularly of the papacy, 
-were wort solid than those of the Western Empire. England had 
-1 In Cambridge Medieval History, II, 663. 
+Charlemagne was a vigorous barbarian, politically in alliance with the
+Church, but not unduly burdened with personal piety He could not read
+or write, but he inaugurated a literary renaissance. He was dissolute
+in his life, and unduly fond of his daughters, but he did all in his
+power to promote holy living among his subjects. He, like his father
+Pepin, made skillful use of the zeal of missionaries to promote his
+influence in Germany, but he saw to it that Popes obeyed his
+orders. They did this the more willingly, because Rome had become a
+barbarous city, in which the person of the Pope was not safe without
+external protection, and papal elections had degenerated into
+disorderly faction fights. In 799, local enemies seized the Pope,
+imprisoned him, and threatened to blind him. During Charles's
+lifetime, it seemed as if a new order would be inaugurated; but after
+his death little survived except a theory.
 
-4*3 
+The gains of the Church, and more particularly of the papacy, were
+wort solid than those of the Western Empire. England had been
+converted by a monastic mission under the orders of Gregory the Great,
+and remained much more subject to Rome than were the countries with
+bishops accustomed to local autonomy. The conversion of Germany was
+largely the work of St. Boniface (680-754), an English missionary, who
+was a friend of Charles Martel and Pepin, and completely faithful to
+the Pope. Boniface founded many monasteries in Germany; his friend
+St. Gall founded the Swiss monastery which bears his name. According
+to some authorities, Boniface anointed Pepin as king with a ritual
+taken from the First Book of Kings.
 
+St. Boniface was a native of Devonshire, educated at Exeter and
+Winchester. He went to Frisia in 716, but soon had to return. In 717
+he went to Rome, and in 719 Pope Gregory II sent him to Germany to
+convert the Germans and to combat the influence of the Irish
+missionaries (who, it will be remembered, erred as to the date of
+Easter and the shape of the tonsure). After considerable successes, he
+returned to Rome in 722, where he was made bishop by Gregory II, to
+whom he took an oath of obedience. The Pope gave him a letter to
+Charles Martel, and charged him to suppress heresy in addition to
+converting the heathen. In 732 he became archbishop; in 738 he visited
+Rome a third time. In 741 Pope Zacharias made him legate, and charged
+him to reform the Prankish Church. He founded the abbey of Fulda, to
+which he gave a rule stricter than the Benedictine. Then he had a
+controversy with an Irish bishop of Salzburg, named Virgil, who
+maintained that there are other worlds than ours, but was,
+nevertheless, canonized. In 754, after returning to Frisia, Boniface
+and his companions were massacred by the heathen. It was owing to him
+that German Christianity was papal, not Irish.
 
+English monasteries, particularly those of Yorkshire, were of great
+importance at this time. Such civilization as had existed in Roman
+Britain had disappeared, and the new civilization introduced by
+Christian missionaries centered entirely round the Benedictine abbeys,
+which owed everything directly to Rome.  The Venerable Bede was a monk
+at Jarrow. His pupil Ecgbert, first archbishop of York, founded a
+cathedral school, where Alcuin was educated.
 
-WESTERN PHILOSOPHICAL THOUGHT 
+Alcuin is an important figure in the culture of the time. He went to
+Rome in 780, and in the course of his journey met Charlemagne at
+Parma. The Emperor employed him to teach Latin to the Franks and to
+educate the royal family. He spent a considerable part of his life at
+the court of Charlemagne, engaged in teaching and in founding
+schools. At the end of his life he was abbot of St. Martin's at
+Tours. He wrote a number of books, including a verse history of the
+church at York. The emperor, though uneducated, had a considerable
+belief in the value of culture, and for a brief period diminished the
+darkness of the dark ages. But his work in this direction was
+ephemeral. The culture of Yorkshire was for a time destroyed by the
+Danes, that of France was damaged by the Normans. The Saracens raided
+Southern Italy, conquered Sicily, and in 846 even attacked Rome. On
+the whole, the tenth century was, in Western Christendom, about the
+darkest epoch; for the ninth is redeemed by the English ecclesiastics
+and by the astonishing figure of Johannes Scotus, as to whom I shall
+have more to say presently.
 
-been converted by a monastic mission under the orders of Gregory 
-the Great, and remained much more subject to Rome than were 
-the countries with bishops accustomed to local autonomy. The 
-conversion of Germany was largely the work of St. Boniface 
-(680-754), an English missionary, who was a friend of Charles 
-Martel and Pepin, and completely faithful to the Pope. Boniface 
-founded many monasteries in Germany; his friend St. Gall founded 
-the Swiss monastery which bears his name. According to some 
-authorities, Boniface anointed Pepin as king with a ritual taken 
-from the First Book of Kings. 
+The decay of Carolingian power after the death of Charlemagne and the
+division of his empire redounded, at first, to the advantage of the
+papacy. Pope Nicholas I (858-67) raised papal power to a far greater
+height than it had ever attained before. He quarrelled with the
+Emperors of the East and the West, with King Charles the Bald of
+France and King Lothar II of Lorraine, and with the episcopate of
+nearly every Christian country; but in almost all his quarrels he was
+successful. The clergy in many regions had become dependent on the
+local princes, and he set to work to remedy this state of affairs. His
+two greatest controversies concerned the divorce of Lothar II and the
+uncanonical deposition of Ignatius, patriarch of Constantinople. The
+power of the Church, throughout the Middle Ages, had a great deal to
+do with royal divorces. Kings were men of headstrong passions, who
+felt that the indissolubility of marriage was a doctrine for subjects
+only.  The Church, however, could alone solemnize a marriage, and if
+the Church declared a marriage invalid, a disputed succession and a
+dynastic war were very likely to result. The Church, therefore, was in
+a very strong position in opposing royal divorces and irregular
+marriages. In England, it lost this position under Henry VIII, but
+recovered it under Edward VIII.
 
-St. Boniface was a native of Devonshire, educated at Exeter and 
-Winchester. He went to Frisia in 716, but soon had to return. In 
-717 he went to Rome, and in 719 Pope Gregory II sent him to 
-Germany to convert the Germans and to combat the influence of 
-the Irish missionaries (who, it will be remembered, erred as to 
-the date of Easter and the shape of the tonsure). After considerable 
-successes, he returned to Rome in 722, where he was made bishop 
-by Gregory II, to whom he took an oath of obedience. The Pope 
-gave him a letter to Charles Martel, and charged him to suppress 
-heresy in addition to converting the heathen. In 732 he became 
-archbishop; in 738 he visited Rome a third time. In 741 Pope 
-Zacharias made him legate, and charged him to reform the 
-Prankish Church. He founded the abbey of Fulda, to which he 
-gave a rule stricter than the Benedictine. Then he had a controversy with an Irish bishop of Salzburg, named Virgil, who 
-maintained that there are other worlds than ours, but was, nevertheless, canonized. In 754, after returning to Frisia, Boniface and 
-his companions were massacred by the heathen. It was owing to 
-him that German Christianity was papal, not Irish. 
-
-English monasteries, particularly those of Yorkshire, were of 
-great importance at this time. Such civilization as had existed in 
-Roman Britain had disappeared, and the new civilization introduced by Christian missionaries centered entirely round the 
-Benedictine abbeys, which owed everything directly to Rome. 
-The Venerable Bede was a monk at Jarrow. His pupil Ecgbert, 
-first archbishop of York, founded a cathedral school, where Alcuin 
-was educated. 
-
-Alcuin is an important figure in the culture of the time. He went 
-to Rome in 780, and in the course of his journey met Charlemagne 
-at Parma. The Emperor employed him to teach Latin to the Franks 
-
-4*4 
-
-
-
-THE PAPACY IN THE DARK AGES 
-
-and to educate the royal family. He spent a considerable part of 
-his life at the court of Charlemagne, engaged in teaching and in 
-founding schools. At the end of his life he was abbot of St. Martin's 
-at Tours. He wrote a number of books, including a verse history 
-of the church at York. The emperor, though uneducated, had a 
-considerable belief in the value of culture, and for a brief period 
-diminished the darkness of the dark ages. But his work in this 
-direction was ephemeral. The culture of Yorkshire was for a time 
-destroyed by the Danes, that of France was damaged by the 
-Normans. The Saracens raided Southern Italy, conquered Sicily, 
-and in 846 even attacked Rome. On the whole, the tenth century 
-was, in Western Christendom, about the darkest epoch; for the 
-ninth is redeemed by the English ecclesiastics and by the astonishing figure of Johannes Scotus, as to whom I shall have 
-more to say presently. 
-
-The decay of Carolingian power after the death of Charlemagne 
-and the division of his empire redounded, at first, to the advantage 
-of the papacy. Pope Nicholas I (858-67) raised papal power to a 
-far greater height than it had ever attained before. He quarrelled 
-with the Emperors of the East and the West, with King Charles 
-the Bald of France and King Lothar II of Lorraine, and with the 
-episcopate of nearly every Christian country; but in almost all 
-his quarrels he was successful. The clergy in many regions had 
-become dependent on the local princes, and he set to work to 
-remedy this state of affairs. His two greatest controversies concerned the divorce of Lothar II and the uncanonical deposition 
-of Ignatius, patriarch of Constantinople. The power of the Church, 
-throughout the Middle Ages, had a great deal to do with royal 
-divorces. Kings were men of headstrong passions, who felt that 
-the indissolubility of marriage was a doctrine for subjects only. 
-The Church, however, could alone solemnize a marriage, and if 
-the Church declared a marriage invalid, a disputed succession and 
-a dynastic war were very likely to result. The Church, therefore, 
-was in a very strong position in opposing royal divorces and 
-irregular marriages. In England, it lost this position under Henry 
-VIII, but recovered it under Edward VIII. 
-
-When Lothar II demanded a divorce; the clergy of his kingdom 
-agreed. Pope Nicholas, however, deposed the bishops who had 
-acquiesced, and totally refused to admit the King's plea for divorce. 
-Lothar's brother, the Emperor Louis II, thereupon inarched on 
-Rome with the intention of overawing the Pope; but superstitious 
-terrors prevailed, and he retired. In the end, the Pope's will 
-prevailed. 
+When Lothar II demanded a divorce; the clergy of his kingdom
+agreed. Pope Nicholas, however, deposed the bishops who had
+acquiesced, and totally refused to admit the King's plea for divorce.
+Lothar's brother, the Emperor Louis II, thereupon inarched on Rome
+with the intention of overawing the Pope; but superstitious terrors
+prevailed, and he retired. In the end, the Pope's will prevailed.
 
 The business of the Patriarch Ignatius was interesting, as showing
 that the Pope could still assert himself in the East. Ignatius, who
@@ -16275,51 +16247,45 @@ Photius again became patriarch, and the split between the Eastern and
 the Western Churches was widened. Thus it cannot be said that
 Nicholas's policy in this matter was victorious in the long run.
 
-Nicholas had almost more difficulty in imposing his will 
-upon the episcopate than upon kings. Archbishops had come to 
-consider themselves very great men, and they were reluctant to 
-submit tamely to an ecclesiastical monarch. He maintained, however, that bishops owe their existence to the Pope, and while he 
-lived he succeeded, on the whole, in making this view prevail. 
-There was, throughout these centuries, great doubt as to how 
-bishops should be appointed. Originally they were elected by the 
+Nicholas had almost more difficulty in imposing his will upon the
+episcopate than upon kings. Archbishops had come to consider
+themselves very great men, and they were reluctant to submit tamely to
+an ecclesiastical monarch. He maintained, however, that bishops owe
+their existence to the Pope, and while he lived he succeeded, on the
+whole, in making this view prevail.  There was, throughout these
+centuries, great doubt as to how bishops should be
+appointed. Originally they were elected by the acclamation of the
+faithful in their cathedral city; then, frequently, by a synod of
+neighboring bishops; then, sometimes by the King, and sometimes by the
+Pope. Bishops could be deposed for grave causes, but it was not clear
+whether they should be tried by the Pope or by a provincial synod. All
+these uncertainties made the powers of an office dependent upon the
+energy and astuteness of its holders. Nicholas stretched papal power
+to the utmost limits of which it was then capable; under his
+successors, it sank again to a very low ebb.
 
-
-
-THE PAPACY IN THB DARK AGES 
-
-acclamation of the faithful in their cathedral city; then, frequently, 
-by a synod of neighboring bishops; then, sometimes by the King, 
-and sometimes by the Pope. Bishops could be deposed for grave 
-causes, but it was not clear whether they should be tried by the 
-Pope or by a provincial synod. All these uncertainties made the 
-powers of an office dependent upon the energy and astuteness of 
-its holders. Nicholas stretched papal power to the utmost limits 
-of which it was then capable; under his successors, it sank again 
-to a very low ebb. 
-
-During the tenth century, the papacy was completely under the 
-control of the local Roman aristocracy. There was, as yet, no fixed 
-rule as to the election of Popes; sometimes they owed their elevation to popular acclaim, sometimes to emperors or kings, and 
-sometimes, as in the tenth century, to the holders of local urban 
-power in Rome. Rome was, at this time, not a civilized city, as it 
-had still been in the time of Gregory the Great. At times there 
-were faction fights; at other times some rich family acquired 
-control by a combination of violence and corruption. The disorder 
-and weakness of Western Europe was so great at this period that 
-Christendom might have seemed in danger of complete destruction. 
-The Emperor and the King of France were powerless to curb the 
-anarchy produced in their realms by feudal potentates who were 
-nominally their vassals. The Hungarians made raids on Northern 
-Italy. The Normans raided the French coast, until, in 911, they 
-were given Normandy and in return became Christians. But the 
-greatest danger in Italy and Southern France came from the 
-Saracens, who could not be converted, and had no reverence for 
-the Church. They completed the conquest of Sicily about the 
-end of the ninth century; they were established on the River 
-Garigliano, near Naples; they destroyed Monte Cassino and other 
-great monasteries; they had a settlement on the coast of Provence, 
-whence they raided Italy and the Alpine valleys, interrupting 
-traffic between Rome and the North. 
+During the tenth century, the papacy was completely under the control
+of the local Roman aristocracy. There was, as yet, no fixed rule as to
+the election of Popes; sometimes they owed their elevation to popular
+acclaim, sometimes to emperors or kings, and sometimes, as in the
+tenth century, to the holders of local urban power in Rome. Rome was,
+at this time, not a civilized city, as it had still been in the time
+of Gregory the Great. At times there were faction fights; at other
+times some rich family acquired control by a combination of violence
+and corruption. The disorder and weakness of Western Europe was so
+great at this period that Christendom might have seemed in danger of
+complete destruction.  The Emperor and the King of France were
+powerless to curb the anarchy produced in their realms by feudal
+potentates who were nominally their vassals. The Hungarians made raids
+on Northern Italy. The Normans raided the French coast, until, in 911,
+they were given Normandy and in return became Christians. But the
+greatest danger in Italy and Southern France came from the Saracens,
+who could not be converted, and had no reverence for the Church. They
+completed the conquest of Sicily about the end of the ninth century;
+they were established on the River Garigliano, near Naples; they
+destroyed Monte Cassino and other great monasteries; they had a
+settlement on the coast of Provence, whence they raided Italy and the
+Alpine valleys, interrupting traffic between Rome and the North.
 
 The conquest of Italy by the Saracens was prevented by the 
 Eastern Empire, which overcame the Saracens of the Garigliano 
@@ -16328,13 +16294,6 @@ done after Justinian's conquest, and the papacy became, for about
 a hundred years, a perquisite of the Roman aristocracy or of the 
 counts of Tusculum. The most powerful Romans, at the beginning 
 of the tenth century, were the "Senator" Theophylact and his 
-
-Hillary of Wttto* 1'kOoiopk* 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
 daughter Marozia, in whose family the papacy nearly became 
 hereditary. Marozia had several husbands in succession, and an 
 unknown number of lovers. One of the latter she elevated to the 
@@ -16342,8 +16301,11 @@ papacy, under the title of Sergius II (904-11). His and her son
 was Pope John XI (931-36); her grandson was John XII 
 (955-64), who became Pope at the age of sixteen and "completed 
 the debasement of the papacy by his debauched life and the orgies 
-of which the Lateran palace soon became the scene." 1 Marozia 
-is presumably the basis for the legend of a female "Pope Joan." 
+of which the Lateran palace soon became the scene."[^208] Marozia 
+is presumably the basis for the legend of a female "Pope Joan."
+
+[^208]: _Cambridge Medieval History_, III, 455.
+
 
 The popes of this period naturally lost whatever influence their 
 predecessors had retained in the East. They lost also the power, 
@@ -16357,7 +16319,9 @@ such of the clergy as still retain some concern for religion and
 for the salvation of the souls committed to their charge mourn 
 over the universal decadence and direct the eyes of the faithful 
 towards the spectre of the end of the world and of the I-ast 
-Judgment." 2 
+Judgment."[^209]
+
+[^209]: _Cambridge Medieval History_, III, 455.
 
 It is a mistake, however, to suppose that a special dread of the 
 end of the world in the year 1000 prevailed at this time, as used 
@@ -16365,137 +16329,123 @@ to be thought. Christians, from St. Paul onward, believed the
 end of the world to be at hand, but they went on with their 
 ordinary business none the less. 
 
-The year 1000 may be conveniently taken as marking the end 
-of the lowest depth to which the civilization of Western Europe 
-sank. From this point the upward movement began which continued till 1914. In the beginning, progress was mainly due to 
-monastic reform. Outside the monastic orders, the clergy had 
-become, for the most part, violent, immoral, and worldly; they 
-were corrupted by the wealth and power that they owed to the 
-benefactions of the pious. The same thing happened, over and 
-over again, even to the monastic orders; but reformers, with new 
-zeal, revived their moral force as often as it had decayed. 
-Another reason which makes the year 1000 a turning-point is 
-1 Cambridge Medieval History, HI, 455. ' Ibid 
+The year 1000 may be conveniently taken as marking the end of the
+lowest depth to which the civilization of Western Europe sank. From
+this point the upward movement began which continued till 1914. In the
+beginning, progress was mainly due to monastic reform. Outside the
+monastic orders, the clergy had become, for the most part, violent,
+immoral, and worldly; they were corrupted by the wealth and power that
+they owed to the benefactions of the pious. The same thing happened,
+over and over again, even to the monastic orders; but reformers, with
+new zeal, revived their moral force as often as it had decayed.
+Another reason which makes the year 1000 a turning-point is the
+cessation, at about this time, of conquest by both Mohammedans and
+northern barbarians, so far at least as Western Europe is
+concerned. Goths, Lombards, Hungarians, and Normans came in successive
+waves; each horde in turn was christianized, but each in turn weakened
+the civilized tradition. The Western Empire broke up into many
+barbarian kingdoms; the kings lost authority over their vassals; there
+was universal anarchy, with perpetual violence both on a large and on
+a small scale. At last all the races of vigorous northern conquerors
+had been converted to Christianity, and had acquired settled
+habitations. The Normans, who were the last comers, proved peculiarly
+capable of civilization.  They reconquered Sicily from the Saracens,
+and made Italy safe from the Mohammedans. They brought England back
+into the Roman world, from which the Danes had largely excluded it.
+Once settled in Normandy, they allowed France to revive, and helped
+materially in the process.
 
-418 
+Our use of the phrase "the Dark Ages" to cover the period from 600 to
+1000 marks our undue concentration on Western Europe.  In China, this
+period includes the time of the Tang dynasty, the greatest age of
+Chinese poetry, and in many other ways a most remarkable epoch. From
+India to Spain, the brilliant civilization of Islam flourished. What
+was lost to Christendom at this time was not lost to civilization, but
+quite the contrary. No one could have guessed that Western Europe
+would later become dominant, both in power and in culture. To us, it
+seems that West-European civilization is civilization, but this is a
+narrow view. Most of the cultural content of our civilization comes to
+us from the Eastern Mediterranean, from Greeks and Jews. As for power:
+Western Europe was dominant from the Punic Wars to the fall of Rome
+say, roughly, during the six centuries from 200 BC to AD 400.  After
+that time, no State in Western Europe could compare in power with
+China, Japan, or the Caliphate.
 
-
-
-THE PAPACY IN THE DARK AGES 
-
-the cessation, at about this time, of conquest by both Mohammedans and northern barbarians, so far at least as Western Europe 
-is concerned. Goths, Lombards, Hungarians, and Normans came 
-in successive waves; each horde in turn was christianized, but 
-each in turn weakened the civilized tradition. The Western Empire 
-broke up into many barbarian kingdoms; the kings lost authority 
-over their vassals; there was universal anarchy, with perpetual 
-violence both on a large and on a small scale. At last all the races 
-of vigorous northern conquerors had been converted to Christianity, and had acquired settled habitations. The Normans, who 
-were the last comers, proved peculiarly capable of civilization. 
-They reconquered Sicily from the Saracens, and made Italy safe 
-from the Mohammedans. They brought England back into the 
-Roman world, from which the Danes had largely excluded it. 
-Once settled in Normandy, they allowed France to revive, and 
-helped materially in the process. 
-
-Our use of the phrase "the Dark Ages" to cover the period from 
-600 to 1000 marks our undue concentration on Western Europe. 
-In China, this period includes the time of the Tang dynasty, the 
-greatest age of Chinese poetry, and in many other ways a most 
-remarkable epoch. From India to Spain, the brilliant civilization 
-of Islam flourished. What was lost to Christendom at this time 
-was not lost to civilization, but quite the contrary. No one could 
-have guessed that Western Europe would later become dominant, 
-both in power and in culture. To us, it seems that West-European 
-civilization is civilization, but this is a narrow view. Most of the 
-cultural content of our civilization comes to us from the Eastern 
-Mediterranean, from Greeks and Jews. As for power: Western 
-Europe was dominant from the Punic Wars to the fall of Rome 
-say, roughly, during the six centuries from 200 BC to AD 400. 
-After that time, no State in Western Europe could compare in 
-power with China, Japan, or the Caliphate. 
-
-Our superiority since the Renaissance is due partly to science 
-and scientific technique, partly to political institutions slowly built 
-up during the Middle Ages. There is no reason, in the nature of 
-things, why this superiority should continue. In the present war, 
-great military strength has been shown by Russia, China, and 
-Japan. All these combine Western technique with Eastern ideology 
-Byzantine, Confucian, or Shinto. India, if liberated, will contribute another Oriental element. It seems not unlikely that, 
-during the next few centuries, civilization, if it survives, will have 
-greater diversity than it has had since the Renaissance. There is 
-an imperialism of culture which is harder to overcome than the 
-imperialism of power. Long after the Western Empire fell indeed 
-until the Reformation all European culture retained a tincture 
-of Roman imperialism. It now has, for us, a West-European 
-imperialistic flavour. I think that, if we are to feel at home in the 
-world after the present war, we shall have to admit Asia to equality 
-in our thoughts, not only politically, but culturally. What changes 
-this will bring about, I do not know, but I am convinced that they 
-will be profound and of the greatest importance. 
+Our superiority since the Renaissance is due partly to science and
+scientific technique, partly to political institutions slowly built up
+during the Middle Ages. There is no reason, in the nature of things,
+why this superiority should continue. In the present war, great
+military strength has been shown by Russia, China, and Japan. All
+these combine Western technique with Eastern ideology Byzantine,
+Confucian, or Shinto. India, if liberated, will contribute another
+Oriental element. It seems not unlikely that, during the next few
+centuries, civilization, if it survives, will have greater diversity
+than it has had since the Renaissance. There is an imperialism of
+culture which is harder to overcome than the imperialism of
+power. Long after the Western Empire fell indeed until the Reformation
+all European culture retained a tincture of Roman imperialism. It now
+has, for us, a West-European imperialistic flavour. I think that, if
+we are to feel at home in the world after the present war, we shall
+have to admit Asia to equality in our thoughts, not only politically,
+but culturally. What changes this will bring about, I do not know, but
+I am convinced that they will be profound and of the greatest
+importance.
 
 
 ## Chapter VIII JOHN THE SCOT 
 
-JOHN THE SCOT, or Johannes Scotus, to which is sometimes 
-added Eriugena or Erigena, 1 is the most astonishing person of 
-the ninth century; he would have been less surprising if he had 
-lived in the fifth or the fifteenth century. He was an Irishman, a 
-Neoplatonist, an accomplished Greek scholar, a Pelagian, a pantheist. He spent much of his life under the patronage of Charles 
-the Bald, king of France, and though he was certainly far from 
-orthodox, yet, so far as we know, he escaped persecution. He set 
-reason above faith, and cared nothing for the authority of ecclesiastics; yet his arbitrament was invoked to settle their controversies, 
-To understand the occurrence of such a man, we must turn our 
-attention first to Irish culture in the centuries following St. Patrick. 
-Apart from the extremely painful fact that St. Patrick was an 
-Englishman, there are two other scarcely less painful circumstances: first, that there were Christians in Ireland before he went 
-there; second, that, whatever he may have done for Irish Christianity, it was not to him that Irish culture was due. At the time 
-of the invasion of Gaul (says a Gaulish author), first by Attila, 
-then by the Goths, Vandals, and Alaric, "all the learned men on 
-their side the sea fled, and in the countries beyond sea, namely 
-Ireland, and wherever else they betook themselves, brought to 
-the inhabitants of those regions an enormous advance in learning." 2 
-If any of these men sought refuge in England, the Angles and 
-Saxons and Jutes must have mopped them up; but those who went 
-to Ireland succeeded, in combination with the missionaries, in 
-transplanting a great deal of the knowledge and civilization that 
-was disappearing from the Continent. There is good reason to 
-believe that, throughout the sixth, seventh, and eighth centuries, 
-a knowledge of Greek, as well as a considerable familiarity with 
-Latin classics, survived among the Irish. 3 Greek was known in 
+JOHN THE SCOT, or Johannes Scotus, to which is sometimes added
+Eriugena or Erigena,[^210] is the most astonishing person of the ninth
+century; he would have been less surprising if he had lived in the
+fifth or the fifteenth century. He was an Irishman, a Neoplatonist, an
+accomplished Greek scholar, a Pelagian, a pantheist. He spent much of
+his life under the patronage of Charles the Bald, king of France, and
+though he was certainly far from orthodox, yet, so far as we know, he
+escaped persecution. He set reason above faith, and cared nothing for
+the authority of ecclesiastics; yet his arbitrament was invoked to
+settle their controversies, To understand the occurrence of such a
+man, we must turn our attention first to Irish culture in the
+centuries following St. Patrick.  Apart from the extremely painful
+fact that St. Patrick was an Englishman, there are two other scarcely
+less painful circumstances: first, that there were Christians in
+Ireland before he went there; second, that, whatever he may have done
+for Irish Christianity, it was not to him that Irish culture was
+due. At the time of the invasion of Gaul (says a Gaulish author),
+first by Attila, then by the Goths, Vandals, and Alaric, "all the
+learned men on their side the sea fled, and in the countries beyond
+sea, namely Ireland, and wherever else they betook themselves, brought
+to the inhabitants of those regions an enormous advance in
+learning."[^211] If any of these men sought refuge in England, the
+Angles and Saxons and Jutes must have mopped them up; but those who
+went to Ireland succeeded, in combination with the missionaries, in
+transplanting a great deal of the knowledge and civilization that was
+disappearing from the Continent. There is good reason to believe that,
+throughout the sixth, seventh, and eighth centuries, a knowledge of
+Greek, as well as a considerable familiarity with Latin classics,
+survived among the Irish.[^212] Greek was known in England from the
+time of Theodore, archbishop of Canterbury (669-90), who was himself a
+Greek, educated at Athens; it may also have become known, in the
+North, through Irish missionaries.  "During the latter part of the
+seventh century," says Montague James, "it was in Ireland that the
+thirst for knowledge was keenest, and the work of teaching was most
+actively carried on. There the Latin language (and in a less degree
+the Greek) was studied from a scholar's point of view. ... It was
+when, impelled in the first instance by missionary zeal, and later by
+troubled conditions at home, they passed over in large numbers to the
+Continent, that they became instrumental in rescuing fragments of the
+literature which they had already learnt to value."[^213] Heiric of
+Auxerre, about 876, describes this influx of Irish scholars: "Ireland,
+despising the dangers of the sea, is migrating almost en masse with
+her crowd of philosophers to our, shores, and all the most learned
+doom themselves to voluntary exile to attend the bidding of Solomon
+the wise" i.e. King Charles the Bald.[^214]
 
-1 This addition it redundant; it would make his name "Iriah John 
-from Ireland.* 1 In the ninth century "Scotuft" means "Irishman." 
+[^210]: This addition is redundant; it would make his name "Irish John from Ireland. In the ninth century "Scotus" means "Irishman."
+[^211]: _Cambridge Medieval History_, III, 501. 
+[^212]:  This question is discussed carefully in the _Cambridge Medieval History_, III, chap, xix, and the conclusion is in favor of Irish knowledge of Greek. 
+[^213]: _Loc. cit., pp. 507--8.
+[^214]: _Loc. cit., p. 524.
 
-1 Cambridge Medieval History*, III, 501. 
-
-* This question is discussed carefully in the Cambridge Medieval 
-History, III, chap, xix, and the conclusion is in favor of Irish knowledge 
-of Greek. 
-
-431 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
-
-England from the time of Theodore, archbishop of Canterbury 
-(669-90)9 who was himself a Greek, educated at Athens; it may 
-also have become known, in the North, through Irish missionaries. 
-"During the latter part of the seventh century," says Montague 
-James, "it was in Ireland that the thirst for knowledge was keenest, 
-and the work of teaching was most actively carried on. There the 
-Latin language (and in a less degree the Greek) was studied from 
-a scholar's point of view. ... It was when, impelled in the first 
-instance by missionary zeal, and later by troubled conditions at 
-home, they passed over in large numbers to the Continent, that 
-they became instrumental in rescuing fragments of the literature 
-which they had already learnt to value." 1 Heiric of Auxerre, 
-about 876, describes this influx of Irish scholars: "Ireland, 
-despising the dangers of the sea, is migrating almost en masse 
-with her crowd of philosophers to our, shores, and all the most 
-learned doom themselves to voluntary exile to attend the bidding 
-of Solomon the wise" i.e. King Charles the Bald. 2 
 
 The lives of learned men have at many times been perforce 
 nomadic. At the beginning of Greek philosophy, many of the 
@@ -16508,93 +16458,83 @@ Scandinavians. In our own day, German philosophers have to fly
 even further West to escape their compatriots. I wonder whether 
 it will be equally long before a return flight takes place. 
 
-Too little is known of the Irish in the days when they were 
-preserving for Europe the tradition of classical culture. This 
-learning was connected with monasteries, and was full of piety, 
-as their penitentials show; but it does not seem to have been much 
-concerned with theological niceties. Being monastic rather than 
-episcopal, it had not the administrative outlook that characterized 
-Continental ecclesiastics from Gregory the Great onwards. And 
-being in the main cut off from effective contact with Rome, it still 
-regarded the Pope as he was regarded in the time of St. Ambrose, 
-not as he came to be regarded later. Peiagius, though probably a 
-Briton, is thought by some to have been an Irishman. It is likely 
-that his heresy survived in Ireland, where authority could not 
+Too little is known of the Irish in the days when they were preserving
+for Europe the tradition of classical culture. This learning was
+connected with monasteries, and was full of piety, as their
+penitentials show; but it does not seem to have been much concerned
+with theological niceties. Being monastic rather than episcopal, it
+had not the administrative outlook that characterized Continental
+ecclesiastics from Gregory the Great onwards. And being in the main
+cut off from effective contact with Rome, it still regarded the Pope
+as he was regarded in the time of St. Ambrose, not as he came to be
+regarded later. Peiagius, though probably a Briton, is thought by some
+to have been an Irishman. It is likely that his heresy survived in
+Ireland, where authority could not stamp it out, as it did, with
+difficulty, in Gaul. These circumstances do something to account for
+the extraordinary freedom and freshness of John the Scot's
+speculations.
 
-1 Lor. $., pp. 507-8. Loc. '!., p. 524. 
+The beginning and the end of John the Scot's life are unknown; we know
+only the middle period, during which he was employed by the king of
+France. He is supposed to have been born about 800, and to have died
+about 877, but both dates are guesswork.  He was in France during the
+papacy of Pope Nicholas I, and we meet again, in his life, the
+characters who appear in connection with that Pope, such as Charles
+the Bald and the Emperor Michael and the Pope himself.
 
-422 
+John was invited to France by Charles the Bald about the year 843, and
+was by him placed at the head of the court school. A dispute as to
+predestination and free will had arisen between Gottschalk, a monk,
+and the important ecclesiastic Hincmar, Archbishop of Rheims. The monk
+was predestinarian, the archbishop libertarian. John supported the
+archbishop in a treatise On Divine Predestination, but his support
+went too far for prudence. The subject was a thorny one; Augustine had
+dealt with it in his writings against Pclagius, but it was dangerous
+to agree with Augustine and still more dangerous to disagree with him
+explicitly.  John supported free will, and this might have passed
+uncensored; but what roused indignation was the purely philosophic
+character of his argument. Not that he professed to controvert
+anything accepted in theology, but that he maintained the equal, or
+even superior, authority of a philosophy independent of revelation. He
+contended that reason and revelation are both sources of truth, and
+therefore cannot conflict; but if they ever seem to conflict, reason
+is to be preferred. True religion, he said, is true philosophy; but,
+conversely, true philosophy is true religion. His work was condemned
+by two councils, in 855 and 859; the first of these described it as
+"Scots porridge."
 
+He escaped punishment, however, owing to the support of the king, with
+whom he seems to have been on familiar terms. If William of Malmesbury
+is to be believed, the king, when John was dining with him, asked:
+"What separates a Scot from a sot?"  and John replied, "Only the
+dinner table." The king died in 877, and after this date nothing is
+known as to John. Some think that he also died in that year. There are
+legends that he was invited to England by Alfred the Great, that he
+became abbot of Malmesbury or Athelncy, and was murdered by the
+monks. This misfortune, however, seems to have befallen some other
+John.
 
-
-JOHN THE SCOT 
-
-stamp it out, as it did, with difficulty, in Gaul. These circumstances 
-do something to account for the extraordinary freedom and freshness of John the Scot's speculations. 
-
-The beginning and the end of John the Scot's life are unknown; 
-we know only the middle period, during which he was employed 
-by the king of France. He is supposed to have been born about 
-800, and to have died about 877, but both dates are guesswork. 
-He was in France during the papacy of Pope Nicholas I, and we 
-meet again, in his life, the characters who appear in connection 
-with that Pope, such as Charles the Bald and the Emperor Michael 
-and the Pope himself. 
-
-John was invited to France by Charles the Bald about the year 
-843, and was by him placed at the head of the court school. A 
-dispute as to predestination and free will had arisen between 
-Gottschalk, a monk, and the important ecclesiastic Hincmar, Archbishop of Rheims. The monk was predestinarian, the archbishop 
-libertarian. John supported the archbishop in a treatise On Divine 
-Predestination, but his support went too far for prudence. The 
-subject was a thorny one; Augustine had dealt with it in his 
-writings against Pclagius, but it was dangerous to agree with 
-Augustine and still more dangerous to disagree with him explicitly. 
-John supported free will, and this might have passed uncensored; 
-but what roused indignation was the purely philosophic character 
-of his argument. Not that he professed to controvert anything 
-accepted in theology, but that he maintained the equal, or even 
-superior, authority of a philosophy independent of revelation. He 
-contended that reason and revelation are both sources of truth, 
-and therefore cannot conflict; but if they ever seem to conflict, 
-reason is to be preferred. True religion, he said, is true philosophy; 
-but, conversely, true philosophy is true religion. His work was 
-condemned by two councils, in 855 and 859; the first of these 
-described it as "Scots porridge." 
-
-He escaped punishment, however, owing to the support of the 
-king, with whom he seems to have been on familiar terms. If 
-William of Malmesbury is to be believed, the king, when John 
-was dining with him, asked: "What separates a Scot from a sot?" 
-and John replied, "Only the dinner table." The king died in 877, 
-and after this date nothing is known as to John. Some think that 
-he also died in that year. There are legends that he was invited to 
-England by Alfred the Great, that he became abbot of Malmesbury 
-or Athelncy, and was murdered by the monks. This misfortune, 
-however, seems to have befallen some other John. 
-
-John's next work was a translation from the Greek of the 
-pseudo-Bionysius. This was a work which had great fame in the 
-early Middle Ages. When St. Paul preached in Athens, "certain 
-men clave unto him, and believed: among the which was Dionysius 
-the Areopagite" (Acts xvii. 34). Nothing more is now known 
-about this man, but in the Middle Ages a great deal more was 
-known. He had travelled to France, and founded the abbey of 
-St. Denis; so at least it was said by Hilduin, who was abbot just 
-before John's arrival in France. Moreover, he was the reputed 
-author of an important work reconciling Neoplatonism with 
-Christianity. The date of this work is unknown; it was certainly 
-before 500 and after Plotinus. It was widely known and admired 
-in the East, but in the West it was not generally known until the 
-Greek Emperor Michael, in 827, sent a copy to Louis the Pious, 
-who gave it to the above-mentioned Abbot Hilduin. He, believing 
-it to have been written by St. Paul's disciple, the reputed founder 
-of his abbey, would have liked to know what its contents were; 
-but nobody could translate the Greek until John appeared. He 
-accomplished the translation, which he must have done with 
-pleasure, as his own opinions were in close accord with those of 
-the pseudo-Dionysius, who, from that time onward, had a great 
-influence on Catholic philosophy in the West. 
+John's next work was a translation from the Greek of the
+pseudo-Dionysius. This was a work which had great fame in the early
+Middle Ages. When St. Paul preached in Athens, "certain men clave unto
+him, and believed: among the which was Dionysius the Areopagite" (Acts
+xvii. 34). Nothing more is now known about this man, but in the Middle
+Ages a great deal more was known. He had travelled to France, and
+founded the abbey of St. Denis; so at least it was said by Hilduin,
+who was abbot just before John's arrival in France. Moreover, he was
+the reputed author of an important work reconciling Neoplatonism with
+Christianity. The date of this work is unknown; it was certainly
+before 500 and after Plotinus. It was widely known and admired in the
+East, but in the West it was not generally known until the Greek
+Emperor Michael, in 827, sent a copy to Louis the Pious, who gave it
+to the above-mentioned Abbot Hilduin. He, believing it to have been
+written by St. Paul's disciple, the reputed founder of his abbey,
+would have liked to know what its contents were; but nobody could
+translate the Greek until John appeared. He accomplished the
+translation, which he must have done with pleasure, as his own
+opinions were in close accord with those of the pseudo-Dionysius, who,
+from that time onward, had a great influence on Catholic philosophy in
+the West.
 
 John's translation was sent to Pope Nicholas in 860. The Pope 
 was offended because his permission had not been sought before 
@@ -16611,15 +16551,8 @@ Nature. This book was what, in scholastic times, would have been
 termed "realist"; that is to say, it maintained, with Plato, that 
 universal* are anterior to particulars. He includes in "Nature" not 
 only what is, but also what is not. The whole of Nature is divided 
-into four classes: (i) what creates and is not created, (2) what 
+into four classes: (1) what creates and is not created, (2) what 
 creates and is created, (3) what is created but does not create, 
-
-4*4 
-
-
-
-JOHN THB SCOT 
-
 (4) what neither creates nor is created. The first, obviously, is 
 God. The second is the (Platonic) ideas, which subsist in God. 
 The third is things in space and time. The fourth, surprisingly, is 
@@ -16636,21 +16569,24 @@ essence of all things. God is the beginning, middle, and end of
 things. God's essence is unknowable to men, and even to angels. 
 Even to Himself He is, in a sense, unknowable: "God does not 
 know himself, what He is, because He is not a what\ in a certain 
-respect He is incomprehensible to Himself and to every intellect." 1 
+respect He is incomprehensible to Himself and to every intellect."[^215]
 In the being of things God's being can be seen; in their order, 
 His wisdom; in their movement, His life. His being is the Father, 
 His wisdom the Son, His life the Holy Ghost. But Dionysius is 
 right in saying that no name can be ttuly asserted of God. There 
 is an affirmative theology, in which He is said to be truth, goodness, 
 essence, etc., but such affirmations are only symbolically true, for 
-all such predicates have an opposite, but God has no opposite. 
+all such predicates have an opposite, but God has no opposite.
+
+[^215]: Cf. Bradley on the inadequacy of all cognition. He holds that no truth is quite true, but the best available truth is not _intellectually_ corrigible. 
+
 
 The class of things that both create and are created embraces 
 the whole of the prime causes, or prototypes, or Platonic ideas. 
 The total ot these prime causes is die Logos. The world of ideas 
 is eternal, and yet created. Under the influence of the Holy Ghost, 
 these prime causes give rise to the world of particular things, the 
-materiality of which U illusory. When it is said that God created 
+materiality of which is illusory. When it is said that God created 
 things out of "nothing," this "nothing" is to be understood as 
 God Himself, in the sense in which He transcends all knowledge. 
 
@@ -16658,19 +16594,9 @@ Creation is an eternal process: the substance of all finite things
 is God. The creature is not a being distinct from God. The 
 creature subsists in God, and God manifests Himself in the 
 creature in an ineffable manner. "The Holy Trinity loves Itself 
-in us and in Itself; a It sees and moves Itself." 
+in us and in Itself;[^216] It sees and moves Itself." 
 
-1 Cf. Bradley on the inadequacy of all cognition. He holds that no 
-truth is quite true, but the Ix>st available truth is not intellectually 
-corrigible. 
-
-9 Cf. Spinox*. 
-
-4*5 
-
-
-
-WESTERN PHILOSOPHICAL THOUGHT 
+[^216]: Cf. Spinoza. 
 
 Sin has its source in freedom: it arose because man turned towards
 himself instead of towards God. Evil does not have its ground in God,
@@ -16691,41 +16617,39 @@ The fourth kind of being in John's system, that which neither creates
 nor is created, is derived from the doctrine of Dionysius, that all
 things return into God.
 
-The unorthodoxy of John the Scot is evident from the above 
-summary. His pantheism, which refuses substantial reality to 
-creatures, is contrary to Christian doctrine. His interpretation of 
-the creation out of "nothing* is not such as any prudent theologian 
-could accept. His Trinity, which closely resembles that of Plotinus, 
-fails to preserve the equality of the Three Persons, although he 
-tries to safeguard himself on this point. His independence of mind 
-is shown by these heresies, and is astonishing in the ninth century. 
-His Neoplatonic outlook may perhaps have been common in 
-Ireland, as it was among the Greek Fathers of the fourth and fifth 
-centuries. It may be that, if we knew more about Irish Christianity 
-from the fifth to the ninth century, we should find him less surprising. On the other hand, it may be that most of what is heretical 
-in him is to be attributed to the influence of the pseudo-Dionysius, 
-who, because of his supposed connection with St. Paul, was 
-mistakenly believed to be orthodox. 
+The unorthodoxy of John the Scot is evident from the above
+summary. His pantheism, which refuses substantial reality to
+creatures, is contrary to Christian doctrine. His interpretation of
+the creation out of "nothing* is not such as any prudent theologian
+could accept. His Trinity, which closely resembles that of Plotinus,
+fails to preserve the equality of the Three Persons, although he tries
+to safeguard himself on this point. His independence of mind is shown
+by these heresies, and is astonishing in the ninth century.  His
+Neoplatonic outlook may perhaps have been common in Ireland, as it was
+among the Greek Fathers of the fourth and fifth centuries. It may be
+that, if we knew more about Irish Christianity from the fifth to the
+ninth century, we should find him less surprising. On the other hand,
+it may be that most of what is heretical in him is to be attributed to
+the influence of the pseudo-Dionysius, who, because of his supposed
+connection with St. Paul, was mistakenly believed to be orthodox.
 
-His view of creation as timeless is, of course, also heretical and 
-compels him to say that the account in Genesis is allegorical. 
-Paradise and the fall are not to be taken literally. Like all pantheists, 
-he has difficulties about sin. He holds that man was originally 
-without sin, and when hfe was without sin he was without distinction of sex. This, of course, contradicts the statement "male 
-and female created he them." According to John, it was only as 
-the result of sin that human beings were divided into male and 
+His view of creation as timeless is, of course, also heretical and
+compels him to say that the account in Genesis is allegorical.
+Paradise and the fall are not to be taken literally. Like all
+pantheists, he has difficulties about sin. He holds that man was
+originally without sin, and when hfe was without sin he was without
+distinction of sex. This, of course, contradicts the statement "male
+and female created he them." According to John, it was only as the
+result of sin that human beings were divided into male and
+female. Woman embodies man's sensuous and fallen nature. In the end,
+distinction of sex will again disappear, and we shall have a purely
+spiritual body.[^217] Sin consists in misdirected will, in falsely
+supposing something good which is not so. Its punishment is natural;
+it consists in discovering the vanity of sinful desires. But
+punishment is not eternal. Like Origen, John holds that even the
+devils will be saved at last, though later than other people.
 
-
-
-JOHN THB SCOT 
-
-female. Woman embodies man's sensuous and fallen nature. In 
-the end, distinction of sex will again disappear, and we shall have 
-a purely spiritual body. 1 Sin consists in misdirected will, in falsely 
-supposing something good which is not so. Its punishment is 
-natural; it consists in discovering the vanity of sinful desires. But 
-punishment is not eternal. Like Origen, John holds that even the 
-devils will be saved at last, though later than other people. 
+[^217]: Contrast St. Augustine.
 
 John's translation of the pseudo-Dionysius had a great influence 
 on medieval thought, but his magnum opus on the division of 
@@ -16733,96 +16657,87 @@ Nature had very little. It was repeatedly condemned as heretical,
 and at last, in 1225, Pope Honorius III ordered all copies of it 
 to be burnt. Fortunately this order was not efficiently carried out. 
 
-1 Contrast St. Augustine. 
-
-
-
-4*7 
-
-
-
 ## Chapter IX ECCLESIASTICAL REFORM IN THE ELEVENTH CENTURY 
 
-FOR the first time since the fall of the Western Empire, Europe, 
-during the eleventh century, made rapid progress not subsequently lost. There had been progress of a sort during the 
-Carolingian renaissance, but it proved to be not solid. In the 
-eleventh century, the improvement was lasting and many-sided. 
-It began with monastic reform; it then extended to the papacy 
-and Church government; towards the end of the century it produced the first scholastic philosophers. The Saracens were expelled 
-from Sicily by the Normans; the Hungarians, having become 
-Christians, ceased to be marauders; the conquests of the Normans 
-in France and England saved those countries from further Scandinavian incursions. Architecture, which had been barbaric except 
-where Byzantine influence prevailed, attained sudden sublimity. 
-The level of education rose enormously among the clergy, and 
-considerably in the lay aristocracy. 
+For the first time since the fall of the Western Empire, Europe,
+during the eleventh century, made rapid progress not subsequently
+lost. There had been progress of a sort during the Carolingian
+renaissance, but it proved to be not solid. In the eleventh century,
+the improvement was lasting and many-sided.  It began with monastic
+reform; it then extended to the papacy and Church government; towards
+the end of the century it produced the first scholastic
+philosophers. The Saracens were expelled from Sicily by the Normans;
+the Hungarians, having become Christians, ceased to be marauders; the
+conquests of the Normans in France and England saved those countries
+from further Scandinavian incursions. Architecture, which had been
+barbaric except where Byzantine influence prevailed, attained sudden
+sublimity.  The level of education rose enormously among the clergy,
+and considerably in the lay aristocracy.
 
-The reform movement, in its earlier stages, was, in the minds of 
-its promoters, actuated exclusively by moral motives. The clergy, 
-both regular and secular, had fallen into bad ways, and earnest 
-men set to work to make them live more in accordance with their 
-principles. But behind this purely moral motive there was another, 
-at first perhaps unconscious, but gradually becoming more and 
-more open. This motive was to complete the separation between 
-clergy and laity, and, in so doing, to increase the power of the 
-former. It was therefore natural that the victory of reform in the 
-Church should lead straight on to a violent conflict between 
-Emperor and Pope. 
+The reform movement, in its earlier stages, was, in the minds of its
+promoters, actuated exclusively by moral motives. The clergy, both
+regular and secular, had fallen into bad ways, and earnest men set to
+work to make them live more in accordance with their principles. But
+behind this purely moral motive there was another, at first perhaps
+unconscious, but gradually becoming more and more open. This motive
+was to complete the separation between clergy and laity, and, in so
+doing, to increase the power of the former. It was therefore natural
+that the victory of reform in the Church should lead straight on to a
+violent conflict between Emperor and Pope.
 
-Priests had formed a separate and powerful caste in Egypt, 
-Babylonia, and Persia, but not in Greece or Rome. In the primitive 
-Christian Church, the distinction between clergy and laity arose 
-gradually; when we read of "bishops" in the New Testament, the 
-word does not mean what it has come to mean to us. The separation of the clergy from the rest of the population had two aspects, 
-one doctrinal, the other political; the political aspect depended 
-upon the doctrinal. The clergy possessed certain miraculous 
+Priests had formed a separate and powerful caste in Egypt, Babylonia,
+and Persia, but not in Greece or Rome. In the primitive Christian
+Church, the distinction between clergy and laity arose gradually; when
+we read of "bishops" in the New Testament, the word does not mean what
+it has come to mean to us. The separation of the clergy from the rest
+of the population had two aspects, one doctrinal, the other political;
+the political aspect depended upon the doctrinal. The clergy possessed
+certain miraculous powers, especially in connection with the
+sacraments except baptism, which could be performed by laymen. Without
+the help of the clergy, marriage, absolution, and extreme unction were
+impossible. Even more important, in the Middle Ages, was
+transubstantiation: only a priest could perform the miracle of the
+mass. It was not until the eleventh century, in 1079, that the
+doctrine of transubstantiation became an article of faith, though it
+had been generally believed for a long time.
 
-4*8 
+Owing to their miraculous powers, priests could determine whether a
+man should spend eternity in heaven or in hell. If he died while
+excommunicate, he went to hell; if he died after a priest had
+performed all the proper ceremonies, he would ultimately go to heaven
+provided he had duly repented and confessed. Before going to heaven,
+however, he would have to spend some time perhaps a very long time
+suffering the pains of purgatory.  Priests could shorten this time by
+saying masses for his soul, which they were willing to do for a
+suitable money payment.
 
+All this, it must be understood, was genuinely and firmly believed
+both by priests and by laity; it was not merely a creed officially
+professed. Over and over again, die miraculous powers of the clergy
+gave them the victory over powerful princes at the head of their
+armies. This power, however, was limited in two ways: by reckless
+outbreaks of passion on the part of furious laymen, and by divisions
+among the clergy. The inhabitants of Rome, until the time of Gregory
+MI, showed little respect for the person of the Pope. They would
+kidnap him, imprison him, poison him, or fight against him, whenever
+their turbulent factional strife tempted them to such action. How is
+this compatible with their beliefs? Partly, no doubt, the explanation
+lies in mere lack of selfcontrol; partly, however, in the thought that
+one could repent on one's deathbed. Another reason, which operated
+less in Rome than elsewhere, was that kings could bend to their will
+the bishops in their kingdoms, and thus secure enough priestly magic
+to save themselves from damnation. Church discipline and a unified
+ecclesiastical government were therefore essential to the power of the
+clergy. These ends were secured during the eleventh century, as part
+and parcel of a moral reformation of the clergy.
 
+The power of die clergy as a whole could only be secured by very
+considerable sacrifices on the part of individual ecclesiastics.  The
+two great evils against which all clerical reformers directed their
+energies were simony and concubinage. Something must be said about
+each of these.
 
-ECCLESIASTICAL REFORM IN THE ELEVENTH CENTURY 
-
-powers, especially in connection with the sacraments except 
-baptism, which could be performed by laymen. Without the help 
-of the clergy, marriage, absolution, and extreme unction were 
-impossible. Even more important, in the Middle Ages, was transubstantiation: only a priest could perform the miracle of the 
-mass. It was not until the eleventh century, in 1079, that the 
-doctrine of transubstantiation became an article of faith, though 
-it had been generally believed for a long time. 
-
-Owing to their miraculous powers, priests could determine 
-whether a man should spend eternity in heaven or in hell. If he 
-died while excommunicate, he went to hell; if he died after a priest 
-had performed all the proper ceremonies, he would ultimately go 
-to heaven provided he had duly repented and confessed. Before 
-going to heaven, however, he would have to spend some time 
-perhaps a very long time suffering the pains of purgatory. 
-Priests could shorten this time by saying masses for his soul, 
-which they were willing to do for a suitable money payment. 
-
-All this, it must be understood, was genuinely and firmly believed both by priests and by laity; it was not merely a creed 
-officially professed. Over and over again, die miraculous powers 
-of the clergy gave them the victory over powerful princes at the 
-head of their armies. This power, however, was limited in two 
-ways: by reckless outbreaks of passion on the part of furious laymen, and by divisions among the clergy. The inhabitants of Rome, 
-until the time of Gregory MI, showed little respect for the person 
-of the Pope. They would kidnap him, imprison him, poison him, 
-or fight against him, whenever their turbulent factional strife 
-tempted them to such action. How is this compatible with their 
-beliefs? Partly, no doubt, the explanation lies in mere lack of selfcontrol; partly, however, in the thought that one could repent on 
-one's deathbed. Another reason, which operated less in Rome than 
-elsewhere, was that kings could bend to their will the bishops in 
-their kingdoms, and thus secure enough priestly magic to save 
-themselves from damnation. Church discipline and a unified 
-ecclesiastical government were therefore essential to the power 
-of the clergy. These ends were secured during the eleventh century, 
-as part and parcel of a moral reformation of the clergy. 
-
-The power of die clergy as a whole could only be secured by 
-very considerable sacrifices on the part of individual ecclesiastics. 
-The two great evils against which all clerical reformers directed 
-their energies were simony and concubinage. Something must be 
-said about each of these. 
+[stopped here](https://archive.org/details/westernphilosoph035502mbp/page/n429)
 
 Owing to the benefactions of the pious, the Church had become 
 rich. Many bishops had huge estates, and even parish priests had, 
