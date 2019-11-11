@@ -121,3 +121,6 @@ Categorical imperative; Kant
 "We are too weak to discover the truth by reason alone"; St Augustine
 "The mind is furnished with ideas by experience alone"; Locke
 Dialog with Socrates and the slave boy; Meno
+Euthyphro dilemma; Is a thing good because the gods love it, or do the gods love a thing because it's good.
+Is a thing good because the gods love it, or do the gods love a thing because it's good; Euthyphro dilemma
+Definition of "moral intellectualism"; no one does evil knowingly
